@@ -11,7 +11,12 @@ prof
 tsconfig.tsbuildinfo
 .obsidian
 .quartz-cache
-private/
+# Keep local data private except the published lesson archives.
+/private/*
+!/private/transcripts/
+/private/transcripts/*
+!/private/transcripts/ericdejes/
+!/private/transcripts/somoselcuerpodelmesias/
 data/transcripts/
 .firecrawl/
 .env

@@ -1,13 +1,16 @@
 # YouTube transcript archive
 
-The Eric de Jesús Rodríguez Mendoza archive keeps its inventory and provider
-status in the repository. Full transcript text stays in ignored local storage
-until its redistribution rights are clarified.
+The Eric de Jesús Rodríguez Mendoza and Somos El Cuerpo del Mesías archives
+include full Markdown transcripts in the repository, alongside video inventories
+and provider status. The transcript directories retain their existing paths for
+compatibility with the ingestion and search tools.
 
 ## Repository layout
 
 - `data/inventories/ericdejes.json`: 893-video inventory.
-- `private/transcripts/ericdejes/`: full Markdown transcripts, intentionally not committed.
+- `data/inventories/somoselcuerpodelmesias.json`: Somos video inventory.
+- `private/transcripts/ericdejes/`: published Eric transcripts and archive metadata.
+- `private/transcripts/somoselcuerpodelmesias/`: published Somos transcripts.
 - `data/status/`: append-only provider results and failures.
 - `scripts/supadata_transcripts.py`: Supadata native-caption provider.
 - `scripts/channel_archive.py`: yt-dlp/YouTube fallback provider.
@@ -98,3 +101,11 @@ npm run sources:db:search -- "cordero"
 The database at `private/sources/index.sqlite3` is disposable and ignored by
 Git. Its default source directory is `private/transcripts/`, so it indexes the
 whole channel archive rather than an empty `private/sources/` folder.
+
+## Download to another checkout
+
+Run `git pull --ff-only` on `main` in the Mac checkout to download the transcripts
+to the same paths. The initial published archive contains 920 Eric transcripts,
+182 Somos transcripts, and two Eric JSON metadata files (65.4 MB total,
+uncompressed). Other local files under `private/` remain ignored unless already
+tracked.
