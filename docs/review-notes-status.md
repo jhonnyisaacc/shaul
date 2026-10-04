@@ -8,7 +8,7 @@ teacher credits, existing source assignments, and pending verification items.
 
 ## Deployment prevention
 
-Before the first push, the authenticated Vercel project API confirmed that
+Before branch creation, the authenticated Vercel project API confirmed that
 `shaul` is connected to `jhonnyisaacc/shaul`, uses the repository root, tracks
 `main` for production, and has no deploy hooks. No deployment workflow exists
 in the current repository tree. GitHub still lists a historical
@@ -83,3 +83,30 @@ evidence. Existing unchecked rabbinic, historical, and lexical claims remain
 pending until their exact source is verified. The TTH library covers only part
 of the Besorah; use available Delitzsch passages with an explicit corpus label
 when TTH is missing. The full per-note gap inventory is pending review.
+
+## Execution correction
+
+The first signing attempt failed because the sandbox could not access the Git
+signing service. A subsequent command incorrectly pushed the branch at unchanged
+`main` before the prevention commit existed. The signed prevention commit
+`a4fa7da6` was then pushed immediately. The first post-push Vercel API inspection
+still showed only the six baseline deployments and none for this branch. This
+error means the setting cannot be described as preceding the first push. Further
+batch verification remains required.
+
+## Batch 1 — introduction and Yojanan 1
+
+Reviewed and revised `juan_introduccion.md`, `juan_iehudim_y_logos.md`, and
+`juan_1_judios_luz_y_cosmos.md` against their archived public lessons. Added
+three traceability maps with public timestamp routes, developed the short
+Yojanan 1 study without treating an interpretive claim as settled grammar,
+removed an unrelated Greek stem from the logos row, repaired a broken link,
+and distinguished OE Psalm 22:2 from the corresponding TTH Psalm 22:1.
+Source IDs and teacher credits are unchanged. All three notes pass transcript
+quality and YouTube hygiene; frontmatter and global verse conventions pass.
+19 Yojanan notes still need maps. Full substantive review: 3/81 notes.
+
+The initial prevention commit's push and draft-PR CI runs both passed. Repeated
+Vercel API checks after branch creation, the prevention commit, and PR creation
+showed the same six baseline deployments and zero for this branch. GitHub has
+no deployment record or Vercel commit status for the prevention commit.

@@ -33,6 +33,14 @@ Esta introducción propone leer Yojanan como un escrito transmitido en griego, p
 - Cuando el expositor hace reconstrucciones históricas o rabínicas amplias, aquí se conservan como líneas de trabajo y no como conclusiones cerradas.
 - La idea guía es distinguir entre idioma, traducción e interpretación.
 
+## Mapa de la enseñanza de Eric
+
+| Unidad textual | Observación de la clase | Tratamiento en esta nota |
+| --- | --- | --- |
+| Marco del evangelio; [09:19](https://www.youtube.com/watch?v=FrxD1V5awcM&t=559s) | Eric distingue el idioma de transmisión de las categorías con que se interpreta. | Se conserva como clave hermenéutica; autoría, fecha y reconstrucción del trasfondo requieren fuentes históricas propias. |
+| #juan_1_38; #juan_1_41; [29:29](https://www.youtube.com/watch?v=FrxD1V5awcM&t=1769s) | El evangelio conserva términos semíticos y los explica al lector, como rabí y Mesías. | La hoja local muestra los términos; el alcance cultural de cada glosa se distingue de una equivalencia léxica total. |
+| #juan_12_13; #tehilim_118_25 | La clase vincula el clamor Hoshana con la súplica bíblica. | Se compara el clamor con el texto local; los detalles de liturgia del Templo siguen pendientes de cotejo. |
+
 ## Contexto general
 
 - La atribución tradicional se mantiene en Yojanan, hijo de Zebedeo.

@@ -18,6 +18,7 @@ references:
   - "#lucas_1_68"
   - "#lucas_1_74"
   - "#tehilim_22_2"
+  - "#tehilim_22_1"
   - "#efesios_2_1"
   - "#efesios_2_8"
 sources:
@@ -37,6 +38,14 @@ La clase sostiene que Yojanan 1 debe leerse con contexto histórico y lingüíst
 - Se preservan las tesis centrales del expositor sin asumirlas automáticamente como conclusión filológica final.
 - Las afirmaciones cosmológicas o científicas usadas como analogía se mantienen como analogías pedagógicas.
 
+## Mapa de la enseñanza de Eric
+
+| Unidad textual | Observación de la clase | Tratamiento en esta nota |
+| --- | --- | --- |
+| Marco de yehudim; [00:00](https://www.youtube.com/watch?v=oWBXDeXiqUI) | Eric repasa cinco matices del nombre «judío». | Se conserva el esquema como propuesta histórica de la clase, cuya periodización requiere cotejo adicional. |
+| #juan_1_9-11; [43:18](https://www.youtube.com/watch?v=oWBXDeXiqUI&t=2598s) | La luz entra al cosmos que existe por ella, pero ese cosmos no la conoce. | El contraste se comprueba en la hoja local; las ilustraciones científicas permanecen como analogías pedagógicas. |
+| #juan_1_12-13; [57:20](https://www.youtube.com/watch?v=oWBXDeXiqUI&t=3440s) | La exposición une recibir, afirmarse en el Nombre y ser generados de Elohim. | Se desarrolla la secuencia textual; la lectura causal del Nombre y la exclusión de toda iniciativa humana se distinguen de la formulación literal y siguen sujetas a revisión gramatical. |
+
 ## Cinco matices de "judío" que propone la clase
 
 - Descendiente de Yehudáh (matiz genealógico).
@@ -51,6 +60,12 @@ La clase sostiene que Yojanan 1 debe leerse con contexto histórico y lingüíst
 - Por eso, varias ocurrencias de "judíos" en Yojanan deben probarse por contexto antes de convertirlas en etiqueta étnica total.
 - El argumento central del tramo trabajado es: la luz entra al cosmos que ella misma hizo, pero el cosmos no la reconoce (#juan_1_10).
 
+## Recibir la luz y ser engendrados de Elohim
+
+La secuencia de #juan_1_9-13 permite seguir el argumento sin borrar sus contrastes. Primero aparece la luz verdadera y después el cosmos que no la conoce. La clase observa que el rechazo no agota el relato: el pasaje también habla de quienes la reciben. El lector debe conservar ambas afirmaciones, sin convertir «el cosmos no lo conoció» en una negación de la recepción que el verso siguiente menciona.
+
+En #juan_1_12, recibir y afirmarse en su Nombre describen a quienes reciben la facultad de ser hijos de Elohim. En #juan_1_13, el origen de ese engendramiento se atribuye a Elohim, frente a sangre, deseo de la carne y voluntad del hombre. Eric desarrolla desde allí una lectura sobre la iniciativa divina. La nota recoge esa interpretación, pero no hace que el texto local resuelva por sí solo todas las discusiones sobre libertad humana. La sintaxis griega, la relación entre ambos versos y el alcance del Nombre necesitan su propio cotejo; el vínculo con Efesios funciona como comparación temática.
+
 ## Hoja de comparación
 
 | Referencia | Hebreo (sin nikud) | TTH (ES) | Uso en la clase |
@@ -63,7 +78,7 @@ La clase sostiene que Yojanan 1 debe leerse con contexto histórico y lingüíst
 | #lucas_1_68 | ברוך יהוה אלהי ישראל כי פקד אתעמו וישלח לו פדות | Bendito es יהוה, Elohim de Israel, porque visitó e hizo redención a su pueblo | Conecta "a lo suyo vino" con promesas juradas a Avraham. |
 | #efesios_2_1 | גםאתכם אשר מתים הייתם בפשעיכם וחטאתיכם | TTH no disponible en corpus local | Apoyo al eje: muerte previa y vida recibida. |
 | #efesios_2_8 | כיבחסד נושעתם עלידי האמונה ולא מידכם היתה זאת כימתת אלהים היא | TTH no disponible en corpus local | Salvación por gracia, no por obra humana. |
-| #tehilim_22_2 | אלי אלי למה עזבתני רחוק מישועתי דברי שאגתי | Elohim mío, llamo de día y no respondes; y de noche, pero no hay para mí quietud. | La clase propone revisar traducción y función de cita en el madero. |
+| #tehilim_22_2 (OE); #tehilim_22_1 (TTH) | אלי אלי למה עזבתני רחוק מישועתי דברי שאגתי | ¡Elí, Elí!, ¿por qué me abandonarías? Lejano estarías de mi salvación, de las palabras de mi gemido. | La misma línea tiene distinta numeración en OE y TTH; la interpretación de la cita en el madero requiere cotejo propio. |
 
 ## Hoja léxica
 
@@ -81,7 +96,7 @@ La clase sostiene que Yojanan 1 debe leerse con contexto histórico y lingüíst
 - En Él está la vida; esa vida es la luz de los hombres.
 - La luz entra al cosmos caído, pero el cosmos no la reconoce.
 - Aun así, la misión no fracasa: los que reciben son generados de Elohim.
-- El Nombre de Yeshua queda presentado como causa eficaz de recepción, fidelidad y nuevo nacimiento.
+- La clase presenta el Nombre de Yehoshua como causa eficaz de recepción, fidelidad y nuevo nacimiento; el alcance gramatical de esa propuesta queda pendiente.
 
 ## Observaciones de método
 
@@ -108,7 +123,7 @@ La clase sostiene que Yojanan 1 debe leerse con contexto histórico y lingüíst
 ## Ver también
 
 - [Introducción al evangelio de Yojanan](./juan_introduccion)
-- [Yojanan: yehudim, procedencia y logos](./juan_yehudim_y_logos)
+- [Yojanan: yehudim, procedencia y logos](./juan_iehudim_y_logos)
 - [Yojanan 1: meymrá, vida y tabernáculo](./juan_1)
 
 ## Créditos

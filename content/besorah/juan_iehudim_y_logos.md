@@ -36,6 +36,14 @@ Esta nota resume un transcript que propone dos claves de lectura para Yojanan. L
 - Cuando la exposición entra en gramática griega, filosofía estoica, Filón o reconstrucciones semíticas, la nota conserva esas líneas como hipótesis de trabajo pendientes de verificación especializada.
 - Se mantiene la distinción entre lo que el texto bíblico dice y la interpretación que el expositor construye sobre ese texto.
 
+## Mapa de la enseñanza de Eric
+
+| Unidad textual | Observación de la clase | Tratamiento en esta nota |
+| --- | --- | --- |
+| #juan_1_19; [03:23](https://www.youtube.com/watch?v=1MoxwBR4bg4&t=203s) | Eric relaciona la pregunta por identidad con el problema de la procedencia del Mesías. | La ubicación de los enviados se comprueba en el texto; la ampliación de «quién» a «de dónde» se conserva como inferencia narrativa. |
+| #juan_1_47; #juan_4_9; #ester_8_17 | La exposición distingue las capas genealógica, territorial y de adhesión de yehudim. | Los ejemplos se comparan por contexto; no se convierte el esquema histórico en una definición idéntica para todos los pasajes. |
+| #juan_1_1-3; [52:29](https://www.youtube.com/watch?v=1MoxwBR4bg4&t=3149s) | La clase propone que el prólogo polemiza con lecturas filosóficas del logos. | Se conserva la propuesta atribuida a Eric; la relación con Filón, el estoicismo y el valor de *pros* siguen pendientes de fuentes especializadas. |
+
 ## Hoja de comparación: **(יהודים)** y marco geográfico
 
 | Referencia | Hebreo (sin nikud) | TTH (ES) | Uso en el transcript |
@@ -78,7 +86,7 @@ Esta nota resume un transcript que propone dos claves de lectura para Yojanan. L
 | --- | --- | --- | --- | --- |
 | **(יהודים)** | yehudim | Habitantes de Judea, adherentes, dirigencia de Yerushaláim | יהודה | El sentido depende del contexto; no equivalencia fija con "toda la nación". |
 | **(ישראלי)** | yisraeli | Hijo de Israel, identidad confesional amplia | ישראל | Se contrasta pedagógicamente con yehudim en #juan_1_47. |
-| **(λόγος)** | logos | Palabra, expresión, razón | πιστ- / λογ- | No asumir equivalencia total con logos estoico ni con Filón sin cotejo. |
+| **(λόγος)** | logos | Palabra, expresión, razón | λογ- | No asumir equivalencia total con logos estoico ni con Filón sin cotejo. |
 | **(מימרא)** | meymra | Palabra/Expresión de Elohim en arameo targúmico | מימר | Reconstrucción semítica del trasfondo; marcar como hipótesis de lectura. |
 | **(דבר)** | davar | Palabra, asunto, cosa | דבר | Paralelo hebreo útil para el prólogo; no equivalencia gramatical exacta con logos. |
 
