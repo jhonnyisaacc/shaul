@@ -19,6 +19,7 @@ references:
   - "#yejezkel_9_4"
   - "#yejezkel_9_6"
 sources:
+  - "docs/notes_16_05_2026.md"
   - "docs/scriptures/tth/json/sodot.json"
   - "docs/scriptures/delitzsch/json/revelation.json"
   - "docs/scriptures/tth/json/ieshaiahu.json"
@@ -29,9 +30,11 @@ translation: "[TTH, Delitzsch]"
 
 # Tesis
 
-Sodot 7 presenta los cuatro vientos y los cuatro confines como lenguaje profético sobre la tierra de Israel y el remanente sellado que יהוה preserva en medio del juicio.
+Los apuntes leen los cuatro vientos y los cuatro confines de Sodot 7 como lenguaje profético sobre la tierra de Israel y el remanente sellado que יהוה preserva en medio del juicio.
 
 ## Alcance de la nota
+
+Esta nota reorganiza los apuntes de `docs/notes_16_05_2026.md`, sección «Sodot 7». El documento no identifica una clase o video concreto para este bloque. Las asociaciones simbólicas y las aplicaciones se conservan como lectura de los apuntes, no como definiciones léxicas ni hechos históricos comprobados.
 
 - Apunte sobre Sodot 7:1-4 y sus resonancias en el Tanaj; no desarrolla todo el capítulo.
 - La lectura de tierra, mar y árboles como lenguaje no literal sobre personas y estructuras es interpretación de la nota.
@@ -101,14 +104,20 @@ Y el ángel me contestó: «Estos son los cuatro vientos **(רוחות)** del ci
 ## Los sellados y la marca
 
 - La nota conecta #apocalipsis_7_3 con #yejezkel_9_4-6: el remanente es marcado antes de que avance el juicio.
-- La tav se entiende como marca o señal, no como una cruz.
-- Tierra, mar y árboles no se toman aquí de manera literal, sino como lenguaje sobre personas, pueblos y estructuras humanas.
+- תָּו (tav) se lee como marca o señal; asociarla automáticamente con una cruz exige un argumento gráfico e histórico adicional.
+- Los apuntes aplican tierra, mar y árboles a personas, pueblos y estructuras humanas; el pasaje no establece por sí solo esas equivalencias.
 
 ## Remanente y tribus
 
 - El refreno de los vientos muestra que a los imperios no se les permite destruir del todo al remanente de Israel.
 - La fidelidad de יהוה a su palabra juramentada sostiene a ese remanente.
 - La ausencia de Dan en la lista no se lee como desecho definitivo, porque la nota la contrasta con la herencia de Dan en Ezequiel.
+
+La lista de #apocalipsis_7_5-8 omite Dan, pero no declara que esté desechado. #yejezkel_48_1 sí le asigna una porción:
+
+| Referencia | Hebreo local | Alcance |
+| --- | --- | --- |
+| #yejezkel_48_1 | ואלה שמות השבטים מקצה צפונה אל יד דרך חתלן לבוא חמת חצר עינן גבול דמשק צפונה אל יד חמת והיו לו פאת קדים הים דן אחד | OE; ancla textual para la conexión. |
 
 ## Sobre los 144000
 
@@ -132,13 +141,13 @@ Y el ángel me contestó: «Estos son los cuatro vientos **(רוחות)** del ci
 
 ## Pendiente de verificar
 
-- [ ] Herencia de Dan en Ezequiel frente a su ausencia en la lista de Sodot 7.
+- [ ] Investigar el sentido de la omisión de Dan; su porción en #yejezkel_48_1 ya está cotejada localmente.
 - [ ] Medida del altar y relación numérica con 144000.
 - [ ] Alcance de #yejezkel_7_2: ¿toda la tierra o solo admat Israel?
 
 ## Ver también
 
-- [Sodot 1](./apocalipsis_1.md) — apertura del libro y día de יהוה.
+- [Sodot 1](./apocalipsis_1_revelacion_mensaje_testimonio_y_esperanza.md) — apertura del libro y día de יהוה.
 - [Bamidbar 13](../tanaj/bamidbar_13.md) — cuatro esquinas de la tierra de Kenaan.
 - [Romanim 11](./romanos_11.md) — remanente de Israel.
 - [Yeshayahu 65](../tanaj/yeshayahu_65.md) — simiente preservada.

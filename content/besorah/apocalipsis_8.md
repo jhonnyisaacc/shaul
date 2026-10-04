@@ -12,12 +12,17 @@ references:
   - "#tehilim_28_1"
   - "#yejezkel_5_1"
   - "#mateo_3_10"
-sources: []
+sources:
+  - "docs/notes_16_05_2026.md"
 ---
 
 # Tesis
 
 Sodot 8 presenta el séptimo sello como una nueva apertura narrativa donde el silencio y las tefilot de los kedoshim anteceden juicios simbólicos sobre Israel y las naciones.
+
+## Alcance de la nota
+
+Esta nota reorganiza los apuntes de `docs/notes_16_05_2026.md`, sección «Sodot 8». El documento no identifica una clase o video concreto para este bloque. Las asociaciones simbólicas y las aplicaciones se conservan como lectura de los apuntes, no como definiciones léxicas ni hechos históricos comprobados.
 
 ## Texto base
 
@@ -35,7 +40,7 @@ Sodot 8 presenta el séptimo sello como una nueva apertura narrativa donde el si
 
 ## Observaciones
 
-- La media hora se entiende como período breve y no como medición literal.
+- Los apuntes interpretan la media hora como período breve; el alcance simbólico de la medida necesita argumentación.
 - El silencio se relaciona con #tehilim_28_1: cuando יהוה guarda silencio, el hombre queda como los que descienden al Sheol.
 - Las tefilot de los kedoshim aparecen como antecedente del juicio.
 - La tercera parte se interpreta con ayuda de #yejezkel_5_1-12 como lenguaje simbólico sobre porciones de Israel.
@@ -43,4 +48,5 @@ Sodot 8 presenta el séptimo sello como una nueva apertura narrativa donde el si
 
 ## Pendiente de verificar
 
-- [ ] Decidir si conviene separar en otra nota las preguntas abiertas sobre la tercera parte y la luna de noche.
+- [ ] Cotejar #yejezkel_5_1-12 y las correspondencias propuestas para árboles, mar, barcos y aguas; la visión no ofrece un glosario único.
+- [ ] Revisar el alcance de la tercera parte y de la oscuridad antes de cerrar una lectura numérica.

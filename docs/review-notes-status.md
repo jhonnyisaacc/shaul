@@ -218,3 +218,14 @@ disciple Greek forms in the final chapter-19 study and repaired chapter-18 links
 All registered lesson IDs and credits remain. Full review: 49/81 notes; the 32
 Revelation notes remain. Batch 7's two editorial CI runs passed, and the Vercel
 API still returned six baseline deployments and none for the review branch.
+
+## Batch 9 — Revelation introduction and chapters 1–9
+
+Reviewed twelve notes: the raw introduction, eight transcript studies (chapters
+1–4 and 6–9), and raw chapters 7–9. Added raw-note provenance without inventing
+video assignments, supplied available Delitzsch/OE anchors, qualified numerical
+and lexical applications, corrected three Greek identifications, and repaired
+renamed study links. Dan's portion in Ezekiel 48:1 is now quoted separately from
+the still-open question of its omission in Revelation 7. Full review: 61/81.
+Batch 8's two editorial CI runs passed; Vercel still showed six baseline
+deployments and none for the review branch.
