@@ -34,6 +34,14 @@ Yojanán 6 no convierte el signo de los panes en una promesa de consumo religios
 
 La primera clase recorre 6:1-34; la segunda retoma el discurso en 6:39-50, y la tercera desarrolla 6:57-71. Eric observa repetidamente que el Evangelio usa lenguaje judío y que las equivalencias españolas pueden ocultar matices. Esa observación orienta la hoja léxica, pero no autoriza adjudicar a cada palabra griega una forma semítica original no demostrada. La lectura principal se apoya en TTH y Delitzsch locales.
 
+## Mapa de la enseñanza de Eric
+
+| Unidad textual | Observación de la clase | Tratamiento en esta nota |
+| --- | --- | --- |
+| #juan_6_1-34; `youtube:j4i_FKNQ_Ms` | Eric vincula el marco de Pésaj, los panes, el mar y la búsqueda de la multitud con las señales de Yehoshua. | Se sigue el orden narrativo; una multitud mayor y las doce tribus son estimación y posible simbolismo, no cifras o explicaciones explícitas del capítulo. |
+| #juan_6_39-50; `youtube:3mikRgwy-xw` | La clase lee Abba como fuente de la promesa y relaciona ser atraído con oír a los profetas. | Se comprueba el lenguaje de envío y vida; «fuente de la promesa» se conserva como interpretación y no como significado léxico exacto de abba. |
+| #juan_6_57-71; `youtube:LS6rFiW377M` | La última clase une el sustento exclusivo, las palabras que dan vida y la respuesta de Kefa ante el retiro de otros discípulos. | La nota llega al cierre del capítulo, incluido Yehudáh; comer, beber y Rúaj se explican con correspondencias de traducción cualificadas. |
+
 ## Hoja de comparación
 
 | Referencia | Texto local | Función en la lectura |

@@ -123,3 +123,19 @@ and YouTube hygiene. Full substantive review: 6/81 notes; 16 maps remain.
 Batch 1: both GitHub editorial CI runs passed; the Vercel API still returned the
 six baseline deployments and none for the branch. No Vercel commit status was
 created for `f07be9ab`.
+
+## Batch 3 — Yojanan 6–7
+
+Reviewed the three chapter-6 studies and the chapter-7 study. Added four
+passage-specific maps, distinguished literal lexical glosses from the teacher's
+applications of Abba, preserved qualifications for symbolic and historical
+connections, normalized prose names, and supplied the available TTH text at
+Isaiah 54:12 alongside OE 54:13. Psalm 89's maritime image is now explicitly
+labeled OE 89:10 / TTH 89:9. All four studies pass transcript quality and
+YouTube hygiene; global verse conventions remain clean. Full substantive review:
+10/81 notes; 12 maps remain.
+
+The local TTH Luke JSON contains repeated chapter numbers (1–21). For this review,
+lookups use the first chapter occurrence, as the repository's lookup helper does;
+do not overwrite an earlier passage in an in-memory index. No licensed corpus
+file was changed. Corpus integrity is a separate source limitation.

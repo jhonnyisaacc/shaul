@@ -37,6 +37,15 @@ Yojanán 7 avanza en el orden de una controversia durante Sucot: Yehoshua sube a
 
 La nota organiza las dos clases que recorren Yojanán 7. Eric presta atención a **(Ἰουδαῖοι)**, _Ioudaioi_, a Sucot, a la discusión sobre circuncisión y Shabat, a la controversia sobre el origen del Mesías, al agua de Shiloaj y a la respuesta de Nicodemo. Se conserva su razonamiento como exposición atribuida, pero se distingue de las afirmaciones que el pasaje formula directamente. La transcripción automática permite seguir esos argumentos, no verificar por sí sola reconstrucciones lingüísticas, geografía histórica, prácticas del templo, targumim ni consecuencias halájicas contemporáneas.
 
+## Mapa de la enseñanza de Eric
+
+| Unidad textual | Observación de la clase | Tratamiento en esta nota |
+| --- | --- | --- |
+| #juan_7_1-18; `youtube:PKCkYj1jp2s`; `youtube:PtD_Z0BuH34` | Eric presta atención a Sucot, al marco de los yehudim y a la procedencia de la enseñanza. | Se compara la escena local y se evita convertir «judeanos» en equivalencia automática del término griego. |
+| #juan_7_19-36 | La clase une circuncisión en Shabat, sanidad integral y juicio justo, y luego distingue las voces populares del envío que declara Yehoshua. | Qal va-jomer describe pedagógicamente la inferencia; el capítulo no formula todos los detalles de una jurisdicción halájica. |
+| #juan_7_37-39; [42:04](https://www.youtube.com/watch?v=PtD_Z0BuH34&t=2524s) | La exposición conecta el agua viva con la ceremonia de Shiloaj durante Sucot. | La explicación del Rúaj está en 7:39; la ceremonia y la etimología de Shiloaj requieren fuentes históricas propias. |
+| #juan_7_40-52 | Eric destaca la división, la pregunta de Nicodemo y la objeción acerca de Galil. | Se conserva el deber de oír antes de juzgar; la comparación con Gat-hefer no se amplía a una conclusión geográfica sin cotejo. |
+
 ## Hoja de comparación
 
 | Referencia           | Texto local                                                                                                                                                                                                 | Función en la lectura                                                                                               |

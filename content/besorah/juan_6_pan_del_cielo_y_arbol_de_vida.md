@@ -29,6 +29,7 @@ references:
   - "#juan_6_55"
   - "#juan_6_56"
   - "#yeshayahu_54_13"
+  - "#yeshayahu_54_12"
   - "#bereshit_3_22"
   - "#bereshit_3_24"
   - "#yejezkel_36_26"
@@ -66,7 +67,7 @@ source_ids:
 
 # Tesis
 
-Yojanan 6:40-56 presenta al Mesías como el pan vivo que descendió de los cielos, pero la clase insiste en que esa frase no debe aislarse del Tanaj. El que lo envía es la propia palabra, promesa y juramento de Aba: lo que יהוה había revelado desde antiguo se corporiza en Yeshúa, se ofrece como korban y da vida olam a los que son traídos por esa promesa.
+Yojanan 6:40-56 presenta al Mesías como el pan vivo que descendió de los cielos, pero la clase insiste en que esa frase no debe aislarse del Tanaj. El que lo envía es la propia palabra, promesa y juramento de Aba: lo que יהוה había revelado desde antiguo se corporiza en Yehoshua, se ofrece como korban y da vida olam a los que son traídos por esa promesa.
 
 ## Alcance de la nota
 
@@ -74,6 +75,14 @@ Yojanan 6:40-56 presenta al Mesías como el pan vivo que descendió de los cielo
 - La transcripción contiene errores de reconocimiento; por eso la nota sintetiza y normaliza, sin tratar las frases como citas literales.
 - Las afirmaciones lingüísticas sobre griego, hebreo, arameo, literatura judía y modelos fariseos se conservan como líneas de estudio, con pendientes de verificación donde corresponde.
 - Esta nota continúa la línea de [Yojanan 6: señales, maná y pan de vida](./juan_6_pan_vida_senales) y [Yojanan 5: el Hijo, juicio y vida](./juan_5_hijo_juicio_vida).
+
+## Mapa de la enseñanza de Eric
+
+| Unidad textual | Observación de la clase | Tratamiento en esta nota |
+| --- | --- | --- |
+| #juan_6_40-45 | Eric interpreta el envío y la atracción desde la promesa de Aba y el ser enseñados por יהוה. | El discurso se coteja con las hojas locales; abba significa padre, mientras «fuente de la promesa» explica la lectura teológica de la clase. |
+| #juan_6_46-50; #bereshit_3_22-24 | El pan del cielo se aproxima al árbol de vida que sale a buscar al hombre excluido. | Se conserva como analogía mesiánica atribuida; Yojanan 6 no nombra literalmente ese árbol. |
+| #juan_6_51-56 | La exposición relaciona carne, sangre y permanencia con recibir la enseñanza del korban. | Se mantiene el lenguaje corporal del pasaje; sal, incorruptibilidad y la asamblea edificada del costado son conexiones interpretativas que requieren su propio desarrollo. |
 
 ## Hoja de comparación
 
@@ -89,7 +98,7 @@ Yojanan 6:40-56 presenta al Mesías como el pan vivo que descendió de los cielo
 | #juan_6_51 | אנכי לחם חיים הירד מןהשמים אדם כייאכל מלחם הזה וחי לעולם והלחם אשר אני נתן בשרי הוא אשר אתננו בעד חיי העולם | Yo soy el pan vivo que descendió de los cielos; si un hombre come de este pan, vivirá para siempre; y el pan que Yo daré es mi carne, la que Yo daré por la vida del olam. | El pan vivo se identifica con la carne que será entregada por la vida del olam. |
 | #juan_6_53 | ויאמר אליהם ישוע אמן אמן אני אמר לכם אםלא תאכלו מבשר בןהאדם ומדמו לא תשתו לא יהיו לכם חיים בעצמותיכם | Si no comen la carne del Ben Ha'Adam, y si no beben de su sangre, no tendrán en ustedes mismos la vida. | Comer y beber se leen como aceptar la doctrina del korban y la necesidad de su muerte. |
 | #juan_6_56 | האכל אתבשרי והשתה אתדמי הוא ישכןבי ואני בו | El que come mi carne y bebe mi sangre estará en Mí, y Yo estaré en él. | La participación en su carne y sangre produce permanencia mutua. |
-| #yeshayahu_54_13 | וכל בניך למודי יהוה ורב שלום בניך | — (TTH local numera la frase como #yeshayahu_54_12) | Todo el que realmente oye y aprende de Aba viene al Mesías. |
+| #yeshayahu_54_13 (OE); #yeshayahu_54_12 (TTH) | וכל בניך למודי יהוה ורב שלום בניך | Y todos tus hijos serán enseñados por יהוה, | Todo el que realmente oye y aprende de Aba viene al Mesías. |
 | #mateo_22_9 | לכן לכונא לראשי הדרכים וכלאיש אשר תמצאו קראו אלהחתנה | Y ahora, salgan a los caminos, y a todos los que encuentren llamen a la boda. | La fiesta se llena por mandato del rey, no por iniciativa previa de los invitados. |
 | #mateo_22_10 | ויצאו העבדים ההם אלהדרכים ויאספו אתכל אשר מצאו גםרעים גםטובים וימלא ביתהחתנה מסבים | Y salieron sus siervos a los caminos y reunieron a todos los que encontraron, buenos y malos; y se llenó la boda de los comensales. | La promesa trae a quienes no estaban naturalmente buscando la boda. |
 | #yejezkel_36_26 | ונתתי לכם לב חדש ורוח חדשה אתן בקרבכם והסרתי את לב האבן מבשרכם ונתתי לכם לב בשר | Y les daré un corazón nuevo y un ánimo nuevo daré en medio de ustedes; y quitaré el corazón de piedra de su carne y les daré un corazón de carne. | El cambio de corazón es obra de יהוה. |
@@ -133,7 +142,7 @@ Esto explica por qué la Torah no queda abolida por la primera venida. El Mesía
 
 ## Descender del cielo como semilla
 
-Cuando Yeshúa dice que descendió de los cielos, la clase no lo lee como un hombre deificado ni como una criatura fabricada a distancia. Lo presenta como disminución de la deidad: יהוה se reduce a la mínima expresión de vida, como una semilla que contiene toda la información necesaria para germinar.
+Cuando Yehoshua dice que descendió de los cielos, la clase no lo lee como un hombre deificado ni como una criatura fabricada a distancia. Lo presenta como disminución de la deidad: יהוה se reduce a la mínima expresión de vida, como una semilla que contiene toda la información necesaria para germinar.
 
 La comparación con la semilla rechaza la idea de una inseminación artificial divina. La semilla no necesita que se le inyecte información desde fuera; la contiene en sí misma. Así, el Mesías manifiesta en la tierra la información completa de la promesa, primero como semilla, luego como fruto, y finalmente como vida compartida con las ramas injertadas.
 
@@ -157,7 +166,7 @@ La misma línea se apoya en #efesios_2_8, citado desde Delitzsch local: כי ב�
 
 ## El pan del cielo y la murmuración
 
-Los yehudim murmuran porque Yeshúa dice: "Yo soy el pan que descendió de los cielos." La objeción visible es familiar: conocen a Yosef y a la madre de Yeshúa, y por eso tropiezan con la afirmación de descenso celestial.
+Los yehudim murmuran porque Yehoshua dice: "Yo soy el pan que descendió de los cielos." La objeción visible es familiar: conocen a Yosef y a la madre de Yehoshua, y por eso tropiezan con la afirmación de descenso celestial.
 
 La clase interpreta que el tropiezo era más profundo: hablar del pan de los cielos tocaba atributos de la deidad. No era solo una metáfora de comida; era afirmar que el sustento de vida, prometido desde arriba, estaba presente en él.
 
@@ -165,13 +174,13 @@ También se compara la multiplicación de panes con el man en el desierto. Los p
 
 ## Yeshayahu 54 y ser enseñados por יהוה
 
-Yeshúa cita a los profetas: "Y todos tus hijos serán enseñados por יהוה." La referencia común es #yeshayahu_54_13; en el corpus TTH local, la frase aparece numerada como #yeshayahu_54_12 (véase la hoja de comparación). La conexión de la clase es directa: si los hijos son instruidos por יהוה, entonces todo el que realmente oye y aprende de Aba viene al Mesías. No hay una escucha verdadera de los profetas que termine rechazando a Yeshúa, porque el mismo que habló por los profetas está presente en él.
+Yehoshua cita a los profetas: "Y todos tus hijos serán enseñados por יהוה." La referencia común es #yeshayahu_54_13; en el corpus TTH local, la frase aparece numerada como #yeshayahu_54_12 (véase la hoja de comparación). La conexión de la clase es directa: si los hijos son instruidos por יהוה, entonces todo el que realmente oye y aprende de Aba viene al Mesías. No hay una escucha verdadera de los profetas que termine rechazando a Yehoshua, porque el mismo que habló por los profetas está presente en él.
 
 ## Nadie puede venir si Aba no lo trae
 
 #juan_6_44 se coloca junto a la parábola del rico y Lázaro. En #lucas_16_29, Abraham responde: "Ellos tienen a Moshéh y los profetas, a ellos escuchen." La clase explica que ni la advertencia del juicio ni la promesa suave bastan para doblegar al hombre por sí mismas. Si la humanidad no responde ni al juicio ni a la promesa, יהוה se reserva el derecho de traer a los suyos.
 
-La clase dedica un excursus al modelo fariseo del más allá, comparándolo con categorías griegas como tártaro, hades y campos elíseos. Según la exposición, Yeshúa trastoca ese sistema en la parábola: el rico termina en tormento y Lázaro, figura de miseria y rechazo, es llevado al seno de Abraham. Esta sección queda como **Pendiente de verificar** en cuanto a detalles históricos, pero su función en el argumento es clara: la seguridad carnal, étnica o religiosa no puede sustituir la acción soberana de Aba.
+La clase dedica un excursus al modelo fariseo del más allá, comparándolo con categorías griegas como tártaro, hades y campos elíseos. Según la exposición, Yehoshua trastoca ese sistema en la parábola: el rico termina en tormento y Lázaro, figura de miseria y rechazo, es llevado al seno de Abraham. Esta sección queda como **Pendiente de verificar** en cuanto a detalles históricos, pero su función en el argumento es clara: la seguridad carnal, étnica o religiosa no puede sustituir la acción soberana de Aba.
 
 ## Árbol de vida y pan de vida
 
@@ -181,7 +190,7 @@ El pan de vida, entonces, puede leerse como el árbol de vida descendido: el sus
 
 ## Carne, sangre y korban
 
-La parte final de la clase se concentra en #juan_6_51-56. El pan que Yeshúa dará es su carne, entregada por la vida del olam. Comer su carne y beber su sangre no se reduce a una imagen caníbal ni a un rito sin doctrina; significa aceptar la enseñanza del korban: que el Mesías tenía que morir y que su muerte es el medio de vida.
+La parte final de la clase se concentra en #juan_6_51-56. El pan que Yehoshua dará es su carne, entregada por la vida del olam. Comer su carne y beber su sangre no se reduce a una imagen caníbal ni a un rito sin doctrina; significa aceptar la enseñanza del korban: que el Mesías tenía que morir y que su muerte es el medio de vida.
 
 La clase conecta "carne" con sacrificio y pacto. La berit se corporiza en el korban: al comer del sacrificio, se participa de la promesa representada por esa carne. Por eso la carne del Mesías no puede entenderse como carne corruptible común. Si su carne fuera corruptible como la de Adán, estaría dando muerte; pero él da vida.
 
@@ -193,7 +202,7 @@ El precio del rescate se vincula con #1_pedro_1_18-19 (véase la hoja de compara
 
 La clase subraya que el tropiezo no es solo que יהוה se manifestara en carne. El tropiezo mayor es que esa manifestación tuviera que morir. La pregunta "¿cómo puede darnos su carne a comer?" puede oírse en dos niveles: unos pudieron imaginar algo absurdo; otros pudieron entender que hablaba de ofrecerse como korban y tropezar con la necesidad de su muerte.
 
-Por eso #juan_6_53 se resume así: si no se recibe por revelación que יהוה estuvo aquí en el Mesías y vino a entregar su vida por la humanidad, no hay vida en uno mismo. El dueño de la creación también vino como rescatador de su creación.
+Por eso la clase interpreta #juan_6_53 así: si no se recibe por revelación que יהוה estuvo aquí en el Mesías y vino a entregar su vida por la humanidad, no hay vida en uno mismo. El dueño de la creación también vino como rescatador de su creación.
 
 La clase relaciona este punto con la imagen de Adam: del costado abierto de Adam fue edificada la mujer; del costado abierto del Mesías, por su muerte, es edificada la asamblea. Esta conexión queda como línea de estudio para ampliar en una nota separada.
 
@@ -201,7 +210,7 @@ La clase relaciona este punto con la imagen de Adam: del costado abierto de Adam
 
 | Término | Transliteración | Sentido en la nota | Raíz o base | Observación |
 | --- | --- | --- | --- | --- |
-| **(אבא)** | Aba | Fuente de la promesa, origen de lo enviado | Arameo | No se reduce a anciano celeste separado; es la promesa y juramento de יהוה que envía al Mesías. |
+| **(אבא)** | Aba | Padre; la clase lo aplica a la fuente de la promesa | Arameo | «Padre» es la glosa léxica; «promesa y juramento que envían» es interpretación teológica, no equivalencia exacta. |
 | **(לחם)** | lejem | Pan, sustento | Hebreo | Pan del cielo, pan vivo, pan de vida: metáfora que toca atributos de la deidad. |
 | **(מן)** | man | Maná, provisión del desierto | Hebreo | Los padres comieron man y murieron; el Mesías es pan diferente que da vida olam. |
 | **(עץ החיים)** | etz ha-jayim | Árbol de vida | Hebreo | Excluido en Bereshit; la inversión mesiánica hace que el árbol salga a buscar lo perdido. |
