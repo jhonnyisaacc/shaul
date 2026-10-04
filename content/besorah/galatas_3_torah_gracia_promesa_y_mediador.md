@@ -26,6 +26,8 @@ references:
   - "#yejezkel_36_27"
   - "#tehilim_105_7"
 sources:
+  - "https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/Gal.txt"
+  - "https://github.com/morphgnt/sblgnt/blob/master/69-Ga-morphgnt.txt"
   - "https://www.youtube.com/watch?v=wvW-2nLnKj8"
   - "docs/scriptures/delitzsch/json/galatians.json"
 source_ids:
@@ -35,7 +37,7 @@ translation: "[Delitzsch]"
 
 # Tesis
 
-Gálatas 3:13-22 no pone la Torah en competencia con la promesa: distingue sus funciones y afirma que la herencia descansa en el juramento dado a Abraham, mientras la Torah fue dada para tratar con las transgresiones hasta la venida de la simiente. La clase de Eric de Jesús Rodríguez Mendoza desarrolla esta diferencia mediante tres imágenes: el Mesías carga el desprecio asociado con la transgresión, la promesa precede a la Torah y la obediencia debe ser fruto de una vida rescatada, no un salario que compra salvación. La nota conserva esos énfasis como enseñanza atribuible, usa el texto local para comprobar la secuencia y deja pendientes las afirmaciones gramaticales o etimológicas que requieren cotejo adicional.
+Gálatas 3:13-22 no pone la Torah en competencia con la promesa: distingue sus funciones y afirma que la herencia descansa en la promesa dada a Abraham, que la clase conecta con el juramento, mientras la Torah fue dada para tratar con las transgresiones hasta la venida de la simiente. La clase de Eric de Jesús Rodríguez Mendoza desarrolla esta diferencia mediante tres imágenes: el Mesías carga el desprecio asociado con la transgresión, la promesa precede a la Torah y la obediencia debe ser fruto de una vida rescatada, no un salario que compra salvación. La nota conserva esos énfasis como enseñanza atribuible, usa el texto local para comprobar la secuencia y deja pendientes las afirmaciones gramaticales o etimológicas que requieren cotejo adicional.
 
 ## Alcance de la nota
 
@@ -45,16 +47,20 @@ Esta nota organiza la clase pública «CARTA A LOS GÁLATAS | La TORAH dada por 
 
 | Referencia | Texto local de Delitzsch | Función en el estudio |
 | --- | --- | --- |
-| #galatas_3_13-14 | **הַמָּשִׁיחַ פָּדָנוּ מִקִּלְלַת הַתּוֹרָה בִּהְיוֹתוֹ לִקְלָלָה בַּעֲדֵנוּ ... לְמַעַן אֲשֶׁר תָּבֹא בִּרְכַּת אַבְרָהָם בַּמָּשִׁיחַ יֵשׁוּעַ עַל־הַגּוֹיִם** | La redención tiene un propósito explícito: bendición de Abraham para las naciones y promesa del Ruaj. |
-| #galatas_3_15-18 | **אֲפִלּוּ צַוָּאָה שֶׁל־בֶּן־אָדָם ... לְאַבְרָהָם נֶאֶמְרוּ הַהַבְטָחוֹת ... בְּרִית ... אַחֲרֵי אַרְבַּע מֵאוֹת וּשְׁלשִׁים שָׁנָה ... וְהָאֱלׂהִים חָנַן אֶת־אַבְרָהָם עַל־יְדֵי הַבְטָחָה** | Una alianza ratificada no se invalida; la Torah posterior no cancela la promesa ni la herencia. |
-| #galatas_3_19-20 | **אִם־כֵּן־הַתּוֹרָה מַה־הִיא מִפְּנֵי הַפְּשָׁעִים נוֹסָפָה ... עֲרוּכָה עַל־יְדֵי הַמַּלְאָכִים וּבְיַד מְתַוֵּךְ** | La Torah se relaciona con las transgresiones y la mediación; el texto exige no borrar la pregunta sobre su función. |
-| #galatas_3_21-22 | **וְעַתָּה הַמְבַטֶּלֶת הַתּוֹרָה אֶת־הַבְטָחוֹת הָאֱלׂהִים חָלִילָה ... הַכָּתוּב הִסְגִּיר אֶת־הַכּׂל בְּיַד הַחֵטְא** | Shaul niega que la Torah anule las promesas y explica que la Escritura encierra todo bajo pecado para que la promesa se dé por la emunah. |
+| #galatas_3_13-14 | Delitzsch: המשיח פדנו מקללת התורה בהיותו לקללה בעדנו ככתוב קללת אלהים תלוי למען אשר תבא ברכת אברהם במשיח ישוע עלהגוים למען אשר נקח אתהבטחת הרוח עלידי האמונה | La redención tiene un propósito explícito: bendición de Abraham para las naciones y promesa del Ruaj. |
+| #galatas_3_15-18 | Delitzsch: אחי כדרךאדם אני מדבר אפלו צואה שלבןאדם אםמקימת היא לא יפרנה איש ולאיוסיף עליה והנה לאברהם נאמרו ההבטחות ולזרעו ולאאמר ולזרעיך כאלו לרבים אלא כאלו ליחיד ולזרעך והוא המשיח וזאת אני אמר כי ברית אשר קימה האלהים מאז לא תוכל התורה הבאה אחרי ארבע מאות ושלשים שנה להפר אותה ולבטל אתההבטחה כי אםהנחלה מתוך התורה היא איננה עוד מתוך ההבטחה והאלהים חנן אתאברהם עלידי הבטחה | Una alianza ratificada no se invalida; la Torah posterior no cancela la promesa ni la herencia. |
+| #galatas_3_19-20 | Delitzsch: אםכןהתורה מההיא מפני הפשעים נוספה עד כייבוא הזרע אשרלו ההבטחה והיא ערוכה עלידי המלאכים וביד מתוך ואין מתויך לאחד אבל האלהים הוא אחד | La Torah se relaciona con las transgresiones y la mediación; el texto exige no borrar la pregunta sobre su función. |
+| #galatas_3_21-22 | Delitzsch: ועתה המבטלת התורה אתהבטחות האלהים חלילה כי אלו נתנה תורה שבכחה להחיות אז באמת היתה הצדקה עלידי התורה אבל הכתוב הסגיר אתהכל ביד החטא למען תנתן ההבטחה אלהמאמינים באמונת ישוע המשיח | Shaul niega que la Torah anule las promesas y explica que la Escritura encierra todo bajo pecado para que la promesa se dé por la emunah. |
+| #devarim_21_23 | OE: לא תלין נבלתו על העץ כי קבור תקברנו ביום ההוא כי קללת אלהים תלוי ולא תטמא את אדמתך אשר יהוה אלהיך נתן לך נחלה | Fuente de la cita del colgado. |
+| #bereshit_13_15 | OE: כי את כל הארץ אשר אתה ראה לך אתננה ולזרעך עד עולם | Tierra y simiente en la promesa. |
+| #yejezkel_36_27 | OE: ואת רוחי אתן בקרבכם ועשיתי את אשר בחקי תלכו ומשפטי תשמרו ועשיתם | Ruaj y obediencia: conexión de la clase. |
+| #tehilim_105_9 | OE: אשר כרת את אברהם ושבועתו לישחק | El juramento a Isaac enlaza la síntesis sobre el pacto. |
 
 ## El Mesías redime para abrir la promesa: 3:13-14 #galatas_3_13-14
 
 Eric comienza explicando que muchas traducciones hablan de «la maldición de la ley» y que la clase prefiere hablar de desprecio o deshonra de la Torah. El punto atribuible es que el Mesías no convierte la Torah en algo malo; carga la consecuencia de la transgresión y es expuesto en el madero. La clase usa la imagen de un sensor: la Torah ilumina el pecado y deja al descubierto la infracción, pero la limpieza y la reconciliación no proceden del mérito de quien fue detectado.
 
-El texto local conserva **מִקִּלְלַת הַתּוֹרָה**, «de la maldición de la Torah», y **לִקְלָלָה**, «para maldición», mientras cita que el colgado es «maldición de Elohim». Por tanto, «desprecio» puede registrarse como interpretación de la exposición, pero no debe sustituir silenciosamente la forma del corpus. Gálatas 3:14 fija el propósito: que la bendición de Abraham llegue a las naciones en el Mesías y que recibamos la promesa del Ruaj por la emunah. Esta finalidad gobierna la lectura; la explicación ontológica de cómo el Mesías «se disminuyó» permanece como inferencia doctrinal de la clase.
+El texto local conserva **מקללת התורה**, «de la maldición de la Torah», y **לקללה**, «para maldición», mientras cita que el colgado es «maldición de Elohim». Por tanto, «desprecio» puede registrarse como interpretación de la exposición, pero no debe sustituir silenciosamente la forma del corpus. Gálatas 3:14 fija el propósito: que la bendición de Abraham llegue a las naciones en el Mesías y que recibamos la promesa del Ruaj por la emunah. Esta finalidad gobierna la lectura; la explicación ontológica de cómo el Mesías «se disminuyó» permanece como inferencia doctrinal de la clase.
 
 ## La promesa ratificada precede a la Torah: 3:15-18 #galatas_3_15-18
 
@@ -68,7 +74,11 @@ Cuando Shaul pregunta «¿para qué la Torah?», el texto responde que fue añad
 
 La clase también desarrolla «mediador»: un mediador no es de uno solo, y Elohim es uno. Eric concluye que el Mesías es el mediador perfecto entre Elohim y los hombres porque la exposición lo presenta unido a la realidad divina y humana. Gálatas 3:19-20 sí contiene la palabra de mediación y la afirmación «Elohim es uno»; la identificación exhaustiva de las partes y la formulación ontológica completa deben mantenerse como interpretación atribuida, no como definición aislada del sustantivo.
 
-El versículo 21 protege contra dos errores: la Torah no anula las promesas, y tampoco se dice que una Torah capaz de vivificar haría innecesaria la justicia. El versículo 22 concluye que la Escritura encerró todo bajo pecado para que la promesa se diera a los creyentes por la emunah de Yehoshua el Mesías. La secuencia, por tanto, no es «promesa contra Torah», sino promesa que funda la herencia y Torah que cumple una función dentro del drama del pecado hasta la manifestación de la simiente.
+El versículo 21 protege contra dos errores: la Torah no anula las promesas, y la frase condicional sobre una ley capaz de vivificar debe conservar su carácter hipotético. El versículo 22 concluye que la Escritura encerró todo bajo pecado para que la promesa se diera a los creyentes por la emunah de Yehoshua el Mesías. La secuencia, por tanto, no es «promesa contra Torah», sino promesa que funda la herencia y Torah que cumple una función dentro del drama del pecado hasta la manifestación de la simiente.
+
+En 00:33:47–00:35:49, Eric fundamenta «dada por gracia» en la derivación de **χάριν** respecto de **χάρις**. La forma de 3:19 existe, pero su construcción con el genitivo de «transgresiones» tiene función preposicional: «por causa de las transgresiones». MorphGNT la clasifica como preposición, mientras los usos de gracia/favor en 1:3 y 2:21 se clasifican como sustantivo **χάρις**. Por eso la relación entre formas no convierte esta frase en «añadida por gracia». Que la Torah sea un don de Elohim puede sostenerse como tesis canónica de la clase; debe distinguirse de la traducción de esta construcción. El verbo **προσετέθη**, fue añadida, sigue explícito.
+
+La afirmación de 3:21 es condicional: si se hubiera dado una ley capaz de vivificar, la justicia realmente procedería de la ley. No afirma que se haya dado esa ley vivificadora; el argumento desemboca en la promesa otorgada a los que creen (3:22). La figura de 3:19–20 pertenece a la entrega de la Torah y el pasaje no la llama expresamente Yehoshua. La comparación de Eric con el mediador mesiánico se conserva como lectura teológica, sin convertir el sustantivo aislado en una identificación completa.
 
 ## Aplicación: obediencia como fruto, no salario
 
@@ -86,6 +96,7 @@ La nota conserva asimismo la advertencia contra confundir confesión verbal, voc
 | **(διαθήκη)** / **(ברית)** | _diathēkē_ / _berit_ | pacto, disposición; alianza | Acuerdo ratificado que no se invalida | Aproximada y contextual, no equivalencia etimológica. |
 | **(μεσίτης)** / **(מתווך)** | _mesitēs_ / _metavekh_ | mediador, intermediario | Figura asociada a la entrega de la Torah | Glosa ordinaria directa; su teología completa queda cualificada. |
 | **(πνεῦμα)** / **(רוח)** | _pneuma_ / _ruaj_ | espíritu, aliento, viento | Promesa recibida por las naciones | Aproximada entre lenguas; el contexto determina la fuerza. |
+| **(χάριν)** frente a **(χάρις)** | _charin_ / _charis_ | por causa de; gracia/favor | En 3:19, χάριν enlaza la Torah con las transgresiones | La derivación no reemplaza su función preposicional por «por gracia». |
 
 ## Mapa de la enseñanza de Eric
 
@@ -101,10 +112,10 @@ La nota conserva asimismo la advertencia contra confundir confesión verbal, voc
 
 - [ ] Cotejar Gálatas 3:13 con Devarim 21:23 en hebreo y griego antes de presentar «desprecio» como traducción principal.
 - [ ] Revisar el campo semántico de **קללה**, **חרפה** y **בוז**; la clase aproxima varias ideas que no deben fusionarse sin léxico.
-- [ ] Examinar la sintaxis de Gálatas 3:19, especialmente la relación de «por causa/para las transgresiones» y la palabra griega correspondiente.
+- [x] Cotejar Gálatas 3:19 en SBLGNT/MorphGNT: χάριν funciona como preposición con el genitivo «transgresiones», y προσετέθη dice «fue añadida». La glosa «por gracia» no sustituye esa construcción.
 - [ ] Verificar la cronología de los cuatrocientos treinta años en Gálatas 3:17 junto con Shemot y Hechos 7.
 - [ ] Precisar el alcance de **μεσίτης** en Gálatas 3:19-20 y no usarlo solo para resolver debates completos sobre la naturaleza del Mesías.
-- [ ] Cotejar Tehilim 105:7-11 y Yehezqel 36:27 en el corpus local antes de publicar una comparación más amplia.
+- [x] Cotejar los anclajes de Tehilim 105:8-11 y Yejezkel 36:27 en OE; se incluyen como conexiones y no como traducción de Gálatas.
 
 ## Conclusión
 

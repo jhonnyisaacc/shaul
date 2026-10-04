@@ -26,6 +26,8 @@ references:
   - "#bereshit_12_3"
   - "#devarim_27_26"
 sources:
+  - "https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/Gal.txt"
+  - "https://hb.openscriptures.org/parsing/HebrewMorphologyCodes.html"
   - "https://www.youtube.com/watch?v=b-ZqoEl_9fA"
   - "docs/scriptures/delitzsch/json/galatians.json"
 source_ids:
@@ -45,10 +47,15 @@ La nota organiza la clase pública «CARTA A LOS GÁLATAS | La ESCUCHA de la EMU
 
 | Referencia | Texto local de Delitzsch | Función en el estudio |
 | --- | --- | --- |
-| #galatas_3_1-3 | **אההּ גָּלָטִים חַסְרֵי דָעַת מִי הִתְעָה אֶתְכֶם בִּכְשָׁפָיו ... הַחִלּוֹתֶם בָּרוּחַ וְעַתָּה תְּכַלּוּ בַבָּשָׂר** | La carta confronta el desvío y la pretensión de terminar por la carne lo que comenzó en el Ruaj. |
-| #galatas_3_5-6 | **הִנֵּה הַמֵּפִיק לָכֶם אֶת־הָרוּחַ וּפׂעֵל בָּכֶם גְּבוּרוֹת ... כַּאֲשֶׁר הֶאֱמִין אַבְרָהָם בֵּאלׂהִים וַתֵּחָשֵׁב לוֹ לִצְדָקָה** | El don y las obras poderosas se atribuyen a Elohim; Abraham introduce la justificación por emunah. |
-| #galatas_3_7-9 | **דְּעוּ אֵפוֹא כִּי־בְנֵי הָאֱמוּנָה בְּנֵי אַבְרָהָם הֵמָּה ... יִתְבָּרֲכוּ בְּנֵי הָאֱמוּנָה עִם־אַבְרָהָם הַמַּאֲמִין** | La pertenencia a Abraham se describe en relación con la emunah, y la promesa incluye a las naciones. |
-| #galatas_3_10-12 | **כִּי בְנֵי מַעֲשֵׂי הַתּוֹרָה עֲלֵיהֶם הַקְּלָלָה ... צַדִּיק בֶּאֱמוּנָתוֹ יִחְיֶה ... אֲשֶׁר־יַעֲשֶׂה אׂתָם הָאָדָם וָחַי בָּהֶם** | Shaul contrasta la base meritoria con la vida por emunah y mantiene la realidad de hacer la Torah. |
+| #galatas_3_1-3 | Delitzsch: אהה גלטים חסרי דעת מי התעה אתכם בכשפיו (לבלתי שמע אלהאמת) אחרי אשר ציר ישוע המשיח הצלוב לנגד עיניכם רק זאת אחפץ ללמד מכם האם ממעשי התורה קבלתם אתהרוח או משמועת האמונה הסכלים אתם כלכך החלותם ברוח ועתה תכלו בבשר | La carta confronta el desvío y la pretensión de terminar por la carne lo que comenzó en el Ruaj. |
+| #galatas_3_5-6 | Delitzsch: הנה המפיק לכם אתהרוח ופעל בכם גבורות המכח מעשי התורה הוא עשה אלה או מכח שמועת האמונה כאשר האמין אברהם באלהים ותחשב לו לצדקה | El don y las obras poderosas se atribuyen a Elohim; Abraham introduce la justificación por emunah. |
+| #galatas_3_7-9 | Delitzsch: דעו אפוא כיבני האמונה בני אברהם המה והכתוב צפה שעתיד האלהים להצדיק אתהגוים מתוך האמונה וקדם לבשר אתאברהם לאמר ונברכו בך כלהגוים עלכן יתברכו בני האמונה עםאברהם המאמין | La pertenencia a Abraham se describe en relación con la emunah, y la promesa incluye a las naciones. |
+| #galatas_3_10-12 | Delitzsch: כי בני מעשי התורה עליהם הקללה כי כתוב ארור אשר לאיקים אתכלהדברים הכתובים בספר התורה לעשות אותם וגלוי וידוע שבתורה לאיצדק האדם לפני האלהים כיצדיק באמונתו יחיה והתורה לא מןהאמונה היא כי אםאשריעשה אתם האדם וחי בהם | Shaul contrasta la base meritoria con la vida por emunah y mantiene la realidad de hacer la Torah. |
+| #bereshit_15_6 | OE: והאמן ביהוה ויחשבה לו צדקה | El verbo de confiar está en hifil activo. |
+| #bereshit_12_3 | OE: ואברכה מברכיך ומקללך אאר ונברכו בך כל משפחת האדמה | Bendición a las familias de la tierra; injerto es la aplicación de la clase. |
+| #devarim_27_26 | OE: ארור אשר לא יקים את דברי התורה הזאת לעשות אותם ואמר כל העם אמן | La sentencia menciona mantener y hacer las palabras de la Torah. |
+| #habakuk_2_4 | OE: הנה עפלה לא ישרה נפשו בו וצדיק באמונתו יחיה | La vida del justo en el contexto profético. |
+| #vayikra_18_5 | OE: ושמרתם את חקתי ואת משפטי אשר יעשה אתם האדם וחי בהם אני יהוה | Hacer y vivir: contexto de la cita en 3:12. |
 
 ## La pregunta que revela el fundamento: 3:1-5 #galatas_3_1-5
 
@@ -58,7 +65,7 @@ El expositor insiste en que la pregunta no autoriza dos extremos: ni una religi�
 
 ## Abraham y la bendición que alcanza a las naciones: 3:6-9 #galatas_3_6-9
 
-En 3:6 Shaul cita a Abraham y en 3:8 presenta la Escritura anunciando de antemano que las naciones serían justificadas por la emunah. Eric lee esta secuencia como una obra divina: Abraham no es presentado como alguien que acumuló méritos para obligar a Elohim, sino como receptor de la fidelidad. La clase extiende la observación a los oyentes: ser «hijo de Abraham» no se decide solo por linaje ni por una exhibición ritual, sino por recibir la emunah y vivir desde ella.
+En 3:6 Shaul cita a Abraham y en 3:8 presenta la Escritura anunciando de antemano que las naciones serían justificadas por la emunah. Eric lee esta secuencia como una obra divina: Abraham no es presentado como alguien que acumuló méritos para obligar a Elohim; Eric lo describe como receptor de la fidelidad. En 00:34:23–00:35:43, la clase sostiene además que el verbo hebreo sería pasivo y propone «fue afirmado». El cotejo distingue esa lectura teológica de la morfología: **והאמן** en Bereshit 15:6 está etiquetado `Vhp3ms` en OE (hifil perfecto, tercera persona masculina singular), no como voz pasiva. En Gálatas 3:6, **ἐπίστευσεν** es asimismo activo. La traducción «creyó/confió» conserva al sujeto Abraham; la iniciativa de Elohim no exige borrar su respuesta. La clase extiende la observación a los oyentes: ser «hijo de Abraham» no se decide solo por linaje ni por una exhibición ritual, sino por recibir la emunah y vivir desde ella.
 
 El texto permite afirmar que la bendición está vinculada con Abraham, la justificación de las naciones y la emunah; no permite convertir automáticamente «bendición» en una definición etimológica de adopción o injerto. La exposición describe la bendición como incorporación al pueblo y como recepción de vida; esa es una lectura teológica atribuible, no una glosa única de cada aparición hebrea de ברכה. La línea canónica, sin embargo, permanece firme: el evangelio anunciado a Abraham no es un añadido tardío, pues Gálatas 3 lo presenta como anticipación de la obra de Elohim entre las naciones.
 
@@ -73,7 +80,7 @@ Eric distingue entre una apariencia exterior y un corazón transformado. Guardar
 | Forma | Transliteración | Sentido normal | Fuerza en la nota | Relación |
 | --- | --- | --- | --- | --- |
 | **(πίστις)** / **(אמונה)** | _pistis_ / _emunah_ | confianza, fidelidad, firmeza | Base de la respuesta a la promesa y del vivir del justo | Aproximada entre lenguas; el debate sobre el genitivo no queda resuelto aquí. |
-| **(ἀκούω)** / **(שמע)** | _akouō_ / _shama_ | oír, escuchar | Escucha que recibe el anuncio y orienta la respuesta | Aproximada; «obediencia» es una aplicación contextual, no toda la definición. |
+| **(ἀκοή)** / **(שמע)** | _akoē_ / _shama_ | escucha, lo oído; oír | Escucha que recibe el anuncio y orienta la respuesta | El griego de 3:2,5 contiene el sustantivo ἀκοή, no el verbo ἀκούω. La correspondencia es aproximada; «obediencia» es una aplicación contextual. |
 | **(σάρξ)** / **(בשר)** | _sarx_ / _basar_ | carne, condición humana | Confianza en capacidad y mérito propios | Aproximada; no equivale simplemente a cuerpo físico. |
 | **(ἔργα νόμου)** | _erga nomou_ | obras de ley/Torah | Base meritoria que Shaul niega como justificación | No equivale automáticamente a toda obediencia. |
 | **(εὐλογέω)** / **(ברך)** | _eulogeō_ / _barakh_ | bendecir, hablar bien, conceder favor | Bendición prometida a las naciones en Abraham | El enlace con incorporación es pedagógico, no una equivalencia exhaustiva. |
@@ -85,12 +92,12 @@ Eric distingue entre una apariencia exterior y un corazón transformado. Guardar
 | #galatas_3_1-5 | Los gálatas comenzaron por el Ruaj y fueron tentados a terminar por la carne; la salvación no se obtiene por rituales o méritos. | Apoyo textual al contraste; la aplicación a prácticas actuales queda cualificada. |
 | #galatas_3_6-9 | Abraham recibió la emunah y la bendición alcanza a los gentiles; la pertenencia no descansa únicamente en sangre. | Apoyo textual; incorporación e injerto se conservan como lectura pedagógica. |
 | #galatas_3_10-12 | «Obras de la Torah» describe confianza en méritos; aun así, la Torah debe hacerse como fruto de la promesa. | Distinción contextual; no se presenta la Torah como abolida ni las obras como base salvadora. |
-| #bereshit_15_6 | La clase propone leer la forma hebrea como acción recibida de Elohim, no como mérito autónomo de Abraham. | Pendiente de cotejo gramatical completo; se conserva el énfasis en la iniciativa divina. |
+| #bereshit_15_6 | La clase propone leer la forma hebrea como acción recibida de Elohim, no como mérito autónomo de Abraham. | Cotejo gramatical completado: el hebreo hifil y el griego son activos. La recepción de fidelidad permanece como interpretación teológica, sin reemplazar «creyó». |
 | #devarim_27_26 | La exposición diferencia estar excluido por no mantener las palabras y aparentar obediencia. | Se conserva como contraste atribuido; la traducción de términos hebreos requiere verificación. |
 
 ## Pendiente de verificar
 
-- [ ] Cotejar la gramática hebrea de Bereshit 15:6 y su relación exacta con las formas griegas citadas por Shaul.
+- [x] Cotejar Bereshit 15:6 en OE y Gálatas 3:6 en SBLGNT: ambos verbos de confianza son activos; la lectura pasiva de la clase no se adopta como traducción textual.
 - [ ] Revisar el campo semántico de **שמע**, **אמונה**, **ברכה** y **ארור** sin convertir puentes homiléticos en equivalencias exactas.
 - [ ] Verificar la historia contextual sobre influencias fariseas y prácticas rabínicas; la clase la propone, pero esta nota no la establece como dato exhaustivo.
 - [ ] Comparar Gálatas 3:10-12 con Devarim 27:26, Vayiqra 18:5 y Habacuc 2:4 en sus contextos completos.

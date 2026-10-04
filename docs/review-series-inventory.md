@@ -19,7 +19,7 @@ Columns below count unique registered videos, videos represented in at least one
 | [Colosenses](https://www.youtube.com/playlist?list=PLUaH57jVX98OJBkyrLjrclWPXIBrH8bGe) | 18 | 18 | 4 | 0 |
 | [Efesios completo](https://www.youtube.com/playlist?list=PLUaH57jVX98OZKn_up-LkgVmpDs6p5nEi) | 35 | 35 | 6 | 0 |
 | [Fiestas](https://www.youtube.com/playlist?list=PLUaH57jVX98PRILytS5Qfdj2OdGXx9eS-) | 53 | 52 | 18 | 0 |
-| [Gálatas](https://www.youtube.com/playlist?list=PLUaH57jVX98O6OfT613LeFilXeQmyFOY2) | 13 | 13 | 6 | 2 |
+| [Gálatas](https://www.youtube.com/playlist?list=PLUaH57jVX98O6OfT613LeFilXeQmyFOY2) | 13 | 13 | 6 | 4 |
 | [Haftarot de bemidbar/Números](https://www.youtube.com/playlist?list=PLUaH57jVX98PZVYOTXBia51pnRX9ipyQ4) | 9 | 9 | 9 | 0 |
 | [Haftarot de Bre’shit/Génesis](https://www.youtube.com/playlist?list=PLUaH57jVX98NiMivByq4QWyWMoGhjxIme) | 12 | 12 | 12 | 0 |
 | [Haftarot de Dvarim/Deuteronomio](https://www.youtube.com/playlist?list=PLUaH57jVX98PEUi1U9AR8o7Fmv8J4nUoL) | 9 | 9 | 9 | 0 |
@@ -52,7 +52,7 @@ Columns below count unique registered videos, videos represented in at least one
 | Book or series | Videos | With notes | Notes | Reviewed |
 | --- | ---: | ---: | ---: | ---: |
 | [CARTA A LOS EFESIOS](https://www.youtube.com/playlist?list=PL8hWSx6FFBKO2GKV1vVjlvQZ4VjUXccKp) | 9 | 9 | 9 | 0 |
-| [CARTA A LOS GÁLATAS](https://www.youtube.com/playlist?list=PL8hWSx6FFBKPtT-5QYhTkypKHblYH87qL) | 11 | 11 | 11 | 4 |
+| [CARTA A LOS GÁLATAS](https://www.youtube.com/playlist?list=PL8hWSx6FFBKPtT-5QYhTkypKHblYH87qL) | 11 | 11 | 11 | 9 |
 | [CARTA A LOS ROMANOS](https://www.youtube.com/playlist?list=PL8hWSx6FFBKNOOXzi7D9iXNnQxYkOAx19) | 29 | 29 | 28 | 0 |
 | [DOCTRINAS DE HA'SATÁN](https://www.youtube.com/playlist?list=PL8hWSx6FFBKPeoF46MCdd5TOrZOYCtURl) | 4 | 4 | 3 | 0 |
 | [HABLEMOS ACERCA DE...](https://www.youtube.com/playlist?list=PL8hWSx6FFBKP4xSgZOTUde_EYV2vampzY) | 50 | 0 | 0 | 0 |
@@ -102,7 +102,7 @@ This view lists **primary filename groups** among channel-associated notes. It i
 | Yojanan / Juan | 47 | 47 |
 | Marcos | 20 | 20 |
 | Romanos | 42 | 0 |
-| Gálatas | 17 | 6 |
+| Gálatas | 17 | 13 |
 | Efesios | 15 | 0 |
 | Colosenses | 4 | 0 |
 | Hebreos | 13 | 13 |
@@ -114,7 +114,7 @@ This view lists **primary filename groups** among channel-associated notes. It i
 
 | Order | Group | Current state |
 | ---: | --- | --- |
-| 1 | Gálatas — both channels, all six chapters | 6/17 notes reviewed; [per-note coverage](review-galatas-coverage.md) |
+| 1 | Gálatas — both channels, all six chapters | 13/17 notes reviewed; [per-note coverage](review-galatas-coverage.md) |
 | 2 | Efesios — both channels | Pending |
 | 3 | Romanos — both channels | Pending |
 | 4 | Colosenses — Eric | Pending |
@@ -132,7 +132,7 @@ Already complete: [Yojanan/Revelation — 81 notes](review-notes-coverage.md) an
 
 ## Source and coverage gaps
 
-- 1392 unique registered videos across the two channels; 678 distinct existing notes match at least one registered ID. Completed source-matched notes: 103; still awaiting editorial review: 575.
+- 1392 unique registered videos across the two channels; 678 distinct existing notes match at least one registered ID. Completed source-matched notes: 110; still awaiting editorial review: 568.
 - 1113 registered videos are represented in existing notes; 279 lack notes. The latter are an ingestion backlog, not completed editorial work.
 - 24 represented registered videos lack locally archived captions. Availability alone does not establish that a transcript has been reviewed. Each editorial batch must attempt retrieval for its own missing captions and record the result.
 - These inventory snapshots have five source IDs used by notes but absent from both channel catalogs. Do not silently assign them to a channel:
