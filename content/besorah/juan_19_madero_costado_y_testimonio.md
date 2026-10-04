@@ -92,7 +92,7 @@ La primera mitad de Yojanán 19 muestra una paradoja controlada por el relato: s
 
 ## Ver también
 
-- [[juan_18_estudio_canonico_kidron_huerto_y_juicio|Yojanán 18: Kidrón, huerto, copa y juicio]]
+- [[juan_18_kidron_huerto_y_arresto|Yojanán 18: Kidrón, huerto, copa y juicio]]
 - [[juan_19_muerte_sepultura_y_testimonio|Yojanán 19: muerte, sepultura y testimonio]]
 
 ## Créditos

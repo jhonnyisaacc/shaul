@@ -90,7 +90,7 @@ La clase de Eric lee "Yo soy el camino, la verdad y la vida" como una sola reali
 
 | Término | Transliteración | Sentido en la nota | Raíz o base | Observación |
 | --- | --- | --- | --- | --- |
-| **(אבא)** | Abba | padre; fuente y promesa como aplicación de clase | אבא | No figura separada en competencia; ver [[../temas/elohim_aba|Elohim y Aba]]. |
+| **(אבא)** | Abba | padre; fuente y promesa como aplicación de clase | אבא | No figura separada en competencia; ver [[../temas/elohim_aba\|Elohim y Aba]]. |
 | **(מנחם)** | Menajem | consolador, restaurador, defensor | נחם | Delitzsch: מליץ; base en #tehilim_94_19 (תנחומיך). |
 | **(παράκλητος)** | parakletos | abogado, consolador, intercesor | παρακαλ- | Traducido Menajem en TTH de la nota. |
 | **(ἄλλος)** | allos | otro; la clase propone adicional | — | En #juan_14_16: no necesariamente "otro distinto" (`heteros`). |

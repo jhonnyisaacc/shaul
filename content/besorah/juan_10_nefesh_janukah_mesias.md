@@ -87,7 +87,7 @@ El hilo continúa con la reacción dividida de los yehudim, la memoria de la san
 | **(ψυχή)** | psuche | vida, nefesh en lectura semítica de la clase | ψυχ- | Equivalencia aproximada; marcar como pedagógica, no lexicografía cerrada. |
 | **(שאול)** | Sheol | sepultura, muerte, no Hades filosófico | שאל | #tehilim_16_10: no abandono al Sheol ≠ inframundo griego. |
 | **(שחת)** | shachat | corrupción, podredumbre del cuerpo | שחת | Segunda línea del paralelismo aclara la primera en el salmo. |
-| **(חנוכה)** | Janukah / enkainia | dedicación, reeducación en emunah | חנך | Fiesta histórica; ver [[../temas/janukah|Janukah]]. |
+| **(חנוכה)** | Janukah / enkainia | dedicación, reeducación en emunah | חנך | Fiesta histórica; ver [[../temas/janukah\|Janukah]]. |
 | **(παρρησία)** | parresia | franqueza, decir abiertamente | — | Petición de #juan_10_24: confesión pública mesiánica. |
 | **(אשם)** | asham | ofrenda de culpa | אשם | En #yeshayahu_53_10 la nefesh del siervo se pone como asham. |
 

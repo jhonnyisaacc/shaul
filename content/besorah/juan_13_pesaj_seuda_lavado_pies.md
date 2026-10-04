@@ -204,8 +204,8 @@ El lavado de pies cierra la primera parte de la clase como una señal densa. El 
 
 ## Ver también
 
-- [[juan_12_gloria_peso_palabra|Yojanán 12: la gloria como peso de la palabra]]
-- [[juan_12_bat_kol_nombre_juicio|Yojanán 12: Bat Kol, Nombre y juicio]]
+- [[juan_12_camino_hora_luz_palabra#Dossier integrado: Yojanán 12: la gloria como peso de la palabra|Yojanán 12: la gloria como peso de la palabra]]
+- [[juan_12_camino_hora_luz_palabra#Dossier integrado: Yojanán 12: bat kol, Nombre y juicio|Yojanán 12: Bat Kol, Nombre y juicio]]
 - [[juan_10_17_28_vida_indestructible|Yojanán 10: vida indestructible y mandamiento de Abba]]
 - [[juan_conceptos_deidad|Yojanán: conceptos de deidad]]
 - [[../temas/pesaj_faraon|Pesaj y Faraón]]

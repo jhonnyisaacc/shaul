@@ -107,7 +107,7 @@ El hilo central es que la Escritura no presentaba al Mesías solamente como un r
 
 | Término | Transliteración | Sentido en la nota | Raíz o base | Observación |
 | --- | --- | --- | --- | --- |
-| **(חנוכה)** | Janukah / enkainia | dedicación, reeducación, rehabilitación | חנך | Fiesta histórica post-Torah; memoria de preservación nacional (ver [[../temas/janukah|Janukah]]). |
+| **(חנוכה)** | Janukah / enkainia | dedicación, reeducación, rehabilitación | חנך | Fiesta histórica post-Torah; memoria de preservación nacional (ver [[../temas/janukah\|Janukah]]). |
 | **(παρρησία)** | parresia | franqueza, confianza al hablar en público | — | En #juan_10_24: "dínoslo con confianza"; no reducir a audacia humana. |
 | **(אמן)** | emun / aman | afirmarse, fidelidad educada por Escritura | אמן | "No se afirman" en #juan_10_25-26: falta de formación, no solo información. |
 | **(נשיא)** | nasi | príncipe, cargador, responsable del pueblo | נשא | En #yejezkel_37_25 la clase lee responsabilidad, no solo elite. |

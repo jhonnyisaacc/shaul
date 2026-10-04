@@ -110,7 +110,7 @@ Desde esa amplitud, Yehoshua responde con #tehilim_82_6: si la Escritura llamó 
 | **(מלאך)** | malaj | mensajero, enviado (humano o celestial) | לאך | No leer con imaginario de "ángel" alado; `malaj elohim` ≠ `malaj יהוה` automáticamente. |
 | **(ἄγγελος)** | angelos | mensajero en griego de Yojanán | ἀγγελ- | Equivalencia aproximada con `malaj`; no implica identidad con Yeshúa en cada aparición. |
 | **(גרש)** | garash | expulsar, arrojar fuera | גרש | En #bereshit_3_24 la clase explora matiz de repudio; pendiente de verificación léxica. |
-| **(בן)** | ben | Hijo de Elohim: portador, representante, ejecutor | בן | No solo filiación biológica; ver [[../temas/ben_hijo_titulos_mesias|Ben y títulos del Mesías]]. |
+| **(בן)** | ben | Hijo de Elohim: portador, representante, ejecutor | בן | No solo filiación biológica; ver [[../temas/ben_hijo_titulos_mesias\|Ben y títulos del Mesías]]. |
 | **(מצוה)** | mitzvah | competencia/capacidad recibida (en notas hermanas) | צוה | En #juan_10_18 el mandamiento de Abba se enlaza con dominio sobre la vida. |
 | **(אמן)** | emun / aman | afirmarse, mostrar fidelidad | אמן | Traducciones de "creer" en #juan_10_37-42: fidelidad ante las obras, no adhesión emocional. |
 

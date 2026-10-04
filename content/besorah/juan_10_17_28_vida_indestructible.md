@@ -90,7 +90,7 @@ El video insiste en que "este mandamiento recibí de mi Padre" no debe leerse co
 | --- | --- | --- | --- | --- |
 | **(מצוה)** | mitzvah | mandamiento; la clase lo explica como competencia | צוה | «Competencia/capacidad» es aplicación interpretativa de Eric; el alcance léxico queda pendiente de cotejo. |
 | **(נפש)** | nefesh | vida que se pone y se retoma | נפש | Vida biológica entregada; vida indestructible que vuelve a actuar. |
-| **(אבא)** | Abba | fuente de promesa, amor entrañable | אבא | Ver [[../temas/elohim_aba|Elohim y Aba]]. |
+| **(אבא)** | Abba | fuente de promesa, amor entrañable | אבא | Ver [[../temas/elohim_aba\|Elohim y Aba]]. |
 | **(חי)** | chai | vida sin interrupción | חיה | #hebreos_7_16: כח חיים שאין להם הפסק. |
 | **(אמן)** | emun | afirmarse, fidelidad ante obras y voz | אמן | #juan_10_26-28: ovejas que oyen y siguen. |
 | **(ביטול במציאות)** | bittul b'metziut | anulación de la propia existencia (jasídico) | — | Mención en clase sobre Abba/emet/maqor; pendiente de verificar. |

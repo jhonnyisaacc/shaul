@@ -205,3 +205,16 @@ metadata. Public lesson IDs and credits remain intact. The inventory's earlier
 book counts were misstated: the exact 81-file list contains 49 Yojanan and 32
 Revelation notes. Batches 5 and 6 passed both CI runs; Vercel still shows only the
 six baseline deployments and zero for this branch.
+
+## Batch 8 — Yojanan 12 and 18–19
+
+Completed substantive review of all 49 Yojanan notes. Reviewed all nine dossiers
+in the consolidated chapter-12 study; redirected former dossier links to their
+preserved headings, including references from related reviewed notes. Qualified
+the Psalm 8, temple-date, Abba, and Acts 15 applications, distinguished the local
+Romans 8:1 wording from SBLGNT, and removed a false missing-text claim where
+Delitzsch already supplies John 12:1. Corrected the leg-breaking and hidden-
+disciple Greek forms in the final chapter-19 study and repaired chapter-18 links.
+All registered lesson IDs and credits remain. Full review: 49/81 notes; the 32
+Revelation notes remain. Batch 7's two editorial CI runs passed, and the Vercel
+API still returned six baseline deployments and none for the review branch.
