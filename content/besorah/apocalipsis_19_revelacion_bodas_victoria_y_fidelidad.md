@@ -88,12 +88,14 @@ La bestia, los reyes de la tierra y sus ejércitos se reúnen contra el jinete y
 
 Los demás son muertos por la espada que sale de la boca del jinete y las aves se sacian de sus carnes (#apocalipsis_19_21). El orden importa: primero cae la mujer en la visión anterior, después se expone el conflicto de la bestia y finalmente el capítulo termina con su derrota y con la del falso profeta. Eric interpreta el fuego y el azufre como señales de juicio y lee la destrucción del sistema apóstata como irreversible; esa lectura es compatible con la fuerza de la imagen, pero el alcance exacto de «lago de fuego» y su relación con los capítulos siguientes permanece pendiente de una lectura completa.
 
+En #apocalipsis_19_7, la forma es γυνή; νύμφη aparece en la escena de la ciudad de #apocalipsis_21_2, 9. Se distingue el vocabulario de cada pasaje mediante [SBLGNT](https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/Rev.txt).
+
 ## Hoja léxica
 
 | Forma | Transliteración | Sentido normal y fuerza contextual | Evaluación |
 | --- | --- | --- | --- |
 | **(Ἀλληλούϊα)** | allēlouia | Exhortación de alabanza heredada del hebreo; aquí responde al juicio y al reinado. | Aproximación litúrgica, no simple emoción. |
-| **(γάμος)** / **(νύμφη)** | gamos / nymphē | Boda / novia o esposa; imagen de alianza y preparación. | Relación simbólica; no prueba por sí sola la identidad de Filadelfia. |
+| **(γάμος)** / **(γυνή)** | gamos / gynē | Boda / mujer o esposa; en 19:7 la esposa se prepara. | Relación simbólica; no prueba por sí sola la identidad de Filadelfia. |
 | **(δικαιώματα)** | dikaiōmata | Actos o hechos justos; en 19:8 se vincula al vestido de los santos. | Aproximación contextual; no reduce la justicia a mérito autónomo. |
 | **(μαρτυρία)** / **(πνεῦμα)** | martyria / pneuma | Testimonio / espíritu; juntos relacionan profecía y testimonio de Yehoshua. | Conexión sintáctica; no licencia para validar toda profecía. |
 | **(λόγος)** | logos | Palabra, expresión o razón según el contexto; aquí es el nombre del jinete. | La relación con **(מימרא)** (*memra*) es pedagógica e intertextual, no equivalencia perfecta. |

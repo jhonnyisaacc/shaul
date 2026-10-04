@@ -239,3 +239,17 @@ Israel-name, bestia, and duration applications. Corrected an inverted statement
 about Revelation 13:8, two Hebrew quotation errors, and renamed-note links.
 Full review: 71/81 notes. Batch 9's two editorial CI runs passed; the Vercel API
 retained six baseline deployments and none for the branch.
+
+## Batch 11 — Revelation chapter 1 and 17–22
+
+Completed substantive review of all 81 existing notes (49 Yojanan, 32 Revelation).
+Reviewed the remaining five raw and five transcript studies. Distinguished the
+older raw chapter-1 note's unknown provenance from the fourteen studies linked
+to the raw class-notes document, supplied available OE/Delitzsch anchors, and
+labeled Joel, Malachi, and Deuteronomy numbering. Clarified chapter-13 material
+retold in chapter 17, chapter-15 imagery applied in chapter 20, and the book-wide
+recap in the raw chapter-19 note. Corrected the chapter-19 Greek wife term and
+the claim that the local Hebrew lacks a word for lake. The remaining historical,
+rabbinic, chronological, and lexical research questions remain explicit in the
+notes. Batch 10's two editorial CI runs passed; Vercel still returned six baseline
+deployments and none for the branch. Final consolidated validation is pending.

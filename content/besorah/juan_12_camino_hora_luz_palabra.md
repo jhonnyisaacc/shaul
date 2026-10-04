@@ -926,7 +926,7 @@ El grano de trigo debe caer y morir para llevar mucho fruto. Ese fruto no se lim
 | #juan_12_25 | האהב את־נפשו תכרת־לו והשנא את־נפשו בעולם הזה...         | El que ama su vida, la perderá; y el que aborrece su vida en este olam, para vida olam la preservará. | No aferrarse a la נפש ni al honor del olam presente.     |
 | #juan_12_26 | מי־החפץ לשרתני ילך בעקבותי... אתו יכבד האב              | Si un hombre me sirve, vendrá detrás de Mí... lo honrará el Padre.                                    | Servicio implica seguimiento; Abba honra al siervo.      |
 | #juan_12_27 | עתה נבהלה נפשי... אך על־כן באתי למועד הזה               | Ahora está muy turbado mi ser... por esto he venido a esta hora.                                      | La hora no se evita; para eso vino.                      |
-| #juan_12_28 | אבי גדל כבוד שמך... גדלתי כבודו וגם־אגדלנו עוד          | Padre mío, glorifica tu Nombre... Lo he glorificado, y volveré a glorificarlo.                        | Conecta con [[../temas/bat_kol                           \| Bat Kol]]. |
+| #juan_12_28 | אבי גדל כבוד שמך... גדלתי כבודו וגם־אגדלנו עוד          | Padre mío, glorifica tu Nombre... Lo he glorificado, y volveré a glorificarlo.                        | Conecta con [[../temas/bat_kol\| Bat Kol]]. |
 
 ##### Textos de apoyo
 
