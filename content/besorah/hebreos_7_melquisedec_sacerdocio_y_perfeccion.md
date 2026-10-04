@@ -15,6 +15,7 @@ references:
 sources:
   - "https://www.youtube.com/watch?v=0RbDcydhCFE"
   - "docs/scriptures/delitzsch/json/hebrews.json"
+  - "https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/Heb.txt"
 source_ids:
   - "youtube:0RbDcydhCFE"
 translation: "[Delitzsch]"
@@ -28,20 +29,22 @@ Hebreos 7 no presenta a Melquisedec como una biografía completa, sino como la f
 
 Esta nota organiza la clase del hermano Eric de Jesús Rodríguez Mendoza y contrasta sus observaciones con el texto local Delitzsch. Las afirmaciones doctrinales de la clase permanecen atribuidas a Eric; la carta es la prueba primaria. La transcripción automática se usa para reconstruir el recorrido y no como cita literal.
 
+## La tesis de Eric sobre la identidad del sacerdote y la perfección
+
+Antes de entrar en 7:1, Eric recapitula su lectura de la carta: Yehoshua no es una criatura angélica, sino aquel cuya humillación, muerte y resurrección desembocan en su investidura sacerdotal. La clase enlaza Salmo 2:7, Salmo 110:4 y Hebreos 6:20 para sostener que la fórmula «Tú eres mi Hijo» pertenece a la manifestación del Hijo y «Tú eres sacerdote para siempre» a su entrada en la función sacerdotal después de resucitar y atravesar los cielos. Esa es una observación material de la exposición, no un detalle que deba borrarse en favor de una síntesis genérica.
+
+Hebreos 7 confirma parte de ese recorrido y delimita otra parte. **ἀρχιερεύς** (_archiereus_) significa «sumo sacerdote»; su fuerza aquí no describe solamente una dignidad celestial, sino un oficio que ofrece, intercede y permanece. El capítulo llama al Hijo «santo, inocente, sin mancha» y lo contrasta con sacerdotes que necesitan ofrecer primero por sus propios pecados. La relación con la afirmación de Eric de que en él no hay pecado es **exacta** en 7:26-28; la reconstrucción completa de su estado anterior a la encarnación pertenece al argumento acumulado de los capítulos 1-2, no a 7:1-4 aislados.
+
 ## Hoja de comparación
 
-| Unidad textual  | Texto local (Delitzsch)                                                                                                                   | Función en el argumento                                                                                                           |
-| --------------- | ----------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
-| Hebreos 7:1-3   | **כִּי זֶה מַלְכִּי־צֶדֶק מֶלֶךְ שָׁלֵם כּׂהֵן לְאֵל עֶלְיוֹן** … **וּבְזׂאת־נִדְמֶה לְבֶן־הָאֱלׂהִים הוּא עוֹמֵד בִּכְהֻנָּתוֹ לָנֶצַח** | La carta interpreta el nombre y la ausencia de datos genealógicos para mostrar una figura que permanece en su función sacerdotal. |
-| Hebreos 7:11-12 | **אִלּוּ הָיְתָה שְׁלֵמוּת עַל־יְדֵי כְהֻנַּת בְּנֵי לֵוִי** … **בְּהִשְׁתַּנּוֹת הַכְּהֻנָּה … תִּשְׁתַּנֶּה גַּם־הַתּוֹרָה**            | El problema es la perfección que el sacerdocio levítico no produjo; el cambio sacerdotal tiene consecuencias en el orden cultual. |
-| Hebreos 7:18-19 | **הַמִּצְוָה הַקּׂדֶמֶת הוּסָרָה … וְהִנֵּה נִכְנְסָה תַחְתֶּיהָ תִּקְוָה טוֹבָה**                                                        | La esperanza mejorada permite acercarse a Elohim; no es una invitación a despreciar toda instrucción divina.                      |
-| Hebreos 7:20-28 | **אַתָּה־כׂהֵן לְעוֹלָם** … **הֶעֱמִיד אֶת־הַבֵּן הַמֻּשְׁלָם לְעוֹלָם**                                                                  | El juramento y la vida indestructible sostienen un sacerdocio único, sin sacrificios repetidos por pecado propio.                 |
-
-## Tramo textual verificado
-
-Para no dejar que el resumen doctrinal sustituya el movimiento de la carta, estos son los puntos de apoyo locales en su orden. En 7:4 la pregunta por la grandeza de Melquisedec sigue inmediatamente al relato del diezmo: **וראו מה־גדול הוא אשר גם־אברהם אבינו נתן־לו מעשר מראשית הכל׃**. En 7:11-12 la pregunta por la perfección precede la consecuencia cultual: **על־כן אלו היתה שלמות על־ידי כהנת בני לוי אשר־בה נתנה התורה לעם למה־זה צריך לקום עוד כהן אחר על־דברתי מלכי־צדק ולא יאמר על־דברתי אהרן׃ כי בהשתנות הכהנה צריך שתשתנה גם־התורה׃**. Eric usa precisamente esa secuencia para evitar que “perfección” se convierta en una consigna desligada del sacerdocio.
-
-El tramo 7:18-19 añade la calificación que debe gobernar la lectura: **בעבור אשר המצוה הקדמת הוסרה בהיותה חלושה וקצרת־יד מהועיל׃ כי התורה היא לא־השלימה דבר והנה נכנסה תחתיה תקוה טובה ממנה אשר־נקרב על־ידה לאלהים׃**. La carta habla de la insuficiencia de ese orden para llevar a la meta y de una esperanza mejor para acercarse; no afirma aquí que toda instrucción divina sea mala. Finalmente, 7:24-25 ata permanencia e intercesión: **אבל זה יעמד לעולם ויהי־לו כהנה אשר לא־תעבר ממנו׃ אשר על־כן יוכל להושיע בכל וכל את־הנגשים על־ידו לאלהים כי חי־הוא תמיד להפגיע בעדם׃**. El mapa de Eric conserva este encadenamiento: figura y bendición, pregunta por la perfección, esperanza de acceso, y sacerdote vivo que intercede.
+| Referencia | Texto local (Delitzsch; extractos) | Función en el argumento |
+| --- | --- | --- |
+| #hebreos_7_1-3 | כי זה מלכיצדק מלך שלם כהן לאל עליון אשר יצא לקראת אברהם בשובו מהכות אתהמלכים ויברכהו … באיןאב באיןאם באין יחש ולימיו אין תחלה ולחייו אין סוף ובזאתנדמה לבןהאלהים הוא עומד בכהנתו לנצח | Nombre y presentación literaria; semejanza con el Hijo. |
+| #hebreos_7_4-10 | וראו מהגדול הוא אשר גםאברהם אבינו נתןלו מעשר מראשית הכל … הןבני לוי נחלי הכהנה ישחק להם עלפי התורה לקחת אתהמעשרות מןהעם מןאחיהם אשר אףהם יצאי ירך אברהם | Abraham entrega el diezmo; Leví es incluido figurativamente. |
+| #hebreos_7_11-12 | עלכן אלו היתה שלמות עלידי כהנת בני לוי אשרבה נתנה התורה לעם למהזה צריך לקום עוד כהן אחר עלדברתי מלכיצדק ולא יאמר עלדברתי אהרן … כי בהשתנות הכהנה צריך שתשתנה גםהתורה | Pregunta por la perfección y consecuencia del cambio sacerdotal. |
+| #hebreos_7_13-19 | כי גלוי לכל אשר אדנינו צמח מיהודה מןהשבט אשר משה לאדבר אליו דבר עלהכהנה … אשר איננו עלפי חקת בשר ודם אלא עלפי כח חיים שאין להם הפסק … כי התורה היא לאהשלימה דבר והנה נכנסה תחתיה תקוה טובה ממנה אשרנקרב עלידה לאלהים | Yehudá, vida indestructible y esperanza de acercamiento. |
+| #hebreos_7_20-25 | כי המה נתכהנו בלישבועה וזה בשבועה עלידי האמר לו נשבע יהוה ולא ינחם אתהכהן לעולם עלדברתי מלכיצדק … אבל זה יעמד לעולם ויהילו כהנה אשר לאתעבר ממנו … אשר עלכן יוכל להושיע בכל וכל אתהנגשים עלידו לאלהים כי חיהוא תמיד להפגיע בעדם | Juramento, sacerdocio que no pasa a otro e intercesión. |
+| #hebreos_7_26-28 | אשר אין עליו ככהנים הגדולים ההם להקריב יום יום בראשונה עלחטאתיו ואחריכן עלחטאת העם כיזאת עשה בפעם אחת בהקריבו אתנפשו … כי התורה העמידה לכהנים גדולים בניאדם חלשים אבל דברהשבועה הבאה אחרי התורה העמיד אתהבן המשלם לעולם | Ofrenda única y Hijo perfeccionado. |
 
 ## Mapa de la enseñanza de Eric
 
@@ -54,13 +57,11 @@ El tramo 7:18-19 añade la calificación que debe gobernar la lectura: **בעב�
 
 La carta comienza con el encuentro de Bereshit 14: Melquisedec sale al encuentro de Abraham, lo bendice y recibe de él el diezmo. No dice que debamos llenar los silencios biográficos con leyendas. Su argumento nace de cómo el texto presenta al personaje: “sin padre, sin madre, sin genealogía”, sin principio ni fin registrados, y “semejante al Hijo de Elohim”. La relación es literaria y tipológica: el pasaje no afirma que Melquisedec sea el Hijo, sino que lo usa como figura de un sacerdocio que permanece.
 
-Eric recalca que “rey de justicia” y “rey de paz” no son adornos. El nombre hebreo **מַלְכִּי־צֶדֶק** (_Malki-Tsédeq_) tiene el sentido normal “mi rey es justicia” o, en la interpretación de la carta, “rey de justicia”; **שָׁלֵם** (_Shalem_) se relaciona contextualmente con “paz”. La relación entre nombre y función es exacta dentro de la exégesis de Hebreos, aunque la etimología no convierte por sí sola a Salem en una biografía celestial.
+Eric recalca que “rey de justicia” y “rey de paz” no son adornos. El nombre hebreo **מלכי־צדק** (_Malki-Tsédeq_) tiene el sentido normal “mi rey es justicia” o, en la interpretación de la carta, “rey de justicia”; **שלם** (_Shalem_) se relaciona contextualmente con “paz”. La relación entre nombre y función es exacta dentro de la exégesis de Hebreos, aunque la etimología no convierte por sí sola a Salem en una biografía celestial.
 
 La bendición da la dirección del argumento: el que bendice es mayor que el que recibe la bendición. Así Abraham es grande, pero no es la cima sacerdotal. El texto continúa diciendo que los hijos de Leví reciben diezmos según la Torá, pero, en la figura, Leví paga diezmos por medio de Abraham. La inferencia sirve para demostrar superioridad de orden; no autoriza a construir una doctrina financiera separada del argumento sacerdotal.
 
 Eric se detiene también en la ambigüedad de Bereshit acerca de quién entrega el diezmo y observa que Hebreos la resuelve con una lectura explícita: Abraham da el diezmo a Melquisedec y recibe de él la bendición. En la transcripción, la pregunta “¿quién a quién?” funciona como puente hacia el razonamiento de 7:4-10, no como una invitación a reconstruir una escena que el texto no narra. La carta sí permite seguir esa dirección: el que recibe diezmos y bendice ocupa la posición mayor, y la inclusión figurativa de Leví en Abraham hace que el orden levítico quede subordinado al orden de Melquisedec. La afirmación de Eric sobre un sacerdote celestial es una conclusión cristológica posterior; aquí se conserva como inferencia apoyada por 7:3, 7:8 y el juramento que viene después.
-
-La progresión de 7:5-10 debe mantenerse visible. Primero, los hijos de Leví tienen mandamiento de cobrar diezmos “según la Torá” a sus hermanos; después, Melquisedec, que no pertenece a su genealogía, recibe el diezmo de Abraham y lo bendice. El texto local lo formula así: **הֶן־בְּנֵי לֵוִי נׂחֲלֵי הַכְּהֻנָּה יֶשׁ־חׂק לָהֶם עַל־פִּי הַתּוֹרָה לָקַחַת אֶת־הַמַּעַשְׂרוֹת מִן־הָעָם מִן־אֲחֵיהֶם** (“los hijos de Leví, herederos del sacerdocio, tienen por la Torá el derecho de tomar los diezmos del pueblo, de sus hermanos”), y luego afirma que Leví pagó por medio de Abraham. Eric usa ese orden para mostrar que la dignidad levítica no elimina la anterioridad de Melquisedec. Es una observación material de la clase y una inferencia explícita de la carta; no equivale a decir que la Torá condena el diezmo ni que el capítulo esté tratando principalmente de economía comunitaria.
 
 ## 7:11-19: cambio de sacerdocio y la perfección que la ley cultual no produjo #hebreos_7_11-19
 
@@ -70,87 +71,33 @@ La palabra griega **τελείωσις** (_teleiōsis_) significa “perfección
 
 La carta introduce una esperanza mejor por la cual nos acercamos a Elohim. **ἐγγίζω** (_engizō_) significa “acercarse”; aquí su fuerza es relacional y sacerdotal. “Mejor” (**κρείττων**, _kreittōn_) no significa que la promesa anterior fuera inútil, sino que la nueva administración la lleva a una eficacia mayor. Esta es la observación de Eric sobre una esperanza “mejorada”: es pedagógica en la traducción, pero está respaldada por el uso comparativo del capítulo.
 
+La transición entre la comparación con Leví y el juramento no debe saltarse. En 7:13-14 la carta dice que aquel de quien se habla pertenece a otra tribu, de la cual nadie sirvió al altar, y recuerda que el Mesías procede de Yehudá, no de Leví. En 7:15-16 vuelve a la semejanza con Melquisedec y la funda en “el poder de una vida indestructible”, antes de citar el testimonio de que es sacerdote para siempre. Eric usa este orden para explicar por qué el oficio del Hijo no es una reforma genealógica del sacerdocio levítico: primero se excluye la descendencia sacerdotal terrenal, después se declara la base vital del nuevo oficio.
+
+**(ἀκατάλυτος)**, _akatalytos_, significa indestructible: 7:16 funda el nuevo oficio en una vida que no se interrumpe. **(ἀθέτησις)**, _athetēsis_, designa la anulación o puesta a un lado de la ordenanza anterior en 7:18. El vínculo con el cambio sacerdotal es explícito; extenderlo a cada mandamiento de la Torá requiere un argumento adicional.
+
 ## 7:20-28: juramento, intercesión y ofrenda única #hebreos_7_20-28
 
-El contraste final no depende solamente de que un sacerdote viva más años. Los levitas fueron constituidos sin juramento y mueren; el Hijo fue constituido sacerdote mediante el juramento de יהוה: “Tú eres sacerdote para siempre”. **ὅρκος** (_horkos_) significa “juramento” y en 7:20-22 da fuerza de compromiso divino a la alianza; no es una fórmula mágica, sino la garantía del oficio que el texto acaba de anunciar.
+El contraste final no depende solamente de que un sacerdote viva más años. Los levitas fueron constituidos sin juramento y mueren; el Hijo fue constituido sacerdote mediante el juramento de יהוה: “Tú eres sacerdote para siempre”. **(ὁρκωμοσία)** (_horkōmosia_) significa “acto de jurar, juramento” y en 7:20-22 da fuerza de compromiso divino a la alianza; no es una fórmula mágica, sino la garantía del oficio que el texto acaba de anunciar.
 
-Por eso el Hijo puede salvar completamente a los que se acercan a Elohim por medio de él, porque vive siempre para interceder. **ἀπαράβατος** (_aparabatos_) puede expresar lo permanente, intransferible o inviolable; la relación exacta aquí es con un sacerdocio que no pasa a otro. Eric lo explica como un sacerdote que no puede ser sustituido por muerte ni acusado de transgresión. La carta sostiene la permanencia y la intercesión, aunque la glosa “sin posibilidad de transgredir” debe permanecer como explicación de clase.
+Por eso el Hijo puede salvar completamente a los que se acercan a Elohim por medio de él, porque vive siempre para interceder. **ἀπαράβατος** (_aparabatos_) puede expresar lo permanente, intransferible o inviolable; la relación exacta aquí es con un sacerdocio que no pasa a otro. Eric lo explica como un sacerdote que no puede ser sustituido por muerte ni acusado de transgresión. La carta sostiene la permanencia y la intercesión, La explicación de Eric “sin posibilidad de transgredir” es una aplicación doctrinal de la clase; no es la glosa léxica de 7:24. El carácter sin pecado se fundamenta en 7:26-28.
 
 El sacerdote que nos convenía es santo, inocente, sin mancha, apartado de los pecadores y elevado sobre los cielos. A diferencia de los sumos sacerdotes que ofrecen primero por sus propios pecados, el Hijo ofrece una vez para siempre su propia vida. **ἐφάπαξ** (_ephapax_) significa “de una vez, una sola vez”; su fuerza contextual es la irrepetibilidad de la ofrenda. El cierre distingue entre sacerdotes humanos débiles y el Hijo perfecto para siempre; no borra el valor histórico de la Torá, sino que identifica el límite del sacerdocio levítico y la suficiencia del juramento.
 
-### El juramento como puente entre oficio y acceso
-
-La exposición de Eric insiste en que el juramento no es un adorno añadido a la investidura. El texto local conserva primero la ausencia de juramento en los sacerdotes levitas y después la palabra de יהוה al Hijo: **וְכֵן־נִשְׁבַּע יְהוָה וְלֹא יִנָּחֵם אַתָּה־כֹהֵן לְעוֹלָם** (7:21). **ὀρκωμοσία** (_orkōmosia_) significa juramento o acto de jurar; aquí su fuerza contextual es la garantía divina que hace diferente este sacerdocio, no una fórmula que vuelva innecesaria la obediencia. La relación con la observación de Eric es **directa** en cuanto al contraste entre oficio mortal y oficio confirmado por juramento.
-
-El versículo siguiente extrae la consecuencia: **κατὰ τοσοῦτο κρείττονος διαθήκης γέγονεν ἔγγυος Ἰησοῦς** —“por tanto, Yehoshúa ha sido hecho garante de un pacto mejor”—. **ἔγγυος** (_engyos_) significa garante, fiador o quien responde por una obligación; su fuerza aquí vincula el sacerdocio permanente con la seguridad del pacto. Decir que el Hijo “garantiza” la esperanza es una correspondencia **aproximada pero fuerte**; convertir el término en una explicación legal exhaustiva de cada aspecto del pacto sería **pedagógico**, no una afirmación explícita del versículo.
-
-Leído de corrido, 7:20-28 encadena cuatro afirmaciones: el Mesías fue constituido con juramento (**כִּי הֵמָּה נִתְכַּהֲנוּ בְלִי־שְׁבוּעָה וְזֶה בִּשְׁבוּעָה עַל־יְדֵי הָאׂמֵר לוֹ נִשְׁבַּע יְהוָֹה וְלׂא יִנָּחֵם אַתָּה־כׂהֵן לְעוֹלָם**), vive siempre para interceder, es santo e inocente, y ofreció una vez por todas. Eric recalca que el juramento no es un detalle decorativo: diferencia el oficio del Hijo de los nombramientos que terminan con la muerte. El texto local también conserva el contraste final entre los sumos sacerdotes que necesitan ofrecer diariamente por sus propios pecados y el Hijo que lo hizo “una vez” por el pueblo. Así se prueba en el propio capítulo la conclusión de la clase: permanencia e intercesión no son atributos separados, sino la razón por la que su sacerdocio alcanza completamente a quienes se acercan por medio de él.
-
-## La tesis de Eric sobre la identidad del sacerdote y la perfección
-
-Antes de entrar en 7:1, Eric recapitula su lectura de la carta: Yehoshua no es una criatura angélica, sino aquel cuya humillación, muerte y resurrección desembocan en su investidura sacerdotal. La clase enlaza Salmo 2:7, Salmo 110:4 y Hebreos 6:20 para sostener que la fórmula «Tú eres mi Hijo» pertenece a la manifestación del Hijo y «Tú eres sacerdote para siempre» a su entrada en la función sacerdotal después de resucitar y atravesar los cielos. Esa es una observación material de la exposición, no un detalle que deba borrarse en favor de una síntesis genérica.
-
-Hebreos 7 confirma parte de ese recorrido y delimita otra parte. **ἀρχιερεύς** (_archiereus_) significa «sumo sacerdote»; su fuerza aquí no describe solamente una dignidad celestial, sino un oficio que ofrece, intercede y permanece. El capítulo llama al Hijo «santo, inocente, sin mancha» y lo contrasta con sacerdotes que necesitan ofrecer primero por sus propios pecados. La relación con la afirmación de Eric de que en él no hay pecado es **exacta** en 7:26-28; la reconstrucción completa de su estado anterior a la encarnación pertenece al argumento acumulado de los capítulos 1-2, no a 7:1-4 aislados.
-
-La otra insistencia de Eric es que «perfecto» en Hebreos apunta a una conciencia libre de malicia y pecado. **τελειόω** (_teleioō_) significa «llevar a la meta, completar o perfeccionar»; en 7:11 la forma nominal **τελείωσις** (_teleiōsis_) pregunta si el sacerdocio levítico llevó a esa meta. La correspondencia con «conciencia libre de pecados» es **aproximada dentro de la secuencia de Hebreos**: la pregunta sacerdotal está en este capítulo, mientras 9:9, 9:14 y 10:14 explican explícitamente la dimensión de la conciencia. Por eso la exposición es una lectura transversal legítima, pero no una definición que podamos introducir sin prueba en cada aparición de «perfecto».
-
-Finalmente, Eric dedica atención a la forma hebrea de «Melquisedec» y a la escritura de «Salem», señalando que la lengua puede representar una misma base consonántica con vocalizaciones distintas. **שלם** (_Shalem/Shalom_) tiene normalmente el campo de «integridad, plenitud o paz» según la forma y el contexto; Hebreos interpreta **Σαλήμ** (_Salēm_) como «paz» y **Μελχισέδεκ** (_Melchisedek_) como «rey de justicia». La relación es **exacta como interpretación que la carta ofrece**, pero **pedagógica** cuando la explicación fonética pretende decidir por sí sola la ubicación histórica de Salem. El texto permanece soberano: usa el nombre para construir el contraste entre justicia, paz y sacerdocio permanente.
-
-## Control de la transición: 7:13-19 antes del juramento #hebreos_7_13-19
-
-La transición entre la comparación con Leví y el juramento no debe saltarse. En 7:13-14 la carta dice que aquel de quien se habla pertenece a otra tribu, de la cual nadie sirvió al altar, y recuerda que el Mesías procede de Yehudá, no de Leví. En 7:15-16 vuelve a la semejanza con Melquisedec y la funda en “el poder de una vida indestructible”, antes de citar el testimonio de que es sacerdote para siempre. Eric usa este orden para explicar por qué el oficio del Hijo no es una reforma genealógica del sacerdocio levítico: primero se excluye la descendencia sacerdotal terrenal, después se declara la base vital del nuevo oficio.
-
-El texto local conserva el punto material: **כִּי אֲשֶׁר־מְדֻבָּר בּוֹ כָּזׂאת הוּא מִשֵּׁבֶט אַחֵר אֲשֶׁר מֵעוֹלָם לׂא־שֵׁרֵת אִישׁ מִמֶּנּוּ בַּמִּזְבֵּחַ** (7:13), y luego **אֲשֶׁר אֵינֶנּוּ עַל־פִּי חֻקַּת בָּשָׂר וָדָם אֶלָּא עַל־פִּי כּׂחַ חַיִּים שֶׁאֵין לָהֶם הֶפְסֵק** (7:16). **ἀκατάλυτος**, _akatalytos_, significa “indestructible” o “que no puede disolverse”; la correspondencia con “vida que no se interrumpe” es exacta en el eje del argumento y pedagógica cuando Eric la extiende a explicaciones sobre la condición celestial. Así, 7:18-19 (“mandamiento anterior” y “esperanza mejor”) queda como consecuencia del cambio de oficio, no como un rechazo genérico de la Torá.
+El juramento también conduce al lenguaje de garantía: **(ἔγγυος)**, _engyos_, significa garante o fiador en 7:22. La clase conecta el oficio permanente con la seguridad del pacto. **(ἐντυγχάνω)**, _entynchano_, significa interceder y expresa la actividad del sacerdote vivo en 7:25. El capítulo afirma juramento, permanencia e intercesión; la cronología completa de la investidura y de las funciones futuras pertenece a la reconstrucción canónica de Eric y permanece cualificada.
 
 ## Léxico clave
 
 | Forma              | Transliteración | Sentido normal                      | Fuerza contextual y relación                                                                          |
 | ------------------ | --------------- | ----------------------------------- | ----------------------------------------------------------------------------------------------------- |
-| **מַלְכִּי־צֶדֶק** | _Malki-Tsédeq_  | mi rey es justicia; rey de justicia | Interpretación del nombre en 7:2; exacta en la lectura de la carta, no prueba biografía adicional.    |
+| **מלכי־צדק** | _Malki-Tsédeq_  | mi rey es justicia; rey de justicia | Interpretación del nombre en 7:2; exacta en la lectura de la carta, no prueba biografía adicional.    |
 | **τελείωσις**      | _teleiōsis_     | perfección, realización             | Meta sacerdotal; la relación con conciencia limpia es aproximada en 7 y explícita en 9–10.            |
 | **κρείττων**       | _kreittōn_      | mejor, superior                     | En 7:19 señala una esperanza superior o mejorada; no significa que lo anterior careciera de valor.    |
-| **ἀπαράβατος**     | _aparabatos_    | permanente, intransferible          | En 7:24 explica un sacerdocio que no pasa a otro; “sin transgresión” es una glosa pedagógica posible. |
+| **ἀπαράβατος**     | _aparabatos_    | permanente, intransferible          | En 7:24 explica un sacerdocio que no pasa a otro; “sin transgresión” es aplicación doctrinal de Eric, no traducción de 7:24. |
 | **ἐφάπαξ**         | _ephapax_       | una vez, de una vez para siempre    | En 7:27 marca la ofrenda única del Hijo frente a la repetición sacerdotal.                            |
-
-## Lectura corrida y prueba de la enseñanza
-
-La clase de Eric en `youtube:0RbDcydhCFE` sigue un argumento que no debe invertirse. En 7:1-10, Melquisedec bendice a Abraham y recibe el diezmo; **εὐλογέω**, _eulogeō_, significa «bendecir», y su fuerza contextual sostiene la regla de que el menor recibe bendición del mayor. La afirmación de que Leví participa figurativamente en Abraham es la inferencia que la carta construye en 7:9-10, no una genealogía adicional. En 7:11-19, **τελείωσις**, _teleiōsis_, significa «perfección o llegada a la meta»: el capítulo la vincula al sacerdocio que permite acercarse, mientras la conciencia limpia se desarrolla explícitamente en 9–10.
-
-En 7:20-25, el juramento de יהוה y la vida permanente del Hijo explican por qué su sacerdocio no pasa a otro. **ἀπαράβατος**, _aparabatos_, significa «permanente o intransferible»; la relación con la intercesión es exacta, aunque «sin posibilidad de transgredir» permanece como glosa pedagógica de Eric. Finalmente, 7:26-28 contrapone sacerdotes que ofrecen repetidamente por sus propios pecados con el Hijo, que se ofreció una vez; **ἐφάπαξ**, _ephapax_, significa «una vez, de una vez para siempre». La secuencia confirma permanencia, intercesión y ofrenda única sin convertir las extensiones sobre el ámbito celestial en frases literales del capítulo.
-
-## Control de lectura: la transición no es un salto doctrinal
-
-La exposición de Eric une la pregunta por la perfección con la investidura del Hijo, pero la carta conserva varios pasos que deben quedar visibles. Primero dice que el sacerdote pertenece a otra tribu: **כִּי אֲשֶׁר־מְדֻבָּר בּוֹ כָּזׂאת הוּא מִשֵּׁבֶט אַחֵר אֲשֶׁר מֵעוֹלָם לׂא־שֵׁרֵת אִישׁ מִמֶּנּוּ בַּמִּזְבֵּחַ** (7:13). Después funda la semejanza no en genealogía levítica, sino en **כִּי־עֵד עָלָיו כִּי־אַתָּה כׂהֵן לְעוֹלָם עַל־דִּבְרָתִי מַלְכִּי־צֶדֶק** (7:17). La observación de Eric sobre un oficio recibido tras la vida indestructible es, por tanto, una paráfrasis atribuible apoyada por el orden del pasaje; no debe presentarse como si 7:1-3 narrara una biografía celestial completa.
-
-La consecuencia también se expresa con precisión local: **כִּי הַתּוֹרָה לׂא־הִשְׁלִימָה דָּבָר וְהִנֵּה נִכְנְסָה תַּחְתֶּיהָ תִּקְוָה טוֹבָה מִמֶּנָּה אֲשֶׁר־נִקְרַב עַל־יָדָהּ לֵאלֹהִים** (7:19). **τελείωσις**, _teleiōsis_, significa perfección, realización o llegada a la meta; su fuerza en este capítulo es sacerdotal, mientras la relación con conciencia limpia se desarrolla en 9–10. “Perfección de la conciencia” es así una síntesis **aproximada y canónica** de la enseñanza de Eric, no una sustitución de la pregunta de 7:11. La carta prueba el cambio de sacerdocio, la esperanza de acercamiento y la permanencia del Hijo; las extensiones sobre su condición celestial deben quedar calificadas.
-
-## Reparación de trazabilidad: la secuencia que Eric enseña
-
-La clase pública de Eric no trata «perfección» como una virtud abstracta separada del sacerdocio. Su recorrido enlaza la pregunta de 7:11 con la esperanza de 7:19 y con el juramento de 7:20-22: si el sacerdocio levítico hubiera llevado a la meta, no habría sido necesario levantar otro sacerdote; el sacerdote nuevo permite acercarse a Elohim y queda confirmado por un juramento. El texto local mantiene los tres pasos: **אִם־הָיְתָה הַשְּׁלֵמוּת עַל־יְדֵי כְּהֻנַּת לֵוִי** (7:11), **תִּקְוָה טוֹבָה מִמֶּנָּה אֲשֶׁר־נִקְרַב עַל־יָדָהּ לֵאלֹהִים** (7:19), y **נִשְׁבַּע יְהוָה ... אַתָּה־כֹהֵן לְעוֹלָם** (7:21). Así se conserva la observación material de Eric y se evita resumirla como una cautela genérica sobre «lo antiguo» y «lo nuevo».
-
-El énfasis final de Eric también es concreto: la permanencia del oficio explica la salvación completa y la intercesión, no solo una duración indefinida. **ἐντυγχάνω**, _entynchano_, significa interceder, presentarse a favor o suplicar; en 7:25 su fuerza es la actividad del Hijo vivo por quienes se acercan. La relación es **directa** en «vive siempre para interceder»; la explicación de Eric sobre cada etapa de la investidura celestial es **canónica e inferencial**, porque el versículo prueba vida e intercesión, no una cronología completa.
-
-Hebreos 7 lleva al lector desde el nombre y la bendición de Melquisedec hasta el juramento que establece al Hijo. Eric aporta una lectura unificada: la perfección es la meta de una conciencia purificada, y el nuevo sacerdocio no depende de genealogía mortal, sino de una vida indestructible. El texto confirma la superioridad, la permanencia, la intercesión y la ofrenda única; las extensiones sobre el sacerdocio celestial y el futuro deben conservarse como interpretación atribuida, no como si fueran cada una una frase del capítulo.
-
-## Verificación léxica y límite de la reconstrucción
-
-La comprobación del tramo final permite precisar, sin borrar la observación de Eric, qué dice cada forma. En 7:20-25 el texto local conserva el juramento, la permanencia y la intercesión: **כִּי הֵמָּה נִתְכַּהֲנוּ בְלִי־שְׁבוּעָה וְזֶה בִּשְׁבוּעָה ... אַתָּה־כׂהֵן לְעוֹלָם** (7:21), seguido de **אֲבָל זֶה יַעֲמׂד לְעוֹלָם וַיְהִי־לוֹ כְהֻנָּה אֲשֶׁר לׂא־תַעֲבֹר מִמֶּנּוּ** (7:24) y **כִּי חַי־הוּא תָמִיד לְהַפְגִּיע בַּעֲדָם** (7:25). La forma griega **ἀπαράβατος** (_aparabatos_) tiene como sentido normal “permanente” o “intransferible”; su fuerza contextual es que el sacerdocio no pasa a otro por muerte. “Sin transgresión”, que Eric usa como glosa en su exposición, es una relación **pedagógica**, no la traducción que debe gobernar 7:24. La comprobación, por tanto, confirma la permanencia y conserva calificada la extensión doctrinal.
-
-La misma secuencia limita la cronología. El texto termina diciendo que la palabra del juramento estableció al Hijo perfecto para siempre: **דְּבַר הַשְּׁבוּעָה הַבָּאָה אַחֲרֵי הַתּוֹרָה הֶעֱמִיד אֶת־הַבֵּן הַמֻּשְׁלָם לְעוֹלָם** (7:28). Eric enlaza este punto con la muerte, resurrección y entrada del Hijo en su función sacerdotal. La relación es **canónica y atribuida**, apoyada aquí por el juramento, la vida indestructible y la intercesión; Hebreos 7 no narra por sí solo cada paso cronológico de esa investidura. Queda así resuelta la verificación pendiente sin convertir la reconstrucción de la clase en una frase literal del capítulo.
-
-## Perfección, acceso y límite de la inferencia
-
-La observación de Eric sobre la perfección debe conservar el orden del argumento. Hebreos 7:11 no pregunta si la Torá es mala, sino si la **τελείωσις** (_teleiōsis_, perfección, realización o llegada a la meta) podía alcanzarse por el sacerdocio levítico. El sentido ordinario del término es «llevar a la meta»; su fuerza contextual es sacerdotal: el problema es que ese orden no llevó a los adoradores al acceso pleno que la carta busca. «Conciencia purificada» es una conexión **aproximada y transversal** con 9:9, 9:14 y 10:14, no una glosa exhaustiva de 7:11.
-
-El paso siguiente es **ἐγγίζω** (_engizō_, acercarse). En 7:19, la esperanza mejor permite acercarse a Elohim; «acercamiento» es una glosa **directa** del verbo, mientras afirmar que todo acceso quedó definido en una sola experiencia interior sería **inferencial**. La clase acierta al relacionar sacerdocio y conciencia, porque el capítulo no separa oficio, esperanza e intimidad con Elohim; debe calificarse, sin embargo, cuando convierte una conexión con capítulos posteriores en una definición aislada de Melquisedec.
-
-La comparación con el orden levítico tampoco equivale a una condena de toda instrucción. **νόμος** (_nomos_, norma, ley o instrucción) aparece en el argumento como el marco en que fue dado el sacerdocio; **ἀθέτησις** (_athetēsis_, puesta a un lado, anulación o cancelación) describe en 7:18 la relación de la ordenanza anterior con la llegada de una esperanza mejor. «Abolición total de la Torá» sería una inferencia **ilegítima**: Hebreos 7 habla del límite del sacerdocio para llevar a la meta y enlaza el cambio con otro sacerdote. La lectura de Eric queda mejor sostenida cuando distingue administración sacerdotal, acceso y valor de la instrucción.
-
-Finalmente, **ἐντυγχάνω** (_entynchano_, interceder, presentarse a favor o suplicar) en 7:25 explica qué hace el Hijo vivo. «Intercesión» es **directa**; decir que cada detalle de su ministerio celestial queda descrito aquí sería **aproximado**. La secuencia completa —juramento, vida indestructible, sacerdocio permanente e intercesión— confirma la permanencia que Eric destaca y conduce a una esperanza fundada en el sacerdote vivo, no en la autosuficiencia del intérprete.
 
 ## Conexiones principales
 
-- [[hebreos_6_esperanza_ancla_y_sacerdocio|Hebreos 6: esperanza, ancla y sacerdocio]] prepara la entrada del juramento y la referencia a Melquisedec.
+- [[hebreos_6_promesa_esperanza_y_perseverancia|Hebreos 6: esperanza, ancla y sacerdocio]] prepara la entrada del juramento y la referencia a Melquisedec.
 - [[tehilim_110_senorio_sacerdocio_y_juicio|Tehilim 110: señorío, sacerdocio y juicio]] aporta la fórmula “sacerdote para siempre” que Hebreos 7 interpreta.
 - [[hebreos_8_pacto_mejor_y_servicio_celestial|Hebreos 8: pacto mejor y servicio celestial]] desarrolla la consecuencia celestial del sacerdocio que 7 presenta como permanente.
 
@@ -158,10 +105,11 @@ Finalmente, **ἐντυγχάνω** (_entynchano_, interceder, presentarse a fav
 
 - [ ] Comprobar en una gramática hebrea y en comentarios de Hebreos la explicación de Eric sobre la polisemia de **אלהים** y su relación con los usos de “mensajero”, “juez” y “sumo sacerdote” que la clase recapitula al inicio. Esa observación pertenece al marco de Hebreos 1–2; no debe usarse como definición del nombre en 7:1-28.
 - [ ] Localizar la referencia exacta de los comentaristas que Eric menciona al discutir la ubicación de Salem. Hebreos 7:1-3 sí interpreta el nombre y la ausencia de genealogía, pero no decide por sí solo la geografía histórica de Salem.
+- [ ] Contrastar la cronología propuesta por Eric para la investidura y el término de la mediación con los demás pasajes de la carta; Hebreos 7 afirma la permanencia e intercesión, sin narrar todas esas etapas.
 
 ## Ver también
 
-- [[hebreos_6_esperanza_ancla_y_sacerdocio|Hebreos 6: esperanza, ancla y sacerdocio]]
+- [[hebreos_6_promesa_esperanza_y_perseverancia|Hebreos 6: esperanza, ancla y sacerdocio]]
 - [[hebreos_8_pacto_mejor_y_servicio_celestial|Hebreos 8: pacto mejor y servicio celestial]]
 
 ## Créditos

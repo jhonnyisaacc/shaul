@@ -23,6 +23,7 @@ references:
 sources:
   - "https://www.youtube.com/watch?v=D8-iRb2Tyys"
   - "docs/scriptures/delitzsch/json/hebrews.json"
+  - "https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/Heb.txt"
 source_ids:
   - "youtube:D8-iRb2Tyys"
 translation: "[Delitzsch]"
@@ -42,10 +43,10 @@ Hebreos 13 convierte la confesión sobre Yehoshua en una forma comunitaria de vi
 
 | Referencia        | Texto local (Delitzsch, sin nikud)                                                      | Función en el argumento                                                          |
 | ----------------- | --------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- |
-| #hebreos_13_1-3   | **אהבת האחים תעמד**; **הכנסת ארחים אל תשכחו**; **זכרו את האסורים כאילו אתם אסורים עמם** | El amor se hace hospitalidad y memoria solidaria.                                |
-| #hebreos_13_4-6   | **האישות תיקר בכל**; **רחוקו מאהבת כסף**; **לא ארפך ולא אעזבך**                         | Integridad sexual y contentamiento descansan en la presencia prometida.          |
+| #hebreos_13_1-3   | אהבת האחים תעמד הכנסת ארחים אלתשכחו כייש אשר אספו מלאכים אלביתם ולא ידעו זכרו אתהאסורים כאלו אתם אסורים עמהם ואת הנלחצים באשר גםאתם בבשר | El amor se hace hospitalidad y memoria solidaria.                                |
+| #hebreos_13_4-6   | האישות תיקר בכל ויצועכם אליחלל אתהזנים ואתהמנאפים ידין אלהים רחקו מאהבת כסף והיו שמחים בחלקכם כי הוא אמר לא ארפך ולא אעזב עלכן נבטח ונאמר יהוה לי בעזרי לא אירא מהיעשה לי אדם                         | Integridad sexual y contentamiento descansan en la presencia prometida.          |
 | #hebreos_13_7-9   | **זכרו את מנהיגיכם**; **ישוע המשיח כמו שהוא אתמול כן היום**; **טוב לכונן לבנו בחסד**    | La comunidad discierne líderes por su palabra y conducta, no por novedades.      |
-| #hebreos_13_10-14 | **יש לנו מזבח**; **גם ישוע ענה מחוץ לשער**; **נצא נא אליו אל מחוץ למחנה**               | El altar y la salida se leen desde el sacrificio del Mesías y la ciudad futura.  |
+| #hebreos_13_10-14 | ישלנו מזבח אשר אין להם רשות למשרתי המשכן לאכל מעליו כיהבהמות אשר הובא דמן בקדש לכפרת החטא עלידי הכהן הגדול גויתיהן נשרפו מחוץ למחנה בעבור זאת גםישוע ענה מחוץ לשער למען קדש אתהעם בדמו לכן נצאהנא אליו אלמחוץ למחנה ונשא אתחרפתו כיפה איןלנו עיר עמדת כי אםאתהעיר העתידה אנחנו מבקשים               | El altar y la salida se leen desde el sacrificio del Mesías y la ciudad futura.  |
 | #hebreos_13_15-17 | **זבח תודה**; **לגמל חסד ולתת לאביונים**; **שמעו אל מנהיגיכם**                          | Alabanza, misericordia y responsabilidad comunitaria son sacrificios agradables. |
 
 ## Amor entrañable que se vuelve hospitalidad y cuidado
@@ -54,7 +55,7 @@ La clase observa que «amor fraternal» no describe una cortesía abstracta. Heb
 
 ## Santidad, corrección y límites de la comunidad
 
-En 13:4-6 el matrimonio, la sexualidad, el dinero y el contentamiento pertenecen a la misma formación de carácter. Eric insiste en que el amor entrañable no son solamente palabras amables: también incluye corrección, discernimiento y buscar el bien del hermano. Esa observación debe mantenerse junto con el propósito pastoral del pasaje; no autoriza humillación, control ni decisiones sin procedimiento. La afirmación de la clase sobre grados históricos de exclusión comunitaria y su referencia talmúdica no se fija aquí como hecho hasta localizar la fuente exacta. El texto sí permite afirmar que la comunidad debe distinguir entre los de dentro, el proceso de exhortación y el juicio que pertenece a Elohim sobre los de fuera.
+En 13:4-6 el matrimonio, la sexualidad, el dinero y el contentamiento pertenecen a la misma formación de carácter. Eric insiste en que el amor entrañable no son solamente palabras amables: también incluye corrección, discernimiento y buscar el bien del hermano. Esa observación debe mantenerse junto con el propósito pastoral del pasaje; no autoriza humillación, control ni decisiones sin procedimiento. La afirmación de la clase sobre grados históricos de exclusión comunitaria y su referencia talmúdica no se fija aquí como hecho hasta localizar la fuente exacta. Eric conecta esta exhortación con el discernimiento entre los de dentro y los de fuera; esa distinción pertenece a su lectura intertextual y no está enunciada en 13:4-6, que trata matrimonio, dinero y confianza.
 
 ## Líderes, fidelidad y un Mesías permanente
 
@@ -70,24 +71,24 @@ La nota de la clase vuelve de 13:13-14 a 13:15-16: si ya no se trata de ser sedu
 
 ## 13:18-25: oración, equipamiento y despedida #hebreos_13_18-25
 
-La exhortación comunitaria termina pidiendo oración: **התפללו בעדנו כי־בטוחים אנחנו כי־לבב טוב לנו ורצוננו להתנהג בכל־דבר בדרך ישרה׃** (13:18). Eric insiste en que la autoridad que reclama examen debe poder presentarse ante la comunidad con una conciencia limpia; el texto apoya la petición de oración y la afirmación de una conducta honorable, aunque no convierte “corazón bueno” en una reivindicación de impecabilidad. **πειθόμεθα** (_peithometha_) significa confiar o estar persuadidos; aquí introduce una convicción pública sobre la conducta, no una demanda de obediencia ciega.
+La exhortación comunitaria termina pidiendo oración: **התפללו בעדנו כי ידענו אשר שלמה מחשבתנו ונחפץ ללכת דרך ישרה בכל** (13:18). Eric insiste en que la autoridad que reclama examen debe poder presentarse ante la comunidad con una conciencia limpia; el texto apoya la petición de oración y la afirmación de una conducta honorable, aunque no convierte “corazón bueno” en una reivindicación de impecabilidad. **πειθόμεθα** (_peithometha_) significa confiar o estar persuadidos; aquí introduce una convicción pública sobre la conducta, no una demanda de obediencia ciega.
 
-El versículo 19 pide que la oración acelere el regreso del autor. La relación entre liderazgo y comunidad queda así en ambas direcciones: quienes guían deben rendir cuenta, pero también necesitan intercesión. Eric aplica esto contra un modelo de maestro intocable. Esa aplicación es pastoral, mientras la forma textual es una petición concreta: **ויותר אני מבקש מכם עשות זאת למען אשוב אליכם במהרה** —“les ruego mucho más que hagan esto, para que yo sea devuelto pronto a ustedes”.
+El versículo 19 pide que la oración acelere el regreso del autor. La relación entre liderazgo y comunidad queda así en ambas direcciones: quienes guían deben rendir cuenta, pero también necesitan intercesión. Eric aplica esto contra un modelo de maestro intocable. Esa aplicación es pastoral, mientras la forma textual es una petición concreta: **ואפצר בכם מאד לעשות הדבר הזה למען אושב אליכם במהרה** —“les ruego mucho más que hagan esto, para que yo sea devuelto pronto a ustedes”.
 
-La bendición final resume el argumento sacerdotal: **ואלהי השלום אשר העלה מן־המתים את־אדננו ישוע רעה הצאן הגדול בדם ברית עולם׃ הוא יכשיר אתכם בכל־טוב לעשות רצונו ויעשה בכם את־הרצוי לפניו על־ידי ישוע המשיח אשר־לו הכבוד לעולמי עולמים אמן׃** (13:20-21). Eric relaciona “paz” con la reconciliación producida por la sangre de la alianza y “equipar” con una comunidad formada para hacer la voluntad de Elohim. **καταρτίζω** (_katartizō_) significa ajustar, preparar, restaurar o capacitar; aquí su fuerza es que Elohim equipa activamente para la obra buena, no que declara madura a la comunidad sin proceso. La relación entre “sangre de alianza eterna” y la obra descrita en Hebreos 9–10 es canónica y directa; la definición de **עולם** (_olam_) como duración debe quedar sensible al contexto, no usarse como regla automática para todo pasaje.
+La bendición final resume el argumento sacerdotal: **ואלהי השלום אשר בדם ברית עולם העלה מןהמתים אתרעה הצאן הגדול אתישוע אדנינו הוא ישלימכם בכלמעשה טוב לעשות רצונו בפעלו בכם אתהרצוי לפניו בידישוע המשיח לו הכבוד לעולמי עולמים אמן** (13:20-21). Eric relaciona “paz” con la reconciliación producida por la sangre de la alianza y “equipar” con una comunidad formada para hacer la voluntad de Elohim. **καταρτίζω** (_katartizō_) significa ajustar, preparar, restaurar o capacitar; aquí su fuerza es que Elohim equipa activamente para la obra buena, no que declara madura a la comunidad sin proceso. La relación entre “sangre de alianza eterna” y la obra descrita en Hebreos 9–10 es canónica y directa; la definición de **עולם** (_olam_) como duración debe quedar sensible al contexto, no usarse como regla automática para todo pasaje.
 
-La carta cierra con una petición de tolerancia, un saludo y una bendición de gracia: **ואבקש מכם אחי סבלו נא דבר התוכחה כי־גם במעט דברים כתבתי אליכם׃** (13:22), seguida del anuncio sobre Timoteo y los saludos. Eric lee “palabra de exhortación” como una disciplina que busca preservar la comunidad, no como un permiso para humillar. **λόγος παρακλήσεως** (_logos paraklēseōs_) significa palabra de exhortación, ánimo o consuelo; su relación con la corrección es contextual y aproximada. El saludo final —**החסד עם־כלכם אמן**— devuelve toda la exhortación al favor inmerecido: la perseverancia comunitaria que describe el capítulo se practica bajo gracia, no como mérito que reemplaza la obra del Mesías.
+La carta cierra con una petición de tolerancia, un saludo y una bendición de gracia: **ואבקש מכם אחי שאונא דבר התוכחה כי כתבתי אליכם בקצרה** (13:22), seguida del anuncio sobre Timoteo y los saludos. Eric lee “palabra de exhortación” como una disciplina que busca preservar la comunidad, no como un permiso para humillar. **λόγος παρακλήσεως** (_logos paraklēseōs_) significa palabra de exhortación, ánimo o consuelo; su relación con la corrección es contextual y aproximada. El saludo final —**החסד עם־כלכם אמן**— devuelve toda la exhortación al favor inmerecido: la perseverancia comunitaria que describe el capítulo se practica bajo gracia, no como mérito que reemplaza la obra del Mesías.
 
 ## Hoja léxica
 
 | Forma            | Transliteración | Sentido normal y fuerza contextual    | Correspondencia y cautela                                                                                                         |
 | ---------------- | --------------- | ------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
 | **(φιλαδελφία)** | _philadelphia_  | amor fraternal                        | Equivalencia aproximada con «amor de hermano»; la asociación con **(רחמים)** (_rahamim_) es pedagógica, no identidad etimológica. |
-| **(ἔλεγχος)**    | _elenchos_      | reprensión, exposición o corrección   | Ayuda a explicar la corrección comunitaria; no justifica abuso ni autoritarismo.                                                  |
+| **(ἔλεγχος)**    | _elenchos_      | reprensión, exposición o corrección   | Término explicativo de la clase; no aparece como tal en el capítulo 13. La exhortación de 13:22 usa παράκλησις.                                                  |
 | **(ἡγούμενοι)**  | _hēgoumenoi_    | quienes guían o ejercen dirección     | No significa automáticamente «pastores»; la propuesta de Eric sobre liderazgo general debe mantenerse amplia.                     |
 | **(θυσία)**      | _thysia_        | sacrificio, ofrenda                   | En 13:15-16 se aplica a alabanza, bien y comunión; la extensión tipológica a cada detalle de la vaca roja es una inferencia.      |
 | **(ἁγιάζω)**     | _hagiazō_       | santificar, apartar para un uso santo | «Habilitar» expresa una aplicación pedagógica de Eric; no agota el campo semántico.                                               |
-| **(ἐπιμένω)**    | _epimenō_       | permanecer, continuar                 | La idea de permanencia organiza 13:1, pero no debe confundirse con una prueba de todas las conexiones hebreas propuestas.         |
+| **(μένω)**      | _menō_       | permanecer, continuar                 | La forma μενέτω de 13:1, de μένω, manda que el amor fraternal permanezca; pero no debe confundirse con una prueba de todas las conexiones hebreas propuestas.         |
 
 ## Mapa de la enseñanza de Eric
 

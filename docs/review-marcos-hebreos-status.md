@@ -33,6 +33,22 @@ are retained as classroom interpretations with the textual distinctions clear.
 Existing video IDs are preserved; the previously unattributed notes now identify
 the verified part-6 source. No raw transcript or Scripture corpus is committed.
 
-Completed: 6/34 notes. Remaining: Hebrews 7–13 and all 21 Marcos notes. Source
-recovery is being attempted with the repository caption tool; unavailable
-sources will remain explicit rather than receiving invented quotations.
+Completed: 6/34 notes. Remaining: Hebrews 7–13 and all 21 Marcos notes. Caption recovery for all eight gaps was attempted with the repository tool and
+its yt-dlp fallback; none yielded a transcript. The gaps will be made explicit
+in the affected Marcos notes.
+
+## Batch 14 — Hebrews 7–13
+
+Completed all 13 existing Hebrews notes (13/34 total). Consolidated repeated
+chapter 7–9 repair sections while preserving the class arguments, restored
+local Hebrew quotations including inline chapter 12–13 citations, repaired
+chapter-6 note links, and corrected misplaced Greek terms. Distinguished the
+chapter-8 service adjective from the covenant/promises comparative, chapter-9
+figure and waiting verbs, and chapter-13 remain verb. Restored the explicit
+Greek constructor term in Hebrews 11:10 and Eric’s discussion at 1:06:35; his
+philosophical and transmission assertions remain pending precise sources.
+Repaired malformed teaching-map rows and retained every registered video ID.
+
+Validation: all 13 transcript-quality and YouTube-hygiene checks pass; Bun
+frontmatter, local Scripture readiness, all verse conventions, local quotation
+comparison, and whitespace checks pass. Remaining: all 21 Marcos notes.
