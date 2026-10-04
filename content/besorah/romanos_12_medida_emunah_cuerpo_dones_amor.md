@@ -18,6 +18,10 @@ references:
   - "#mishlei_3_7"
   - "#tehilim_68_19"
 sources:
+  - "docs/scriptures/oe/json/proverbs/25.json"
+  - "docs/scriptures/oe/json/deuteronomy/32.json"
+  - "https://github.com/morphgnt/sblgnt/blob/master/66-Ro-morphgnt.txt"
+  - "https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/Rom.txt"
   - "https://www.youtube.com/watch?v=8X6RZ978QNo"
   - "docs/scriptures/tth/json/romanos.json"
   - "docs/scriptures/tth/json/vaikra.json"
@@ -25,7 +29,7 @@ sources:
   - "docs/scriptures/tth/json/tehilim.json"
 source_ids:
   - "youtube:8X6RZ978QNo"
-translation: "[TTH]"
+translation: "[TTH, OE]"
 ---
 
 # Tesis
@@ -40,13 +44,15 @@ Esta nota organiza una clase pública sobre Romanos 12 y sigue el capítulo en o
 
 | Unidad | Texto local | Función en el argumento |
 | --- | --- | --- |
-| #romanos_12_1-2 | «Establezcan sus cuerpos como sacrificio vivo, santo y acepto a Elohim, el servicio prudente de ustedes»; «transfórmense por la renovación de la mente». | La respuesta a la misericordia es corporal, santa y discernidora, no una emoción privada. |
-| #romanos_12_3-5 | «No se crean más sabios de lo que es adecuado ser sabio»; «muchos somos un cuerpo en el Mesías». | La sobriedad precede a la diversidad de funciones y excluye la superioridad personal. |
-| #romanos_12_6-8 | «Habiendo para ustedes diversos dones»; el que sirve, enseña, consuela, da, supervisa o hace misericordia debe hacerlo en su servicio. | Los dones son encargos para edificación, no posesiones para exhibición. |
-| #romanos_12_9-13 | «El amor sea sin hipocresía»; «con honra, dense preferencia»; «siguiendo la hospitalidad». | El amor se verifica en bien, honra, diligencia, compartir y acogida. |
-| #romanos_12_14-21 | «Bendigan a sus perseguidores»; «no se venguen ustedes mismos»; «vence con el bien al mal». | La comunidad no replica el mal ni usurpa la venganza de יהוה. |
+| #romanos_12_1-2 | TTH: Por lo tanto, les pido, hermanos míos, por las compasiones de Elohim, que establezcan sus cuerpos como sacrificio vivo, santo y acepto a Elohim, el servicio prudente de ustedes, y no se hagan semejantes a este olam¹⁴⁴, sino que transfórmense por la renovación de la mente, para que examinen para ustedes mismos cuál es la voluntad de Elohim, buena, acepta y completa. | La respuesta a la misericordia es corporal, santa y discernidora, no una emoción privada. |
+| #romanos_12_3-5 | TTH: Porque yo digo, por el favor que me ha sido dado, a todos los que están entre ustedes, que no se crean más sabios de lo que es adecuado ser sabio, sino que cada hombre actúe sabiamente en humildad, conforme a la medida¹⁴⁵ de la emunah¹⁴⁶ que Elohim le ha repartido. Porque como en un cuerpo tenemos muchos miembros, pero todos los miembros no tienen una misma obra, así muchos somos un cuerpo en el Mesías, pero cada uno, miembros los unos de los otros. | La sobriedad precede a la diversidad de funciones y excluye la superioridad personal. |
+| #romanos_12_6-8 | TTH: Habiendo para ustedes diversos dones, según el favor que nos fue dado, si profecía, sea conforme a la medida de la emunah; si servicio, en el servicio; o el que enseña, en la enseñanza. y si consuela, en la consolación; el que da, sea con integridad; el que supervisa, con diligencia¹⁴⁷; el que hace misericordia, con alegría; | Los dones son encargos para edificación, no posesiones para exhibición. |
+| #romanos_12_9-13 | TTH: El amor sea sin hipocresía: aborrezcan el mal, adhiéranse al bien. Con amor fraternal ámense los unos a los otros; con honra, dense preferencia los unos a los otros. En la diligencia, no perezosos; ardientes en Rúaj, sirviendo a יהוה. En la esperanza, gozosos; en la estrechez, sufrientes; en tefilah¹⁴⁸, constantes. En cuanto a las necesidades de los santos, compartiendo; siguiendo la hospitalidad. | El amor se verifica en bien, honra, diligencia, compartir y acogida. |
+| #romanos_12_14-21 | TTH: Bendigan a sus perseguidores, bendigan y no excluyan. Alégrense con los que se alegran y lloren con los que lloran. Unidos entre ustedes; sabios no en las cosas elevadas, sino conduciéndose sabios en las cosas humildes; no sean sabios en sus ojos. No paguen a nadie mal por mal, procurando lo bueno delante de todos los hombres. Si es posible, en cuanto dependa de ustedes, estando en shalom¹⁴⁹ con todos los hombres. No se venguen ustedes mismos, amados míos, sino den lugar al calor de la nariz, porque está escrito: Para Mí es la venganza y la retribución¹⁵⁰, dice יהוה. Por eso, si tiene hambre tu enemigo, dale de comer pan; si tiene sed, dale de beber agua; porque haciendo esto, carbones de fuego amontonarás sobre su cabeza. No seas vencido por el mal, sino vence con el bien al mal. | La comunidad no replica el mal ni usurpa la venganza de יהוה. |
 
 La lectura local también conserva el trasfondo práctico: #vayikra_19_17-18 manda amonestar al compañero sin cargar por él pecado y amar al compañero; #mishlei_3_7 dice: «No seas sabio en tus ojos, teme a יהוה y apártate del mal». En #tehilim_68_19, la bendición atribuye a Adonai el sostener día a día y al Elohim de la salvación.
+| #devarim_32_35 | OE: לי נקם ושלם לעת תמוט רגלם כי קרוב יום אידם וחש עתדת למו | Antecedente de la retribución divina. |
+| #mishlei_25_21-22 | OE: אם רעב שנאך האכלהו לחם ואם צמא השקהו מים כי גחלים אתה חתה על ראשו ויהוה ישלם לך | Hacer bien al enemigo; carbones como imagen interpretada. |
 
 ## Un cuerpo ofrecido y una mente renovada
 
@@ -54,7 +60,7 @@ La enseñanza comienza con el movimiento de Romanos 12: «por lo tanto». El sac
 
 **(λογικὴν λατρείαν)**, _logikēn latreian_, puede traducirse como «servicio/culto razonable» o «servicio conforme a la palabra». «Servicio prudente» es una aproximación contextual útil para la exposición, pero no debe afirmarse que _logikos_ sea simplemente una derivación hebrea de _logos_ o que su sentido quede demostrado por una sola retraducción. La clase insiste en que la renovación no es sabiduría humana: #romanos_12_2 la vincula con discernir la voluntad buena, aceptable y completa de Elohim.
 
-**(μεταμορφόω)**, _metamorphoō_, significa transformar o cambiar de forma. La fuerza contextual es una transformación continua que alcanza la mente y produce discernimiento. «Sean transformados» hace visible que el texto no presenta una autosuperación aislada. La clase habla de la renovación del _ruaj_ y la relaciona con la sabiduría de Mishlei; esa relación es una conexión canónica razonable, no una equivalencia léxica exacta entre _nous_ y רוּחַ.
+**(μεταμορφόω)**, _metamorphoō_, significa transformar o cambiar de forma. La fuerza contextual es una transformación continua que alcanza la mente y produce discernimiento. «Sean transformados» hace visible que el texto no presenta una autosuperación aislada. La clase habla de la renovación del _ruaj_ y la relaciona con la sabiduría de Mishlei; esa relación es una conexión canónica razonable, no una equivalencia léxica exacta entre _nous_ y רוח.
 
 ## La medida de la emunah y la diversidad de dones
 
@@ -63,6 +69,8 @@ En 12:3 Pablo confronta la autosuficiencia: no se debe ser más sabio de lo apro
 **(μέτρον πίστεως)**, _metron pisteōs_, significa medida de fe, confianza o fidelidad. La relación pedagógica con **(אמונה)**, _emunah_, «firmeza, fidelidad o confianza», es aproximada; no autoriza a borrar todos los matices de _pistis_. En esta nota, «medida de la emunah» conserva el vocabulario de la clase, pero el sentido se verifica por el argumento: una misma pertenencia al cuerpo, funciones diversas y humildad común.
 
 La clase enseña que un don no es propiedad privada. El que tiene una función de enseñanza no queda exento de servir, y el que administra recursos debe hacerlo con integridad. Esta aplicación recibe apoyo cualificado de 12:6-8: Pablo asigna maneras distintas de actuar, pero no funda castas espirituales. El verbo y la responsabilidad importan más que una etiqueta de prestigio. La misericordia debe hacerse con alegría y la supervisión con diligencia; la autoridad del servicio queda sometida al bien del cuerpo.
+
+Aproximadamente 00:22:20–00:25:00, Eric compara la medida con objetos de una dimensión determinada e identifica el patrón con Yehoshua, el varón completo. Esa analogía explica su rechazo a competir por cantidades de fe. El texto de 12:3 dice **μέτρον πίστεως**, pero no nombra allí a Yehoshua como la medida; la identificación es su lectura canónica. En 12:6 aparece **ἀναλογίαν τῆς πίστεως**, proporción/correspondencia de fe: otro sustantivo, aunque TTH también lo vierta como «medida».
 
 ## Amor sin hipocresía: corrección, preferencia y hospitalidad
 

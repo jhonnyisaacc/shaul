@@ -19,10 +19,16 @@ references:
   - "#devarim_32_21"
   - "#yeshayahu_59_20"
 sources:
+  - "docs/scriptures/oe/json/isaiah/27.json"
+  - "docs/scriptures/oe/json/isaiah/59.json"
+  - "docs/scriptures/oe/json/deuteronomy/32.json"
+  - "docs/scriptures/oe/json/ikings/19.json"
+  - "https://github.com/morphgnt/sblgnt/blob/master/66-Ro-morphgnt.txt"
+  - "https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/Rom.txt"
   - "https://www.youtube.com/live/9IScJNK0fwo"
   - "docs/scriptures/tth/json/romanos.json"
   - "docs/scriptures/delitzsch/json/romans.json"
-translation: "[TTH, Delitzsch]"
+translation: "[TTH, Delitzsch, OE]"
 source_ids:
   - "youtube:9IScJNK0fwo"
 ---
@@ -35,7 +41,7 @@ Romanim 11 enseña que יהוה no desecha a su pueblo, sostiene un remanente po
 
 - Fuente principal: clase en vivo sobre Romanim 11; la nota sintetiza el argumento del olivo y del remanente.
 - Se prioriza TTH y Delitzsch para leer שארית, בחירת החסד y la imagen del olivo en clave hebrea.
-- La lectura de #yeshayahu_59_20 como retorno (u'lashiv) queda marcada como pendiente de verificación textual.
+- La lectura de retorno se contrasta con OE y la cita griega de Romanos 11:26, conservando sus diferencias de dirección y agencia.
 
 ## Texto base
 
@@ -51,19 +57,19 @@ Romanim 11 enseña que יהוה no desecha a su pueblo, sostiene un remanente po
 
 ## Hoja de comparación
 
-| Referencia       | Hebreo (Delitzsch, sin nikud)                                                                   | TTH (ES)                                                                                                                                                                                          | Observación                                                      |
-| ---------------- | ----------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------- |
-| #romanos_11_1    | ובכן אמר אני הזנח האלהים אתעמו חלילה כי גםאנכי ישראלי מזרע אברהם למטה בנימין                    | Y por lo tanto, digo, ¿ha desechado Elohim a su pueblo? ¡Profanación! Porque yo también soy israelí, de la simiente de Abraham, de la tribu de Biniamín.                                          | חלילה niega el abandono total del pueblo.                        |
-| #romanos_11_2    | לאזנח האלהים אתעמו אשר ידעו מקדם הלא תדעו אתאשר הכתוב אמר באליהו והוא צעק אלהאלהים עלישראל לאמר | No ha desechado Elohim a su pueblo que desde el Kédem lo conoció. ¿No saben lo que dice la Escritura en Eliyáhu, cuando está haciendo tefilah a יהוה acerca de Israel, diciendo:                  | ידע מקדם = conocimiento previo de יהוה hacia su pueblo.          |
-| #romanos_11_4    | ומהענה אתו דבר אלהים השארתי לי שבעת אלפים איש אשר לאכרעו לבעל                                   | Pero, ¿qué le responde la palabra de Elohim? He dejado en Israel siete mil, todas las rodillas que no se han inclinado a Baal.                                                                    | שבעת אלפים como símbolo de remanente, no censo literal cerrado.  |
-| #romanos_11_5    | וכן גםבימינו נשארה שארית כבחירת החסד                                                            | Así también en este tiempo ha habido un remanente conforme a la elección del favor.                                                                                                               | שארית por חסד, no por obras.                                     |
-| #romanos_11_7    | ועתה מההוא את אשרבקש ישראל לא השיג רק הנבחרים הם השיגו והאחרים השמינו לבבם                      | ¿Y qué es esto? Lo que buscaba Israel no lo alcanzó; pero la elección lo ha alcanzado, y los otros estuvieron cubiertos con velo,                                                                 | Contraste búsqueda por obras vs elección por favor.              |
-| #romanos_11_8    | — (sin Delitzsch local en este verso)                                                           | como está escrito: Porque ha derramado sobre ustedes יהוה un espíritu de sueño profundo, y Él ha cerrado sus ojos, y a sus cabezas, ha cubierto con velo, hasta este día.                         | Endurecimiento como permiso temporal (poros), no abandono final. |
-| #romanos_11_11   | ועתה אני אמר הנכשלו למען יפלו חלילה כי בפשעם באה הישועה לגוים למען הקניאם                       | Por lo tanto, digo, ¿tropezaron para que caigan? ¡Profanación! Sino que por el tropiezo de ellos, la salvación ha sido para los gentiles, para provocarlos a celo.                                | Conecta con #devarim_32_21 y la provocación a celo.              |
-| #romanos_11_12   | ואםפשעם היה לעשר העולם ונזקם לעשר הגוים מלאם עלאחת כמה וכמה                                     | Y si su transgresión es la riqueza del olam, y su caída la riqueza de los gentiles, ¿cuánto más será su llenura?                                                                                  | מלאם = retorno (melo) de los dispersos hacia יהוה.               |
-| #romanos_11_16   | ואםהתרומה קדש העסה קדש כמוה ואםהשרש קדש הענפים קדש כמוהו                                        | Y si la primicia es santa, también la masa; y si la raíz es santa, también las ramas.                                                                                                             | Reshit (Yeshua) y raíz (Mashiaj) santifican la masa y las ramas. |
-| #devarim_32_21   | הם קנאוני בלא אל כעסוני בהבליהם ואני אקניאם בלא עם בגוי נבל אכעיסם                              | Ellos me provocaron a celos con lo que no es Elohim, me provocaron rechazo con sus vanidades. Y Yo, los provocaré a celos con lo que no es pueblo; con una nación marchita les provocaré rechazo, | Antecedente del celo en #romanos_11_11.                          |
-| #yeshayahu_59_20 | ובא לציון גואל ולשבי פשע ביעקב נאם יהוה                                                         | Y vendrá el Redentor de Tzión, y a hacer volver la transgresión de Yaakov –declaración de יהוה.                                                                                                   | Lectura de retorno pendiente de cotejo detallado.                |
+| Referencia | Texto local | Función en el argumento |
+| --- | --- | --- |
+| #romanos_11_1-6 | TTH: Y por lo tanto, digo, ¿ha desechado Elohim a su pueblo? ¡Profanación! Porque yo también soy israelí¹²⁶, de la simiente de Abraham, de la tribu de Biniamín. No ha desechado Elohim a su pueblo que desde el Kédem¹²⁷ lo conoció. ¿No saben lo que dice la Escritura en Eliyáhu, cuando está haciendo tefilah a יהוה acerca de Israel, diciendo: יהוה, a tus profetas han matado con espada; y he quedado yo, sólo yo, y buscan mi vida para tomarla¹²⁸? Pero, ¿qué le responde la palabra de Elohim? He dejado en Israel¹²⁹ siete mil, todas las rodillas que no se han inclinado a Baal¹³⁰. Así también en este tiempo ha habido un __remanente__ conforme a la elección del favor¹³¹. Y si es por favor, ya no es por obras; porque si fuera así, el favor ya no sería favor. | No desecho y remanente por gracia. |
+| #romanos_11_7-12 | TTH: ¿Y qué es esto? Lo que buscaba Israel no lo alcanzó; pero la elección lo ha alcanzado, y los otros estuvieron cubiertos con velo, como está escrito: Porque ha derramado sobre ustedes יהוה un espíritu de sueño profundo, y Él ha cerrado sus ojos, y a sus cabezas, ha cubierto con velo¹³², hasta este día. Y David dijo: Será su mesa delante de ellos por trampa, y para los que están en bienestar, por señuelo. Se oscurecerán sus ojos de ver, y sus lomos continuamente haz agitar¹³³. Por lo tanto, digo, ¿tropezaron para que caigan? ¡Profanación! Sino que por el tropiezo de ellos, la salvación ha sido para los gentiles, para provocarlos a celo. Y si su transgresión es la riqueza del olam, y su caída la riqueza de los gentiles, ¿cuánto más será su llenura? | Elección, endurecimiento y celo. |
+| #romanos_11_13-16 | TTH: Y a ustedes, gentiles, hablo yo; y conforme soy enviado de los gentiles, mi servicio honro, quizá pueda provocar a celo a los de mi carne y hacer salvos a algunos de ellos. Porque si su rechazo es la reconciliación del olam, ¿qué será la toma, sino la vida de los muertos? Y si la primicia es santa, también la masa; y si la raíz es santa, también las ramas. | Naciones, primicia y raíz. |
+| #romanos_11_17-24 | TTH: Y si algunas de las ramas son quebradas, y tú siendo acebuche¹³⁴, fuiste plantado en ellas, y has llegado a ser aliado de la raíz y el aceite del olivo, no te jactes contra las ramas; y si te jactas, no cargas tú a la raíz, sino que la raíz te carga a ti. Y dirás tú: Las ramas fueron quebradas para yo ser plantado. Bien; porque no se afirmaron fueron quebradas, y tú por la emunah¹³⁵ estás en pie; no te enorgullezcas, sino teme. Y si Elohim no perdonó a las ramas que son conforme al camino de la naturaleza, no te perdonará a ti. Por eso, mira la bondad y la severidad de Elohim. En ellas que cayeron, la severidad; y sobre ti, la bondad, si permaneces en la bondad, y si no, tú también serás cortado. Y también ellos, si no permanecen en la falta de emunah, serán plantados, porque poderoso es Elohim para volverlos a plantar. Y si tú fuiste cortado del árbol que conforme a su naturaleza es acebuche, y contra el camino de la naturaleza fuiste plantado en el olivo bueno, ¿cuánto más estos, que conforme a su naturaleza, serán plantados en el propio olivo? | Injerto, advertencia y permanencia. |
+| #romanos_11_25-32 | TTH: Porque no quiero que desconozcan, hermanos, este misterio¹³⁶, para que no sean sabios en sus propios ojos, que ha acontecido un velo a algunos de Israel, hasta que entre la llenura de las naciones¹³⁷. Y así todo Israel será salvo; como está escrito: Y vendrá el Redentor de Tzión, y a hacer volver la transgresión de Yaakov Y Yo, este es mi pacto con ellos¹³⁸, cuando Yo cargue sus pecados. Porque conforme a la Besorah¹³⁹, son enemigos por causa de ustedes; pero conforme a la elección, amados por causa de los padres. Porque no se retractará Elohim acerca de sus dones y su llamamiento. Porque como también ustedes antes no fueron afirmados¹⁴⁰ por Elohim, pero ahora fueron amados ante la falta de Elohim de estos, así también estos ahora no se han afirmado por el favor a ustedes, para que también ellos sean amados. Porque encerró Elohim a todos en falta de emunah para amar a todos. | Misterio, pacto y misericordia. |
+| #romanos_11_33-36 | TTH: ¡Oh profundidad de la riqueza de la sabiduría y el conocimiento de Elohim! ¡Cuán inescrutables son sus juicios e ininvestigables sus caminos! ¿Quién midió al Rúaj¹⁴¹ de יהוה, y qué hombre su consejo dará a conocer? ¿A quién pidió consejo y quién le dio entendimiento¹⁴²?, ¿O quién le dio primero, y se le pagará? Porque de Él, por Él, y hacia Él es todo, y para Él es la gloria por los tiempos¹⁴³. Amén. | Asombro y doxología. |
+| #romanos_11_8 | Delitzsch: ככתוב נתן להם האלהים רוח תרדמה עינים לא לראות ואזנים לא לשמע עדהיום הזה | Testigo hebreo disponible. |
+| #melajim_alef_19_18 | OE: והשארתי בישראל שבעת אלפים כל הברכים אשר לא כרעו לבעל וכל הפה אשר לא נשק לו | Siete mil del relato de Eliyáhu. |
+| #devarim_32_21 | OE: הם קנאוני בלא אל כעסוני בהבליהם ואני אקניאם בלא עם בגוי נבל אכעיסם | Celo como antecedente. |
+| #yeshayahu_59_20-21 | OE: ובא לציון גואל ולשבי פשע ביעקב נאם יהוה ואני זאת בריתי אותם אמר יהוה רוחי אשר עליך ודברי אשר שמתי בפיך לא ימושו מפיך ומפי זרעך ומפי זרע זרעך אמר יהוה מעתה ועד עולם | Redentor hacia Tziyón, retorno y pacto. |
+| #yeshayahu_27_9 | OE: לכן בזאת יכפר עון יעקב וזה כל פרי הסר חטאתו בשומו כל אבני מזבח כאבני גר מנפצות לא יקמו אשרים וחמנים | Quitar la iniquidad de Yaakov. |
 
 ## Hoja léxica
 
@@ -80,7 +86,7 @@ Romanim 11 enseña que יהוה no desecha a su pueblo, sostiene un remanente po
 
 ### #romanos_11_1
 
-- Adonai no desecha a su pueblo; halila.
+- יהוה no desecha a su pueblo; halila.
 - La nota distingue "israelí" en sentido hebreo y no meramente identitario por carne.
 
 ### #romanos_11_2
@@ -105,8 +111,12 @@ Romanim 11 enseña que יהוה no desecha a su pueblo, sostiene un remanente po
 
 ### #romanos_11_16
 
-- El reshit (Yeshua) santifica la masa.
+- El reshit (Yehoshua) santifica la masa.
 - La raíz (Mashiaj) santifica las ramas.
+
+La clase identifica primicia y raíz con el Mesías (aproximadamente 00:44:17–00:46:27), enlazando la porción apartada de la masa con la santificación de la comunidad. **ἀπαρχή**, _aparchē_, es primicia en 11:16; Delitzsch usa **תרומה**, _terumah_, ofrenda apartada. El versículo compara primicia/masa y raíz/ramas, pero no nombra allí al Mesías como referente exclusivo. La identificación pertenece a la lectura canónica de Eric.
+
+Los siete mil proceden de #melajim_alef_19_18: el relato cuantifica rodillas que no se inclinaron ante Baal. Romanos 11:5 lo aplica al remanente de su tiempo. Su extensión a símbolo atemporal se conserva como propuesta, sin negar el número del relato. **λεῖμμα**, _leimma_, es remanente en 11:5; la gracia se contrasta explícitamente con obras en 11:6.
 
 ## Conexiones
 
@@ -125,16 +135,8 @@ Romanim 11 enseña que יהוה no desecha a su pueblo, sostiene un remanente po
 
 ## Pendiente de verificar
 
-- [ ] Revisar redacción del bloque sobre #yeshayahu_59_20 y la lectura "u'lashiv" con referencia textual trazable.
-- [ ] Delitzsch local para #romanos_11_8.
-
-## Reparación desarrollada: remanente, injerto y humildad
-
-La enseñanza pública de Eric lee Romanos 11 como respuesta a una pregunta decisiva: ¿ha desechado Elohim a su pueblo? La respuesta de Pablo es una negación enfática y autobiográfica: él mismo es israelí, descendiente de Abraham y de la tribu de Biniamín. La observación de la clase sobre un remanente preservado por favor recibe **apoyo textual directo** en #romanos_11_1-6. No obstante, definir con precisión quién integra cada categoría posterior requiere seguir todo el capítulo; «remanente» no debe convertirse en una etiqueta para excluir a otros.
-
-En #romanos_11_5, **(λεῖμμα)**, _leimma_, significa remanente, resto o parte que queda; su fuerza contextual es la existencia de una porción preservada «conforme a elección de gracia». «Remanente» es una traducción **directa y aproximada**, mientras convertir el sustantivo en un censo permanente sería **ilegítimo**. El hebreo **(שארית)**, _she'erit_, significa resto o remanente; el acercamiento con _leimma_ es **pedagógico y contextual**, no una identidad automática entre las dos lenguas. **(χάρις)**, _charis_, significa gracia, favor o don; en 11:6 establece que el fundamento no es una mezcla indefinida de gracia y obras. «Favor» es **aproximado**, porque el argumento exige atender a la oposición que Pablo establece.
-
-La imagen del olivo aparece después como advertencia contra la jactancia. **(ἐγκεντρίζω)**, _enkentrizō_, significa injertar; en #romanos_11_17-24 describe la incorporación de ramas silvestres y la posibilidad de que ramas naturales sean reintegradas. «Injertar» es **directo en el campo agrícola**, mientras usar el verbo para definir identidades modernas o una jerarquía étnica fija sería **inferencial**. **(ῥίζα)**, _rhiza_, significa raíz; en 11:16-18 sostiene la dependencia de las ramas respecto de la raíz, pero el sustantivo aislado no decide todas las identificaciones teológicas propuestas por la clase. La observación de Eric sobre una raíz santa conserva el punto de dependencia; debe acompañarse del mandato «no te jactes» y de la posibilidad de permanecer por emunah.
+- [x] Cotejar OE 59:20 y SBLGNT Romanos 11:26: ולשבי no es causativo y los testigos difieren en dirección y agencia.
+- [x] Reproducir Delitzsch disponible para #romanos_11_8.
 
 ## Mapa de la enseñanza de Eric
 
@@ -149,6 +151,8 @@ Romanos 11 no permite usar la elección para producir superioridad. El olivo es 
 En #romanos_11_25-32, **(μυστήριον)**, _mystērion_, significa secreto o realidad antes oculta; aquí introduce una afirmación que los destinatarios no deben ignorar, no un conocimiento esotérico reservado a especialistas. **(πώρωσις)**, _pōrōsis_, significa endurecimiento o insensibilidad; en 11:25 nombra una condición parcial y temporal dentro del argumento de Pablo. «Endurecimiento» es **directo**, mientras describir su mecanismo psicológico o cronológico completo sería **inferencial**. **(ἔλεος)**, _eleos_, significa misericordia o compasión; el cierre insiste en que la desobediencia de todos queda confrontada con la misericordia de Elohim. La clase puede hablar de retorno y restauración, pero el texto obliga a dejar el desenlace bajo la misericordia y no bajo un esquema de mérito étnico.
 
 La doxología final (#romanos_11_33-36) es también una salvaguarda metodológica. Pablo no termina con una tabla de control humano sobre los designios de Elohim, sino con asombro ante su riqueza, sabiduría y conocimiento. Por eso la observación de Eric sobre la raíz y el retorno puede alimentar humildad y esperanza; pierde respaldo si se convierte en una clave que permite al intérprete dominar el misterio. La enseñanza queda mejor descrita así: Elohim no desecha caprichosamente, preserva un remanente por gracia, incorpora a las naciones sin permitir jactancia y mantiene abierta la esperanza de misericordia.
+
+OE en #yeshayahu_59_20 dice **ובא לציון גואל ולשבי פשע ביעקב**, «vendrá a Tziyón un redentor y a quienes se vuelven de la transgresión en Yaakov». **ולשבי**, _uleshavei_, contiene un participio plural de שוב; no es **ולשיב**, una forma causativa «para hacer volver». SBLGNT en Romanos 11:26 dice **Ἥξει ἐκ Σιὼν ὁ ῥυόμενος, ἀποστρέψει ἀσεβείας ἀπὸ Ἰακώβ**: el libertador viene «de Tziyón» y apartará las impiedades de Yaakov. TTH en Romanos sigue la dirección de la cita apostólica. El cambio de «a» a «de» y la distinta agencia del retorno quedan visibles; la restauración que propone Eric no permite corregir silenciosamente OE para hacer coincidir los testigos. Romanos 11:27 también acerca pacto y quitar pecados a Yeshayahu 59:21 y 27:9.
 
 ## Ver también
 

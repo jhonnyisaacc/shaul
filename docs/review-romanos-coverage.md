@@ -4,14 +4,14 @@ Scope: **43 existing notes**: 14 Eric chapter studies, 28 Somos pericope studies
 
 | Note | Channel/provenance | Source IDs | Status | Caption gap |
 | --- | --- | --- | --- | --- |
-| [Romanos 10: la emunah es por el oír](../content/besorah/romanos_10.md) | Somos | [`ceJ84959XJU`](https://www.youtube.com/watch?v=ceJ84959XJU) | Pending | None |
-| [Romanos 10: las dos justicias y la palabra cercana](../content/besorah/romanos_10_dos_justicias_palabra_cercana.md) | Somos | [`f4-BwQh5UjI`](https://www.youtube.com/watch?v=f4-BwQh5UjI) | Pending | None |
-| [Romanos 10: justicia, anuncio y la palabra cercana](../content/besorah/romanos_10_justicia_anuncio_la_palabra_cercana.md) | Eric | [`ililQLS9UJE`](https://www.youtube.com/watch?v=ililQLS9UJE); [`zLynBpmjJr0`](https://www.youtube.com/watch?v=zLynBpmjJr0) | Pending | None |
-| [Romanos 11: Remanente, Elección y Olivo Natural](../content/besorah/romanos_11.md) | Somos | [`9IScJNK0fwo`](https://www.youtube.com/watch?v=9IScJNK0fwo) | Pending | None |
-| [Romanos 11: olivo, misericordia y esperanza para Israel](../content/besorah/romanos_11_olivo_misericordia_esperanza_para_Israel.md) | Eric | [`MHLbizeZrPc`](https://www.youtube.com/watch?v=MHLbizeZrPc); [`bL-3YKdV0wo`](https://www.youtube.com/watch?v=bL-3YKdV0wo) | Pending | None |
-| [Romanos 12: profecía y llamado a la teshuvah](../content/besorah/romanos_12.md) | Raw notes; video unassigned | None assigned | Pending | None |
-| [Romanos 12: culto vivo, dones y amor práctico](../content/besorah/romanos_12_culto_vivo_dones_amor_practico.md) | Eric | [`8z-3MkpomOo`](https://www.youtube.com/watch?v=8z-3MkpomOo) | Pending | None |
-| [Romanos 12: la medida de la emunah en un cuerpo que sirve](../content/besorah/romanos_12_medida_emunah_cuerpo_dones_amor.md) | Somos | [`8X6RZ978QNo`](https://www.youtube.com/watch?v=8X6RZ978QNo) | Pending | None |
+| [Romanos 10: la emunah es por el oír](../content/besorah/romanos_10.md) | Somos | [`ceJ84959XJU`](https://www.youtube.com/watch?v=ceJ84959XJU) | Reviewed | None |
+| [Romanos 10: las dos justicias y la palabra cercana](../content/besorah/romanos_10_dos_justicias_palabra_cercana.md) | Somos | [`f4-BwQh5UjI`](https://www.youtube.com/watch?v=f4-BwQh5UjI) | Reviewed | None |
+| [Romanos 10: justicia, anuncio y la palabra cercana](../content/besorah/romanos_10_justicia_anuncio_la_palabra_cercana.md) | Eric | [`ililQLS9UJE`](https://www.youtube.com/watch?v=ililQLS9UJE); [`zLynBpmjJr0`](https://www.youtube.com/watch?v=zLynBpmjJr0) | Reviewed | None |
+| [Romanos 11: Remanente, Elección y Olivo Natural](../content/besorah/romanos_11.md) | Somos | [`9IScJNK0fwo`](https://www.youtube.com/watch?v=9IScJNK0fwo) | Reviewed | None |
+| [Romanos 11: olivo, misericordia y esperanza para Israel](../content/besorah/romanos_11_olivo_misericordia_esperanza_para_Israel.md) | Eric | [`MHLbizeZrPc`](https://www.youtube.com/watch?v=MHLbizeZrPc); [`bL-3YKdV0wo`](https://www.youtube.com/watch?v=bL-3YKdV0wo) | Reviewed | None |
+| [Romanos 12: profecía y llamado a la teshuvah](../content/besorah/romanos_12.md) | Raw notes; video unassigned | None assigned | Reviewed | None |
+| [Romanos 12: culto vivo, dones y amor práctico](../content/besorah/romanos_12_culto_vivo_dones_amor_practico.md) | Eric | [`8z-3MkpomOo`](https://www.youtube.com/watch?v=8z-3MkpomOo) | Reviewed | None |
+| [Romanos 12: la medida de la emunah en un cuerpo que sirve](../content/besorah/romanos_12_medida_emunah_cuerpo_dones_amor.md) | Somos | [`8X6RZ978QNo`](https://www.youtube.com/watch?v=8X6RZ978QNo) | Reviewed | None |
 | [Romanos 13: el amor al compañero llena la Torá](../content/besorah/romanos_13_amor_al_companero_tora_y_vida_comun.md) | Somos | [`_5x1rBaSoNk`](https://www.youtube.com/watch?v=_5x1rBaSoNk) | Pending | None |
 | [Romanos 13: autoridad, discernimiento y un testimonio íntegro](../content/besorah/romanos_13_autoridad_discernimiento_y_testimonio.md) | Somos | [`47wv6TT5NVg`](https://www.youtube.com/watch?v=47wv6TT5NVg) | Pending | None |
 | [Romanos 13: autoridades, amor y vigilancia](../content/besorah/romanos_13_autoridades_amor_vigilancia.md) | Eric | [`Wvj5LCGsSLw`](https://www.youtube.com/watch?v=Wvj5LCGsSLw) | Pending | None |
@@ -77,3 +77,11 @@ Batch 27 passed push/PR editorial CI (37234851823, 37234854701); Vercel remained
 **28/43 notes reviewed.** Corrected the false caption-unavailability statement in the Eric chapter-8 note and retained checked source observations. Distinguished SBLGNT 8:1 from the longer TTH/Delitzsch reading, the co-testimony verb/dative from an invented preposition, active lovers of Elohim from the TTH “beloved”, vanity in 8:20 from corruption in 8:21, and the distinct verbs/voices for vessels in 9:22–23. Corrected the 9:27 remnant noun and located the Hoshea/Yeshayahu composition with OE numbering. TTH has no separate 9:28 entry; the affected full unit uses Delitzsch with an explicit gap notice.
 
 Local validation: nine transcript-quality checks, zero failures; 72 supported comparison cells, zero mismatch candidates; 34 unparsed map/lexical/mixed rows have complementary review. All source-ID assignments preserved and links resolve. YouTube hygiene, verse conventions, Bun frontmatter, index generation and whitespace checks pass.
+
+Batch 28 passed push/PR editorial CI (37235311361, 37235314899); Vercel remained at six baseline deployments, with zero branch, review-SHA or new deployments.
+
+## Batch 29 — Romanos 10–12 across both channels
+
+**36/43 notes reviewed.** Distinguished active belief forms from the passive TTH interpretation, located Yoel 3:5 and Tehilim 19:5 in OE numbering, and separated Isaiah’s Hebrew wording from the direction and agency of Paul’s quotation. Corrected the false Romanos 12 caption gap, the renewal noun and the thinking wordplay; retained concrete class examples and consolidated repetition. The raw chapter-12 apunte remains unassigned to a video and distinguishes proportion in 12:6 from measure in 12:3.
+
+Local validation: seven transcript-quality checks, zero failures, plus manual raw-note provenance review; 55 supported comparison cells, zero mismatch candidates; 18 unparsed map/lexical rows have complementary review. All source IDs preserved, all destinations resolve. YouTube hygiene, verse conventions, Bun frontmatter, full index generation and whitespace checks pass.
