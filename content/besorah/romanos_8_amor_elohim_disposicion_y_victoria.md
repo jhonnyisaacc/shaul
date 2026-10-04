@@ -13,11 +13,13 @@ tags:
 references:
   - "#romanos_8_28-39"
   - "#tehilim_23_5"
-  - "#tehilim_44_22"
+  - "#tehilim_44_23"
   - "#bereshit_22_12-13"
   - "#juan_3_16"
   - "#romanos_8_18-27"
 sources:
+  - "https://github.com/morphgnt/sblgnt/blob/master/66-Ro-morphgnt.txt"
+  - "https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/Rom.txt"
   - "https://www.youtube.com/watch?v=MyXV2dvBLrk"
   - "docs/scriptures/tth/json/romanos.json"
   - "docs/scriptures/tth/json/bereshit.json"
@@ -39,11 +41,11 @@ Esta nota organiza la clase pública sobre Romanos 8:28-39. Se sigue la unidad e
 
 | Referencia | Texto local de TTH | Función en la lectura |
 | --- | --- | --- |
-| #romanos_8_28-30 | «A los amados de Elohim todas las cosas obran para bien, a estos que conforme a la disposición son llamados»; los que fueron conocidos y dispuestos fueron llamados, justificados y glorificados. | El «bien» se interpreta según la disposición y el llamamiento de Elohim, no como garantía de ausencia de sufrimiento. |
-| #romanos_8_31-34 | «Si Elohim es por nosotros, ¿quién contra nosotros?»; Elohim justifica, Yehoshua murió, se levantó, está a la diestra e intercede. | La seguridad se funda en acciones de Elohim y del Mesías, no en mérito humano. |
-| #romanos_8_35-39 | Nada —estrechez, persecución, muerte, vida, poderes, altura, profundidad o creación— puede separar del amor de Elohim en Yehoshua el Mesías. | El amor es inseparable porque está anclado en la obra mesiánica y atraviesa la aflicción. |
-| #bereshit_22_12-13 | Elohim dice que Abraham no retuvo a su hijo único; luego aparece un carnero ofrecido en lugar de su hijo. | La clase usa este pasaje como trasfondo de Romanos 8:32 y como figura mesiánica; la relación tipológica no es una cita explícita de Pablo. |
-| #tehilim_23_5; #tehilim_44_22 | «Prepararás delante de mí mesa frente a mis opresores»; «por ti somos matados todo el día». | Las conexiones ilustran preparación, oposición y sufrimiento; deben permanecer subordinadas al argumento de Romanos. |
+| #romanos_8_28-30 | TTH: Y sabemos que a los amados de Elohim todas las cosas obran para bien, a estos que conforme a la disposición⁷⁵ son llamados. Porque a estos que desde el Kédem⁷⁶ los conoció, los dispuso⁷⁷ para igualarlos a la imagen de su Hijo⁷⁸, para que sea primogénito entre muchos hermanos. Y a los que dispuso desde el Kédem, también los llamó; y a los que llamó, también los justificó; y a los que justificó, también glorificó. | El «bien» se interpreta según la disposición y el llamamiento de Elohim, no como garantía de ausencia de sufrimiento. |
+| #romanos_8_31-34 | TTH: ¿Y qué diremos acerca de estas cosas? Si Elohim es por nosotros, ¿quién contra nosotros? El que no retuvo a su Hijo, su único⁷⁹, sino que lo dio por todos nosotros, ¿cómo no nos favorecerá con Él todo? ¿Quién acusará a los escogidos de Elohim? Y יהוה, Él es el que justifica. ¿Quién es el que juzga? Yeshúa el Mesías, el que murió y el que se levantó de los muertos, el que está sentado a la diestra de Elohim, el que también intercede por todos nosotros. | La seguridad se funda en acciones de Elohim y del Mesías, no en mérito humano. |
+| #romanos_8_35-39 | TTH: ¿Quién nos separará del amor del Mesías? ¿Estrechez, o angustia, o persecución, o hambre, o desnudez, u opresión, o espada? Como está escrito: Porque por ti somos matados todo el día, somos considerados como ovejas de sacrificio⁸⁰. Sin embargo, en todas estas cosas nosotros vencemos en Aquel que nos amó. Porque confío que ni la muerte, ni la vida, ni ángeles, ni gobernantes, ni potencias, ni lo que es, ni lo que será, ni lo elevado, ni lo profundo, ni ninguna otra creación, podrán separarnos del amor de Elohim que es en Yeshúa el Mesías nuestro Adón⁸¹. | El amor es inseparable porque está anclado en la obra mesiánica y atraviesa la aflicción. |
+| #bereshit_22_12-13 | TTH: Y dijo: No envíes tu mano contra el joven, y no hagas a él nada; porque ahora sé que temes a Elohim tú, y no has retenido a tu hijo, a tu único, de Mí. Y levantó Abraham sus ojos y miró, y he aquí un carnero detrás de él, atrapado en un matorral por sus cuernos. Y fue Abraham, y tomó el carnero, y lo levantó para ofrenda ascendida en lugar de su hijo. | La clase usa este pasaje como trasfondo de Romanos 8:32 y como figura mesiánica; la relación tipológica no es una cita explícita de Pablo. |
+| #tehilim_23_5; #tehilim_44_23 | TTH: Prepararás delante de mí mesa frente a mis opresores; hiciste acepta⁷⁸ con aceite mi cabeza, mi copa es saturación. ¡Despiértate! ¿Por qué duermes, Adonai? ¡Despierta! No nos rechaces para siempre. | Las conexiones ilustran preparación, oposición y sufrimiento; deben permanecer subordinadas al argumento de Romanos. |
 
 ## El bien no es comodidad: disposición y llamamiento
 
@@ -52,6 +54,8 @@ Eric advierte que Romanos 8:28 no promete que todo salga bien en la vida cotidia
 La clase propone traducir «propósito» como disposición, preparación u orden, y relaciona Romanos 8:28-29 con la preparación de una mesa en Tehilim 23:5. Esa observación permite subrayar que la meta no es un destino individual desligado del pueblo: los llamados son dispuestos para ser igualados a la imagen del Hijo. Sin embargo, la relación verbal con el hebreo de Tehilim requiere verificación. La nota no presenta la etimología de la exposición como si fuera la única traducción posible.
 
 Romanos 8:29-30 tampoco debe convertirse rápidamente en una teoría filosófica de preexistencia humana. Eric rechaza la idea de que las almas hubieran vivido con Elohim antes de nacer y explica «conoció» como conocimiento divino anterior. El texto afirma una secuencia de iniciativa divina, pero no resuelve en estos versículos cada cuestión metafísica que se le pueda asociar. El centro seguro es la conformación a la imagen del Hijo, el llamamiento, la justificación y la gloria futura.
+
+SBLGNT en 8:28 dice **τοῖς ἀγαπῶσι τὸν θεόν**, «a los que aman a Elohim», participio activo, mientras TTH habla de los «amados de Elohim». Se reproduce TTH como testigo, sin cambiar el sujeto de amar en la explicación griega. El v. 28 usa **πρόθεσις**, «propósito/designio», y el 29 **προώρισεν**, de **προορίζω**, «determinó de antemano»; son formas distintas. Tehilim 23:5 tiene **תערך**, de **ערך**, para disponer la mesa. Eric une las imágenes para explicar preparación, pero ese puente no hace idénticas sus palabras ni elimina el elemento previo de προορίζω.
 
 ## La imagen del Hijo, herencia y justificación
 
@@ -63,7 +67,7 @@ En 8:31-34 el argumento se vuelve judicial. Nadie puede acusar a los escogidos p
 
 ## El amor de Elohim atraviesa la aflicción
 
-La pregunta «¿quién nos separará del amor del Mesías?» llega después de una lista concreta: estrechez, angustia, persecución, hambre, desnudez, opresión y espada. Eric insiste en que el amor no es sentimentalismo abstracto: se ve en que el Mesías murió, resucitó e intercede. Romanos mismo sostiene esa base objetiva y cita Tehilim 44:22 para mostrar que el pueblo puede sufrir y, aun así, vencer en Aquel que lo amó.
+La pregunta «¿quién nos separará del amor del Mesías?» llega después de una lista concreta: estrechez, angustia, persecución, hambre, desnudez, opresión y espada. Eric insiste en que el amor no es sentimentalismo abstracto: se ve en que el Mesías murió, resucitó e intercede. Romanos mismo sostiene esa base objetiva y cita Tehilim 44:23 (OE; 44:22 en ediciones sin el encabezado) para mostrar que el pueblo puede sufrir y, aun así, vencer en Aquel que lo amó.
 
 «Vencer» no significa que el pueblo evite la muerte. Significa atravesar todas esas cosas sin quedar separado del amor de Elohim en Yehoshua. La clase aplica la muerte de «nosotros» a la carne y al yo; esa exhortación puede dialogar con Romanos 6–8, pero Romanos 8:35-39 se concentra en la inseparabilidad del amor frente a poderes y circunstancias.
 

@@ -17,6 +17,8 @@ references:
   - "#hebreos_11_1"
   - "#mishlei_28_9"
 sources:
+  - "https://github.com/morphgnt/sblgnt/blob/master/66-Ro-morphgnt.txt"
+  - "https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/Rom.txt"
   - "https://www.youtube.com/watch?v=63CvF5FE__4"
   - "docs/scriptures/tth/json/romanos.json"
   - "docs/scriptures/tth/json/bereshit.json"
@@ -37,11 +39,13 @@ Esta nota organiza la clase pública sobre Romanos 8:18-27. Las observaciones de
 
 | Referencia | Texto local de TTH | Función en la lectura |
 | --- | --- | --- |
-| #romanos_8_18-21 | «Los sufrimientos de este tiempo no son dignos ante la gloria que se ha de revelar sobre nosotros»; la creación espera, fue sometida a la corruptibilidad «en esperanza» y será liberada de la servidumbre de corrupción. | El sufrimiento presente no es el estado final: Pablo mira hacia una liberación futura que incluye a la creación. |
-| #romanos_8_22-23 | «Toda la creación gime y tiene dolores de parto»; también gimen los que tienen las primicias del Rúaj y esperan «la redención de nuestros cuerpos». | La esperanza no es solo una idea interior: apunta a la transformación corporal y a la restauración. |
-| #romanos_8_24-25 | «Para esperanza fuimos salvos» y lo que no vemos lo esperamos «con perseverancia». | La salvación recibida tiene una dimensión futura; la perseverancia caracteriza la espera. |
-| #romanos_8_26-27 | El Rúaj ayuda a la debilidad e intercede «con gemidos indecibles»; el que escudriña los corazones conoce su intención. | La intercesión se entiende dentro de la esperanza y la debilidad del pueblo, no como una fórmula para convertir cualquier deseo personal en promesa. |
-| #2_corintios_5_1-5 | La conexión usada por la clase presenta el cuerpo actual como una morada terrestre y espera una habitación incorruptible; el Rúaj funciona como garantía. | Es una conexión canónica para explicar la redención del cuerpo; no reemplaza la lectura directa de Romanos. |
+| #romanos_8_18-21 | TTH: Porque considero que los sufrimientos de este tiempo no son dignos ante la gloria que se ha de revelar sobre nosotros. Porque el anhelo de toda la creación es esperar la manifestación de los hijos de Elohim. Porque la creación fue sometida a la corruptibilidad⁷³, no según la voluntad de ella, sino por causa de Aquel que la sometió en esperanza. Porque toda la creación también será liberada de la servidumbre de corrupción, a la libertad de la gloria de los hijos de Elohim. | El sufrimiento presente no es el estado final: Pablo mira hacia una liberación futura que incluye a la creación. |
+| #romanos_8_22-23 | TTH: Porque sabemos que toda la creación gime y tiene dolores de parto hasta ahora; pero no solamente ella, sino también nosotros, que hay para nosotros las primicias del Rúaj, nosotros gemimos en nuestro ser y esperamos la adopción: la redención de nuestros cuerpos. | La esperanza no es solo una idea interior: apunta a la transformación corporal y a la restauración. |
+| #romanos_8_24-25 | TTH: Porque para esperanza fuimos salvos; y la esperanza que se ve no es esperanza, porque lo que un hombre ve, ¿por qué esperarlo? Pero si lo que no vemos esperamos, con perseverancia lo esperamos. | La salvación recibida tiene una dimensión futura; la perseverancia caracteriza la espera. |
+| #romanos_8_26-27 | TTH: Y así también el Rúaj ayuda a nuestra debilidad, porque lo que hemos de orar según conviene, no sabemos, pero el Rúaj intercede por nosotros con gemidos indecibles. Y el que escudriña los corazones sabe cuál es la intención del Rúaj, porque conforme al deseo de Elohim intercede por los santos⁷⁴. El amor de Elohim | La intercesión se entiende dentro de la esperanza y la debilidad del pueblo, no como una fórmula para convertir cualquier deseo personal en promesa. |
+| #2_corintios_5_1-5 | Delitzsch: הן ידענו כי בהרס בית אהלנו אשר בארץ ישלנו בנין מאת האלהים בית אשר איננו מעשה ידים והוא קים לעולם בשמים כי גםעתה נאנחים ונכספים אנחנו להתעטף בביתנו אשר מןהשמים ובלבד שאחרי לבשנהו לא נמצא ערמים כי באהלנו זה נאנח תחת המשא מתאוים להתעטף ולא לפשט למען יבלע המות עלידי החיים ואלהים תקן אתנו לכך אשר גםנתן לנו אתרוחו לערבון | Es una conexión canónica para explicar la redención del cuerpo; no reemplaza la lectura directa de Romanos. |
+| #2_corintios_5_1-5 | Delitzsch: הן ידענו כי בהרס בית אהלנו אשר בארץ ישלנו בנין מאת האלהים בית אשר איננו מעשה ידים והוא קים לעולם בשמים כי גםעתה נאנחים ונכספים אנחנו להתעטף בביתנו אשר מןהשמים ובלבד שאחרי לבשנהו לא נמצא ערמים כי באהלנו זה נאנח תחת המשא מתאוים להתעטף ולא לפשט למען יבלע המות עלידי החיים ואלהים תקן אתנו לכך אשר גםנתן לנו אתרוחו לערבון | Morada corporal, gemido y garantía del Rúaj: comparación canónica. |
+| #hebreos_11_1 | Delitzsch: כי האמונה היא בטחון במהשנצפה לו והוכחת דברים שאינם נראים | Lo esperado y no visto: paralelo usado por la clase. |
 
 ## Sufrimiento presente y liberación de la creación
 
@@ -63,6 +67,8 @@ En 8:26-27, la clase rechaza la lectura de que el Rúaj sea simplemente un tradu
 
 La aplicación pastoral es sobria: orar no es presentar a Elohim una lista de deseos desligada de su voluntad. La esperanza del cuerpo incorruptible, la debilidad presente y la intercesión forman una misma secuencia. Romanos 8 no invita a negar el sufrimiento, sino a atravesarlo confiando en que la obra de Elohim no termina en la corrupción visible.
 
+Las formas se distinguen en SBLGNT: 8:26 usa **ὑπερεντυγχάνει**, de **ὑπερεντυγχάνω**, y 8:27 **ἐντυγχάνει**, de **ἐντυγχάνω**. Ambas expresan intercesión en este contexto, pero no son la misma forma. «Indecibles», **ἀλαλήτοις**, califica los gemidos; no los identifica automáticamente con lenguas habladas. En 8:20, **ματαιότητι** nombra vanidad/frustración; **φθορά**, corrupción, aparece en 8:21. La asociación de Eric con _hevel_ debe evaluarse frente al primer término y no confundirse con una traducción de φθορά.
+
 ## Hoja léxica
 
 | Forma | Transliteración | Sentido normal | Fuerza en la nota |
@@ -72,7 +78,7 @@ La aplicación pastoral es sobria: orar no es presentar a Elohim una lista de de
 | **(ἀπαρχή)** | _aparchē_ | primicia, primer fruto | Ayuda a leer las primicias del Rúaj como anticipo, no como consumación completa. |
 | **(ἀπολύτρωσις)** | _apolýtrōsis_ | liberación mediante rescate, redención | En 8:23 se aplica a los cuerpos; la nota conserva su dimensión futura y corporal. |
 | **(στεναγμός)** | _stenagmós_ | gemido, suspiro | Une el sufrimiento de la creación, del pueblo y la intercesión; la lectura «alegórica» es una aplicación de la clase. |
-| **(ἐντυγχάνω)** | _entynchánō_ | interceder, intervenir a favor | Describe la acción atribuida al Rúaj en el pasaje; no prueba por sí sola una teoría completa sobre su identidad. |
+| **(ὑπερεντυγχάνω)** / **(ἐντυγχάνω)** | _hyperentynchánō / entynchánō_ | interceder, intervenir a favor | Describe la acción atribuida al Rúaj en el pasaje; no prueba por sí sola una teoría completa sobre su identidad. |
 
 ## Mapa de la enseñanza de Eric
 

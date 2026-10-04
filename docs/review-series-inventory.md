@@ -32,7 +32,7 @@ Columns below count unique registered videos, videos represented in at least one
 | [Las 613 mitzvot 2a parte](https://www.youtube.com/playlist?list=PLUaH57jVX98PGkT51lFQMKXM_yucKVynR) | 96 | 96 | 6 | 0 |
 | [Parashot 2016-2017](https://www.youtube.com/playlist?list=PLUaH57jVX98M3DlbjTF9utu5tSZtxUECn) | 49 | 49 | 49 | 0 |
 | [Qohélet - Eclesiastés](https://www.youtube.com/playlist?list=PLUaH57jVX98Oi6EDUZou9tKJVNjOObbc4) | 30 | 30 | 12 | 0 |
-| [Romanos](https://www.youtube.com/playlist?list=PLUaH57jVX98P4QZtPZBo2Ptz7s4pCIR6m) | 35 | 33 | 14 | 6 |
+| [Romanos](https://www.youtube.com/playlist?list=PLUaH57jVX98P4QZtPZBo2Ptz7s4pCIR6m) | 35 | 33 | 14 | 9 |
 | [Shavu’ot](https://www.youtube.com/playlist?list=PLUaH57jVX98Ov1XkQsUAwLEg6TLq7pJZY) | 7 | 7 | 6 | 0 |
 | [Shir hashirim completo](https://www.youtube.com/playlist?list=PLUaH57jVX98N-tLMSyuw5KUYSbY0m4_-Y) | 25 | 25 | 8 | 0 |
 | [Sobre el Shabat](https://www.youtube.com/playlist?list=PLUaH57jVX98PxCm2HjJFxgh__d7-u8jXb) | 4 | 4 | 1 | 0 |
@@ -53,7 +53,7 @@ Columns below count unique registered videos, videos represented in at least one
 | --- | ---: | ---: | ---: | ---: |
 | [CARTA A LOS EFESIOS](https://www.youtube.com/playlist?list=PL8hWSx6FFBKO2GKV1vVjlvQZ4VjUXccKp) | 9 | 9 | 9 | 9 |
 | [CARTA A LOS GÁLATAS](https://www.youtube.com/playlist?list=PL8hWSx6FFBKPtT-5QYhTkypKHblYH87qL) | 11 | 11 | 11 | 11 |
-| [CARTA A LOS ROMANOS](https://www.youtube.com/playlist?list=PL8hWSx6FFBKNOOXzi7D9iXNnQxYkOAx19) | 29 | 29 | 28 | 13 |
+| [CARTA A LOS ROMANOS](https://www.youtube.com/playlist?list=PL8hWSx6FFBKNOOXzi7D9iXNnQxYkOAx19) | 29 | 29 | 28 | 19 |
 | [DOCTRINAS DE HA'SATÁN](https://www.youtube.com/playlist?list=PL8hWSx6FFBKPeoF46MCdd5TOrZOYCtURl) | 4 | 4 | 3 | 0 |
 | [HABLEMOS ACERCA DE...](https://www.youtube.com/playlist?list=PL8hWSx6FFBKP4xSgZOTUde_EYV2vampzY) | 50 | 0 | 0 | 0 |
 | [HABLEMOS ACERCA DE... // 2° TEMPORADA](https://www.youtube.com/playlist?list=PL8hWSx6FFBKO0pHkmQGvUzTBybXQatX-B) | 49 | 0 | 0 | 0 |
@@ -101,7 +101,7 @@ This view lists **primary filename groups** among channel-associated notes. It i
 | Malaji / Malaquías | 2 | 0 |
 | Yojanan / Juan | 47 | 47 |
 | Marcos | 20 | 20 |
-| Romanos | 42 | 19 |
+| Romanos | 42 | 28 |
 | Gálatas | 17 | 17 |
 | Efesios | 15 | 15 |
 | Colosenses | 4 | 0 |
@@ -116,7 +116,7 @@ This view lists **primary filename groups** among channel-associated notes. It i
 | ---: | --- | --- |
 | 1 | Gálatas — both channels, all six chapters | 17/17 notes reviewed; [per-note coverage](review-galatas-coverage.md) |
 | 2 | Efesios — both channels | 15/15 reviewed; [per-note coverage](review-efesios-coverage.md) |
-| 3 | Romanos — both channels plus the older raw Romanos 12 note | 19/43 reviewed; [per-note coverage](review-romanos-coverage.md) |
+| 3 | Romanos — both channels plus the older raw Romanos 12 note | 28/43 reviewed; [per-note coverage](review-romanos-coverage.md) |
 | 4 | Colosenses — Eric | Pending |
 | 5 | 1 and then 2 Tesalonicenses — both channels | Pending; each book is a separate group |
 | 6 | Tehilim, then Shir Hashirim, then Qohélet — Eric | Pending; each series is a separate group |
@@ -132,7 +132,7 @@ Already complete: [Yojanan/Revelation — 81 notes](review-notes-coverage.md) an
 
 ## Source and coverage gaps
 
-- 1392 unique registered videos across the two channels; 678 distinct existing notes match at least one registered ID. Completed source-matched notes: 148; still awaiting editorial review: 530.
+- 1392 unique registered videos across the two channels; 678 distinct existing notes match at least one registered ID. Completed source-matched notes: 157; still awaiting editorial review: 521.
 - 1113 registered videos are represented in existing notes; 279 lack notes. The latter are an ingestion backlog, not completed editorial work.
 - 24 represented registered videos lack locally archived captions. Availability alone does not establish that a transcript has been reviewed. Each editorial batch must attempt retrieval for its own missing captions and record the result.
 - These inventory snapshots have five source IDs used by notes but absent from both channel catalogs. Do not silently assign them to a channel:

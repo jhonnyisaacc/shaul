@@ -18,6 +18,8 @@ references:
   - "#malaji_1_2-3"
   - "#juan_1_12-13"
 sources:
+  - "https://github.com/morphgnt/sblgnt/blob/master/66-Ro-morphgnt.txt"
+  - "https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/Rom.txt"
   - "https://www.youtube.com/watch?v=70PhkCb5RUI"
   - "docs/scriptures/tth/json/romanos.json"
 source_ids:
@@ -37,9 +39,13 @@ Esta nota organiza la enseñanza pública sobre Romanos 9:1-13. Las observacione
 
 | Referencia | Texto local de TTH | Función en la lectura |
 | --- | --- | --- |
-| #romanos_9_1-5 | «Verdad les hablo en el Mesías, y no miento, y mi mente da testimonio para mí en el Rúaj Ha’Kódesh... grande es para mí la tristeza... que ellos son hijos de Israel, que para ellos es la adopción de hijos, la gloria, el pacto, la dádiva de la Torah, el servicio y las promesas... de los cuales es el Mesías conforme a la carne, el cual es Elohim sobre todo». | El argumento comienza con tristeza por Israel y enumera sus privilegios; no comienza con desprecio ni con una negación de su lugar histórico. |
-| #romanos_9_6-9 | «No todos los que son de Israel son Israel... no los que son hijos de la carne son hijos de Elohim, sino que los hijos del juramento son considerados simiente». | Pablo distingue descendencia física de la simiente definida por la promesa, citando a Yitzjak y Sarah. |
-| #romanos_9_10-13 | «Todavía no habían sido paridos, ni habían hecho algo bueno o malo, para que conforme a la elección de Elohim se estableciera la disposición, no por obras, sino por el que llama... Y amé a Yaakov, y a Esav aborrecí». | La elección de Jacob se presenta antes de las obras; la explicación de “aborrecí” requiere cuidado léxico y contextual. |
+| #romanos_9_1-5 | TTH: Verdad les hablo en el Mesías, y no miento, y mi mente da testimonio para mí en el Rúaj Ha’Kódesh⁸², que grande es para mí la tristeza, y no hay fin para el dolor de mi corazón. Porque he deseado también que yo mismo sea privado⁸³ del Mesías por mis hermanos, que son mis parientes según la carne; que ellos son hijos de Israel, que para ellos es la adopción de hijos, la gloria, el pacto, la dádiva de la Torah, el servicio y las promesas⁸⁴; de quienes son los padres, y de los cuales es el Mesías conforme a la carne, el cual es Elohim sobre todo, bendito para siempre y siempre. Amén. | El argumento comienza con tristeza por Israel y enumera sus privilegios; no comienza con desprecio ni con una negación de su lugar histórico. |
+| #romanos_9_6-9 | TTH: Y por eso, la Palabra de Elohim no ha caído a tierra, porque no todos los que son de Israel son Israel, y tampoco por ser simiente de Abraham son todos hijos, porque: En Yitzjak será llamada para ti simiente⁸⁵. Esto es, no los que son hijos de la carne son hijos de Elohim, sino que los hijos del juramento son considerados simiente. Porque la palabra del juramento es esta: Al tiempo señalado volveré a ti, y para Sarah habrá un hijo⁸⁶. | Pablo distingue descendencia física de la simiente definida por la promesa, citando a Yitzjak y Sarah. |
+| #romanos_9_10-13 | TTH: Y no solamente esto, sino también Ribkah concibió para uno, para Yitzjak nuestro padre, Y todavía no habían sido paridos, ni habían hecho algo bueno o malo, para que conforme a la elección de Elohim se estableciera la disposición⁸⁷, no por obras, sino por el que llama, se le dijo: El Grande servirá pequeño⁸⁸; como está escrito: Y amé a Yaakov, y a Esav aborrecí⁸⁹. | La elección de Jacob se presenta antes de las obras; la explicación de “aborrecí” requiere cuidado léxico y contextual. |
+| #juan_1_12-13 | Delitzsch: ואלה אשר החזיקובו נתןכח בידם להיות בנים לאלהים הלא הם המאמינים בשמו אשר לדתם לא מדם ולא מתאות בשר ולא מרוח גבר כי אםמאלהים | Filiación recibida: conexión canónica de la clase. |
+| #bereshit_18_14 | OE: היפלא מיהוה דבר למועד אשוב אליך כעת חיה ולשרה בן | Tiempo prometido y nacimiento: no nombra directamente a Yehoshua. |
+| #bereshit_21_12 | OE: ויאמר אלהים אל אברהם אל ירע בעיניך על הנער ועל אמתך כל אשר תאמר אליך שרה שמע בקלה כי ביצחק יקרא לך זרע | La simiente llamada en Yitzjak. |
+| #malaji_1_2-3 | OE: אהבתי אתכם אמר יהוה ואמרתם במה אהבתנו הלוא אח עשו ליעקב נאם יהוה ואהב את יעקב ואת עשו שנאתי ואשים את הריו שממה ואת נחלתו לתנות מדבר | Amor, aborrecimiento y juicio en su contexto profético. |
 
 ## Dolor por Israel y privilegios del pacto
 
@@ -53,13 +59,15 @@ Romanos usa Yitzjak para explicar que la simiente no se determina simplemente po
 
 El ejemplo de Rivkah, Jacob y Esav intensifica la tesis: aún no habían nacido ni hecho bien o mal cuando se declaró la elección. Eric insiste en que Jacob no fue escogido por ser moralmente superior. El texto sí dice “no por obras, sino por el que llama”; no dice que la conducta posterior sea irrelevante ni que el llamado autorice orgullo. Al contrario, el capítulo comenzó con tristeza y el resto de Romanos confronta toda jactancia.
 
+SBLGNT 9:12 dice **ἐκ τοῦ καλοῦντος**, «del que llama», con participio de καλέω; no usa aquí el sustantivo κλῆσις. En 9:13, **ἐμίσησα**, «aborrecí», corresponde a **שנאתי** en Malají 1:3. La clase propone entender una preferencia en la elección; el contexto de Malají habla también de montes desolados y Edom. «Tener en menor estima» puede explicar una comparación interpretativa, pero no reemplaza automáticamente aborrecer en este juicio profético.
+
 ## Hoja léxica
 
 | Forma | Aproximación | Fuerza en la nota | Estado |
 | --- | --- | --- | --- |
 | **(σπέρμα)** _sperma_ | simiente, descendencia | Puede designar descendencia y línea de promesa; el contexto decide. | Directo en el pasaje; no equivale automáticamente a un grupo étnico moderno. |
 | **(ἐπαγγελία)** _epangelia_ | promesa, anuncio comprometido | El juramento sostiene la identidad de la simiente. | Aproximación contextual; cotejar el trasfondo hebreo de cada cita. |
-| **(κλῆσις)** _klēsis_ | llamamiento, convocatoria | “El que llama” pone el énfasis en la iniciativa de Elohim. | Directo en el argumento; no define por sí solo todo el proceso de salvación. |
+| **(καλοῦντος)** _kalountos_ | del que llama (participio de καλέω) | “El que llama” pone el énfasis en la iniciativa de Elohim. | Directo en el argumento; no define por sí solo todo el proceso de salvación. |
 | **(שנא)** _sane_ | aborrecer, tener en menor estima | Ayuda a no convertir “aborrecí” en una descripción psicológica simplista. | Pendiente de verificar en cada contexto de Malají y Romanos. |
 
 ## Mapa de la enseñanza de Eric
