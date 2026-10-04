@@ -52,3 +52,18 @@ Repaired malformed teaching-map rows and retained every registered video ID.
 Validation: all 13 transcript-quality and YouTube-hygiene checks pass; Bun
 frontmatter, local Scripture readiness, all verse conventions, local quotation
 comparison, and whitespace checks pass. Remaining: all 21 Marcos notes.
+
+## Batch 15 — Five Marcos topical studies
+
+Reviewed the Abba/ruaj, Ben Adam glossary, El/Eloha/Elohim, son/heir and
+word/throne/seed studies (18/34 complete). Restored local comparison excerpts,
+fixed corpus filenames and links into integrated studies, repaired table links,
+and added the glossary teaching map. Corrected the Romanos 10:9 accusative
+claim, the Marcos 9:4 appearance verb and the Colosenses 2:3 knowledge term,
+while preserving Eric’s theological and pedagogical proposals. Located the
+part-8 source for the word/throne/seed note and registered it alongside the
+retained part-2 source, with attribution by block. The distinct video count stays
+63 because part 8 was already registered in the chapter-4 study.
+
+Validation: transcript quality, YouTube hygiene, local quotation comparisons
+and whitespace pass for this batch. Remaining: 16 canonical Marcos chapters.
