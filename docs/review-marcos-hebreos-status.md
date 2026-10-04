@@ -67,3 +67,10 @@ retained part-2 source, with attribution by block. The distinct video count stay
 
 Validation: transcript quality, YouTube hygiene, local quotation comparisons
 and whitespace pass for this batch. Remaining: 16 canonical Marcos chapters.
+
+### Batch-15 CI correction
+
+Remote CI identified three new SBLGNT links indented after the scalar
+`translation` field instead of within `sources`. Moved those links into the
+source lists and validated the full verse-index generator locally. This
+metadata correction does not change editorial coverage or deployment settings.

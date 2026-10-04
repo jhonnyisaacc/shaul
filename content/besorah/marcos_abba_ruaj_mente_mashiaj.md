@@ -44,8 +44,8 @@ sources:
   - "docs/scriptures/oe/json/genesis/22.json"
   - "docs/scriptures/tth/json/sodot.json"
   - "docs/scriptures/delitzsch/json/revelation.json"
-translation: "[TTH, Delitzsch, OE]"
   - "https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/1Cor.txt"
+translation: "[TTH, Delitzsch, OE]"
 source_ids:
   - "youtube:YKQCpmNS3KM"
 ---

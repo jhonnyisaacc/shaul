@@ -53,8 +53,8 @@ sources:
   - "docs/scriptures/oe/json/psalms/139.json"
   - "docs/scriptures/oe/json/daniel/7.json"
   - "docs/scriptures/oe/json/zechariah/9.json"
-translation: "[TTH, OE]"
   - "https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/Mark.txt"
+translation: "[TTH, OE]"
 source_ids:
   - "youtube:j52NQB6sKSQ"
 ---

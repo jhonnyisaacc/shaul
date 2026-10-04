@@ -45,8 +45,8 @@ sources:
   - "docs/scriptures/oe/json/"
   - "docs/scriptures/tth/json/"
   - "docs/scriptures/delitzsch/json/"
-translation: "[TTH, Delitzsch, OE]"
   - "https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/Rom.txt"
+translation: "[TTH, Delitzsch, OE]"
 source_ids:
   - "youtube:wR0WA_TLcCc"
 ---
