@@ -44,7 +44,7 @@ Esta nota organiza la enseñanza del hermano Eric de Jesús Rodríguez Mendoza e
 | #apocalipsis_19_1-6 | **אחריכן שמעתי קול גדול כקול המון רב בשמים האמרים הללויה הישועה והכבוד והעז לאלהינו** … **כימלך אלהינו יהוה צבאות** | La multitud interpreta el juicio como manifestación de salvación, gloria, poder y reinado. |
 | #apocalipsis_19_7-10 | **נשמחה ונגילה ונתנה לו הכבוד כי באה חתנת השה ואשתו התקדשה** … **כי עדות ישוע היא רוח הנבואה** | La esposa se prepara; los llamados a la cena son bienaventurados, y el testimonio de Yehoshua queda unido al espíritu de la profecía. |
 | #apocalipsis_19_11-16 | **והנה סוס לבן והרכב עליו יקרא לו נאמן ואמתי ובצדק הוא שפט ולחם** … **מלך המלכים ואדני האדנים** | El jinete aparece como fiel y verdadero; su palabra, juicio y título real concentran la escena de victoria. |
-| #apocalipsis_19_17-21 | **באו והאספו על זבח הגדול אשר לאלהים** … **והעוף שבעו מבשרם** | La convocatoria de las aves y la derrota de la bestia cierran el conflicto mediante imágenes de juicio. |
+| #apocalipsis_19_17-21 | **באו והאספו על זבח הגדול אשר לאלהים** … **וכלהעוף שבעו מבשרם** | La convocatoria de las aves y la derrota de la bestia cierran el conflicto mediante imágenes de juicio. |
 
 ## La alabanza que responde al juicio: 19:1-6 #apocalipsis_19_1-6
 

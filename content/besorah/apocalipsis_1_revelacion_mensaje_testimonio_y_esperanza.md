@@ -46,7 +46,7 @@ Esta nota reúne cuatro clases públicas del hermano Eric de Jesús Rodríguez M
 | #apocalipsis_1_1 | **חזון ישוע המשיח אשר נתןלו האלהים להראות אתעבדיו את אשריהיה במהרה והוא הודיע בשלחו בידמלאכו לעבדו ליוחנן** | La revelación tiene origen y cadena de transmisión explícitos. |
 | #apocalipsis_1_3 | **אשרי הקורא ואשרי השמעים אתדברי הנבואה ושמרים אתהכתוב בה כי קרובה העת** | Oír y guardar forman parte de la respuesta esperada. |
 | #apocalipsis_1_4-6 | **יוחנן לשבע הקהלות אשר באסיא חסד לכם ושלום מאת ההוה והיה ויבוא ומאת שבעת הרוחות אשר לפני כסאו** / **ומאת ישוע המשיח העד הנאמן ובכור המתים ועליון למלכי ארץ אשר אהב אתנו ובדמו גאלנו מחטאתינו** | El saludo presenta a יהוה, los siete espíritus y Yehoshua como testigo fiel, primogénito y rey. |
-| #apocalipsis_1_7-8 | **הנה הוא בא עם העננים וראתה אתו כל עין גם המה אשר דקרוהו וספדו עליו כל משפחות הארץ כן יהיה אמן** / **אני האלף והתיו ראש וסוף נאם יהוה אלהים ההוה והיה ויבוא אלהי צבאות** | La venida, el lenguaje profético y la declaración de principio y fin abren la visión. |
+| #apocalipsis_1_7-8 | **הנה הוא בא עם העננים וראתה אתו כל עין גם המה אשר דקרהו וספדו עליו כל משפחות הארץ כן יהיה אמן** / **אני האלף והתו ראש וסוף נאם יהוה אלהים ההוה והיה ויבוא אלהי צבאות** | La venida, el lenguaje profético y la declaración de principio y fin abren la visión. |
 | #apocalipsis_1_9-11 | **אני יוחנן אחיכם וגם חבר לכם בלחץ ובמלכות ובסבלנות למען ישוע המשיח הייתי באי אשר שמו פטמוס** | La ubicación de Patmos y la participación en presión, reino y perseverancia sitúan al testigo. |
 | #apocalipsis_1_12-20 | **ואפן לראות את הקול המדבר אלי ויהי בפנותי וארא שבע מנרות זהב** … **וארא אותו ואפל לרגליו כמת** | La visión culmina en la figura entre las menorot y en la interpretación de estrellas y lámparas. |
 

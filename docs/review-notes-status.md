@@ -58,31 +58,82 @@ does not count as successful prevention.
 
 ## Completed coverage
 
-- Repository, branch, and PR existence checks.
-- Vercel integration inspection and branch-scoped configuration.
-- Non-deployment CI in `.github/workflows/editorial-validation.yml` checks
+**Editorial review is complete: 81/81 notes, comprising 49 Yojanan and 32
+Revelation studies.** The [per-note ledger](review-notes-coverage.md) identifies
+every reviewed file, lesson provenance, pending research questions, and TTH
+comparison gaps. The consolidated Yojanan 12 study includes nine reviewed
+dossiers. Scope is the existing notes, not every chapter of either book.
+
+- Repaired all 22 missing Eric traceability maps and developed the short
+  Yojanan 1 study using its existing lesson source.
+- Reviewed textual order, source attribution, local quotations, lexical and
+  historical claims, interpretive qualifications, and cross-links in all notes.
+- Preserved all 81 existing video-ID assignments. Fourteen raw Revelation
+  studies now identify their raw class-notes document; the older chapter-1
+  study retains explicitly unidentified lesson/author provenance.
+- Corrected Hebrew/TTH excerpts, Greek identifications and verse numbering;
+  replaced false missing-text claims where local OE or Delitzsch is available.
+- Repaired renamed-note links and redirected former Yojanan 12 dossier links
+  to their preserved headings. Removed inherited private attachment paths
+  from public metadata without changing public lesson credits.
+- Fixed the display-name normalizer so literal local corpus filenames remain
+  intact; a regression test protects that behavior.
+- Added non-deployment CI in `.github/workflows/editorial-validation.yml` for
   frontmatter, verse conventions, YouTube metadata, changed transcript notes,
-  local Scripture, verse lookup, and verse-index regression tests and generation.
-  It contains no site build or deployment command.
+  local Scripture, verse lookup, and verse-index tests and generation. It
+  contains no site build or deployment command.
 
 ## Remaining work
 
-- Review all 81 notes for textual order, attribution, local Scripture support,
-  lexical and historical qualifications, and working cross-links.
-- Repair the 22 missing traceability maps using the existing public lesson
-  archive; expand the short Yojanan 1 note with source-grounded prose.
-- Review the 15 raw Revelation studies without inventing video attribution.
-- Record source gaps and final validation results; verify each batch push
-  does not create a Vercel build or preview deployment.
+No requested note remains unreviewed. Human review of the draft PR and the
+explicit historical, rabbinic, lexical, chronological, and provenance questions
+remains. These questions are preserved in each note's pending section; unsupported
+claims are qualified rather than presented as resolved. Unrelated books and the
+repository-wide quality backlog are outside this completed editorial scope.
+No merge or deployment is authorized by this task.
 
 ## Source gaps
 
-The raw Revelation notes have no video `source_ids`; their original class
-context is the repository's raw notes. Do not assign a teacher video without
-evidence. Existing unchecked rabbinic, historical, and lexical claims remain
-pending until their exact source is verified. The TTH library covers only part
-of the Besorah; use available Delitzsch passages with an explicit corpus label
-when TTH is missing. The full per-note gap inventory is pending review.
+See the [source-gap inventory and per-note follow-up links](review-notes-coverage.md).
+The fifteen raw studies have no registered video IDs. Fourteen can be traced to
+blocks in `docs/notes_16_05_2026.md`; `apocalipsis_1.md` dated 2025-12-20 has no
+identified author or class. Missing TTH passages use explicitly labeled available
+OE/Delitzsch witnesses. The duplicated TTH Luke chapter numbers are an upstream
+corpus limitation; this review follows the lookup helper's first-occurrence rule.
+No Scripture corpus file was modified.
+
+## Final local validation
+
+| Check | Result |
+| --- | --- |
+| Scope and attribution | Exact 81-file starting inventory covered; existing video-ID assignments preserved |
+| Transcript quality | 66 checked, zero failures; all 22 missing maps repaired |
+| YouTube metadata and hygiene | Scope: 66 checked; repository-wide: 683 checked; zero failures |
+| Frontmatter | Passed with `bun run content:check-frontmatter` from the repository root |
+| Verse conventions | 796 authored files, 20,593 canonical tags, zero failures |
+| Local Scripture readiness | 968 OE, 35 TTH, 27 Delitzsch JSON files available |
+| Regression tests | 17 passed: normalizer 9, conventions 2, lookup 2, verse index 4 |
+| Verse-index generation | Passed: 8,993 verse entries and 3 chapter entries; generated output remains untracked |
+| Local quotation audit | 1,105 supported comparison parts checked; zero remaining mismatch candidates |
+| Internal note destinations | Zero missing destinations across 81 notes; 27 integrated-dossier heading links and review-document destinations validated |
+| Whitespace | `git diff --check` passed |
+| Licensed/private data | No Scripture corpus or private data included in the branch changes |
+
+The quotation audit includes single verses, ranges, and explicitly labeled
+excerpts, with punctuation, pointing, and documented display-name normalization.
+Its 168 unsupported table rows include map and compound-reference shapes; they
+are not automatically certified by that result. The substantive review and
+manual checks of dual-numbered Psalm rows complement the automated check.
+The repository-wide transcript baseline (214 failures) is recorded above,
+not presented as a passing global quality check.
+
+Batch 11 (`aea513f3`) passed both
+[push CI](https://github.com/jhonnyisaacc/shaul/actions/runs/37209552307) and
+[PR CI](https://github.com/jhonnyisaacc/shaul/actions/runs/37209555612).
+Through that push, the Vercel API still showed exactly six baseline deployments
+and zero for `feat/review-notes`. The final commit's CI and Vercel verification
+are recorded in the [draft PR description](https://github.com/jhonnyisaacc/shaul/pull/38)
+after its push, so the evidence corresponds to the actual remote head.
 
 ## Execution correction
 
@@ -92,7 +143,7 @@ signing service. A subsequent command incorrectly pushed the branch at unchanged
 `a4fa7da6` was then pushed immediately. The first post-push Vercel API inspection
 still showed only the six baseline deployments and none for this branch. This
 error means the setting cannot be described as preceding the first push. Further
-batch verification remains required.
+pushes were verified against that baseline; the final head is checked separately.
 
 ## Batch 1 — introduction and Yojanan 1
 
@@ -252,4 +303,15 @@ recap in the raw chapter-19 note. Corrected the chapter-19 Greek wife term and
 the claim that the local Hebrew lacks a word for lake. The remaining historical,
 rabbinic, chronological, and lexical research questions remain explicit in the
 notes. Batch 10's two editorial CI runs passed; Vercel still returned six baseline
-deployments and none for the branch. Final consolidated validation is pending.
+deployments and none for the branch. Consolidated validation is recorded above.
+
+## Batch 12 — final quotation audit and review ledger
+
+Expanded the local quotation check to verse-range excerpts and labeled fragments.
+Corrected the resulting Hebrew/TTH mismatches in fifteen notes, including local
+John 19 phrases, Revelation matres/articles and phrases, the Eleazar command,
+Hebrews 10:7, and Psalm 8 corpus numbering. Teacher-observation maps retain their
+attributed prose. Added the complete 81-note coverage/source-gap ledger and
+consolidated validation results. Both books are ready for human editorial review;
+explicit source questions remain open. The final push stays on the protected
+branch and in the existing draft PR.

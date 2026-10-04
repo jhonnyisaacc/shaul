@@ -188,7 +188,7 @@ Tanto en cristianismo como en cierto mesianismo se repite que Yehoshua «cumpli�
 
 | Referencia       | Texto local                                                          | Función                                                                       |
 | ---------------- | -------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
-| #hebreos_10_7      | אז אמרתי הנני באתי במגילת ספר כתוב עלי לעשות רצונך אלהי (Delitzsch)  | Citando el salmo: vino a la voluntad escrita sobre él                         |
+| #hebreos_10_7      | אז אמרתי הנהבאתי במגלתספר כתוב עלי לעשות רצונך אלהי (Delitzsch)  | Citando el salmo: vino a la voluntad escrita sobre él                         |
 | #mateo_20_28 | כאשר בן האדם לא בא… כי אם לשרת ולתת את נפשו כפר תחת רבים (Delitzsch) | Vino a dar su vida en rescate por muchos, no a «cumplir los 613» en abstracto |
 
 Los **júkjim olam** (estatutos de tiempo oculto) — sacrificios, templo, sacerdocio — apuntaban hasta el tiempo de reformar las cosas y volver al principio, cuando los patriarcas no ofrecían sacrificios por el pecado (desde el becerro de oro en adelante).

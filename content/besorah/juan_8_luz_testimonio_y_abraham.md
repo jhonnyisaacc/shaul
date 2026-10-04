@@ -45,7 +45,7 @@ Esta es una reconstrucción temática de cinco clases sobre Yojanán 8. No convi
 
 | Referencia | Texto local | Función en la lectura |
 | --- | --- | --- |
-| #juan_8_12 | TTH: «Yo soy la luz del olam… tendrá… luz de la vida». Delitzsch: **אנכי אור העולם**. | Abre el hilo luz, seguimiento y vida. |
+| #juan_8_12 | TTH: «Yo soy la luz del olam… habrá para él… luz de la vida». Delitzsch: **אנכי אור העולם**. | Abre el hilo luz, seguimiento y vida. |
 | #juan_8_17-18 | TTH: «Por boca de dos testigos se establecerá una palabra… el Padre que me envió también testifica». Delitzsch: **על פי שנים עדים יקום דבר**. | Sitúa la objeción sobre el testimonio. |
 | #juan_8_23-25 | TTH: «Ustedes son de abajo, Yo soy de arriba… si no se afirman en que Yo soy». Delitzsch: **אתם משכני מטה ואני משכני מעלה**. | Formula el contraste de procedencia. |
 | #juan_8_28-29 | TTH: «Cuando levanten al Ben Ha’Adam… sabrán que Yo soy». Delitzsch: **כאשר תגביהו את בן האדם למעלה**. | La elevación pertenece al argumento, no a un dicho aislado. |

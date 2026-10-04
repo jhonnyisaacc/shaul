@@ -497,7 +497,7 @@ La respuesta de Yehoshua no es una definición técnica, sino una identificació
 | #yeshayahu_62_1   | למען ציון לא אחשה... עד יצא כנגה צדקה וישועתה כלפיד יבער            | ...hasta que salga como brillo su justicia, y su salvación como antorcha se encienda.      | La clase distingue el brillo tenue y la antorcha: etapas de manifestación de luz. |
 | #tehilim_89_36-37 | זרעו לעולם יהיה וכסאו כשמש נגדי                                    | Su simiente para siempre será, y su trono como el sol delante de Mí.                       | Base para la objeción: el Mesías permanece para siempre.                          |
 | #yejezkel_37_25   | ודוד עבדי נשיא להם לעולם                                             | ...David mi siervo será príncipe de ellos para siempre.                                    | "David" es leído como título mesiánico: el amado/príncipe permanente.             |
-| #tehilim_8_5-6    | מה אנוש כי תזכרנו ובן אדם כי תפקדנו                                   | ¿Qué es el hombre que lo recordarás, y el hijo de Adam que lo visitarás?                   | Responde la pregunta por Ben Adam como profecía de disminución y exaltación.      |
+| #tehilim_8_5 (OE) / #tehilim_8_4 (TTH) | מה אנוש כי תזכרנו ובן אדם כי תפקדנו                                   | ¿Qué es el hombre que lo recordarás, y el hijo de Adam que lo visitarás?                   | Responde la pregunta por Ben Adam como profecía de disminución y exaltación.      |
 
 ##### Hijos de luz en las cartas
 
@@ -932,9 +932,9 @@ El grano de trigo debe caer y morir para llevar mucho fruto. Ese fruto no se lim
 
 | Referencia         | Texto local                                                                                                                   | Función en la clase                                                      |
 | ------------------ | ----------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ |
-| #tehilim_8_6       | ותחסרהו מעט מאלהים וכבוד והדר תעטרהו / "Lo disminuirás un poco menos que los Elohim, y gloria y esplendor le coronarás" | Base para leer disminución, כבוד y הדר.                                  |
+| #tehilim_8_6 (OE) / #tehilim_8_5 (TTH) | OE: ותחסרהו מעט מאלהים וכבוד והדר תעטרהו / TTH: ¡Lo disminuirás un poco menos que los Elohim²⁶, y gloria y esplendor le coronarás! | Base para leer disminución, כבוד y הדר.                                  |
 | #tehilim_8_7       | תמשילהו במעשי ידיך כל שתה תחת רגליו                                                                                       | Todo bajo sus pies; dominio del Ben HaAdam.                              |
-| #tehilim_8_9       | "¡יהוה, Adón nuestro, cuán glorioso es tu Nombre en toda la tierra!"                                                          | El Nombre en toda la tierra conecta con #juan_12_28.                  |
+| #tehilim_8_10 (OE) / #tehilim_8_9 (TTH) | OE: יהוה אדנינו מה אדיר שמך בכל הארץ / TTH: ¡יהוה, Adón nuestro, cuán glorioso es tu Nombre en toda la tierra! | El Nombre en toda la tierra conecta con #juan_12_28.                  |
 | #yeshayahu_49_6    | ונתתיך לאור גוים להיות ישועתי עד קצה הארץ                                                                               | Luz de las naciones y salvación hasta el extremo de la tierra.           |
 | #hebreos_2_9         | אבל ישוע המחסר מעט ממלאכים אותו ראינו מעטר בכבוד והדר...                                                                      | Ivrim aplica Tehilim 8 a Yeshúa, coronado por el padecimiento de muerte. |
 | #filipenses_2_7-9     | כי אם־הפשיט את־עצמו... על־כן הגביהו האלהים מאד                                                                                | Despojo, humillación, muerte y exaltación.                               |

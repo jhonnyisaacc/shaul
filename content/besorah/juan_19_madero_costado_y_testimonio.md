@@ -32,14 +32,14 @@ La fuente pública es «El Evangelio Según Yojanán/Juan Parte 71 Cap 19», tí
 
 | Unidad            | Texto local de Delitzsch                                            | Función narrativa                                                 |
 | ----------------- | ------------------------------------------------------------------- | ----------------------------------------------------------------- |
-| #juan_19_1-7   | «וַיִּקַּח פִּילָטוֹס אֶת־יֵשׁוּעַ וַיַּלְקֵהוּ»; «הִנֵּה הָאִישׁ»  | El inocente aparece golpeado y vestido como rey.                  |
-| #juan_19_8-16  | «לֹא־הָיָה לִי שִׁלְטוֹן»; «הִנֵּה מַלְכְּכֶם»                      | La autoridad de Pilatos queda limitada y la entrega se formaliza. |
-| #juan_19_17-22 | «וַיִּשָּׂא אֶת־צְלָבוֹ»; «יֵשׁוּעַ הַנָּצְרִי מֶלֶךְ הַיְּהוּדִים» | El madero y el título público interpretan la ejecución.           |
+| #juan_19_1-7   | «אז יקח פילטוס אתישוע וייסר אתו בשוטים»; «ויצא ישוע החוצה נשא כתר הקוצים ומעיל הארגמן עליו ויאמר אליהם פילטוס הנה הגבר» | El inocente aparece golpeado y vestido como rey.                  |
+| #juan_19_8-16  | «ויען אתו ישוע איןלך כח עלי לולא נתןלך מעל עלכן עון מסגירי בידיך גדול מעונך»; «ויאמר אלהיהודים בערב הפסח ההוא כשעה הששית הנה מלככם» | La autoridad de Pilatos queda limitada y la entrega se formaliza. |
+| #juan_19_17-22 | «וישיאו אתו אתעץ צלבו ויביאהו אלהמקום הנקרא מקום הגלגלת ובעברית גלגלתא»; «ויכתב פילטוס כתבת עללוח וישימהו עלהצלב ישוע הנצרי מלך היהודים» | El madero y el título público interpretan la ejecución.           |
 | #juan_19_23-30 | «צָמֵאתִי»; «נִשְׁלָם»; «וַיַּפְקֵד אֶת־רוּחוֹ»                     | La muerte llega como cumplimiento y entrega de la vida.           |
 
 ## La realeza bajo la burla (19:1-7) #juan_19_1-7
 
-Pilatos toma a Yehoshua y lo azota. Los soldados trenzan una corona de espinas, le ponen un manto de púrpura y repiten: «¡Salve, Rey de los yehudim!». Eric observa que la escena no elimina la realeza: la boca de los soldados pretende burlarse, pero el relato hace visible una investidura invertida. «הִנֵּה הָאִישׁ» («he aquí el hombre») presenta al golpeado ante una multitud que exige crucifixión. El texto permite afirmar la ironía narrativa; no obliga a reconstruir qué intención psicológica tenía cada soldado.
+Pilatos toma a Yehoshua y lo azota. Los soldados trenzan una corona de espinas, le ponen un manto de púrpura y repiten: «¡Salve, Rey de los yehudim!». Eric observa que la escena no elimina la realeza: la boca de los soldados pretende burlarse, pero el relato hace visible una investidura invertida. «הנה הגבר» («he aquí el hombre») presenta al golpeado ante una multitud que exige crucifixión. El texto permite afirmar la ironía narrativa; no obliga a reconstruir qué intención psicológica tenía cada soldado.
 
 **(βασιλεύς)** (_basileus_) significa rey; su fuerza contextual es el título discutido y escrito en la escena, no una metáfora privada. Su relación con **(מלך)** (_melekh_) es aproximada y canónica: ambas formas nombran al rey, pero el griego del evangelio no queda demostrado por la raíz hebrea. **(στέφανος)** (_stephanos_) significa corona o guirnalda; aquí es una corona de espinas. La conexión pedagógica con coronación y sufrimiento conserva el contraste sin afirmar que la forma del objeto sea una ceremonia israelita normal.
 

@@ -42,10 +42,10 @@ Esta nota organiza la enseñanza correspondiente a la parte 29 de la serie del h
 | Referencia | Texto local (Delitzsch, sin nikud) | Función en la lectura |
 | --- | --- | --- |
 | #apocalipsis_21_1 | **וארא שמים חדשים וארץ חדשה כי השמים הראשנים והארץ הראשונה עברו והים איננו עוד** | Abre la visión con cielo y tierra nuevos y con la desaparición del mar. |
-| #apocalipsis_21_2-3 | **וארא והנה העיר הקדושה ירושלים החדשה ירדת מאת האלהים מן־השמים והיא מתוקנת ככלה המקשטת לבעלה**; **ואשמע קול גדול מן־הכסא לאמר הנה משכן אלהים עם בני האדם ושכן בתוכם** | Une ciudad, esposa y presencia de Elohim con los seres humanos. |
+| #apocalipsis_21_2-3 | **וארא והנה העיר הקדושה ירושלים החדשה ירדת מאת האלהים מן־השמים והיא מתקנת ככלה המקשטת לבעלה**; **ואשמע קול גדול מן־הכסא לאמר הנה משכן אלהים עם בני האדם ושכן בתוכם** | Une ciudad, esposa y presencia de Elohim con los seres humanos. |
 | #apocalipsis_21_4-5 | **ומחה אלהים כל־דמעה מעיניהם והמות לא יהיה־עוד וגם־אבל וזעקה וכאב לא יהיה־עוד**; **הנני עשה הכל חדש** | Describe consuelo y renovación, y califica las palabras como fieles y verdaderas. |
-| #apocalipsis_21_6-8 | **אני האלף והתיו הראש והסוף אני אתן לצמא ממעין מים חיים חנם**; **המנצח יירש הכל** | Presenta agua de vida, herencia y contraste con quienes permanecen en la rebelión. |
-| #apocalipsis_21_9-12 | **בא ואראך את־הכלה אשת השה**; **ויאמר לי העיר הקדושה ירושלים הגדולה ירדת מן־השמים מאת האלהים**; **שמות שנים־עשר שבטי בני ישראל** | El ángel muestra a la esposa como ciudad; las puertas llevan los nombres de las tribus. |
+| #apocalipsis_21_6-8 | **אני האלף והתו הראש והסוף אני אתן לצמא ממעין מים חיים חנם**; **המנצח יירש הכל** | Presenta agua de vida, herencia y contraste con quienes permanecen en la rebelión. |
+| #apocalipsis_21_9-12 | **בא ואראך את־הכלה אשת השה**; **ויראני העיר הקדושה ירושלים הגדולה ירדת מן־השמים מאת האלהים**; **שמות שנים־עשר שבטי בני ישראל** | El ángel muestra a la esposa como ciudad; las puertas llevan los nombres de las tribus. |
 | #apocalipsis_21_15-17 | **קנה זהב למד את־העיר ואת־שעריה ואת־חומתה**; **שנים עשר אלף ריס ארכה ורחבה וקומתה** | Las medidas cúbicas y la medida de la muralla pertenecen al lenguaje visionario del capítulo. |
 | #apocalipsis_21_22-23 | **והיכל לא־ראיתי בה כי יהוה אלהים צבאות הוא והשה היכלה**; **ונרה הוא השה** | No hay templo separado: יהוה y el Cordero son el santuario; el Cordero es la lámpara. |
 | #apocalipsis_21_24-27 | **והגוים ילכו לאורה ומלכי־ארץ מביאים כבודם**; **ולא־יבוא בה כל־טמא... כי אם־הכתובים בספר החיים של־השה** | Las naciones aparecen bajo la luz, pero la entrada se limita a quienes están escritos en el libro de la vida. |
