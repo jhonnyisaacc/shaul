@@ -74,3 +74,21 @@ Remote CI identified three new SBLGNT links indented after the scalar
 `translation` field instead of within `sources`. Moved those links into the
 source lists and validated the full verse-index generator locally. This
 metadata correction does not change editorial coverage or deployment settings.
+
+## Batch 16 — Marcos 1–4
+
+Completed 22/34 notes. Consolidated repeated generated control/repair sections
+around the existing exposition, teaching maps, lexical sheets and source
+credits. Replaced comparison summaries mislabeled as local text with actual
+corpus excerpts. Restored the chapter-1 disciple-call transition and organized
+the chapter-2 table, bridegroom and Shabbat scenes explicitly. Distinguished
+Marcos from the Mateo mercy wording, identified the actual chapter-3 family
+verb and retained the TTH/SBLGNT witness differences. Recorded the chapter-1
+compassion/indignation variant without resolving its manuscript history.
+Corrected the OE numbering of Tehilim 89 and the renamed sanctity note link.
+Part 16 remains an explicit caption gap with a failed recovery attempt.
+
+Validation: four transcript quality and hygiene checks, full verse conventions,
+local quotation comparisons, full verse-index generation and whitespace pass.
+The previous frontmatter correction passed both remote editorial CI runs.
+Remaining: Marcos 5–16. Vercel remains at six deployments, none for the branch.
