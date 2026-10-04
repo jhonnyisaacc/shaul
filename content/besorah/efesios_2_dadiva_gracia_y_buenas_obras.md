@@ -21,6 +21,8 @@ references:
   - "#efesios_2_9"
   - "#efesios_2_10"
 sources:
+  - "https://github.com/morphgnt/sblgnt/blob/master/70-Eph-morphgnt.txt"
+  - "https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/Eph.txt"
   - "https://www.youtube.com/watch?v=b1tK23tGzLQ"
   - "docs/scriptures/delitzsch/json/ephesians.json"
 source_ids:
@@ -40,10 +42,11 @@ Esta nota organiza la clase pública «LETTER TO THE EPHESIANS | It is the GIFT 
 
 | Referencia | Texto local de Delitzsch (sin nikud) | Función en el estudio |
 | --- | --- | --- |
-| #efesios_2_1-3 | **גם־אתכם אשר מתים הייתם בפשעיכם וחטאתיכם ... בתאות הבשר לעשות חפצי בשרנו ומחשבותינו** | La condición anterior es descrita como muerte en delitos, deseos y pensamientos. |
-| #efesios_2_4-6 | **אבל־האלהים המלא רחמים ברב אהבתו ... החינו עם־המשיח בחסד נושעתם ... ואף־הושיבנו במרומים במשיח ישוע** | Elohim actúa con misericordia, vivifica, levanta y sienta con el Mesías. |
-| #efesios_2_7-9 | **להראות בדרות הבאים את־גדלת עשר חסדו ... כי־בחסד נושעתם על־ידי האמונה ולא מידכם היתה זאת כי־מתת אלהים היא ... לא מתוך המעשים שלא יתהלל איש** | La gracia y la dádiva excluyen la jactancia y el mérito como fundamento. |
-| #efesios_2_10 | **כי־פעל אלהים אנחנו נבראים במשיח ישוע למעשים טובים אשר הכין האלהים מקדם למען נתהלך בהם** | La nueva creación tiene una finalidad: caminar en buenas obras preparadas por Elohim. |
+| #efesios_2_1-3 | Delitzsch: גםאתכם אשר מתים הייתם בפשעיכם וחטאתיכם אשר התהלכתם בהם כדור העולם הזה כרצון שר ממשלת האויר והוא הרוח הפעל כעת בבני המרי וגםאנחנו כלנו בתוכם הלכנו לפנים בתאות הבשר לעשות חפצי בשרנו ומחשבותינו ונהי בנירגז בטבענו כשאר בני אדם | La condición anterior es descrita como muerte en delitos, deseos y pensamientos. |
+| #efesios_2_4-6 | Delitzsch: אבלהאלהים המלא רחמים ברב אהבתו אשר אהב אתנו אחרי היותנו מתים בפשעים החינו עםהמשיח בחסד נושעתם ויעירנו אתו אףהושיבנו במרומים במשיח ישוע | Elohim actúa con misericordia, vivifica, levanta y sienta con el Mesías. |
+| #efesios_2_7-9 | Delitzsch: להראות בדרות הבאים אתגדלת עשר חסדו בטובתו עלינו במשיח ישוע כיבחסד נושעתם עלידי האמונה ולא מידכם היתה זאת כימתת אלהים היא לא מתוך המעשים שלא יתהלל איש | La gracia y la dádiva excluyen la jactancia y el mérito como fundamento. |
+| #efesios_2_10 | Delitzsch: כיפעל אלהים אנחנו נבראים במשיח ישוע למעשים טובים אשר הכין האלהים מקדם למען נתהלך בהם | La nueva creación tiene una finalidad: caminar en buenas obras preparadas por Elohim. |
+| #santiago_2_17 | Delitzsch: ככה גםהאמונה אםאין בה מעשים מתה היא בעצמה | Conexión de la clase: fe sin obras muerta; distinguir su argumento de la fuente del don en Efesios. |
 
 ## De muerte a vida: el sujeto decisivo es Elohim (2:1-6) #efesios_2_1-6
 
@@ -55,9 +58,11 @@ El giro del texto está en «pero Elohim». El sujeto no es la capacidad religio
 
 Efesios 2:7 orienta la obra hacia las edades venideras: Elohim muestra la abundancia de su gracia y bondad en el Mesías. En 2:8-9, la salvación es «por gracia, mediante la fe» y «no de ustedes», «dádiva de Elohim», «no por obras, para que nadie se gloríe». Eric combate la idea de que alguien pueda enumerar donaciones, oraciones, ayunos o conocimiento como si cada práctica fuera el precio de su redención. El texto sí niega el origen humano de la salvación; no niega el fruto que el versículo 10 va a nombrar.
 
-**χάριτι**, _chariti_, es la forma de **χάρις**, «gracia o favor». **σεσῳσμένοι**, _sesōsmenoi_, «habiendo sido salvados», es un participio perfecto pasivo: describe una salvación recibida con efecto vigente. La clase acerca esta dádiva a **מתת**, _matanat_, «regalo o dádiva», en el texto hebreo de Delitzsch. Esa relación ilumina la imagen de regalo, pero no prueba que el griego sea una traducción palabra por palabra del hebreo. Del mismo modo, cuando Eric relaciona la fe con **אמונה**, _emunah_, «fidelidad, firmeza o confianza», se trata de una comparación semítica útil; no conviene reducir todos los sentidos de un término a una sola equivalencia.
+**χάριτι**, _chariti_, es la forma de **χάρις**, «gracia o favor». **σεσῳσμένοι**, _sesōsmenoi_, «habiendo sido salvados», es un participio perfecto pasivo: describe una salvación recibida con efecto vigente. La clase acerca esta dádiva a **מתת**, _mattat_, «regalo o dádiva», en el texto hebreo de Delitzsch. Esa relación ilumina la imagen de regalo, pero no prueba que el griego sea una traducción palabra por palabra del hebreo. Del mismo modo, cuando Eric relaciona la fe con **אמונה**, _emunah_, «fidelidad, firmeza o confianza», se trata de una comparación semítica útil; no conviene reducir todos los sentidos de un término a una sola equivalencia.
 
 La exposición también insiste en que la fe sin obras es muerta, en conexión con Santiago. Esa conexión ayuda a leer 2:10, pero no debe utilizarse para reintroducir las obras como fundamento de 2:8-9. La secuencia de Pablo es precisa: salvación recibida, jactancia excluida, buenas obras preparadas.
+
+El pronombre **τοῦτο**, «esto», es neutro en 2:8, mientras **χάρις** y **πίστις** son femeninos. Puede recoger la afirmación completa de salvación por gracia mediante fe; el género no permite identificarlo mecánicamente sólo con «fe» ni excluye una referencia conceptual. El punto explícito es el origen divino del don y la exclusión de la jactancia. El verbo «salvar» se construye con **ἐστε** y el participio perfecto pasivo **σεσῳσμένοι**: una condición recibida y vigente, no una obligación de producir el don mediante obras.
 
 ## Hechura que camina: la gracia produce fruto (2:10) #efesios_2_10
 
@@ -67,13 +72,15 @@ El versículo 10 evita que «no por obras» sea separado de su contexto. **πο�
 
 La clase extiende esta idea a la mente renovada y a la esperanza futura. La nota la conserva como aplicación pastoral: el texto habla directamente de caminar en buenas obras, mientras que los detalles sobre naturaleza incorruptible, estados de resurrección y diagnósticos del mundo requieren pasajes adicionales y no se convierten aquí en afirmaciones de Efesios 2:10.
 
+El Delitzsch dice **פעל אלהים אנחנו**, «somos obra de Elohim». **פעל** funciona aquí como nombre dentro de una frase de identidad; el griego **ποίημα** es también sustantivo. La clase enfatiza una operación que continúa formando al creyente, pero no debe llamar verbo a esas formas ni traducirlas como si Pablo hubiera usado «operar». El acto de crear se expresa por el participio **κτισθέντες**, y caminar por **περιπατήσωμεν**.
+
 ## Hoja léxica
 
 | Forma | Transliteración | Sentido normal | Fuerza en la nota | Relación |
 | --- | --- | --- | --- | --- |
 | **(χάρις)** / **(חסד)** | _charis_ / _jesed_ | gracia, favor; misericordia o lealtad | Fuente de la salvación | Aproximada entre lenguas; el griego gobierna Efesios |
 | **(πίστις)** / **(אמונה)** | _pistis_ / _emunah_ | fe, confianza; firmeza o fidelidad | Medio señalado en 2:8 | Campo relacionado, no equivalencia total |
-| **(δῶρον)** / **(מתת)** | _dōron_ / _matanat_ | regalo, dádiva | La salvación no procede de la mano humana | Aproximada; imagen pedagógica de la clase |
+| **(δῶρον)** / **(מתת)** | _dōron_ / _mattat_ | regalo, dádiva | La salvación no procede de la mano humana | Aproximada; imagen pedagógica de la clase |
 | **(ποίημα)** | _poiēma_ | obra, hechura, creación realizada | Obra de Elohim que conduce a caminar | Exacta como sustantivo; «operación» es glosa pedagógica |
 | **(κτίζω)** | _ktizō_ | crear, fundar | Nueva creación en el Mesías | Exacta en el pasivo contextual |
 | **(περιπατέω)** | _peripateō_ | caminar, conducirse | Vida orientada por buenas obras | Exacta como metáfora de conducta |
@@ -89,7 +96,7 @@ La clase extiende esta idea a la mente renovada y a la esperanza futura. La nota
 
 ## Pendiente de verificar
 
-- [ ] Cotejar en el griego y en traducciones antiguas el alcance de **ποίημα** antes de convertir «operación» en definición léxica.
+- [x] Cotejar **ποίημα** en SBLGNT y **פעל** en Delitzsch 2:10: son nombres de obra/hechura; «operación activa» conserva el énfasis pedagógico de Eric.
 - [ ] Examinar la relación exacta entre **πίστις** y **אמונה** en Efesios y en el conjunto paulino.
 - [ ] Revisar la conexión citada con Santiago sin hacer que un pasaje posterior sustituya la sintaxis de Efesios 2:8-10.
 - [ ] Cotejar las afirmaciones históricas o doctrinales de la clase sobre gnosticismo, sacrificios y ciudadanía con fuentes externas; no son necesarias para la tesis central de esta nota.

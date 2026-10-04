@@ -18,6 +18,8 @@ references:
   - "#efesios_2_9"
   - "#efesios_2_10"
 sources:
+  - "https://github.com/morphgnt/sblgnt/blob/master/70-Eph-morphgnt.txt"
+  - "https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/Eph.txt"
   - "https://www.youtube.com/watch?v=PEIJisYfMgo"
   - "docs/scriptures/delitzsch/json/ephesians.json"
 source_ids:
@@ -37,11 +39,13 @@ Esta nota organiza la clase pública «LETTER TO THE EPHESIANS | SAVED by GRACE 
 
 | Referencia | Texto local de Delitzsch (sin nikud) | Función en la exposición |
 | --- | --- | --- |
-| #efesios_2_4 | **אבל־האלהים המלא רחמים ברב אהבתו אשר אהב אתנו** | El giro comienza con Elohim, lleno de misericordia y grande en amor. |
-| #efesios_2_5-6 | **אחרי היותנו מתים בפשעים החיינו עם־המשיח ... ואף־הושיבנו במרומים במשיח ישוע** | La vida, el levantamiento y la posición con el Mesías son recibidos de Elohim. |
-| #efesios_2_7 | **להראות בדרות הבאים את־גדלת עשר חסדו בטובתו עלינו במשיח ישוע** | La gracia se manifiesta también en las edades venideras. |
-| #efesios_2_8-9 | **כי־בחסד נושעתם על־ידי האמונה ... כי־מתת אלהים היא׃ לא מתוך המעשים שלא יתהלל איש** | La salvación es dádiva y no procede de obras que produzcan jactancia. |
-| #efesios_2_10 | **כי־פעל אלהים אנחנו נבראים במשיח ישוע למעשים טובים ... למען נתהלך בהם** | La nueva creación tiene un propósito de obediencia práctica. |
+| #efesios_2_4 | Delitzsch: אבלהאלהים המלא רחמים ברב אהבתו אשר אהב אתנו | El giro comienza con Elohim, lleno de misericordia y grande en amor. |
+| #efesios_2_5-6 | Delitzsch: אחרי היותנו מתים בפשעים החינו עםהמשיח בחסד נושעתם ויעירנו אתו אףהושיבנו במרומים במשיח ישוע | La vida, el levantamiento y la posición con el Mesías son recibidos de Elohim. |
+| #efesios_2_7 | Delitzsch: להראות בדרות הבאים אתגדלת עשר חסדו בטובתו עלינו במשיח ישוע | La gracia se manifiesta también en las edades venideras. |
+| #efesios_2_8-9 | Delitzsch: כיבחסד נושעתם עלידי האמונה ולא מידכם היתה זאת כימתת אלהים היא לא מתוך המעשים שלא יתהלל איש | La salvación es dádiva y no procede de obras que produzcan jactancia. |
+| #efesios_2_10 | Delitzsch: כיפעל אלהים אנחנו נבראים במשיח ישוע למעשים טובים אשר הכין האלהים מקדם למען נתהלך בהם | La nueva creación tiene un propósito de obediencia práctica. |
+| #santiago_2_17 | Delitzsch: ככה גםהאמונה אםאין בה מעשים מתה היא בעצמה | Conexión de la clase: fe sin obras muerta; distinguir su argumento de la fuente del don en Efesios. |
+| #romanos_6_23 | Delitzsch: כישכר החטא הוא המות ומתנת חסד אלהים היא חיי העולמים במשיח ישוע אדנינו | Contraste de paga y dádiva citado en la sesión, aproximadamente 00:19:30–00:19:47. |
 
 ## «Pero Elohim»: la iniciativa ocurre cuando estábamos muertos
 
@@ -55,11 +59,15 @@ Efesios 2:8-9 coloca tres límites: «por gracia», «mediante la fe», «no de 
 
 **χάρις**, _charis_, suele traducirse «gracia» o «favor»; el texto hebreo local usa **חסד**, _jesed_, un campo que puede incluir misericordia, bondad y lealtad. La relación ilumina el vocabulario, pero no prueba una identidad perfecta entre los sistemas lingüísticos. De modo semejante, **πίστις**, _pistis_, puede expresarse como fe, confianza o fidelidad según el contexto. La clase prefiere «ser afirmado en fidelidad» a una creencia meramente mental. La nota conserva el énfasis, pero no convierte esa preferencia pedagógica en la única traducción posible.
 
+El pronombre **τοῦτο**, «esto», es neutro en 2:8, mientras **χάρις** y **πίστις** son femeninos. Puede recoger la afirmación completa de salvación por gracia mediante fe; el género no permite identificarlo mecánicamente sólo con «fe» ni excluye una referencia conceptual. El punto explícito es el origen divino del don y la exclusión de la jactancia. El verbo «salvar» se construye con **ἐστε** y el participio perfecto pasivo **σεσῳσμένοι**: una condición recibida y vigente, no una obligación de producir el don mediante obras.
+
 ## La gracia crea una obra que camina (2:10) #efesios_2_10
 
 El versículo 10 protege la lectura contra el extremo contrario. Los creyentes son **ποίημα**, _poiēma_, «obra, hechura o creación realizada» de Elohim; han sido creados en el Mesías para buenas obras que Elohim preparó de antemano. **κτισθέντες**, _ktisthentes_, es un participio pasivo: la nueva condición tiene a Elohim como agente. **περιπατήσωμεν**, _peripatēsōmen_, «caminemos», traduce la imagen bíblica de una conducta sostenida, no de un acto aislado.
 
 Por eso la exposición denuncia la idea de que gracia signifique no hacer nada. El texto permite decir que la obediencia es fruto y camino de la nueva creación; no permite decir que esa obediencia compra el don. Esta distinción también ordena la conexión que la clase hace con Santiago: las obras manifiestan una vida viva, pero no reintroducen las obras como fundamento de Efesios 2:8-9.
+
+El Delitzsch dice **פעל אלהים אנחנו**, «somos obra de Elohim». **פעל** funciona aquí como nombre dentro de una frase de identidad; el griego **ποίημα** es también sustantivo. La clase enfatiza una operación que continúa formando al creyente, pero no debe llamar verbo a esas formas ni traducirlas como si Pablo hubiera usado «operar». El acto de crear se expresa por el participio **κτισθέντες**, y caminar por **περιπατήσωμεν**.
 
 ## Hoja léxica
 
@@ -69,7 +77,7 @@ Por eso la exposición denuncia la idea de que gracia signifique no hacer nada. 
 | **(ἀγάπη)** / **(אהבה)** | _agapē_ / _ahavah_ | amor, entrega, benevolencia | Amor que actúa según el propósito de Elohim | Relación temática y pedagógica |
 | **(χάρις)** / **(חסד)** | _charis_ / _jesed_ | gracia, favor; bondad o lealtad | Fuente del don | Aproximada entre lenguas |
 | **(πίστις)** / **(אמונה)** | _pistis_ / _emunah_ | fe, confianza; firmeza o fidelidad | Medio de recepción descrito en 2:8 | Campo relacionado, no identidad total |
-| **(δῶρον)** / **(מתת)** | _dōron_ / _matanat_ | regalo, dádiva | La salvación no procede de la mano humana | Aproximada; imagen pedagógica |
+| **(δῶρον)** / **(מתת)** | _dōron_ / _mattat_ | regalo, dádiva | La salvación no procede de la mano humana | Aproximada; imagen pedagógica |
 | **(ποίημα)** | _poiēma_ | obra, hechura, creación | Obra de Elohim orientada a caminar | «Operación» es una glosa, no la definición única |
 
 ## Mapa de la enseñanza de Eric
@@ -83,8 +91,8 @@ Por eso la exposición denuncia la idea de que gracia signifique no hacer nada. 
 
 ## Pendiente de verificar
 
-- [ ] Cotejar la relación contextual entre **χάρις**, **πίστις** y **δῶρον** en Efesios 2:8 antes de resolver el referente exacto de «esto».
-- [ ] Revisar los usos de **ποίημα** para no convertir «operación activa» en una definición léxica exclusiva.
+- [x] Cotejar SBLGNT 2:8: **τοῦτο** es neutro y puede recoger la cláusula completa; el dato gramatical no resuelve por sí solo toda la discusión sobre el referente.
+- [x] Cotejar **ποίημα** y **פעל** como sustantivos en 2:10; «operación» es una explicación pedagógica, no una forma verbal del versículo.
 - [ ] Estudiar la comparación entre **πίστις** y **אמונה** en el corpus paulino.
 - [ ] Cotejar las conexiones con Santiago, Juan, Oseas y otros profetas sin sustituir la sintaxis de Efesios.
 - [ ] Verificar por separado las afirmaciones de la clase sobre elección, emociones y el cumplimiento de la Torá.
