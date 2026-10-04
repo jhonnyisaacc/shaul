@@ -108,3 +108,20 @@ Validation: four transcript quality and hygiene checks, Bun frontmatter, local
 quotation comparison, full verse-index generation and whitespace pass. Batch 16
 passed push and PR CI (runs 37219860770 and 37219863581). Vercel still has six
 deployments and none for this branch. Remaining: Marcos 9–16.
+
+## Batch 18 — Marcos 9–12
+
+Completed 30/34 notes. Consolidated duplicated chapter-9 body/resurrection
+sections and retained Eric’s specific theological connections with their
+limits. Corrected the explicit servant noun, appearance verb and prayer/fasting
+witness distinction. Recorded the part-29 caption gap and repaired its sanctity
+link. Clarified chapter-10 cable/camel, wealth and cross witness differences
+and verified the actual part-32 divorce recap rather than limiting it by title.
+Recorded the part-35 gap and distinguished chapter-11 forgiveness witnesses.
+Corrected chapter-12 first-command adjective, treasury noun, lack noun and
+marriage vocabulary, and verified part 39’s widow discussion.
+
+Validation: four transcript-quality and hygiene checks, local quotation
+comparison, full verse-index generation and whitespace pass. Batch 17 passed
+push/PR CI (37220368822 and 37220371183). Vercel remains at six deployments,
+none for the branch. Remaining: Marcos 13–16.
