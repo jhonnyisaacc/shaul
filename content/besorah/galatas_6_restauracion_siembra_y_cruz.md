@@ -23,6 +23,7 @@ references:
   - "#galatas_6_15"
   - "#galatas_6_18"
 sources:
+  - "https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/Gal.txt"
   - "https://www.youtube.com/watch?v=_e5zS7_EkRk"
   - "docs/scriptures/delitzsch/json/galatians.json"
 source_ids:
@@ -42,15 +43,18 @@ Esta nota organiza la clase pública «LETTER TO THE GALATIANS | FINAL Statement
 
 | Referencia | Texto local de Delitzsch (sin nikud) | Función en el estudio |
 | --- | --- | --- |
-| #galatas_6_1 | **אחי גם־כי ילכד איש מכם בחטא אתם אנשי הרוח השיבו אתו ברוח ענוה והשמר לך פן־תנסה גם אתה׃** | Restaurar al que cae con espíritu de humildad y vigilancia propia. |
-| #galatas_6_2; #galatas_6_5 | **שאו איש את־משא רעהו ובזה תמלאו את־תורת המשיח׃** / **כי כל־איש את־משאו ישא׃** | La comparación distingue ayudar en el peso del otro y llevar el propio cargamento. |
-| #galatas_6_7-10 | **אל־תתעו אלהים לא יתן להתל בו כי מה־שיזרע האדם אתו יקצר׃ ... ובעת אשר לנו נעשה־נא טוב לכל וביותר לבני אמונתנו׃** | La siembra gobierna la exhortación a no cansarse de hacer el bien. |
-| #galatas_6_12-15 | **כל־החפצים להתהדר בבשר מכריחים אתכם להמול ... כי אם־בברית אדנינו ישוע המשיח ... כי לא־המילה דבר ולא הערלה כי אם־בריאה חדשה׃** | La cruz y la nueva creación desplazan la gloria puesta en la carne. |
-| #galatas_6_16-18 | **ולכל ההולכים בדרך הזאת שלום ורחמים ועל־ישראל אלהים׃ ... חסד אדנינו ישוע המשיח עם־רוחכם אחי אמן׃** | El cierre deja paz, misericordia y el favor del Mesías sobre la comunidad. |
+| #galatas_6_1 | Delitzsch: אחי אף אםיתפש איש מכם בעברה אתם אנשי הרוח תקימהו ברוח ענוה והשמר לנפשך פןתבא לידינסיון גםאתה | Restaurar al que cae con espíritu de humildad y vigilancia propia. |
+| #galatas_6_2; #galatas_6_5 | Delitzsch 6:2: שאו איש אתמשא רעהו כן תקימו אתתורת המשיח<br>Delitzsch 6:5: כי כלאיש אתמשאו ישא | La ayuda mutua y la responsabilidad propia aparecen en unidades distintas. |
+| #galatas_6_7-10 | Delitzsch: אלתתעו אלהים לאיתן להתל בו כי אתאשר יזרע האדם אתו יקצר כי הזרע בבשרו יקצר כליון מבשרו והזרע ברוח יקצר מןהרוח חיי עולם ואנחנו אלנלאה בעשות הטוב כינקצר בעתו אםלא נרפה לכן כאשר תמצא ידנו נעשהנא אתהטוב עםכלאדם וביותר עםבני אמונתנו | La siembra gobierna la exhortación a no cansarse de hacer el bien. |
+| #galatas_6_12-15 | Delitzsch: החפצים להתהדר בבשר אין כופים אתכם להמול אלא כדי שלאירדפו עלצלוב המשיח כי גםהם הנמולים לא ישמרו אתהתורה רק רצונם אשר תמולו למען יתהללו בבשרכם ואנכי חלילה לי מהתהלל בלתי אם בצלוב אדנינו ישוע המשיח אשרבו העולם נצלבלי ואני נצלב לעולם כיבמשיח ישוע לאהמילה תחשב ולאהערלה כי אםהבריאה החדשה | La cruz y la nueva creación desplazan la gloria puesta en la carne. |
+| #galatas_6_16-18 | Delitzsch: וכלהנהגים כשורה הזאת שלום ורחמים עליהם ועלישראל אשר לאלהים מעתה איש אלילאני עוד כי אתחבורות האדון ישוע אני נשא בגויתי חסד ישוע המשיח אדנינו יהי עםרוחכם אחי אמן | El cierre deja paz, misericordia y el favor del Mesías sobre la comunidad. |
+| #yejezkel_36_27 | OE: ואת רוחי אתן בקרבכם ועשיתי את אשר בחקי תלכו ומשפטי תשמרו ועשיתם | Ruaj y obediencia como conexión de la clase. |
+| #galatas_6_6 | Delitzsch: המלמד בדבר יחלק מכלטובו למלמדהו | Compartir con quien enseña. |
+| #galatas_6_11 | Delitzsch: ראונא מהגדול המכתב אשר כתבתי אליכם בידי | Las letras grandes y la escritura de propia mano. |
 
 ## Restaurar sin convertir la corrección en superioridad (6:1) #galatas_6_1
 
-La clase lee «transgresión» como una caída consciente y contrasta esa idea con **חטא**, _jatá_, presentado en la exposición como pecado involuntario, y **עברה**, _averá_, como transgresión o paso por encima. Esa distinción puede ayudar pastoralmente a hablar de intención y responsabilidad, pero no debe tratarse como una definición universal del vocabulario bíblico sin cotejar cada término en su contexto. El texto local de Gálatas 6:1 manda a quienes son «del Rúaj» restaurar al caído con un espíritu de humildad y guardar su propio ser para no ser tentados.
+La clase lee «transgresión» como una caída consciente y contrasta esa idea con **חטא**, _jatá_, presentado en la exposición como pecado involuntario, y **עברה**, _averá_, como transgresión o paso por encima. SBLGNT usa **παράπτωμα** en 6:1; no aparece allí **ἁμάρτημα**. La palabra no decide por sí sola si toda falta es consciente o involuntaria. Esa distinción de la clase puede ayudar pastoralmente a hablar de intención y responsabilidad, pero no debe tratarse como una definición universal del vocabulario bíblico sin cotejar cada término en su contexto. El texto local de Gálatas 6:1 manda a quienes son «del Rúaj» restaurar al caído con un espíritu de humildad y guardar su propio ser para no ser tentados.
 
 El énfasis más firme no es clasificar pecados para alimentar una élite espiritual, sino impedir que la corrección se convierta en orgullo. La clase afirma que humildad no significa pasar por alto el mal: puede haber reprensión y disciplina, pero nunca desde la pretensión «yo soy santo y tú no sabes nada». La humildad, en el argumento de la exposición, es sometimiento a Elohim. Esa aplicación coincide con la advertencia del versículo: el restaurador también debe vigilarse.
 
@@ -84,8 +88,8 @@ El versículo 15 ofrece la conclusión textual: ni circuncisión ni incircuncisi
 | --- | --- | --- | --- | --- |
 | **(βάρη)** | _barē_ | pesos, cargas gravosas | Ayuda en el sufrimiento de otro | Distinta de **(φορτίον)** en el argumento textual |
 | **(φορτίον)** | _phortion_ | cargamento, carga propia | Responsabilidad personal | Distinción contextual, no contradicción |
-| **(πνευματικοί)** / **(ענוה)** | _pneumatikoi_ / _anavá_ | del Rúaj; humildad o mansedumbre | Restaurar sin altivez | Relación pedagógica, no equivalencia morfológica |
-| **(νόμος τοῦ Χριστοῦ)** | _nomos tou Christou_ | ley/instrucción del Mesías | Obediencia que lleva el peso del hermano | El artículo apoya una referencia definida; requiere más contexto |
+| **(πνευματικοί)** / **(אנשי הרוח)** | _pneumatikoi_ / _anshei ha-ruaj_ | espirituales; personas del Ruaj | Los llamados a restaurar | Correspondencia de traducción; ענוה corresponde a la mansedumbre, no a este adjetivo |
+| **(νόμος τοῦ Χριστοῦ)** | _nomos tou Christou_ | ley/instrucción del Mesías | Obediencia que lleva el peso del hermano | El pasaje contiene τὸν νόμον τοῦ Χριστοῦ; identificar su alcance con toda aplicación sinaítica requiere más contexto |
 | **(κόσμος)** / **(עולם)** | _kosmos_ / _olam_ | mundo, orden; era, mundo o perpetuidad | Orden del que la cruz separa al creyente | Aproximación contextual, no identidad total |
 | **(καινὴ κτίσις)** | _kainē ktisis_ | nueva creación | Criterio que supera circuncisión e incircuncisión | Sentido directo del versículo 15 |
 
@@ -101,7 +105,7 @@ El versículo 15 ofrece la conclusión textual: ni circuncisión ni incircuncisi
 
 ## Pendiente de verificar
 
-- [ ] Cotejar **ἁμάρτημα**, **παράπτωμα**, **βάρη** y **φορτίον** en léxicos y manuscritos antes de fijar una taxonomía completa de pecado y cargas.
+- [x] Cotejar las formas en SBLGNT: παράπτωμα (6:1), βάρη (6:2) y φορτίον (6:5). No aparece ἁμάρτημα en 6:1. Sus campos se superponen; intención del pecado o peso de una carga no se deciden por etimología aislada. La taxonomía histórica más amplia sigue pendiente.
 - [ ] Verificar el trasfondo histórico concreto de los opositores que imponían circuncisión y si la expresión «fariseos» describe exactamente a todos ellos.
 - [ ] Revisar el alcance de **νόμος τοῦ Χριστοῦ** en Gálatas y en el resto del corpus paulino.
 - [ ] Cotejar la interpretación histórica de las «grandes letras» de 6:11; la clase presenta varias posibilidades, no una certeza.

@@ -22,7 +22,7 @@ references:
   - "#tehilim_119_20"
 sources:
   - "https://www.youtube.com/watch?v=WRILATGNg_U"
-  - "docs/scriptures/tth/json/yojanan.json"
+  - "docs/scriptures/tth/json/iojanan.json"
   - "docs/scriptures/delitzsch/json/john.json"
   - "docs/scriptures/oe/json/isaiah/11.json"
   - "docs/scriptures/oe/json/psalms/119.json"
@@ -37,7 +37,7 @@ En #juan_14_22-26, **Yehoshua** responde a la pregunta sobre su manifestación n
 
 ## Alcance de la nota
 
-Esta nota organiza la parte de la clase 56 de Eric de Jesús dedicada a #juan_14_22-26. La transcripción automática no se toma como cita literal. La clase desarrolla una lectura amplia sobre \_morada*, _palabra_, conciencia, el Rúaj y la acción de Elohim en las naciones. Se distingue esa elaboración de lo que el pasaje afirma directamente y se dejan pendientes las propuestas filológicas, rabínicas, históricas y doctrinales que requieren cotejo.
+Esta nota organiza la parte de la clase 56 de Eric de Jesús dedicada a #juan_14_22-26. La transcripción automática no se toma como cita literal. La clase desarrolla una lectura amplia sobre _morada_, _palabra_, conciencia, el Rúaj y la acción de Elohim en las naciones. Se distingue esa elaboración de lo que el pasaje afirma directamente y se dejan pendientes las propuestas filológicas, rabínicas, históricas y doctrinales que requieren cotejo.
 
 ## Hoja de comparación
 
@@ -81,8 +81,6 @@ La nota conserva el límite del pasaje: Yehoshua promete presencia, enseñanza y
 
 | Forma                              | Uso en la nota                                                     | Límite de la afirmación                                                                                                                                                                                           |
 | ---------------------------------- | ------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Forma fuente                       | Transliteración y sentido normal                                   | Fuerza contextual y relación con la clase                                                                                                                                                                         |
-| ------------                       | --------------------------------                                   | ------------------------------------------                                                                                                                                                                        |
 | **λόγος**                          | _logos_; palabra, mensaje, asunto o expresión.                     | En 14:23-24 es la palabra recibida de Yehoshua y procedente del Padre. La extensión de Eric a toda la obra mesiánica es aproximada e interpretativa, no una definición exclusiva del sustantivo.                  |
 | **μονή**                           | _monē_; morada, estancia o lugar de permanencia.                   | En 14:23 expresa que el Padre y el Hijo habitan con quien ama y guarda la palabra. La relación con 14:2 es léxica; igualar todos sus matices con «Shejiná» es una aplicación pedagógica, no exacta.               |
 | **παράκλητος**                     | _paraklētos_; ayudador, defensor o intercesor convocado al lado.   | El texto joánico lo identifica aquí con el Rúaj Ha’Kódesh y le atribuye enseñar y recordar. «Menajem» conserva la función de consuelo/ayuda, pero es una traducción interpretativa y aproximada.                  |

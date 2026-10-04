@@ -19,7 +19,7 @@ references:
   - "#tehilim_119_1"
 sources:
   - "docs/benhaelohim.md"
-  - "docs/scriptures/tth/json/yojanan.json"
+  - "docs/scriptures/tth/json/iojanan.json"
   - "docs/scriptures/delitzsch/json/john.json"
   - "https://www.youtube.com/watch?v=oWBXDeXiqUI"
   - "https://www.youtube.com/watch?v=OYKCQLXnX3I"
@@ -41,13 +41,13 @@ Yojanan 1 presenta a la meymrá como la expresión corpórea de Elohim, vida inc
 
 ## Ruta textual y atribución de la enseñanza
 
-La parte 2 de la serie empieza con la pregunta de los enviados: «¿Tú quién eres?» (#juan_1_19). Eric observa que la pregunta puede buscar procedencia y no sólo una etiqueta personal; contrasta esa escena con la respuesta de Yojanán: «Yo soy la voz de uno que clama en el desierto» (#juan_1_23). La observación ayuda a leer el testimonio en su marco geográfico y profético, pero el texto local sigue siendo el control: Yojanán niega ser el Mesías, Eliyahu o el profeta que esperan, y se identifica mediante Isaías.
+Como antecedente, la [parte 2 de la serie](https://www.youtube.com/watch?v=1MoxwBR4bg4), organizada en [[juan_1_testigo_cordero]], trata la pregunta de los enviados: «¿Tú quién eres?» (#juan_1_19). Eric observa que la pregunta puede buscar procedencia y no sólo una etiqueta personal; contrasta esa escena con la respuesta de Yojanán: «Yo soy la voz de uno que clama en el desierto» (#juan_1_23). La observación ayuda a leer el testimonio en su marco geográfico y profético, pero el texto local sigue siendo el control: Yojanán niega ser el Mesías, Eliyahu o el profeta que esperan, y se identifica mediante Isaías.
 
-En las partes 3 y 4, Eric vuelve al prólogo para explicar que **(λόγος)** (_logos_) no debe aplanarse en una abstracción filosófica. Lo acerca a **(מימרא)** (_meymrá_), la expresión activa de Elohim, y relaciona «la Palabra llegó a ser carne» con una presencia real entre el pueblo (#juan_1_14). La conexión semítica es atribuida y pedagógica; el texto sí afirma, en orden, que la Palabra estaba al principio, que por ella llegaron a existir todas las cosas, que en ella estaba la vida y que habitó entre nosotros. La parte 4 extiende esa línea a «gracia y verdad» y al Hijo único que declara a Elohim (#juan_1_16-18), sin que esas extensiones deban presentarse como una traducción automática de \_meymrá*.
+En las partes 3 y 4, Eric vuelve al prólogo para explicar que **(λόγος)** (_logos_) no debe aplanarse en una abstracción filosófica. Lo acerca a **(מימרא)** (_meymrá_), la expresión activa de Elohim, y relaciona «la Palabra llegó a ser carne» con una presencia real entre el pueblo (#juan_1_14). La conexión semítica es atribuida y pedagógica; el texto sí afirma, en orden, que la Palabra estaba al principio, que por ella llegaron a existir todas las cosas, que en ella estaba la vida y que habitó entre nosotros. La parte 4 extiende esa línea a «gracia y verdad» y al Hijo único que declara a Elohim (#juan_1_16-18), sin que esas extensiones deban presentarse como una traducción automática de _meymrá_.
 
 ## Contexto del libro
 
-- La nota sitúa la redacción alrededor de los años 90 d.C.
+- La serie sitúa la redacción alrededor de los años 90 d.C.; la datación requiere bibliografía histórica, no se deduce del texto citado.
 - El propósito principal es mostrar la divinidad del Mesías.
 - Aunque el texto llegó en griego koiné, la nota subraya un fuerte trasfondo de hebraísmos y arameísmos.
 
@@ -81,7 +81,7 @@ En las partes 3 y 4, Eric vuelve al prólogo para explicar que **(λόγος)** 
 | **(דבר)**             | davar / hadavar | Palabra, asunto                   | דבר          | Forma usada en Delitzsch para traducir logos.                                  |
 | **(ראשית)**           | reshit          | Primicia, origen, principio       | ראש          | Origen que sostiene y atrae todo hacia Elohim.                                 |
 | **(שכן)**             | shakan          | Habitar, tabernaculizar           | שכן          | #juan_1_14: mishkan, no sucot ni fecha de nacimiento.                       |
-| **(μονογενής)**       | monogenes       | Unigénito, de una sola naturaleza | μονο- / γεν- | Se aproxima pedagógicamente a **(יחיד)**; marcar si es analogía.               |
+| **(μονογενής)**       | monogenes       | único, unigénito; la clase propone «de una sola naturaleza» | μονο- / γεν- | Se aproxima pedagógicamente a **(יחיד)**; marcar si es analogía.               |
 | **(חסד)** / **(אמת)** | jesed / emet    | Bondad fiel / verdad              | חסד / אמת    | Se conectan con juqim y mishpatim en la nota.                                  |
 
 ## Reshit, logos y meymrá
@@ -91,7 +91,7 @@ En las partes 3 y 4, Eric vuelve al prólogo para explicar que **(λόγος)** 
 - «La meymrá era para Elohim» se lee en clave de pertenencia: la expresión corpórea le pertenece a Elohim.
 - La fórmula no se reduce al logos filosófico griego ni a un dios secundario.
 
-Eric comienza el prólogo en #juan_1_1-3 como una afirmación de pertenencia y no como una genealogía: la Palabra estaba en la primicia, estaba orientada hacia Elohim y participa en la obra creadora. Su lectura contrasta la **(מימרא)** (_meymrá_) aramea con un _logos_ entendido de forma filosófica y autosuficiente. El texto griego local afirma que todo llegó a existir por medio de ella; por eso la propuesta de la clase ayuda a preservar el trasfondo semítico, pero no permite convertir _meymrá_ en una traducción demostrada de cada matiz de **(λόγος)** (_logos_).
+Eric comienza el prólogo en #juan_1_1-3 como una afirmación de pertenencia y no como una genealogía: la Palabra estaba en la primicia, estaba orientada hacia Elohim y participa en la obra creadora. Su lectura contrasta la **(מימרא)** (_meymrá_) aramea con un _logos_ entendido de forma filosófica y autosuficiente. El cotejo local TTH/Delitzsch afirma que todo llegó a existir por medio de ella; por eso la propuesta de la clase ayuda a preservar el trasfondo semítico, pero no permite convertir _meymrá_ en una traducción demostrada de cada matiz de **(λόγος)** (_logos_).
 
 La repetición de **(ἐγένετο)** (_egeneto_, «llegó a ser» o «aconteció») en la unidad conecta creación, vida y testimonio. Eric la relaciona pedagógicamente con **(היה)** (_hayah_, «ser, acontecer, llegar a ser»). La relación es aproximada: sirve para seguir el movimiento del prólogo, pero el griego conserva su propia sintaxis y no queda agotado por una sola forma hebrea.
 
@@ -110,7 +110,7 @@ La repetición de **(ἐγένετο)** (_egeneto_, «llegó a ser» o «acontec
 
 ## El unigénito y la esencia
 
-- Monogenes se resume como "de una sola naturaleza" y se aproxima a yajid.
+- La clase desarrolla monogenes como «de una sola naturaleza» y lo aproxima a yajid; esa formulación no es una definición léxica ya demostrada.
 - La nota enfatiza que el unigénito Elohim es el único que tiene esa esencia y el que dio a conocer al Abá.
 - La expresión jesed y emet se conecta con juqim y mishpatim.
 
@@ -167,6 +167,8 @@ de usarse como contexto establecido.
 | #juan_1_14-18 | La Palabra entra en la carne y tabernaculiza; el unigénito da a conocer al Elohim no visto. | Apoyo textual y aclaración léxica: **(μονογενής)** y **(שכן)** se explican con límites, dejando las ecuaciones históricas pendientes. |
 
 ## Pendiente de verificar
+
+- [ ] Documentar la datación propuesta para el evangelio con bibliografía especializada.
 
 - [ ] Afinar qué matices deben citarse explícitamente desde la tradición judía sobre meymrá.
 - [ ] Añadir fuentes secundarias si se quiere documentar el contraste con Filón y el logos estoico.

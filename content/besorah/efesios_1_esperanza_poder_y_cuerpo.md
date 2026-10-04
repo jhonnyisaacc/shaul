@@ -20,6 +20,8 @@ references:
   - "#efesios_1_22"
   - "#efesios_1_23"
 sources:
+  - "https://github.com/morphgnt/sblgnt/blob/master/70-Eph-morphgnt.txt"
+  - "https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/Eph.txt"
   - "https://www.youtube.com/watch?v=u5evoOhwvDk"
   - "docs/scriptures/delitzsch/json/ephesians.json"
 source_ids:
@@ -39,10 +41,10 @@ Esta nota organiza la clase pública «CARTA A LOS EFESIOS | YESHÚA HA'MASHÍAJ
 
 | Referencia | Texto local de Delitzsch (sin nikud) | Función en el estudio |
 | --- | --- | --- |
-| #efesios_1_15-16 | **בעבור זאת גם־אנכי אחרי שמעי אמונתכם באדנינו ישוע והאהבה אשר־אהבתם את־כל־הקדשים ... לא אחדל מהודות בעבורכם** | La oración nace al oír de la confianza en el Mesías y del amor a los santos. |
-| #efesios_1_17-18 | **שיתן לכם אלהי אדנינו ישוע המשיח אבי הכבוד את־רוח החכמה והחזון לדעת אתו ... ויאר עיני לבבכם** | Se pide Rúaj de sabiduría y revelación para conocerle y ver la esperanza y la herencia. |
-| #efesios_1_19-20 | **ומה־יתרון גדלת גבורתו בנו המאמינים כפי פעלת עצם כחו אשר פעל במשיח בהעיר אתו מן־המתים ויושיבנו לימינו במרומים** | El poder se define por la acción de Elohim en la resurrección y exaltación del Mesías. |
-| #efesios_1_21-23 | **ממעל לכל־שררה ושלטן וגבורה וממשלה ... ויתן אתו לראש לכל אל־העדה אשר היא גופו** | La autoridad del Mesías culmina en ser cabeza de la congregación, que es su cuerpo. |
+| #efesios_1_15-16 | Delitzsch: בעבור זאת גםאנכי אחרי שמעי אמונתכם באדנינו ישוע והאהבה אשראהבתם אתכלהקדשים לא אחדל מהודות בעבורכם בהזכירי אתכם בתפלתי | La oración nace al oír de la confianza en el Mesías y del amor a los santos. |
+| #efesios_1_17-18 | Delitzsch: שיתן לכם אלהי אדנינו ישוע המשיח אבי הכבוד אתרוח החכמה והחזון לדעת אתו ויאר עיני לבבכם למען תדעו מההיא תוחלת קריאתו ומהעשר כבוד נחלתו בקדשים | Se pide Rúaj de sabiduría y revelación para conocerle y ver la esperanza y la herencia. |
+| #efesios_1_19-20 | Delitzsch: ומהיתרון גדלת גבורתו בנו המאמינים כפי פעלת עצם כחו אשר פעל במשיח בהעיר אתו מןהמתים ויושיבנו לימינו במרומים | El poder se define por la acción de Elohim en la resurrección y exaltación del Mesías. |
+| #efesios_1_21-23 | Delitzsch: ממעל לכלשררה ושלטן וגבורה וממשלה וכל הנקרא בשם לאבעולם הזה בלבד כי אםגם בעולם הבא וישת כל תחת רגליו ויתן אתו לראש לכל אלהעדה אשר היא גופו מלוא שלהממלא אתהכל בכל | La autoridad del Mesías culmina en ser cabeza de la congregación, que es su cuerpo. |
 
 ## Una oración guiada por la confianza y el amor (1:15-17) #efesios_1_15-17
 
@@ -50,11 +52,15 @@ La clase retoma que Pablo ha oído de la confianza de los creyentes en Yehoshua 
 
 Pablo responde con memoria y oración. No presenta la oración como una conversación sin forma ni como un mecanismo para satisfacer cualquier deseo; pide que Elohim conceda un Rúaj de sabiduría y revelación para conocerle. La clase vincula la oración con confesión, reverencia y dirección conforme a la Escritura. Esa aplicación puede servir pastoralmente, pero la afirmación directa del versículo es más precisa: la petición busca conocimiento de Elohim y discernimiento espiritual.
 
+En la exposición, Eric propone que **אבי הכבוד**, «padre de la gloria», designa al propio Yehoshua y conecta el título con atributos divinos que se manifiestan gradualmente. Esa propuesta debe quedar visible porque lleva el argumento de la clase. El cotejo de SBLGNT en 1:17, sin embargo, encuentra «el Elohim de nuestro Señor Yehoshua el Mesías» como sujeto de «dé», y «el Padre de la gloria» en nominativo como aposición a Elohim; «de nuestro Señor» y el nombre del Mesías están en genitivo. No basta cambiar la coma para transferir la aposición al Mesías. El Delitzsch conserva el título después de la misma cadena, pero no marca los casos griegos. Por tanto, el versículo sostiene la oración al Elohim del Mesías; la identificación que hace Eric se conserva como lectura teológica y no como resultado exigido por la gramática. La propuesta aparece aproximadamente en 00:22:59–00:24:24 de esta sesión.
+
 ## Los ojos del corazón y la triple esperanza (1:18) #efesios_1_18
 
 **φωτίζω**, _phōtizō_, significa iluminar o dar luz; **καρδία**, _kardia_, designa el corazón como centro de percepción, voluntad y entendimiento. «Iluminar los ojos del corazón» es una imagen del propio texto, no una invitación a sustituir el estudio por una sensación interior. La iluminación tiene tres contenidos: la esperanza del llamamiento, la riqueza de la gloria de la herencia entre los santos y la grandeza del poder hacia quienes creen.
 
 Eric insiste en que la herencia no debe convertirse en orgullo personal. La clase la relaciona con una comunidad formada según el diseño de Elohim y con el lenguaje bíblico de pueblo adquirido. Aquí la nota conserva el énfasis, pero deja que Efesios 1:18 gobierne: Pablo habla de la riqueza de la gloria de la herencia entre los santos; no desarrolla en este versículo una teoría completa sobre propiedad, ciudadanía o calendario de redención.
+
+La oración distingue los objetos: 1:18 nombra esperanza y herencia; el tercer objeto, poder hacia quienes creen, comienza en 1:19. El infinitivo de «conocer» es **εἰδέναι**, de **οἶδα**. No se debe derivar la triple petición de una etimología inventada de corazón.
 
 ## El poder se conoce en la resurrección del Mesías (1:19-21) #efesios_1_19-21
 
@@ -83,11 +89,14 @@ El cierre impide separar el poder de la comunidad. El Mesías no es presentado c
 | Unidad textual | Observación concreta de la clase | Tratamiento en esta nota |
 | --- | --- | --- |
 | #efesios_1_15-17 | La confianza y el amor de los santos conducen a una oración reverente por sabiduría y conocimiento. | Apoyo textual; aplicaciones sobre la forma exacta de orar quedan cualificadas. |
+| #efesios_1_17 | Eric identifica «Padre de la gloria» con Yehoshua y con la manifestación gradual de atributos divinos. | Atribución explícita; la sintaxis de SBLGNT hace la aposición a Elohim y no respalda esa transferencia por puntuación. |
 | #efesios_1_18 | Los ojos del corazón deben conocer llamamiento, herencia y poder, no perseguir una experiencia aislada. | Apoyo textual directo en los tres objetos de la petición. |
 | #efesios_1_19-21 | La grandeza del poder se ve en la resurrección y exaltación del Mesías sobre todo poder. | Apoyo textual; milagros o capacidades actuales no se deducen automáticamente. |
 | #efesios_1_22-23 | Yehoshua es cabeza de la congregación, su cuerpo, y la dirección procede de él. | Apoyo textual; la analogía corporal se marca como pedagógica. |
 
 ## Pendiente de verificar
+
+- [x] Cotejar los casos de #efesios_1_17 en SBLGNT/MorphGNT: «Padre» está en nominativo y el nombre del Mesías en genitivo; conservar por separado la propuesta teológica de la clase.
 
 - [ ] Cotejar **πλήρωμα** en Efesios y en otros usos paulinos antes de fijar su alcance doctrinal.
 - [ ] Revisar las equivalencias entre **πίστις**, **אמונה**, **ἀγάπη** y **אהבה** sin presentarlas como identidades perfectas.

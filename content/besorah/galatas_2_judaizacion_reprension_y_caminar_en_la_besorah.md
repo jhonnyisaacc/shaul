@@ -26,6 +26,7 @@ references:
   - "#romanos_4_3"
   - "#hebreos_4_9"
 sources:
+  - "https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/Gal.txt"
   - "https://www.youtube.com/watch?v=QxG0zi25Wgg"
   - "docs/scriptures/delitzsch/json/galatians.json"
 source_ids:
@@ -45,10 +46,10 @@ Esta nota organiza la clase pública «CARTA A LOS GÁLATAS | La JUDAIZACIÓN en
 
 | Referencia | Texto local de Delitzsch | Función en el estudio |
 | --- | --- | --- |
-| #galatas_2_11-14 | **וכאשר בא כיפא לאנטיוכיא הוכחתי דרכו אל־פניו ... ובראותי שלא ישרו ללכת כאמת הבשורה** | Kefa se aparta por temor; Pablo juzga que la conducta no camina rectamente según la verdad de la besorah. |
-| #galatas_2_15-16 | **הן מזרע היהודים אנחנו ולא חטאים מן־הגוים ... ולא־יצדק אדם מתוך מעשי התורה כי אם־באמונת ישוע המשיח** | La justificación no se obtiene por obras; el texto centra la confianza en Yehoshua el Mesías. |
-| #galatas_2_17-18 | **ואם נמצא גם־אנחנו חטאים ... חלילה׃ כי אם־אשוב ואבנה את־אשר סתרתי אעשה את־עצמי לפשע** | La gracia no hace al Mesías servidor del pecado; volver a levantar lo derribado convierte al propio sujeto en transgresor. |
-| #galatas_2_19-21 | **כי־מתי אני לתורה על־ידי התורה למען אחיה לאלהים׃ עם־המשיח נצלבתי ... לא אבטל את־חסד האלהים** | Morir con el Mesías produce vida para Elohim; anular la gracia haría vana la muerte del Mesías. |
+| #galatas_2_11-14 | Delitzsch: וכאשר בא כיפא לאנטיוכיא הוכחתי דרכו אלפניו כי נמצא בו עול כי לפני בא אנשים מאת יעקב אכל עםהגוים יחדו וכבאם היה מתרחק ופורש מהם מפני יראתו אתבני המילה ויכחשו עמו גםשאר היהודים עד כינדח גםברנבא אחרי כחשם ובראותי שלא ישרו לכת כאמתת הבשורה אמרתי אלכיפא באזני כלם אםאתה היהודי כנכרי תתנהג ולא כיהודי מדוע תכריח אתהגוים להתנהג כיהודים | Kefa se aparta por temor; Pablo juzga que la conducta no camina rectamente según la verdad de la besorah. |
+| #galatas_2_15-16 | Delitzsch: הן מזרע היהודים אנחנו ולא חטאים מןהגוים אבל מפני שיודעים אנחנו שלאיצדק אדם מתוך מעשי התורה כי אםבאמונת ישוע המשיח כלבשר | La justificación no se obtiene por obras; el texto centra la confianza en Yehoshua el Mesías. |
+| #galatas_2_17-18 | Delitzsch: ואם נמצא גםאנחנו חטאים בבקשנו להצדק במשיח הנה המשיח משרת החטא חלילה כי אםאשוב ואבנה אתאשר סתרתי אעשה אתעצמי לפשע | La gracia no hace al Mesías servidor del pecado; volver a levantar lo derribado convierte al propio sujeto en transgresor. |
+| #galatas_2_19-21 | Delitzsch: כימתי אני לתורה עלידי התורה למען אחיה לאלהים עםהמשיח נצלבתי ואנכי לא אחיה עוד כי אםהמשיח הוא חי בקרבי ואשר אני חי עתה בבשר חי אני באמונת בןאלהים אשר אהבני ויתן אתנפשו בעדי לא אבטל אתחסד האלהים כי אלו יש צדקה עלידי התורה אך לשוא מת המשיח | Morir con el Mesías produce vida para Elohim; anular la gracia haría vana la muerte del Mesías. |
 
 ## El temor altera la mesa y confunde al cuerpo: 2:11-14 #galatas_2_11-14
 
@@ -64,7 +65,7 @@ Pablo pasa de la mesa a la afirmación doctrinal: el hombre no es justificado po
 
 La diferencia entre obediencia y mérito es decisiva. Una obra puede ser fruto de una vida recibida de Elohim; no puede convertirse en salario que obliga a Elohim a declarar justo al pecador. El argumento de Gálatas 2:16 afirma la prioridad de la confianza en el Mesías. El versículo 17 evita otra distorsión: ser justificado en el Mesías no significa que él sea ministro del pecado. La gracia no autoriza a reconstruir aquello que fue derribado. La clase aplica esta advertencia a quienes abandonan un sistema religioso sólo para volver a otro régimen de orgullo, control o pecado.
 
-Aquí conviene diferenciar el texto de las aplicaciones. «Halajá» viene de una raíz asociada con caminar y puede servir como contraste pedagógico con el «andar» del creyente. Sin embargo, Gálatas 2 no ofrece una definición histórica completa de la halajá ni permite afirmar sin investigación que toda práctica judía sea una invención farisea. La afirmación firme es más estrecha: la conducta de Kefa estaba produciendo una presión incompatible con la verdad de la besorah.
+Aquí conviene diferenciar el texto de las aplicaciones. «Halajá» viene de una raíz asociada con caminar y puede servir como contraste pedagógico con el «andar» del creyente. Sin embargo, Gálatas 2 no ofrece una definición histórica completa de la halajá ni permite afirmar sin investigación que toda práctica judía sea una invención farisea. La afirmación firme es más estrecha: la conducta de Kefa estaba produciendo una presión incompatible con la verdad de la besorah. En 2:16, junto al genitivo sobre la emunah de Yehoshua, aparece «nosotros creímos en» él; la interpretación de Eric sobre fidelidad del Mesías no borra esa respuesta explícita del creyente.
 
 ## Morir con el Mesías para vivir ante Elohim: 2:19-21 #galatas_2_19-21
 
@@ -95,7 +96,7 @@ El último golpe de Pablo es contra la anulación de la gracia. Si la justicia p
 
 ## Pendiente de verificar
 
-- [ ] Cotejar la forma griega y el campo semántico de **Ἰουδαΐζω** en Gálatas 2:14 antes de fijar una definición histórica exhaustiva.
+- [x] Cotejar la forma **ἰουδαΐζειν** en Gálatas 2:14 (SBLGNT): es el infinitivo «vivir como judío». El verbo no enumera velas, kipá ni códigos posteriores; sus ejemplos permanecen como aplicaciones de la clase.
 - [ ] Estudiar la relación entre «obras de la Torah» en Gálatas 2:16, Romanos y la evidencia del judaísmo del Segundo Templo.
 - [ ] Verificar históricamente qué grupo formaban «los de la circuncisión» y si el texto permite identificarlos con un organismo regulador específico.
 - [ ] Cotejar halajá, Mishná y la datación del Shulján Aruj; no proyectar un código posterior sin distinguir épocas.

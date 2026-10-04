@@ -46,7 +46,7 @@ Esta nota reúne cuatro clases públicas del hermano Eric de Jesús Rodríguez M
 | #apocalipsis_1_1 | **חזון ישוע המשיח אשר נתןלו האלהים להראות אתעבדיו את אשריהיה במהרה והוא הודיע בשלחו בידמלאכו לעבדו ליוחנן** | La revelación tiene origen y cadena de transmisión explícitos. |
 | #apocalipsis_1_3 | **אשרי הקורא ואשרי השמעים אתדברי הנבואה ושמרים אתהכתוב בה כי קרובה העת** | Oír y guardar forman parte de la respuesta esperada. |
 | #apocalipsis_1_4-6 | **יוחנן לשבע הקהלות אשר באסיא חסד לכם ושלום מאת ההוה והיה ויבוא ומאת שבעת הרוחות אשר לפני כסאו** / **ומאת ישוע המשיח העד הנאמן ובכור המתים ועליון למלכי ארץ אשר אהב אתנו ובדמו גאלנו מחטאתינו** | El saludo presenta a יהוה, los siete espíritus y Yehoshua como testigo fiel, primogénito y rey. |
-| #apocalipsis_1_7-8 | **הנה הוא בא עם העננים וראתה אתו כל עין גם המה אשר דקרוהו וספדו עליו כל משפחות הארץ כן יהיה אמן** / **אני האלף והתיו ראש וסוף נאם יהוה אלהים ההוה והיה ויבוא אלהי צבאות** | La venida, el lenguaje profético y la declaración de principio y fin abren la visión. |
+| #apocalipsis_1_7-8 | **הנה הוא בא עם העננים וראתה אתו כל עין גם המה אשר דקרהו וספדו עליו כל משפחות הארץ כן יהיה אמן** / **אני האלף והתו ראש וסוף נאם יהוה אלהים ההוה והיה ויבוא אלהי צבאות** | La venida, el lenguaje profético y la declaración de principio y fin abren la visión. |
 | #apocalipsis_1_9-11 | **אני יוחנן אחיכם וגם חבר לכם בלחץ ובמלכות ובסבלנות למען ישוע המשיח הייתי באי אשר שמו פטמוס** | La ubicación de Patmos y la participación en presión, reino y perseverancia sitúan al testigo. |
 | #apocalipsis_1_12-20 | **ואפן לראות את הקול המדבר אלי ויהי בפנותי וארא שבע מנרות זהב** … **וארא אותו ואפל לרגליו כמת** | La visión culmina en la figura entre las menorot y en la interpretación de estrellas y lámparas. |
 
@@ -64,7 +64,7 @@ El término **(μαρτυρία)**, *martyria*, y el adjetivo **(πιστός)**
 
 ## Daniel, las nubes y el anuncio: 1:7-8 #apocalipsis_1_7-8
 
-Eric destaca que 1:7 cita Daniel 7:13 y que 1:8 funciona como declaración de apertura antes del desarrollo de la visión. En Daniel 7, el corpus local conserva el arameo; la expresión **בר אנש** (*bar enash*, “hijo de hombre”) debe tratarse como forma aramea contextual, no como prueba de una equivalencia mecánica con cualquier uso griego. El griego de Apocalipsis emplea **(ὁ υἱὸς τοῦ ἀνθρώπου)**, “el Hijo del Hombre”: la correspondencia con Daniel es intertextual y aproximada, pues también depende del contexto de cada pasaje.
+Eric destaca que 1:7 cita Daniel 7:13 y que 1:8 funciona como declaración de apertura antes del desarrollo de la visión. En Daniel 7, el corpus local conserva el arameo; la expresión **בר אנש** (*bar enash*, “hijo de hombre”) debe tratarse como forma aramea contextual, no como prueba de una equivalencia mecánica con cualquier uso griego. El griego de Apocalipsis emplea **(ὅμοιον υἱὸν ἀνθρώπου)**, «semejante a un hijo de hombre» en 1:13: la correspondencia con Daniel es intertextual y aproximada, pues también depende del contexto de cada pasaje.
 
 La clase propone que la combinación de Daniel y Zacarías es una forma de *derash*: seguir pistas de textos distintos para construir una tesis. Esa observación conserva un rasgo concreto de la enseñanza, pero no autoriza a borrar las diferencias entre los contextos originales. Del mismo modo, la explicación de “venir con las nubes” como modismo de rapidez queda pendiente de comprobar en cada uso bíblico. El texto de Apocalipsis afirma la venida y la visibilidad universal; no detalla por sí solo una cronología.
 
@@ -76,6 +76,8 @@ En 1:12-16, las siete menorot y las imágenes de cabello, ojos, pies, voz, estre
 
 La explicación final de 1:17-20 aporta un límite importante: el mismo texto interpreta las siete estrellas como mensajeros y las siete lámparas como congregaciones. El lector no necesita inventar una clave para cada símbolo cuando el capítulo ya ofrece su propia explicación.
 
+La formulación griega de 1:13 se coteja con [SBLGNT, Apocalipsis](https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/Rev.txt).
+
 ## Hoja léxica
 
 | Término | Transliteración | Sentido en esta nota | Evaluación |
@@ -83,7 +85,7 @@ La explicación final de 1:17-20 aporta un límite importante: el mismo texto in
 | **(ἀποκάλυψις)** | *apokalypsis* | revelación, manifestación comunicada | Correspondencia aproximada; el contexto judío de Apocalipsis es decisivo. |
 | **(μαρτυρία)** | *martyria* | testimonio que se declara y sostiene | Correspondencia funcional, no simple dato informativo. |
 | **(πρωτότοκος)** | *prototokos* | primacía del resucitado sobre la muerte | Lectura contextual; no se reduce a “el primero en tiempo”. |
-| **(ὁ υἱὸς τοῦ ἀνθρώπου)** | *ho huios tou anthropou* | el Hijo del Hombre en diálogo con Daniel 7 | Conexión intertextual; no equivalencia automática con **בר אנש**. |
+| **(ὅμοιον υἱὸν ἀνθρώπου)** | *homoion huion anthrōpou* | el Hijo del Hombre en diálogo con Daniel 7 | Conexión intertextual; no equivalencia automática con **בר אנש**. |
 | **(רוח)** | *rúaj* | espíritu en la fórmula de siete espíritus | Aproximación; el texto y su imagen de totalidad deben gobernar la lectura. |
 
 ## Mapa de la enseñanza de Eric
@@ -111,7 +113,7 @@ Apocalipsis 1 enseña a recibir, guardar y testificar antes de pretender dominar
 ## Ver también
 
 - [[apocalipsis_4_trono_redencion_y_adoracion|Apocalipsis 4: trono, redención y adoración]]
-- [[marcos_9_transfiguracion_mesias|Marcos 9: transfiguración del Mesías]]
+- [[marcos_9_gloria_servicio_sal_paz|Marcos 9: transfiguración del Mesías]]
 
 ## Créditos
 

@@ -20,6 +20,8 @@ references:
   - "#yeshayahu_10_22-23"
   - "#yeshayahu_8_14"
 sources:
+  - "https://github.com/morphgnt/sblgnt/blob/master/66-Ro-morphgnt.txt"
+  - "https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/Rom.txt"
   - "https://www.youtube.com/watch?v=TbQpVGePujI"
   - "docs/scriptures/tth/json/romanos.json"
 source_ids:
@@ -37,12 +39,22 @@ Esta nota organiza la enseñanza pública sobre Romanos 9:14-33, continuación d
 
 ## Hoja de comparación
 
+El corpus TTH local no tiene una entrada separada para Romanos 9:28. La unidad que lo abarca se reproduce desde Delitzsch, identificado como testigo distinto; no se inventa el versículo faltante.
+
 | Referencia | Texto local de TTH | Función en la lectura |
 | --- | --- | --- |
-| #romanos_9_14-18 | «¿Si hay injusticia en Elohim? ¡Profanación!... favoreceré al que Yo favorezca, y amaré al que Yo ame... no es para el que quiere, ni para el que corre, sino para Elohim que ama... al que quiere, ama, y al que quiere, deja duro». | La misericordia se atribuye a la iniciativa de Elohim; el texto no permite tratarla como salario del esfuerzo humano. |
-| #romanos_9_19-24 | «¿Por qué todavía encuentra fallas?... ¿quién eres tú, hombre, que replicas a Elohim?... de una masa una vasija de honra y una vasija de deshonra... soporta... a las vasijas de ira niveladas para perdición... vasijas de favor». | La imagen del alfarero confronta la pretensión de juzgar al Formador; “niveladas” y “preparado” no deben confundirse sin cotejo. |
-| #romanos_9_25-29 | «Pueblo mío eres tú... Hijos del EL vivo... un remanente volverá por Él... si יהוה Tzebaot no nos hubiera dejado sobreviviente, casi como Sedom hubiéramos sido». | Oseas e Isaías explican pueblo, remanente y misericordia dentro de la historia de Israel y las naciones. |
-| #romanos_9_30-33 | «Los gentiles que no perseguían tras la justicia han tomado la justicia, la justicia que es por la emunah. E Israel... no alcanzó esa Torah... tropezaron en la piedra de tropiezo». | El cierre lleva la discusión de la elección al problema visible de perseguir justicia como obras y no afirmarse en la piedra. |
+| #romanos_9_14-18 | TTH: ¿Y qué diremos? ¿Si hay injusticia en Elohim? ¡Profanación! Porque a Moshéh dijo: Y favoreceré al que Yo favorezca, y amaré al que Yo ame⁹⁰. Por eso, no es para el que quiere, ni para el que corre, sino para Elohim que ama. Porque dijo la Escritura a Faraón: Para esto tú estás de pie: para mostrar en ti mi poder, y para proclamar mi Nombre en toda la tierra⁹¹. Por lo tanto, al que quiere, ama, y al que quiere, deja duro. | La misericordia se atribuye a la iniciativa de Elohim; el texto no permite tratarla como salario del esfuerzo humano. |
+| #romanos_9_19-24 | TTH: Y me dirás: ¿Por qué todavía encuentra fallas? Porque, ¿quién se levantará sobre su voluntad? Por eso, ¿quién eres tú, hombre, que replicas a Elohim? ¿Dirá la arcilla a su formador: “Qué haces⁹²”? ¿No tiene el formador potestad sobre la arcilla para hacer de una masa una vasija de honra y una vasija de deshonra? Y si quiere Elohim mostrar la ira y hacer conocer su potencia, soporta con mucha largura de nariz a las vasijas de ira niveladas⁹³ para perdición, y hacer conocer la riqueza de su honra sobre las vasijas de favor, que Él las había preparado para honra; a los cuales también llamó, a nosotros, no solamente de los yehudim⁹⁴, sino también de los gentiles. | La imagen del alfarero confronta la pretensión de juzgar al Formador; “niveladas” y “preparado” no deben confundirse sin cotejo. |
+| #romanos_9_25-29 | Delitzsch: כאמרו בהושע אקרא ללאעמי עמי וללארחמה רחמה והיה במקום אשריאמר להם לאעמי אתם יאמר להם בני אלחי וישעיהו קרא עלישראל כי אםיהיה מספר בני ישראל כחול הים שאר ישוב בו (כליון חרוץ שוטף צדקה) כי כלה ונחרצה אדני עשה בקרב הארץ וכאשר אמר ישעיהו לפני מזה לולי יהוה צבאות הותיר לנו שריד כמעט כסדם היינו לעמרה דמינו | Oseas e Isaías explican pueblo, remanente y misericordia dentro de la historia de Israel y las naciones. |
+| #romanos_9_30-33 | TTH: ¿Y qué diremos? Que los gentiles que no perseguían tras la justicia¹⁰⁰ han tomado la justicia, la justicia que es por la emunah¹⁰¹. E Israel, que perseguía tras una Torah de justicia, no alcanzó esa Torah. ¿Por qué? Porque no era de la emunah, sino como por obras; tropezaron en la piedra de tropiezo, como está escrito: Heme aquí, fundé en Tzión una piedra de golpe y roca de tropiezo, y todo el que sea afirmado por Él no se avergonzará¹⁰². | El cierre lleva la discusión de la elección al problema visible de perseguir justicia como obras y no afirmarse en la piedra. |
+| #hoshea_2_25 | OE: וזרעתיה לי בארץ ורחמתי את לא רחמה ואמרתי ללא עמי עמי אתה והוא יאמר אלהי | Restauración de «no mi pueblo» y «no compadecida», aplicada por Pablo. |
+| #hoshea_2_1 | OE: והיה מספר בני ישראל כחול הים אשר לא ימד ולא יספר והיה במקום אשר יאמר להם לא עמי אתם יאמר להם בני אל חי | Ser llamados hijos del Elohim vivo, en numeración OE. |
+| #yeshayahu_10_22-23 | OE: כי אם יהיה עמך ישראל כחול הים שאר ישוב בו כליון חרוץ שוטף צדקה כי כלה ונחרצה אדני יהוה צבאות עשה בקרב כל הארץ | Remanente y juicio: base profética con diferencias de formulación. |
+| #yeshayahu_1_9 | OE: לולי יהוה צבאות הותיר לנו שריד כמעט כסדם היינו לעמרה דמינו | Preservación de un resto frente a Sedom y Amorah. |
+| #yeshayahu_8_14 | OE: והיה למקדש ולאבן נגף ולצור מכשול לשני בתי ישראל לפח ולמוקש ליושב ירושלם | Piedra y tropiezo, parte de la composición de 9:33. |
+| #yeshayahu_28_16 | OE: לכן כה אמר אדני יהוה הנני יסד בציון אבן אבן בחן פנת יקרת מוסד מוסד המאמין לא יחיש | Piedra y confianza, junto al testigo anterior. |
+| #shemot_33_19 | OE: ויאמר אני אעביר כל טובי על פניך וקראתי בשם יהוה לפניך וחנתי את אשר אחן ורחמתי את אשר ארחם | Misericordia y compasión: declaración a Mosheh. |
+| #shemot_9_16 | OE: ואולם בעבור זאת העמדתיך בעבור הראתך את כחי ולמען ספר שמי בכל הארץ | Finalidad de mostrar potencia y anunciar el Nombre con Faraón. |
 
 ## Misericordia que no es salario humano
 
@@ -58,11 +70,15 @@ Sin embargo, la forma de traducir Romanos 9:22-23 importa. El TTH habla de vasij
 
 La paciencia también forma parte del argumento. Elohim soporta con mucha “largura de nariz” a las vasijas de ira para hacer conocer su potencia y, al mismo tiempo, revelar la riqueza de su honra sobre las vasijas de favor. La exposición interpreta la perdición como consecuencia de la condición pecaminosa y no como una obra maliciosa de Elohim. Esa interpretación armoniza con la insistencia bíblica en la bondad divina, pero la frase exacta requiere comparar Romanos 9 con otros textos antes de cerrar la cuestión.
 
+SBLGNT sí distingue las formas: **κατηρτισμένα** en 9:22 es participio perfecto medio/pasivo de **καταρτίζω**, referido a las vasijas de ira; **προητοίμασεν** en 9:23 es aoristo activo de **προετοιμάζω**, con Elohim como agente de preparar de antemano las vasijas de misericordia. La primera forma describe un estado sin nombrar en ese participio al agente. La diferencia que observa Eric es real, pero no demuestra por sí sola quién produjo ese estado ni convierte «niveladas» en la única traducción. La sintaxis permite registrar la asimetría sin deducir automáticamente una teoría completa de destinos.
+
 ## Remanente, pueblo y piedra de tropiezo
 
 Pablo cita a Oseas para hablar de quienes no eran pueblo y serían llamados pueblo, y a Isaías para insistir en que solo un remanente volverá. La clase observa que Oseas puede hablar de Israel disperso entre las naciones, de modo que “no mi pueblo” no debe identificarse automáticamente con todos los gentiles paganos. El propio Romanos 9, sin embargo, aplica el lenguaje a judíos y gentiles dentro de su argumento; la lectura responsable mantiene ambas capas y no sustituye el texto profético por una consigna étnica.
 
 El remanente evita dos extremos: afirmar que toda la descendencia física queda automáticamente justificada o afirmar que la promesa quedó anulada. Finalmente, los gentiles alcanzan justicia por emunah, mientras Israel tropieza al perseguir una Torah de justicia como si fuera un logro de obras. La piedra de #yeshayahu_8_14 queda vinculada al Mesías en la lectura apostólica. “Emunah” aquí significa más que una opinión mental, pero su relación con **(πίστις)** _pistis_ es aproximada y debe leerse en el conjunto de la carta.
+
+Los testigos OE se cotejan con su numeración: Hoshea 2:25 corresponde a la restauración de 9:25 y 2:1 al «hijos del Elohim vivo» de 9:26. Yeshayahu 10:22-23 sostiene el remanente y el juicio; 1:9, la preservación frente a Sedom y Amorah. Romanos 9:33 reúne la piedra/tropiezo de Yeshayahu 8:14 y la piedra/confianza de 28:16. Son usos apostólicos de textos proféticos, sin afirmar que toda su composición griega sea una cita hebrea literal continua. En 9:27, **σωθήσεται** significa «será salvado»; el «volverá» del contexto hebreo y del TTH no debe sustituir esa forma griega.
 
 ## Hoja léxica
 
@@ -70,7 +86,7 @@ El remanente evita dos extremos: afirmar que toda la descendencia física queda 
 | --- | --- | --- | --- |
 | **(ἔλεος)** _eleos_ | misericordia, compasión | Lo que Elohim muestra sin convertirlo en deuda humana. | Directo en el argumento; el alcance doctrinal total queda abierto. |
 | **(καταρτίζω)** _katartizō_ | ajustar, preparar, completar | La clase lo acerca a “nivelar” en 9:22. | Pendiente de verificar por sintaxis y léxico. |
-| **(προετοιμάζω)** _proetoimazō_ | preparar de antemano | En 9:23 se distingue del verbo anterior. | Distinción textual plausible; cotejar edición crítica. |
+| **(προετοιμάζω)** _proetoimazō_ | preparar de antemano | En 9:23 se distingue del verbo anterior. | Distinción cotejada en SBLGNT: προητοίμασεν es activo y nombra la preparación previa por Elohim. |
 | **(σκεῦος)** _skeuos_ | vaso, recipiente, instrumento | Imagen de una persona o grupo bajo la acción del Formador. | No reducir la metáfora a una definición psicológica individual. |
 | **(πίστις) / (אמונה)** _pistis / emunah_ | confianza, fidelidad / firmeza | Justicia recibida y vivida frente a la jactancia de obras. | Correspondencia aproximada, no identidad total. |
 
@@ -79,13 +95,13 @@ El remanente evita dos extremos: afirmar que toda la descendencia física queda 
 | Perícopa | Observación concreta de la clase | Tratamiento frente al texto |
 | --- | --- | --- |
 | Romanos 9:14-18; `youtube:TbQpVGePujI` | La salvación no pertenece al que quiere o corre; la misericordia pertenece a Elohim. | Apoyo textual; se evita convertirlo en una explicación exhaustiva de toda responsabilidad humana. |
-| Romanos 9:19-24; `youtube:TbQpVGePujI` | El alfarero tiene autoridad; “niveladas para perdición” no equivale a que Elohim prepare el mal. | Metáfora apoyada; la diferencia entre verbos y su traducción queda pendiente de verificación. |
+| Romanos 9:19-24; `youtube:TbQpVGePujI` | El alfarero tiene autoridad; “niveladas para perdición” no equivale a que Elohim prepare el mal. | Distinción verbal cotejada: participio medio/pasivo sin agente expreso en 9:22 y verbo activo con Elohim en 9:23; «niveladas» no es glosa exclusiva. |
 | Romanos 9:25-29; `youtube:TbQpVGePujI` | Oseas e Isaías muestran pueblo y remanente; el patrón pasa de Israel a las naciones. | Apoyo intertextual cualificado; se conserva la doble capa de Israel y gentiles. |
 | Romanos 9:30-33; `youtube:TbQpVGePujI` | Los gentiles alcanzan justicia por emunah y Israel tropieza al perseguirla como obra. | Apoyo textual; “emunah” se trata como fidelidad/confianza, no como fórmula antinomiana. |
 
 ## Pendiente de verificar
 
-- [ ] Cotejar Romanos 9:22-23 en el texto griego crítico y en léxicos antes de fijar “niveladas” como traducción exclusiva.
+- [x] Cotejar 9:22-23 en SBLGNT: κατηρτισμένα y προητοίμασεν son distintos; «niveladas» conserva la lectura TTH, sin imponerse como glosa única.
 - [ ] Revisar la sintaxis de los participios de 9:22-23 para precisar agencia, estado y resultado.
 - [ ] Verificar la relación exacta entre Romanos 9:25-29, Oseas e Isaías, incluyendo numeración de capítulos y versículos.
 - [ ] Comparar “aborrecí” en Romanos 9:13 y “dejar duro” en 9:18 con sus contextos hebreos y griegos.

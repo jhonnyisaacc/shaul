@@ -39,7 +39,7 @@ La fuente pública es «El Evangelio Según Yojanán/Juan (Parte 72) Cap 19», t
 
 Era la preparación y los dirigentes pidieron a Pilatos que quebraran las piernas de los crucificados y los retiraran, para que los cuerpos no quedaran en el madero durante el Shabat. El evangelista añade: «porque grande era aquel día de Shabat». Eric observa que la urgencia ritual no cancela la realidad del cuerpo: la santidad del tiempo y la ejecución romana aparecen juntas. El texto no autoriza a acusar a todos los participantes de la misma intención; sí muestra que la solicitud busca retirar los cuerpos antes del Shabat.
 
-Los soldados quiebran las piernas del primero y del otro, pero al llegar a Yehoshua ven que ya está muerto y no le quiebran las piernas. **(συντρίβω)** (_syntribo_) significa romper, aplastar o quebrar; su fuerza aquí es la acción que se realiza en los otros cuerpos y se omite en el de Yehoshua. **(ὀστέον)** (_osteon_) significa hueso. Su relación con **(עצם)** (_etsém_) es aproximada y canónica: ambas formas designan hueso, pero el evangelio sostiene su propia formulación griega.
+Los soldados quiebran las piernas del primero y del otro, pero al llegar a Yehoshua ven que ya está muerto y no le quiebran las piernas. **(κατάγνυμι)** (_katagnymi_), quebrar, es el verbo usado para las piernas en 19:31-33. **(συντρίβω)** (_syntribo_) aparece en la cita sobre el hueso en 19:36; no debe confundirse la formulación de la cita con el verbo de la acción de los soldados. **(ὀστέον)** (_osteon_) significa hueso. Su relación con **(עצם)** (_etsém_) es aproximada y canónica: ambas formas designan hueso, pero el evangelio sostiene su propia formulación griega.
 
 Eric conecta la ausencia de fractura con la lectura de la Escritura y con el cordero de Pésaj. La conexión intertextual es fuerte en la manera en que el narrador la introduce, pero no debe hacer olvidar el dato inmediato: los soldados ven una muerte ya ocurrida. El capítulo no describe una mera supervivencia ni deja la muerte como impresión subjetiva de la multitud.
 
@@ -55,7 +55,7 @@ El evangelista añade dos Escrituras: «No será quebrado hueso suyo» y «Mirar
 
 Después de estas cosas, Yosef de Ramatáyim, discípulo de Yehoshua «pero en secreto por miedo a los yehudim», pide a Pilatos llevar el cuerpo. Nikodemos, que había ido de noche, llega con una gran cantidad de mirra y áloes. Ambos toman el cuerpo, lo envuelven con lienzos y especias según la costumbre judía. Eric observa el movimiento público de quienes antes estaban definidos por reserva y noche: la muerte de Yehoshua no produce un cadáver abandonado, sino una acción de honor bajo presión de tiempo.
 
-**(κρυπτῶς)** (_kryptos_) significa ocultamente o en secreto; su fuerza en 19:38 califica el discipulado anterior de Yosef. **(τολμάω)** (_tolmao_) significa atreverse o tener valor; aunque la forma verbal puede iluminar la iniciativa, el texto de este versículo afirma concretamente que Yosef pidió el cuerpo. Su relación con una lectura de «valentía» es contextual, no una cita implícita. **(ἐνταφιάζω)** (_entaphiazo_) significa preparar para sepultura; aquí la acción se describe mediante tomar, envolver y poner.
+**(κεκρυμμένος)** (_kekrymmenos_), participio de **(κρύπτω)** (_krypto_, ocultar), describe en 19:38 a Yosef como discípulo oculto por temor; no es el adverbio κρυπτῶς. La iniciativa de pedir el cuerpo permite a la clase hablar de valentía como inferencia narrativa. **(ἐνταφιάζω)** (_entaphiazo_) significa preparar para sepultura; aquí la acción se describe mediante tomar, envolver y poner.
 
 El sepulcro está en un huerto, cerca del lugar de la crucifixión, y es nuevo: allí no habían puesto a nadie. Como era la preparación y el sepulcro estaba cerca, pusieron allí a Yehoshua. Eric relaciona el huerto final con el huerto del arresto y observa que el cierre conserva el marco del Shabat. La correspondencia espacial puede ser una conexión literaria razonable; el texto afirma el huerto, la cercanía, la novedad y la premura, no una teoría completa sobre todos los huertos del evangelio.
 
@@ -67,16 +67,18 @@ El sepulcro está en un huerto, cerca del lugar de la crucifixión, y es nuevo: 
 | #juan_19_34-37 | Costado, sangre y agua hacen del cuerpo atravesado un punto de testimonio y cumplimiento.    | Apoyo textual; la explicación médica y las extensiones sacramentales quedan calificadas. |
 | #juan_19_38-42 | Yosef y Nikodemos pasan de reserva y noche a una sepultura pública y honorable.              | Apoyo textual e inferencia narrativa controlada sobre el cambio de visibilidad.          |
 
+Las identificaciones griegas se cotejan con [SBLGNT, Yojanán 19](https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/John.txt); no alteran la traducción local de Delitzsch.
+
 ## Hoja léxica
 
 | Forma fuente              | Transliteración    | Sentido normal          | Fuerza contextual                            | Relación                                 |
 | ------------------------- | ------------------ | ----------------------- | -------------------------------------------- | ---------------------------------------- |
-| **(συντρίβω)**            | _syntribo_         | quebrar, aplastar       | Piernas quebradas a los otros, no a Yehoshua | Directa                                  |
+| **(κατάγνυμι)** / **(συντρίβω)** | _katagnymi_ / _syntribo_ | quebrar | Piernas en 19:31-33 / hueso en la cita de 19:36 | Formas distintas en el texto                                  |
 | **(ὀστέον)** / **(עצם)**  | _osteon_ / _etsém_ | hueso                   | Escritura y ausencia de fractura             | Aproximada y canónica                    |
 | **(πλευρά)**              | _pleura_           | costado, lado           | Lugar atravesado por la lanza                | Directa                                  |
 | **(αἷμα)** / **(ὕδωρ)**   | _haima_ / _hydor_  | sangre / agua           | Lo que el testigo vio salir                  | Directa; simbolismo posterior pedagógico |
 | **(μαρτυρέω)** / **(עד)** | _martyreo_ / _ed_  | testificar / testigo    | Verdad declarada para que otros crean        | Funcional y aproximada                   |
-| **(κρυπτῶς)**             | _kryptos_          | ocultamente, en secreto | Discipulado anterior de Yosef                | Directa                                  |
+| **(κεκρυμμένος)** / **(κρύπτω)** | _kekrymmenos_ / _krypto_ | oculto / ocultar | Discipulado anterior de Yosef | Participio y lema                                  |
 | **(ἐνταφιάζω)**           | _entaphiazo_       | preparar para sepultura | Envolver el cuerpo con especias              | Contextual y cercana                     |
 
 ## Pendiente de verificar
@@ -92,7 +94,7 @@ Yojanán 19:31-42 termina con una cadena de testigos y actos verificables: el Sh
 ## Ver también
 
 - [[juan_19_madero_costado_y_testimonio|Yojanán 19: madero, rey y testimonio]]
-- [[juan_18_estudio_canonico_kidron_huerto_y_juicio|Yojanán 18: Kidrón, huerto, copa y juicio]]
+- [[juan_18_kidron_huerto_y_arresto|Yojanán 18: Kidrón, huerto, copa y juicio]]
 
 ## Créditos
 

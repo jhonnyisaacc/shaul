@@ -28,6 +28,7 @@ references:
   - "#galatas_4_19"
   - "#yirmeyahu_31_33"
 sources:
+  - "https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/Gal.txt"
   - "https://www.youtube.com/watch?v=mgFEQpvBHvg"
   - "docs/scriptures/delitzsch/json/galatians.json"
 source_ids:
@@ -47,11 +48,13 @@ Esta nota organiza la clase pública «CARTA A LOS GÁLATAS | HIJOS y HEREDEROS 
 
 | Referencia | Texto local de Delitzsch | Función en el estudio |
 | --- | --- | --- |
-| #galatas_4_1-2 | **ואני אמר היורש כל־זמן שהוא קטן אף על־פי שהוא אדון הכל אין בינו לעבד דבר׃ כי אם תחת יד אמנים ותחת פקידי הבית עד למועד המיועד לו מאת אביו׃** | El heredero menor posee una promesa real, pero vive bajo tutores hasta el tiempo fijado por el padre. |
-| #galatas_4_3-5 | **וכן־אנחנו בעודנו קטנים היינו משועבדים לתיקוני העולם׃ ובמלאת הימים שלח האלהים את־בנו ילוד אשה ונתון תחת יד־התורה׃ לפדות את אשר היו תחת יד־התורה למען נקבל משפט הבנים׃** | La redención del Mesías conduce a recibir la condición legal de hijos. |
-| #galatas_4_6-7 | **ויען כי־בנים אתם שלח האלהים בלבבכם את־רוח בנו הקורא אבא אבינו׃ לכן אינך עוד עבד כי אם־בן ואם־בן אתה הנך גם־יורש נחלת האלהים על־ידי המשיח׃** | El Ruaj del Hijo confirma la filiación y el paso de esclavo a heredero. |
-| #galatas_4_8-11 | **הן לפנים באין־דעת אלהים עבדתם את אשר בעצמותם אינם אלהים׃ ועתה אחרי אשר־ידעתם את־האלהים ויותר שנודעתם לאלהים איך תשובו אל־התיקונים הרפים והדלּים ההם אשר תרצו להכנע להם כבתחלה׃ ימים אתם שמרים וחדשים ומועדים ושנים׃ מתיירא אני פן־יגעתי בכם לריק׃** | Pablo confronta el retorno a fundamentos débiles después de haber sido conocidos por Elohim. |
-| #galatas_4_16-20 | **ועתה הלאויב נהייתי לכם בדברי אליכם אמת׃ המה לא יקנאו לכם לטובה רק להפריד ביניכם ובינינו יחפצו למען תקנאו אתם להם׃ ... בני אשר־אני נתון שנית בחבלי לדה עד כי־יוצר בכם המשיח׃** | La verdad puede producir oposición, pero el objetivo pastoral es que el Mesías sea formado en la comunidad. |
+| #galatas_4_1-2 | Delitzsch: ואני אמר היורש כלזמן שהוא קטן אף עלפי שהוא אדון הכל אין בינו לעבד דבר כי אם תחת יד אמנים הוא ותחת פקידי הבית עד למועד המיעד לו מאת אביו | El heredero menor posee una promesa real, pero vive bajo tutores hasta el tiempo fijado por el padre. |
+| #galatas_4_3-5 | Delitzsch: וכןאנחנו בעודנו קטנים היינו משעבדים לתקוני העולם ובמלאת הימים שלח האלהים אתבנו ילוד אשה ונתון תחת ידהתורה לפדות את אשר היו תחת ידהתורה למען נקבל משפט הבנים | La redención del Mesías conduce a recibir la condición legal de hijos. |
+| #galatas_4_6-7 | Delitzsch: ויען כיבנים אתם שלח האלהים בלבבכם אתרוח בנו הקורא אבא אבינו לכן אינך עוד עבד כי אםבן ואםבן אתה הנך גםיורש נחלת האלהים עלידי המשיח | El Ruaj del Hijo confirma la filiación y el paso de esclavo a heredero. |
+| #galatas_4_8-11 | Delitzsch: הן לפנים באיןדעת אלהים עבדתם את אשר בעצמותם אינם אלהים ועתה אחרי אשרידעתם אתהאלהים ויותר שנודעתם לאלהים איך תשובו אלהתיקונים הרפים והדלים ההם אשר תרצו להכנע להם כבתחלה ימים אתם שמרים וחדשים ומועדים ושנים מתירא אני פןיגעתי בכם לריק | Pablo confronta el retorno a fundamentos débiles después de haber sido conocidos por Elohim. |
+| #galatas_4_16-20 | Delitzsch: ועתה הלאיב נהייתי לכם בדברי אליכם אמת המה לא יקנאו לכם לטובה רק להפריד ביניכם ובינינו יחפצו למען תקנאו אתם להם אמנם טוב לקנא תמיד לטובה ולא בהיותי אצלכם בלבד בני אשראני נתון שנית בחבלי לדה עד כייוצר בכם המשיח אמנה חפצתי להיות עתה אצלכם לשנות אתקול דברי כי נבוך אני בכם | La verdad puede producir oposición, pero el objetivo pastoral es que el Mesías sea formado en la comunidad. |
+| #galatas_4_13 | Delitzsch: אתם ידעתם אשר בחלשת בשרי בשרתי לכם אתהבשורה בראשונה | Debilidad corporal y la recepción afectuosa recordada en 4:12–15. |
+| #filipenses_2_7 | Delitzsch: כי אםהפשיט אתעצמו וילבש דמות עבד ויהי דומה לבני אדם וימצא בתכונתו כבן אדם | Humillación como conexión cristológica de la clase. |
 
 ## El heredero menor y los tutores
 
@@ -59,7 +62,7 @@ La clase empieza con Gálatas 4:1-2, donde el heredero menor no se distingue del
 
 Eric desarrolla la diferencia entre dos tutores: uno centrado en la crianza personal y otro relacionado con la administración de la casa. El detalle ayuda a visualizar que la formación abarca disciplina, vigilancia y aprendizaje de la vida doméstica; sin embargo, la nota no presenta esas reconstrucciones como una descripción exhaustiva de cada práctica antigua. El texto de Gálatas sí afirma la subordinación temporal y el tiempo señalado por el padre. La aplicación espiritual segura es que la filiación no debe confundirse con autonomía inmadura.
 
-En el versículo 3, el texto local habla de **תיקוני העולם**, una forma que la clase relaciona con los «rudimentos» o fundamentos del mundo. Eric insiste en que el creyente no debe leer automáticamente este versículo como una descalificación de la Torá. El argumento es especialmente importante porque, en la secuencia, Gálatas 4:4-5 menciona por separado al Hijo «dado bajo la mano de la Torá» y luego habla del retorno a fundamentos que los gálatas habían servido antes de conocer a Elohim. La observación contextual de la clase es fuerte: el versículo 8 identifica esos fundamentos con «lo que en sí mismo no son dioses», y el texto debe gobernar la interpretación del versículo 9.
+En el versículo 3, el texto local habla de **תקוני העולם**, una forma que la clase relaciona con los «rudimentos» o fundamentos del mundo. Eric insiste en que el creyente no debe leer automáticamente este versículo como una descalificación de la Torá. El argumento es especialmente importante porque, en la secuencia, Gálatas 4:4-5 menciona por separado al Hijo «dado bajo la mano de la Torá» y luego habla del retorno a fundamentos que los gálatas habían servido antes de conocer a Elohim. La observación contextual de la clase es fuerte: el versículo 8 identifica esos fundamentos con «lo que en sí mismo no son dioses», y el texto debe gobernar la interpretación del versículo 9.
 
 ## Redención y adopción de hijos
 
@@ -67,7 +70,7 @@ En el versículo 3, el texto local habla de **תיקוני העולם**, una for
 
 La discusión de la clase sobre «nacido de mujer» y «dado bajo la mano de la Torá» entra en un terreno teológico delicado. Eric propone que «bajo ley» no significa que el Mesías fuese pecador, sino que asumió la condición de siervo y se sometió al propósito redentor. La nota conserva el punto pastoral —el Mesías se entrega para redimir—, pero no repite como hecho textual toda explicación sobre «vestidura», apariencia o naturaleza humana. Gálatas 4:4-5 sí permite afirmar que el Hijo fue enviado, nació de mujer y fue puesto bajo la mano de la Torá con el fin de redimir y conceder filiación.
 
-La consecuencia se formula con claridad en 4:6-7: porque son hijos, Elohim envió el Ruaj de su Hijo a los corazones; por tanto, ya no son esclavos sino hijos y herederos por medio del Mesías. **(κρᾶζον)**, _krazon_, significa clamar o gritar; la voz «Abba, Padre nuestro» no es una contraseña sonora ni una experiencia separada de la obediencia. Es la señal de una relación filial producida por el Ruaj. La clase acierta al poner la filiación antes del efecto: guardar los mandamientos no compra la herencia, sino que debe surgir de la identidad recibida.
+Delitzsch habla de herederos «por medio del Mesías» en 4:7; SBLGNT lee «por medio de Elohim». Se conserva la traducción hebrea citada y se distinguen ambos testigos sin afirmar aquí la prioridad manuscrita de uno. Asimismo, SBLGNT 4:6 dice «nuestros corazones», frente al «vuestros» de Delitzsch. La consecuencia se formula con claridad en 4:6-7, según Delitzsch: porque son hijos, Elohim envió el Ruaj de su Hijo a los corazones; por tanto, ya no son esclavos sino hijos y herederos por medio del Mesías. **(κρᾶζον)**, _krazon_, significa clamar o gritar; la voz «Abba, Padre nuestro» no es una contraseña sonora ni una experiencia separada de la obediencia. Es la señal de una relación filial producida por el Ruaj. La clase acierta al poner la filiación antes del efecto: guardar los mandamientos no compra la herencia, sino que debe surgir de la identidad recibida.
 
 ## No volver a los rudimentos
 
@@ -87,9 +90,9 @@ La frase «hijos míos, por quienes vuelvo a sufrir dolores de parto hasta que e
 | --- | --- | --- | --- | --- |
 | **(κληρονόμος)** | _klēronomos_ | heredero | Persona con derecho a recibir herencia | Directa en la metáfora; la aplicación espiritual es contextual. |
 | **(νήπιος)** | _nēpios_ | menor, inmaduro | Heredero que aún no administra | Aproximada en español; no equivale simplemente a ignorante. |
-| **(παιδαγωγός)** / **(אמן)** | _paidagōgos_ / _omen_ | tutor, guía, criador | Marco de formación hacia la madurez | Correspondencia funcional, no equivalencia exacta. |
+| **(ἐπίτροποι)** / **(οἰκονόμοι)** | _epitropoi_ / _oikonomoi_ | guardianes / administradores de la casa | Dos funciones de tutela en 4:2 | παιδαγωγός pertenece a la metáfora anterior de 3:24; no sustituye estos dos sustantivos. |
 | **(υἱοθεσία)** | _huiothesia_ | adopción, colocación como hijo | Cambio de condición legal y relacional | Directa en la función; no se reduce a sentimiento. |
-| **(Ἄββα**)** | _Abba_ | padre, invocación filial | Clamor del Ruaj del Hijo en el corazón | Sentido relacional; no prueba por sí solo una pronunciación exclusiva. |
+| **(Αββα)** | _Abba_ | padre, invocación filial | Clamor del Ruaj del Hijo en el corazón | Sentido relacional; no prueba por sí solo una pronunciación exclusiva. |
 | **(μορφόω)** | _morphoō_ | formar, dar forma | El Mesías formado en la comunidad | Directa en el verbo; la maduración comunitaria es aplicación. |
 
 ## Mapa de la enseñanza de Eric
@@ -104,7 +107,7 @@ La frase «hijos míos, por quienes vuelvo a sufrir dolores de parto hasta que e
 ## Pendiente de verificar
 
 - [ ] Revisar el trasfondo histórico de **(ἐπίτροπος)** y **(οἰκονόμος)** para no presentar la reconstrucción de la clase como descripción universal.
-- [ ] Cotejar el texto griego crítico de Gálatas 4:3-5 y las opciones de traducción de «rudimentos/fundamentos del mundo».
+- [x] Cotejar las formas de Gálatas 4:2–7 en SBLGNT: tutores/administradores, elementos, adopción y clamor. Se distinguen «nuestros/vuestros corazones» (4:6) y «por Elohim/por el Mesías» (4:7); la historia manuscrita queda pendiente.
 - [ ] Investigar con fuentes históricas qué calendarios o festividades podían estar implicados en Gálatas 4:10; no identificar Saturnalia como conclusión textual sin evidencia.
 - [ ] Estudiar la relación entre **(υἱοθεσία)** en Gálatas 4:5 y sus otros usos paulinos antes de construir una doctrina completa de adopción.
 - [ ] Verificar la conexión con Filipenses 2 usada en la clase, distinguiendo cita textual de aplicación cristológica.

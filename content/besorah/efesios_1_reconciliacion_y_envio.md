@@ -16,6 +16,8 @@ references:
   - "#2_corintios_5_18"
   - "#2_corintios_5_19"
 sources:
+  - "https://github.com/morphgnt/sblgnt/blob/master/70-Eph-morphgnt.txt"
+  - "https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/Eph.txt"
   - "https://www.youtube.com/watch?v=mHq0_otBxoM"
   - "docs/scriptures/delitzsch/json/ephesians.json"
   - "docs/scriptures/delitzsch/json/corinthians2.json"
@@ -36,18 +38,22 @@ Esta nota organiza la clase pública «LETTER TO THE EPHESIANS | The RECONCILIAT
 
 | Referencia | Texto local de Delitzsch (sin nikud) | Función en el estudio |
 | --- | --- | --- |
-| #efesios_1_1 | **פולוס שליח ישוע המשיח ברצון אלהים אל־הקדשים הנמצאים (באפסוס) ומאמינים במשיח ישוע׃** | Pablo se identifica como enviado del Mesías y dirige la carta a los apartados que confían en él. |
-| #efesios_1_2 | **חסד לכם ושלום מאת האלהים אבינו ואדנינו ישוע המשיח׃** | El saludo procede de Elohim Padre y de Yehoshua el Mesías: favor y paz. |
-| #2_corintios_5_16 | **לכן מעתה אנחנו לא־נדע איש מן־הבשר וגם אם־ידענו את־המשיח מן־הבשר מעתה לא־נדעהו עוד׃** | La reconciliación cambia la forma de conocer al Mesías. |
-| #2_corintios_5_17 | **לכן מי שהוא במשיח בריה חדשה הוא הראשנות עברו הנה (הכל) נעשוו חדשות׃** | La clase conecta la reconciliación con nueva creación. |
-| #2_corintios_5_18 | **והכל מאת האלהים המרצה אתנו לעצמו על־ידי ישוע המשיח ויתן־לנו שרות הרצוי׃** | La reconciliación procede de Elohim en el Mesías y se convierte en encargo. |
-| #2_corintios_5_19 | **יען אשר אלהים היה במשיח מרצה את־העולם לעצמו ולא־חשב להם את־פשעיהם וישם בנו את־דבר הרצוי׃** | Elohim reconcilia al mundo consigo en el Mesías y confía el mensaje. |
+| #efesios_1_1 | Delitzsch: פולוס שליח ישוע המשיח ברצון אלהים אלהקדשים הנמצאים (באפסוס) ומאמינים במשיח ישוע | Pablo se identifica como enviado del Mesías y dirige la carta a los apartados que confían en él. |
+| #efesios_1_2 | Delitzsch: חסד לכם ושלום מאת האלהים אבינו ואדנינו ישוע המשיח | El saludo procede de Elohim Padre y de Yehoshua el Mesías: favor y paz. |
+| #2_corintios_5_16 | Delitzsch: לכן מעתה אנחנו לאנדע איש מןהבשר וגם אםידענו אתהמשיח מןהבשר מעתה לאנדעהו עוד | La reconciliación cambia la forma de conocer al Mesías. |
+| #2_corintios_5_17 | Delitzsch: לכן מי שהוא במשיח בריה חדשה הוא הראשנות עברו הנה (הכל) נעשוו חדשות | La clase conecta la reconciliación con nueva creación. |
+| #2_corintios_5_18 | Delitzsch: והכל מאת האלהים המרצה אתנו לעצמו עלידי ישוע המשיח ויתןלנו שרות הרצוי | La reconciliación procede de Elohim en el Mesías y se convierte en encargo. |
+| #2_corintios_5_19 | Delitzsch: יען אשר אלהים היה במשיח מרצה אתהעולם לעצמו ולאחשב להם אתפשעיהם וישם בנו אתדבר הרצוי | Elohim reconcilia al mundo consigo en el Mesías y confía el mensaje. |
+| #yeshayahu_40_2 | OE: דברו על לב ירושלם וקראו אליה כי מלאה צבאה כי נרצה עונה כי לקחה מיד יהוה כפלים בכל חטאתיה | Aceptación/expiación de la iniquidad en su contexto de consolación. |
+| #colosenses_4_16 | Delitzsch: ואחרי אשר נקראה האגרת הזאת אצלכם ראו שתקרא גםבקהל לודקיים ואתאשר ללודקיא תקראוה גםאתם | Lectura entre asambleas; no identifica la carta de Laodicea con Efesios. |
+| #efesios_6_21-22 | Delitzsch: ולמען אשר תדעו גםאתם אתקרתי ואתמעשי הנה טוכיקוס האח החביב והמשרת הנאמן באדנינו יגיד לכם הכל אשר לזאת שלחתיהו אליכם להודיעכם אתקרתינו ולמען ינחם אתלבבכם | Tíquico lleva noticias y consuelo. |
+| #colosenses_4_7-8 | Delitzsch: עלאדותי יספר לכם הכל טוכיקוס האח החביב והמשרת הנאמן ועבד עמיתי באדון אשר לזאת שלחתיהו אליכם למען ידע אתדבריכם וינחם אתלבבכם | Encargo paralelo a Tíquico en Colosenses. |
 
 ## Una carta que puede servir a varias asambleas
 
 La clase observa que Efesios y Colosenses tienen paralelos estrechos y relaciona ambas cartas con el envío de Tíquico. También explica que la expresión «los que están en Éfeso» no aparece de la misma manera en algunos testigos antiguos y propone leer la carta como circular, destinada a más de una asamblea de Asia. Ese contexto ayuda a entender por qué el mensaje trata fundamentos generales y no sólo un problema local.
 
-La observación sobre la transmisión textual es relevante, pero no debe convertirse en certeza más allá de la evidencia comprobada. Efesios 1:1, en el texto local usado aquí, conserva la mención de Éfeso; por eso esta nota mantiene el título tradicional y registra la discusión como contexto. La referencia de Colosenses 4:16 y la atribución concreta de una carta «a los laodicenses» deben cotejarse con manuscritos y comentarios especializados antes de presentarlas como conclusión.
+La observación sobre la transmisión textual es relevante, pero no debe convertirse en certeza más allá de la evidencia comprobada. Efesios 1:1, en el texto local usado aquí, conserva la mención de Éfeso; por eso esta nota mantiene el título tradicional y registra la discusión como contexto. Colosenses 4:16 sí ordena leer la carta que viene de Laodicea, pero no la identifica con Efesios. SBLGNT marca «en Éfeso» entre corchetes en 1:1; Delitzsch lo pone entre paréntesis. Estas señales editoriales registran una cuestión textual, sin resolver por sí solas la identidad de aquella carta ni la historia de cada manuscrito.
 
 ## «Enviado» no es un rango para engrandecerse
 
@@ -59,7 +65,7 @@ La clase también distingue a Pablo de los Doce: no lo presenta como sustituto d
 
 El expositor propone leer **רצון**, _ratson_, no como una fórmula para descubrir un plan individual («la voluntad de Elohim para mi vida»), sino como favor, aceptación o reconciliación de Elohim con su pueblo. En hebreo bíblico, el término posee un campo semántico amplio; por tanto, «reconciliación» aquí es una aplicación contextual de la clase, no una sustitución automática de todos los sentidos de _ratson_. Efesios 1:1 permite afirmar que el ministerio de Pablo está situado «por» el propósito de Elohim. No permite, por sí solo, resolver toda la semántica hebrea ni todos los debates sobre vocación personal.
 
-La conexión con 2 Corintios 5:16-19 ilumina el argumento: en el Mesías hay nueva creación y Elohim reconcilia consigo al mundo, encargando a sus siervos el mensaje de reconciliación. Así, el envío no es una licencia para hablar desde el ego; es servicio dentro de una obra que pertenece a Elohim y se realiza por medio del Mesías. La clase relaciona además Isaías 40:2 con la consolación de Jerusalén y la iniquidad reconciliada. Esa referencia es significativa para la línea de razonamiento, pero la formulación exacta debe cotejarse en el corpus hebreo antes de usarla como prueba léxica de Efesios 1:1.
+La conexión con 2 Corintios 5:16-19 ilumina el argumento: en el Mesías hay nueva creación y Elohim reconcilia consigo al mundo, encargando a sus siervos el mensaje de reconciliación. Así, el envío no es una licencia para hablar desde el ego; es servicio dentro de una obra que pertenece a Elohim y se realiza por medio del Mesías. La clase relaciona además Isaías 40:2 con la consolación de Jerusalén y la iniquidad reconciliada. El cotejo OE encuentra **כי נרצה עונה**, «que su iniquidad ha sido aceptada/expiada»: **נרצה** es una forma verbal de **רצה**, no el sustantivo **רצון** de Efesios en Delitzsch. La raíz permite una conexión con aceptación, pero no hace que el griego **θέλημα** signifique siempre reconciliación.
 
 ## Hoja léxica
 
@@ -84,7 +90,7 @@ La conexión con 2 Corintios 5:16-19 ilumina el argumento: en el Mesías hay nue
 - [ ] Cotejar en una edición crítica la variante o ausencia de «en Éfeso» y precisar la evidencia de P46 y de otros testigos.
 - [ ] Verificar la historia de la atribución «carta a los laodicenses» y su relación exacta con Colosenses 4:16.
 - [ ] Revisar **ἀπόστολος** y **שליח** en fuentes léxicas e históricas antes de afirmar una diferencia universal entre ambos términos.
-- [ ] Cotejar Isaías 40:2 en el corpus local y precisar la forma hebrea relacionada con aceptación o reconciliación.
+- [x] Cotejar #yeshayahu_40_2 en OE: distinguir el verbo **נרצה** del sustantivo **רצון** y de **θέλημα**; la conexión con reconciliación sigue siendo temática.
 
 ## Conclusión
 

@@ -1,0 +1,59 @@
+name: Editorial validation
+
+on:
+  push:
+    branches: [feat/review-notes]
+  pull_request:
+    branches: [main]
+
+permissions:
+  contents: read
+
+jobs:
+  editorial:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: oven-sh/setup-bun@v2
+        with:
+          bun-version: latest
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Check frontmatter and verse conventions
+        run: |
+          bun run content:check-frontmatter
+          python3 scripts/test_normalize_verse_tags.py
+          python3 scripts/test_check_verse_tag_conventions.py
+          python3 scripts/check_verse_tag_conventions.py
+          python3 scripts/check_youtube_notes.py
+      - name: Validate transcript notes changed by this batch
+        env:
+          BASE_SHA: ${{ github.event.pull_request.base.sha || github.event.before }}
+        run: |
+          python3 - <<'PY'
+          import os
+          from pathlib import Path
+          import subprocess
+
+          base = os.environ["BASE_SHA"]
+          if not base or set(base) == {"0"}:
+              base = "origin/main"
+          changed = subprocess.check_output(
+              ["git", "diff", "--name-only", "--diff-filter=ACMR", "-z", base, "HEAD", "--", "content/"],
+          ).decode().split("\0")
+          notes = [p for p in changed if p.endswith(".md") and Path(p).is_file()]
+          if notes:
+              subprocess.run(["python3", "scripts/check_transcript_note_quality.py", *notes], check=True)
+          else:
+              print("No content notes changed in this batch.")
+          PY
+      - name: Verify local Scripture and verse index
+        run: |
+          python3 scripts/ensure_local_scriptures.py --check-only
+          python3 scripts/test_lookup_verse.py
+          python3 scripts/test_build_verse_index.py
+          python3 scripts/build_verse_index.py
+          git diff --check

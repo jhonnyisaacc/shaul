@@ -33,6 +33,7 @@ references:
   - "#nejemiah_11_35"
 sources:
   - "https://www.youtube.com/watch?v=LuxlrvnMbu8"
+  - "https://www.youtube.com/watch?v=agFU_axg_s0"
   - "docs/scriptures/oe/json/psalms/119.json"
   - "docs/scriptures/oe/json/psalms/16.json"
   - "docs/scriptures/oe/json/psalms/129.json"
@@ -41,10 +42,11 @@ sources:
   - "docs/scriptures/tth/json/matityahu.json"
   - "docs/scriptures/tth/json/lukas.json"
   - "docs/scriptures/tth/json/markos.json"
-  - "docs/scriptures/tth/json/yojanan.json"
+  - "docs/scriptures/tth/json/iojanan.json"
   - "docs/scriptures/delitzsch/json/corinthians1.json"
 source_ids:
   - "youtube:LuxlrvnMbu8"
+  - "youtube:agFU_axg_s0"
 translation: "[TTH, Delitzsch, OE]"
 ---
 
@@ -56,13 +58,13 @@ El recorrido también abre dos excursus —Sheol y el oficio atribuido a Yehoshu
 
 ## Alcance de la nota
 
-- Fuente principal: transcripción automática de una clase en video de aproximadamente 1 hora y 16 minutos; la nota organiza la línea argumental sin reproducir cada intervención.
+- Fuente principal: la parte 8, “Aba: la Qatedrá de Moshéh”, de aproximadamente 1 hora y 16 minutos; la parte 2 complementa el bloque sobre nombre y sacerdocio. Las fuentes se distinguen por bloque; la nota organiza la línea argumental sin reproducir cada intervención.
 - Esta clase continúa [[marcos_abba_ruaj_mente_mashiaj|Marcos: Abba, ruaj y la mente del Mesías]] y reutiliza su identificación pedagógica de Abba con la sabiduría profunda de Elohim.
 - El corpus local fue comprobado el 17 de julio de 2026.
 - Se cotejaron los pasajes centrales en OE, TTH o Delitzsch. La historia material de la silla de Moshéh, las costumbres funerarias, la recepción judía del mundo subterráneo griego y las equivalencias **Sheol/sha'al** y **tektón/joresh** quedan pendientes.
 - Las formulaciones de la clase sobre el origen corporal del Mesías y su relación con Miriam se registran como parte del argumento oral, pero no se cierran aquí sin un estudio textual específico.
 
-## Ruta de la clase
+## Ruta de la parte 8
 
 | Momento aproximado | Tema                                          | Función en la explicación                                                                                                                               |
 | ------------------ | --------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -85,11 +87,15 @@ El recorrido también abre dos excursus —Sheol y el oficio atribuido a Yehoshu
 | #1_corintios_1_30  | Delitzsch: וממנו אתם במשיח ישוע אשר היה לנו לחכמה מאת האלהים ולצדקה ולקדשה ולפדיום                                                                                      | El Mesías ha sido hecho para el pueblo sabiduría de Elohim, justicia, santidad y redención.                                                                                 |
 | #1_corintios_2_6-8 | Delitzsch habla de la sabiduría escondida de Elohim que los gobernantes no conocieron; de haberla conocido, no habrían crucificado al Señor de la gloria.               | La sabiduría no es una abstracción: la clase la concentra en el Mesías crucificado.                                                                                         |
 | #marcos_4_14           | TTH: «El sembrador de la semilla es el que siembra la palabra».                                                                                                         | Identifica expresamente la semilla con la palabra sembrada.                                                                                                                 |
-| #marcos_4_26-32        | TTH: el reino es como semilla que brota, crece y llega a cosecha; el grano de mostaza llega a tener ramas donde mora el ave de los cielos.                              | El reino comienza de forma pequeña, crece y abre refugio bajo su sombra.                                                                                                    |
+| #marcos_4_26-32        | TTH: Y Él les dijo: Así es el reino de los cielos: como un hombre que echa semilla en la tierra; y duerme, y se levanta de noche y de día, y la semilla brota y se extiende, sin saberlo él. Porque en voluntariedad hace su fruto la tierra, primero la hierba, luego espiga y luego grano lleno en la espiga. Y cuando engorda el fruto, rápidamente se echa la hoz, porque viene la cosecha. Y dijo: ¿A quién haremos semejante el reino de los cielos, o con qué parábola lo compararemos? Al grano de mostaza, que cuando se siembra sobre la tierra, pequeño es más que todas las semillas que están sobre la tierra. Y cuando se siembra, sube y llega a ser el más grande de las hierbas; y hace grandes ramas, así que el ave de los cielos puede morar bajo su sombra.                              | El reino comienza de forma pequeña, crece y abre refugio bajo su sombra.                                                                                                    |
 | #qohelet_9_10          | OE: כל אשר תמצא ידך לעשות בכחך עשה כי אין מעשה וחשבון ודעת וחכמה בשאול אשר אתה הלך שמה                                                                                  | En Sheol no hay obra, cálculo, conocimiento ni sabiduría; la clase lo usa contra la idea de una vida consciente independiente de la resurrección.                           |
 | #marcos_8_35           | TTH: quien pierda su vida «por causa de Mí y por causa de la Besorah» la salvará.                                                                                       | La clase lee ambas expresiones en paralelo: entregar la vida por Yehoshua es entregarla por la buena noticia que él encarna y anuncia.                                      |
-| #marcos_6_3            | TTH: «¿No es este el agricultor...?», con nota «Heb.: jóresh».                                                                                                          | El texto local sostiene la traducción agrícola usada por la clase, pero no resuelve por sí solo el sentido histórico del griego **tektón**.                                 |
+| #marcos_6_3            | TTH: ¿No es este el agricultor⁶², hijo de Miriam, hermano de Yaakov, Yosef, Yehudáh y Shimón?, ¿y no están sus hermanas aquí con nosotros? Y tropezaron por Él.                                                                                                          | El texto local sostiene la traducción agrícola usada por la clase, pero no resuelve por sí solo el sentido histórico del griego **tektón**.                                 |
 | #juan_20_15         | TTH: Miriam piensa que Yehoshua es «el recolector de sicómoros».                                                                                                        | La clase lo relaciona con el campo; el detalle no basta por sí solo para determinar el oficio anterior de Yehoshua.                                                         |
+
+| #shemot_3_15 | OE: ויאמר עוד אלהים אל משה כה תאמר אל בני ישראל יהוה אלהי אבתיכם אלהי אברהם אלהי יצחק ואלהי יעקב שלחני אליכם זה שמי לעלם וזה זכרי לדר דר | La parte 2 desarrolla el nombre y su memoria; la pronunciación histórica queda pendiente. |
+| #yeshayahu_33_22 | OE: כי יהוה שפטנו יהוה מחקקנו יהוה מלכנו הוא יושיענו | La parte 2 reúne juicio, instrucción, reinado y salvación en יהוה. |
+| #hebreos_2_14 | Delitzsch: ויען כי הילדים כלם יחדו בשר ודם אףהוא לבש בשר ודם כמוהם למען אשר יבטל עלידי המות את אשרלו ממשלת המות הוא השטן | La parte 2 conecta la participación en carne y sangre con la derrota de la muerte. |
 
 ## Hoja léxica
 
@@ -115,9 +121,9 @@ La aplicación es directa. Quien enseña no está por encima de la palabra. #teh
 
 ## El nombre, la salvación y la autoridad del Mesías
 
-La parte 2 del estudio de Eric introduce el tema desde el nombre revelado a Moshéh. Eric relaciona #shemot_3_13-15 con la afirmación de presencia y permanencia de יהוה, y observa que las tradiciones de lectura sustituyeron la pronunciación del nombre por formas reverenciales como **(אדני)**, \_Adonai*. El texto local confirma que יהוה responde a Moshéh y manda recordar su nombre; no permite, por sí solo, reconstruir con certeza la pronunciación histórica ni fijar una fecha exacta para su pérdida. La nota conserva la observación como argumento de la clase, no como resultado fonético demostrado.
+La parte 2 del estudio de Eric introduce el tema desde el nombre revelado a Moshéh. Eric relaciona #shemot_3_13-15 con la afirmación de presencia y permanencia de יהוה, y observa que las tradiciones de lectura sustituyeron la pronunciación del nombre por formas reverenciales como **(אדני)**, _Adonai_. El texto local confirma que יהוה responde a Moshéh y manda recordar su nombre; no permite, por sí solo, reconstruir con certeza la pronunciación histórica ni fijar una fecha exacta para su pérdida. La nota conserva la observación como argumento de la clase, no como resultado fonético demostrado.
 
-Eric enlaza después el nombre de Yehoshua con la salvación y con #yeshayahu_33_22, donde יהוה es presentado como juez, legislador y rey que salva. Esa conexión sirve para explicar por qué la clase rechaza una separación simple entre el Salvador anunciado y la acción salvadora de יהוה. Pero el análisis debe distinguir formas: **(יְהוֹשֻׁעַ)**, \_Yehoshua*, es un nombre propio; **(יְשׁוּעָה)**, _yeshuah_, significa salvación; y **(יְהוָה)**, _YHWH_, es el nombre divino escrito en cuatro consonantes. Son términos relacionados en la lectura teológica, no equivalentes gramaticales intercambiables.
+Eric enlaza después el nombre de Yehoshua con la salvación y con #yeshayahu_33_22, donde יהוה es presentado como juez, legislador y rey que salva. Esa conexión sirve para explicar por qué la clase rechaza una separación simple entre el Salvador anunciado y la acción salvadora de יהוה. Pero el análisis debe distinguir formas: **(יְהוֹשֻׁעַ)**, _Yehoshua_, es un nombre propio; **(יְשׁוּעָה)**, _yeshuah_, significa salvación; y **(יְהוָה)**, _YHWH_, es el nombre divino escrito en cuatro consonantes. Son términos relacionados en la lectura teológica, no equivalentes gramaticales intercambiables.
 
 La exposición también recuerda #hebreos_2_14-15: la obra del Mesías enfrenta la muerte y libera a quienes vivían bajo su temor. El pasaje de Ivrim sostiene una finalidad de liberación, mientras que la interpretación de Eric la integra en la manifestación terrenal del reino. La secuencia evita convertir la discusión del nombre en un juego de letras: el argumento crítico es que el nombre, la proclamación y la obra deben leerse juntos y probarse en la Escritura.
 
@@ -195,7 +201,7 @@ Luego `#marcos_4_26-29` cambia el foco hacia el crecimiento. **(αὐτομάτ�
 
 En `#marcos_4_30-32` aparece **(βασιλεία)**, _basileia_, «reino, reinado o autoridad real», y el **(κόκκος σινάπεως)**, _kokkos sinapeōs_, «grano de mostaza». «Reino de los cielos» es una formulación equivalente de tradición sinóptica, no la traducción de _basileia_ por «cielo». El pequeño comienzo y las ramas grandes sostienen la observación de Eric sobre una autoridad que se manifiesta en pequeñez y después ofrece sombra. La mención de las aves permite una conexión con imágenes proféticas, pero no prueba por sí sola que cada ave represente a las naciones.
 
-La secuencia desemboca en `#marcos_8_35`. **(ἀπολέσει)**, _apolesei_, forma futura de **(ἀπόλλυμι)**, «perder, destruir o arruinar», aparece junto a **(σώσει)**, _sōsei_, futuro de **(σῴζω)**, «salvar, rescatar o preservar». Marcos vincula perder la vida por causa de Yeshúa con salvarla por causa de la Besorah. No presenta una técnica de autosacrificio ni separa al Mesías del anuncio: el contexto exige lealtad a una persona y a un mensaje. Esa es la prueba narrativa de la enseñanza, no una definición aislada de «vida».
+La secuencia desemboca en `#marcos_8_35`. **(ἀπολέσει)**, _apolesei_, forma futura de **(ἀπόλλυμι)**, «perder, destruir o arruinar», aparece junto a **(σώσει)**, _sōsei_, futuro de **(σῴζω)**, «salvar, rescatar o preservar». Marcos coordina “por causa de mí y de la Besorah” como motivos de la misma pérdida de vida, cuyo resultado es salvarla; no distribuye perder a una causa y salvar a otra. No presenta una técnica de autosacrificio ni separa al Mesías del anuncio: el contexto exige lealtad a una persona y a un mensaje. Esa es la prueba narrativa de la enseñanza, no una definición aislada de «vida».
 
 Así, la ruta canónica queda en orden: el sembrador identifica la semilla como palabra; la palabra crece hasta cosecha; el reino se muestra pequeño y extenso; y el discípulo confirma su recepción entregando la vida por Yeshúa y la Besorah. La silla de Moshéh funciona como control ético de esa lectura: quien enseña crecimiento debe hacer la palabra, no solo describirla. La nota conserva la crítica concreta de Eric a la autoridad sin misericordia, pero deja como pendiente cualquier reconstrucción histórica que el texto local no demuestra.
 
@@ -227,7 +233,7 @@ Así, la ruta canónica queda en orden: el sembrador identifica la semilla como 
 
 - **#shemot_3_13-15 — nombre y presencia:** En la parte 2, Eric lee la respuesta a Moshéh como una afirmación de presencia continua y distingue el nombre escrito de las pronunciaciones posteriores. El texto sostiene el encargo y la memoria del nombre; la reconstrucción histórica de su vocalización queda abierta.
 - **#yeshayahu_33_22; #hebreos_2_14-15 — salvación y liberación:** Eric usa el anuncio de יהוה como juez, legislador y rey, junto con la derrota de la muerte en Ivrim, para argumentar que la obra del Mesías no puede separarse de la salvación de Elohim. La nota conserva la conexión y limita la conclusión a lo que ambos pasajes afirman.
-- **#marcos_4_26-32 — reino que crece:** La clase continúa su lectura de Marcos desde la palabra y el reino sembrados. La nota primaria del capítulo desarrolla la secuencia de semilla, crecimiento y cosecha; esta nota la usa como conexión, no como duplicación de un capítulo canónico.
+- **#marcos_4_26-32 — reino que crece:** En la parte 8, alrededor de 25:06, Eric pasa del trono y la silla a la semilla y su crecimiento. La nota primaria del capítulo desarrolla la secuencia de semilla, crecimiento y cosecha; esta nota la usa como conexión, no como duplicación de un capítulo canónico.
 
 ## Conclusión
 
@@ -238,7 +244,8 @@ El resultado práctico no es acumular imágenes nuevas, sino someterlas al texto
 ## Créditos
 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
-- Video: [Evangelio según Marco: la Palabra, el trono, la semilla y la identidad del Mesías](https://www.youtube.com/watch?v=LuxlrvnMbu8) (`source_id`: `youtube:LuxlrvnMbu8`).
+- Fuente del bloque sobre nombre y sacerdocio: [Evangelio según Marco, parte 2](https://www.youtube.com/watch?v=LuxlrvnMbu8) (`source_id`: `youtube:LuxlrvnMbu8`).
+- Fuente del trono, silla, semilla y excursus: [Evangelio según Marco, parte 8: Aba, la Qatedrá de Moshéh](https://www.youtube.com/watch?v=agFU_axg_s0) (`source_id`: `youtube:agFU_axg_s0`); fuente compartida con el estudio canónico de Marcos 4.
 - Esta nota organiza y contrasta la exposición; no presenta la transcripción automática como cita literal.
 
 ## Ver también
@@ -246,5 +253,5 @@ El resultado práctico no es acumular imágenes nuevas, sino someterlas al texto
 - [[marcos_abba_ruaj_mente_mashiaj|Marcos: Abba, ruaj y la mente del Mesías]]
 - [[marcos_ben_adam_metamorfosis_glosario|Marcos: Ben Adam, metamorfosis y glosario mesiánico]]
 - [[marcos_2_torah_promesas_procedimientos|Marcos 2: perdón, nuevo pacto y Torah que permanece]]
-- [[marcos_13_14_abba_oracion_juicio|Marcos 13-14: Abba, palabra inamovible y oración como juicio]]
+- [[marcos_13_vigilancia_hijo_hombre_palabra#Abba en Marcos 14|Marcos 13-14: Abba, palabra inamovible y oración como juicio]]
 - [[../temas/ben_hijo_titulos_mesias|Ben, hijo y títulos del Mesías]]

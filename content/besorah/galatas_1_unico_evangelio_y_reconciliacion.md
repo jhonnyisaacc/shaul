@@ -26,6 +26,7 @@ references:
   - "#tehilim_49_8"
   - "#tehilim_49_9"
 sources:
+  - "https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/Gal.txt"
   - "https://www.youtube.com/watch?v=ZfPUEeRSFPU"
   - "docs/scriptures/delitzsch/json/galatians.json"
 source_ids:
@@ -45,10 +46,13 @@ Esta nota organiza la clase pública «LETTER TO THE GALATIANS | The ONLY BESORA
 
 | Referencia | Texto local de Delitzsch (sin nikud) | Función en el estudio |
 | --- | --- | --- |
-| #galatas_1_1-3 | **פולוס השליח לא מבני אדם ולא על־ידי בן־אדם כי אם־על־ידי ישוע המשיח ואלהים האב אשר העירו מן־המתים׃ וכל־האחים אשר עמדי אל־הקהלות אשר בגלטיא׃ חסד לכם ושלום מאת האלהים אבינו ומאת אדנינו ישוע המשיח׃** | El mensaje llega desde el Mesías y se dirige a comunidades; el saludo introduce bondad y shalom. |
-| #galatas_1_4-5 | **אשר־נתן את־נפשו על־חטאתינו לחלצנו מן־העולם הרע הזה כרצון אלהינו אבינו׃ אשר־לו הכבוד לעולמי עולמים אמן׃** | La entrega del Mesías, el rescate del orden malo y la gloria de Elohim forman la base de la exhortación. |
-| #galatas_1_6-7 | **תמה אני כי־סרתם מהר מאחרי הקרא אתכם בחסד המשיח לשמׂע אל־בשורה זרה׃ והיא איננה אחרת רק יש אנשים העכרים אתכם וחפצים להפך את־בשורת המשיח׃** | El problema es apartarse del llamado del Mesías para escuchar un mensaje que pretende alterar su buena noticia. |
-| #galatas_1_8-10 | **אבל גם־אנחנו או־מלאך מן־השמים אם־יבוא לבשר אתכם בשורה מבלעדי זאת אשר בשרנו אתכם חרם יהיה׃ כאשר אמרנו כבר כן־אמר עתה עוד־הפעם איש כי־יבשר אתכם בשורה מבלעדי אשר קבלתם חרם יהיה׃ כי המתרצה אל־בני אדם אנכי או אל־האלהים אם המבקש אנכי למצא־חן בעיני בני־אדם הן במצאי חן בעיני בני־אדם לא־אהיה עבד המשיח׃** | La fidelidad al evangelio recibido tiene prioridad sobre la aprobación de personas, incluso frente a una autoridad espectacular. |
+| #galatas_1_1-3 | Delitzsch: פולוס השליח לא מבני אדם ולא עלידי בןאדם כי אםעלידי ישוע המשיח ואלהים האב אשר העירו מןהמתים וכלהאחים אשר עמדי אלהקהלות אשר בגלטיא חסד לכם ושלום מאת האלהים אבינו ומאת אדנינו ישוע המשיח | El mensaje llega desde el Mesías y se dirige a comunidades; el saludo introduce bondad y shalom. |
+| #galatas_1_4-5 | Delitzsch: אשרנתן אתנפשו עלחטאתינו לחלצנו מןהעולם הרע הזה כרצון אלהינו אבינו אשרלו הכבוד לעולמי עולמים אמן | La entrega del Mesías, el rescate del orden malo y la gloria de Elohim forman la base de la exhortación. |
+| #galatas_1_6-7 | Delitzsch: תמה אני כיסרתם מהר מאחרי הקרא אתכם בחסד המשיח לשמע אלבשורה זרה והיא איננה אחרת רק יש אנשים העכרים אתכם וחפצים להפך אתבשורת המשיח | El problema es apartarse del llamado del Mesías para escuchar un mensaje que pretende alterar su buena noticia. |
+| #galatas_1_8-10 | Delitzsch: אבל גםאנחנו אומלאך מןהשמים אםיבוא לבשר אתכם בשורה מבלעדי זאת אשר בשרנו אתכם חרם יהיה כאשר אמרנו כבר כןאמר עתה עודהפעם איש כייבשר אתכם בשורה מבלעדי אשר קבלתם חרם יהיה כי המתרצה אלבני אדם אנכי או אלהאלהים אם המבקש אנכי למצאחן בעיני בניאדם הן במצאי חן בעיני בניאדם לאאהיה עבד המשיח | La fidelidad al evangelio recibido tiene prioridad sobre la aprobación de personas, incluso frente a una autoridad espectacular. |
+| #juan_10_18 | Delitzsch: איש לא יקח נפשי ממני כי אםאני אתננה ישלאל ידי לתתה וישלאל להשיבה אלי זאת המצוה צויתי מאת אבי | Entrega voluntaria de la vida y autoridad para retomarla. |
+| #tehilim_49_8 | OE: אח לא פדה יפדה איש לא יתן לאלהים כפרו | Nadie puede rescatar a su hermano. |
+| #tehilim_49_9 | OE: ויקר פדיון נפשם וחדל לעולם | Costo de la redención en la numeración OE. |
 
 ## «Se dio a sí mismo»: el sujeto del sacrificio
 
@@ -62,7 +66,7 @@ Eric explica que «la sangre del Mesías» funciona como un hebraísmo para habl
 
 La correspondencia con Vayikra debe expresarse con cuidado. El sistema sacrificial provee categorías de culpa, confesión, sangre, sacerdocio y expiación; Gálatas interpreta la entrega del Mesías como rescate y liberación. Eso no autoriza a decir sin más que cada detalle del ritual antiguo equivale uno a uno a la obra del Mesías. La clase usa la imagen del sumo sacerdote para explicar la dependencia: el creyente confiesa, pero la reconciliación procede de Elohim y se recibe por la obra del Mesías.
 
-El enlace con Tehilim 49:8-9 también opera como una pregunta límite: ningún hombre puede pagar el rescate de su hermano. La propia clase recuerda el número del salmo de manera incierta; por eso aquí se deja el pasaje como conexión pendiente de cotejo en la edición local antes de reproducir su texto. La afirmación teológica que la exposición quiere resaltar es clara: si la reconciliación no puede ser comprada por un ser humano, la confianza debe descansar en Elohim y no en una autoridad religiosa.
+El enlace con Tehilim 49:8-9 también opera como una pregunta límite: ningún hombre puede pagar el rescate de su hermano. La clase recuerda el número del salmo de manera incierta; el cotejo local identifica la conexión en Tehilim 49:8-9 (OE), equivalente a 49:7-8 en ediciones que no cuentan el encabezado como versículo. La afirmación teológica que la exposición quiere resaltar es clara: si la reconciliación no puede ser comprada por un ser humano, la confianza debe descansar en Elohim y no en una autoridad religiosa.
 
 ## Una sola besorah frente a la aprobación humana
 
@@ -76,7 +80,7 @@ La oposición entre «gracia» y «obras» debe mantenerse igualmente precisa. G
 
 | Forma | Transliteración | Sentido normal | Fuerza en la nota | Relación |
 | --- | --- | --- | --- | --- |
-| **(ἔδωκεν)** / **(נתן)** | _edōken_ / _natan_ | dio, entregó | El Mesías se entrega por los pecados | Directa en la acción; el trasfondo teológico es más amplio. |
+| **(δόντος)** / **(נתן)** | _dontos_ / _natan_ | del que dio (participio de δίδωμι); dio | El Mesías se entrega por los pecados | Directa en la acción; el trasfondo teológico es más amplio. |
 | **(ἁμαρτίαι)** / **(חטאות)** | _hamartiai_ / _jatot_ | pecados | La condición y las acciones de las que se necesita rescate | Aproximada; no agota todas las categorías hebreas de culpa. |
 | **(ἐξαιρέω)** / **(חלץ)** | _exaireō_ / _jalatz_ | rescatar, librar | El Mesías libera del orden malo presente | Aproximada; debe leerse en el contexto de Gálatas. |
 | **(αἰών)** / **(עולם)** | _aiōn_ / _olam_ | era, edad, orden | No es sólo un lugar, sino el orden presente del que se rescata | Contextual, no una definición universal de _olam_. |
@@ -90,13 +94,13 @@ La oposición entre «gracia» y «obras» debe mantenerse igualmente precisa. G
 | #galatas_1_1-5 | El Mesías no fue sacrificado por HaSatán: él se dio a sí mismo; la reconciliación procede de Elohim. | Apoyo textual con formulación teológica cualificada. |
 | #juan_10_18 | Yehoshua entrega su vida voluntariamente y tiene autoridad para volver a tomarla. | Conexión intertextual; se usa como apoyo temático, no como sustituto de Gálatas 1. |
 | Sacrificio y Yom Kipur | El israelita dependía del sacerdocio y no podía producir por sí solo la reconciliación definitiva. | Marco pedagógico atribuido; se evita afirmar una correspondencia automática entre cada rito y la obra del Mesías. |
-| #tehilim_49_8-9 | Ningún hombre puede pagar el rescate de su hermano; la clase usa esta pregunta para insistir en la dependencia de Elohim. | Conexión conservada, pero el número y texto exactos quedan pendientes de cotejo local. |
+| #tehilim_49_8-9 | Ningún hombre puede pagar el rescate de su hermano; la clase usa esta pregunta para insistir en la dependencia de Elohim. | Conexión cotejada en OE 49:8-9; se registra la diferencia de numeración. |
 | #galatas_1_6-10 | No existe una «otra» buena noticia legítima; agradar a personas no puede gobernar al siervo del Mesías. | Apoyo directo del texto local; se limita la aplicación a mensajes alterados y no a condenas indiscriminadas. |
 
 ## Pendiente de verificar
 
-- [ ] Cotejar el texto crítico griego de Gálatas 1:1-10 y precisar la relación sintáctica entre Elohim Padre y Yehoshua el Mesías.
-- [ ] Confirmar en la biblioteca local el texto y la referencia exacta de Tehilim 49:8-9 antes de incluir una cita hebrea.
+- [x] Cotejar las formas de Gálatas 1:1-10 en SBLGNT: 1:1 vincula el envío con Yehoshua y Elohim Padre; el participio «que lo levantó» califica al Padre. En 1:4 **δόντος** es un participio de **δίδωμι**, no la forma **ἔδωκεν**. La relación teológica entre Padre y Mesías requiere el conjunto de la Escritura.
+- [x] Confirmar Tehilim 49:8-9 en OE e incluir el texto; distinguir su numeración de 49:7-8 en otras ediciones.
 - [ ] Revisar Vayikra 4 y 16 para distinguir expiación, perdón, purificación y reconciliación sin colapsar sus funciones rituales.
 - [ ] Verificar las afirmaciones históricas de la clase sobre la práctica sacerdotal y el estado de los pecados antes de presentarlas como descripción exhaustiva del culto antiguo.
 - [ ] Estudiar en su contexto Gálatas 2–3 antes de formular una tesis general sobre «gracia», «obras» y Torah a partir de Gálatas 1 solamente.

@@ -16,6 +16,9 @@ references:
   - "#efesios_1_9"
   - "#efesios_1_10"
 sources:
+  - "https://github.com/morphgnt/sblgnt/blob/master/70-Eph-morphgnt.txt"
+  - "https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/Eph.txt"
+  - "https://www.sefaria.org/Mishnah_Kilayim.7.1?lang=bi"
   - "https://www.youtube.com/watch?v=a6vEPBnWxZM"
   - "docs/scriptures/delitzsch/json/ephesians.json"
 source_ids:
@@ -35,17 +38,19 @@ Esta nota organiza la clase pública «LETTER TO THE EPHESIANS | The MESSIAH as 
 
 | Referencia | Texto local de Delitzsch (sin nikud) | Función en el estudio |
 | --- | --- | --- |
-| #efesios_1_5 | **יעדנו לו לבנים על־ידי ישוע המשיח כרצון חפצו** | La adopción se sitúa «por medio de Yehoshua» y conforme al propósito de Elohim. |
-| #efesios_1_6 | **לתהלת כבוד חסדו אשר־חנן אתנו בידידו** | El favor recibido conduce a la alabanza de su gloria. |
-| #efesios_1_7 | **אשר־בו לנו הפדיום בדמו וסליחת הפשעים כרב חסדו** | Redención y perdón aparecen en el amado y según la abundancia de su favor. |
-| #efesios_1_8-9 | **אשר בא עלינו בשפע־חכמה והשכל׃ והודיע אתנו את־סוד חפצו כרצונו ועצתו מראש אשר יעץ בו** | La abundancia de sabiduría acompaña la comunicación del propósito escondido. |
-| #efesios_1_10 | **על־דבר הנהגתו במלאת הימים לקבל את־הכל במשיח מה־שבשמים ומה־שבארץ** | El propósito culmina en reunir lo que está en los cielos y en la tierra en el Mesías. |
+| #efesios_1_5 | Delitzsch: יעדנו לו לבנים עלידי ישוע המשיח כרצון חפצו | La adopción se sitúa «por medio de Yehoshua» y conforme al propósito de Elohim. |
+| #efesios_1_6 | Delitzsch: לתהלת כבוד חסדו אשרחנן אתנו בידידו | El favor recibido conduce a la alabanza de su gloria. |
+| #efesios_1_7 | Delitzsch: אשרבו לנו הפדיום בדמו וסליחת הפשעים כרב חסדו | Redención y perdón aparecen en el amado y según la abundancia de su favor. |
+| #efesios_1_8-9 | Delitzsch: אשר בא עלינו בשפעחכמה והשכל והודיע אתנו אתסוד חפצו כרצונו ועצתו מראש אשר יעץ בו | La abundancia de sabiduría acompaña la comunicación del propósito escondido. |
+| #efesios_1_10 | Delitzsch: עלדבר הנהגתו במלאת הימים לקבל אתהכל במשיח מהשבשמים ומהשבארץ | El propósito culmina en reunir lo que está en los cielos y en la tierra en el Mesías. |
 
 ## La adopción tiene un medio y un propósito (1:5-6) #efesios_1_5-6
 
 La clase insiste en que la adopción no debe imaginarse como una preexistencia de las personas junto a Elohim. Esa advertencia responde a una preocupación teológica real, pero Efesios 1:5 debe gobernar la formulación: **προορίσας**, _proorisas_, significa «habiendo determinado de antemano» o «habiendo destinado», mientras **υἱοθεσία**, _huiothesia_, nombra la adopción o colocación como hijo. La existencia previa de los creyentes no está afirmada por la forma verbal. Lo que el versículo sí afirma es un propósito de adopción por medio de Yehoshua el Mesías.
 
 Eric relaciona esta adopción con una vida que permanece dentro de los límites de la voluntad de Elohim. La aplicación puede ser pastoralmente útil, pero «límite» no reemplaza el sentido contextual de _proorisas_. La adopción tampoco se convierte aquí en una etiqueta de superioridad: el versículo 6 la orienta a la alabanza de la gloria del favor con que Elohim agració a los suyos en el amado.
+
+El cotejo de la forma griega confirma que «de antemano» pertenece a la determinación del propósito. Ni el rechazo de una preexistencia humana ni la aplicación sobre vivir dentro de límites justifican borrar ese componente temporal. Efesios no describe aquí cada decisión futura del adoptado; fija el medio —Yehoshua— y el fin de la adopción.
 
 ## Redención y perdón: el favor se expresa en una obra (1:7-8) #efesios_1_7-8
 
@@ -81,9 +86,9 @@ El verbo **ἀνακεφαλαιώσασθαι**, _anakephalaiōsasthai_, puede 
 
 ## Pendiente de verificar
 
-- [ ] Cotejar **προορίζω** y **υἱοθεσία** con el texto griego crítico antes de fijar una lectura completa sobre elección y adopción.
+- [x] Cotejar las formas **προορίσας** y **υἱοθεσίαν** en SBLGNT 1:5. Expresan determinación previa para adopción; una teología completa de elección requiere más que esta forma.
 - [ ] Verificar la relación exacta entre **ἀπολύτρωσις**, **פדיון** y **גאולה**; la nota sólo afirma una correspondencia temática.
-- [ ] Revisar la referencia rabínica mencionada en la clase sobre **ברך** y la práctica agrícola del injerto; no se fija aquí una cita talmúdica sin cotejo directo.
+- [x] Localizar el ejemplo agrícola paralelo de la serie en m. Kilayim 7:1. La norma trata acodo de una vid; no demuestra una equivalencia entre bendición, adopción e injerto.
 - [ ] Estudiar el alcance de **ἀνακεφαλαιόω** en otros autores antes de convertir «reunir bajo una cabeza» en una doctrina exhaustiva de la historia.
 
 ## Conclusión

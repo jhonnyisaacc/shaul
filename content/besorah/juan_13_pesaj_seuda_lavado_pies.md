@@ -35,7 +35,7 @@ references:
   - "#juan_8_56"
 sources:
   - "https://www.youtube.com/watch?v=G6nNREo8isI"
-  - "docs/scriptures/tth/json/yojanan.json"
+  - "docs/scriptures/tth/json/iojanan.json"
   - "docs/scriptures/tth/json/matityahu.json"
   - "docs/scriptures/tth/json/markos.json"
   - "docs/scriptures/tth/json/lukas.json"
@@ -49,9 +49,9 @@ translation: "[TTH, Delitzsch, OE]"
 
 # Tesis
 
-Yojanán 13 abre la hora final de Yeshúa sin separar Pesaj de la obra del Mesías. La clase sostiene que #juan_13_1 no describe un seder de Pesaj ya cumplido ni una nueva institución que sustituya el mandamiento bíblico, sino una cena preparatoria con sus discípulos, orientada hacia la fiesta y cargada de los signos que ellos debían comprender antes de que el Cordero fuera sacrificado.
+Yojanán 13 abre la hora final de Yehoshua sin separar Pesaj de la obra del Mesías. La clase sostiene que #juan_13_1 no describe un seder de Pesaj ya cumplido ni una nueva institución que sustituya el mandamiento bíblico, sino una cena preparatoria con sus discípulos, orientada hacia la fiesta y cargada de los signos que ellos debían comprender antes de que el Cordero fuera sacrificado.
 
-Desde esa escena, el texto junta tres líneas: Yeshúa ama a los suyos hasta el fin, sale de la condición de siervo para volver hacia Abba, y lava los pies de sus discípulos como señal de sujeción a la voluntad del que envía y de participación en la concreción de las promesas.
+Desde esa escena, el texto junta tres líneas: Yehoshua ama a los suyos hasta el fin, sale de la condición de siervo para volver hacia Abba, y lava los pies de sus discípulos como señal de sujeción a la voluntad del que envía y de participación en la concreción de las promesas.
 
 ## Alcance de la nota
 
@@ -106,11 +106,11 @@ Desde esa escena, el texto junta tres líneas: Yeshúa ama a los suyos hasta el 
 
 ## Pesaj no se sustituye
 
-La primera corrección de la clase es cronológica y práctica. Yeshúa se reúne con sus discípulos al inicio del día 14. Al día siguiente, al final de ese día, el cordero sería sacrificado y comenzaría el tiempo pleno de la comida de Pesaj. Por eso la cena de #juan_13 no se presenta como un seder familiar completo ni como reemplazo del seder.
+La primera corrección de la clase es cronológica y práctica. Eric sitúa la reunión con los discípulos al inicio del día 14; esa armonización precisa queda pendiente de cotejo histórico y sinóptico. Al día siguiente, al final de ese día, el cordero sería sacrificado y comenzaría el tiempo pleno de la comida de Pesaj. Por eso la cena de #juan_13 no se presenta como un seder familiar completo ni como reemplazo del seder.
 
-La clase insiste en mantener las dos cosas juntas: no negar los elementos tradicionales que el Mesías usa, pero tampoco convertir esa cena previa en una institución nueva que cambia el mandamiento bíblico. Yeshúa no está diciendo que desde ese momento Pesaj se celebra un día antes; está enseñando a sus discípulos, antes de su muerte, cómo deberían comprender el pan, la copa, el cuerpo y la redención cuando celebraran Pesaj bajo la luz de su sacrificio.
+La clase insiste en mantener las dos cosas juntas: no negar los elementos tradicionales que el Mesías usa, pero tampoco convertir esa cena previa en una institución nueva que cambia el mandamiento bíblico. Yehoshua no está diciendo que desde ese momento Pesaj se celebra un día antes; está enseñando a sus discípulos, antes de su muerte, cómo deberían comprender el pan, la copa, el cuerpo y la redención cuando celebraran Pesaj bajo la luz de su sacrificio.
 
-El argumento contra la sustitución es simple: si el cordero aún no fue sacrificado, no corresponde decir que el mandamiento de Pesaj ya fue cumplido en forma plena. La cena previa tiene sentido porque Yeshúa no podía esperar hasta el seder posterior para explicar desde el madero qué significaban el pan y la copa.
+El argumento contra la sustitución es simple: si el cordero aún no fue sacrificado, no corresponde decir que el mandamiento de Pesaj ya fue cumplido en forma plena. La cena previa tiene sentido porque Yehoshua no podía esperar hasta el seder posterior para explicar desde el madero qué significaban el pan y la copa.
 
 ## Pan sin levadura y cena real
 
@@ -118,7 +118,7 @@ La clase corrige otra reducción: llamar "Cena del Señor" solo al pan y al vino
 
 Desde #1_corintios_11_20-29, la clase entiende el desorden de Corinto como ruptura del cuerpo: algunos comían sin esperar a los demás, los pobres quedaban sin comida, y la mesa que debía manifestar unidad producía juicio. Por eso, cuando Pablo regula la práctica, no estaría celebrando una versión empobrecida de Pesaj, sino corrigiendo una conducta desordenada.
 
-La aplicación práctica de la clase es que el pan que representa el cuerpo del Mesías debe preservar el signo de la ausencia de levadura. No por ritualismo vacío, sino porque la levadura funciona como imagen de corrupción y pecado. Si el cuerpo de Yeshúa se anuncia como sin pecado, el signo no debe contradecir lo que proclama.
+La aplicación práctica de la clase es que el pan que representa el cuerpo del Mesías debe preservar el signo de la ausencia de levadura. No por ritualismo vacío, sino porque la levadura funciona como imagen de corrupción y pecado. Si el cuerpo de Yehoshua se anuncia como sin pecado, el signo no debe contradecir lo que proclama.
 
 ## Tradición, crítica y equilibrio
 
@@ -130,11 +130,11 @@ La clase propone discernimiento: no todo lo tradicional es mandamiento, pero tam
 
 Al leer #juan_13_1, el expositor conecta "los suyos" con #juan_1_11. Si en Yojanán 13 los suyos no son solo un grupo étnico, sino los escogidos amados en el mundo, entonces conviene no cerrar #juan_1_11 como si "los suyos" fueran únicamente los judíos en sentido plano. La clase preserva un alcance mayor: el Mesías vino al mundo que le pertenecía, y amó hasta el fin a los que eran suyos en medio de ese mundo.
 
-Ese amor no termina porque Yeshúa salga de este mundo. Al contrario, su salida hacia Abba es parte de la misma fidelidad. Amar hasta el fin significa completar la obra, no permanecer indefinidamente en la forma de humillación.
+Ese amor no termina porque Yehoshua salga de este mundo. Al contrario, su salida hacia Abba es parte de la misma fidelidad. Amar hasta el fin significa completar la obra, no permanecer indefinidamente en la forma de humillación.
 
 ## De Elohim salió y a יהוה iba
 
-#juan_13_3 es el eje doctrinal de la clase. El texto dice que todas las cosas fueron puestas en sus manos, que de Elohim salió y que a יהוה iba. La clase rechaza leer esto como si Yeshúa fuera un delegado separado que sale de un Dios distante y vuelve hacia otro centro superior.
+#juan_13_3 es el eje doctrinal de la clase. El texto dice que todas las cosas fueron puestas en sus manos, que de Elohim salió y que a יהוה iba. La clase rechaza leer esto como si Yehoshua fuera un delegado separado que sale de un Dios distante y vuelve hacia otro centro superior.
 
 En la lógica de la clase, Elohim nombra el amor manifestado en la obra de redención, y Abba — יהוה apunta a la plenitud de gloria, honra y majestad a la que el Mesías vuelve después de la humillación. No es un viaje entre dos seres rivales, sino el descenso y retorno del mismo יהוה que se despojó, vino en forma de siervo, cumplió lo prometido y retoma el peso de honra que tenía desde el principio.
 
@@ -152,13 +152,13 @@ El gesto de #juan_13_4-5 tiene una primera lectura evidente: humildad, servicio 
 
 En #bereshit_18_4, el lavado de pies aparece en la hospitalidad de Avraham. En #bereshit_24_32, aparece cuando el siervo de Avraham llega a la casa de Rivqah en la misión que dará esposa a Yitzjaq. La clase recoge una línea midráshica mencionada en el video: los detalles sobre los siervos de los patriarcas tienen relación con la redención prometida a los hijos de los patriarcas.
 
-Aplicado a Yojanán 13, el lavado de pies significa dos cosas: sujeción a la voluntad del que envía y comienzo de la concreción de las promesas. Yeshúa se sujeta hasta la muerte; luego sus discípulos deben aceptar el signo para participar con él y llevar adelante lo que desde allí debía materializarse en la era mesiánica.
+Aplicado a Yojanán 13, el lavado de pies significa dos cosas: sujeción a la voluntad del que envía y comienzo de la concreción de las promesas. Yehoshua se sujeta hasta la muerte; luego sus discípulos deben aceptar el signo para participar con él y llevar adelante lo que desde allí debía materializarse en la era mesiánica.
 
 ## "Si no te lavo, no tienes parte conmigo"
 
-La objeción de Kefa muestra que el gesto no puede reducirse a cortesía. Yeshúa responde: si no lo lava, Kefa no tiene parte con él. En la lectura de la clase, no se trata de una limpieza física superior, sino de aceptar la forma mesiánica de la misión: el enviado se somete a la voluntad del que lo envía, y por esa sujeción las promesas pasan de anuncio a manifestación.
+La objeción de Kefa muestra que el gesto no puede reducirse a cortesía. Yehoshua responde: si no lo lava, Kefa no tiene parte con él. En la lectura de la clase, no se trata de una limpieza física superior, sino de aceptar la forma mesiánica de la misión: el enviado se somete a la voluntad del que lo envía, y por esa sujeción las promesas pasan de anuncio a manifestación.
 
-Cuando Yeshúa dice que ellos ya están limpios pero necesitan los pies, la clase lo entiende como lenguaje metafórico. La palabra ya los había preparado; faltaba el signo de la sujeción y de la participación concreta. Desde allí, ellos serían fundamento apostólico de la edificación de Israel, junto con los profetas, y testigos de los bienes del mundo venidero.
+Cuando Yehoshua dice que ellos ya están limpios pero necesitan los pies, la clase lo entiende como lenguaje metafórico. La palabra ya los había preparado; faltaba el signo de la sujeción y de la participación concreta. Desde allí, ellos serían fundamento apostólico de la edificación de Israel, junto con los profetas, y testigos de los bienes del mundo venidero.
 
 ## Mapa de la enseñanza de Eric
 
@@ -184,7 +184,7 @@ Finalmente, en #juan_13_8-10, Eric explica «no tendrás parte conmigo» como la
 - #juan_13_3 con #juan_3_16: salir de Elohim se entiende desde el amor manifestado, no desde separación ontológica.
 - #bereshit_22_14 con #juan_8_56: Avraham, el Cordero provisto y el día del Mesías forman una línea de promesa.
 - #bereshit_18_4 y #bereshit_24_32 con #juan_13_5: el lavado de pies funciona como señal de hospitalidad, misión y concreción.
-- #juan_13_8 con la misión apostólica: tener parte con Yeshúa implica aceptar su manera de cumplir y encargar la obra.
+- #juan_13_8 con la misión apostólica: tener parte con Yehoshua implica aceptar su manera de cumplir y encargar la obra.
 
 ## Pendiente de verificar
 
@@ -198,14 +198,14 @@ Finalmente, en #juan_13_8-10, Eric explica «no tendrás parte conmigo» como la
 
 ## Conclusión
 
-Yojanán 13 no desconecta la mesa del Mesías de Pesaj. La clase propone leer la escena como una cena preparatoria en la que Yeshúa, sabiendo que su hora llegó, enseña los signos que sus discípulos necesitarán cuando el Cordero sea sacrificado. El pan, la copa, la comida, la ausencia de levadura y el cuerpo comunitario no son accesorios: ordenan la memoria de la redención.
+Yojanán 13 no desconecta la mesa del Mesías de Pesaj. La clase propone leer la escena como una cena preparatoria en la que Yehoshua, sabiendo que su hora llegó, enseña los signos que sus discípulos necesitarán cuando el Cordero sea sacrificado. El pan, la copa, la comida, la ausencia de levadura y el cuerpo comunitario no son accesorios: ordenan la memoria de la redención.
 
 El lavado de pies cierra la primera parte de la clase como una señal densa. El Maestro se ciñe como siervo, pero no solo para enseñar humildad. Lo hace para mostrar la forma de la misión: sujetarse a la voluntad de יהוה y concretar las promesas. Quien no acepta ser lavado por él no tiene parte con él, porque rechaza la manera en que el Mesías convierte la promesa en obra.
 
 ## Ver también
 
-- [[juan_12_gloria_peso_palabra|Yojanán 12: la gloria como peso de la palabra]]
-- [[juan_12_bat_kol_nombre_juicio|Yojanán 12: Bat Kol, Nombre y juicio]]
+- [[juan_12_camino_hora_luz_palabra#Dossier integrado: Yojanán 12: la gloria como peso de la palabra|Yojanán 12: la gloria como peso de la palabra]]
+- [[juan_12_camino_hora_luz_palabra#Dossier integrado: Yojanán 12: bat kol, Nombre y juicio|Yojanán 12: Bat Kol, Nombre y juicio]]
 - [[juan_10_17_28_vida_indestructible|Yojanán 10: vida indestructible y mandamiento de Abba]]
 - [[juan_conceptos_deidad|Yojanán: conceptos de deidad]]
 - [[../temas/pesaj_faraon|Pesaj y Faraón]]

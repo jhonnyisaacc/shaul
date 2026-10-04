@@ -21,6 +21,7 @@ references:
   - "#galatas_3_29"
   - "#yirmeyahu_31_33"
 sources:
+  - "https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/Gal.txt"
   - "https://www.youtube.com/watch?v=O3PzUB3Il_k"
   - "docs/scriptures/delitzsch/json/galatians.json"
 source_ids:
@@ -40,20 +41,21 @@ Esta nota organiza la clase pública «CARTA A LOS GÁLATAS | Estábamos BAJO SE
 
 | Referencia | Texto local de Delitzsch | Función en el estudio |
 | --- | --- | --- |
-| #galatas_3_22 | **אבל הכתוב הסגיר את־הכל ביד החטא למען תנתן ההבטחה אל־המאמינים באמונת ישוע המשיח׃** | La Escritura encierra todo bajo el pecado para que la promesa llegue a quienes confían en Yehoshua el Mesías. |
-| #galatas_3_23-24 | **ולפני בוא האמונה שמורים וסגורים היינו תחת התורה אלי האמונה העתידה להגלות׃ ובכן התורה היתה אמנת אותנו למשיח למען נצדק באמונה׃** | La Torá aparece como custodia y guía hacia el Mesías, no como la fuente final de justificación. |
-| #galatas_3_25-27 | **אבל עתה אחרי אשר באה האמונה איננו עוד תחת יד האמן׃ כי־אתם כלכם בני אלהים על־ידי האמונה במשיח ישוע׃ כי כלכם אשר למשיח נטבלתם לבשתם את־המשיח׃** | La venida de la fidelidad cambia la condición del creyente: de niño bajo tutor a hijo vestido del Mesías. |
-| #galatas_3_28-29 | **ואין עוד יהודי ולא־יוני אין עבד ולא בן־חורין אין זכר ולא נקבה כי כלכם אחד אתם במשיח ישוע׃ ואם־למשיח אתם הנכם זרע אברהם ויורשים כפי ההבטחה׃** | La unidad en el Mesías define la pertenencia a la simiente y a la herencia prometida. |
+| #galatas_3_22 | Delitzsch: אבל הכתוב הסגיר אתהכל ביד החטא למען תנתן ההבטחה אלהמאמינים באמונת ישוע המשיח | La Escritura encierra todo bajo el pecado para que la promesa llegue a quienes confían en Yehoshua el Mesías. |
+| #galatas_3_23-24 | Delitzsch: ולפני בוא האמונה שמורים וסגורים היינו תחת התורה אלי האמונה העתידה להגלות ובכן התורה היתה אמנת אותנו למשיח למען נצדק באמונה | La Torá aparece como custodia y guía hacia el Mesías, no como la fuente final de justificación. |
+| #galatas_3_25-27 | Delitzsch: אבל עתה אחרי אשר באה האמונה איננו עוד תחת יד האמן כיאתם כלכם בני אלהים עלידי האמונה במשיח ישוע כי כלכם אשר למשיח נטבלתם לבשתם אתהמשיח | La venida de la fidelidad cambia la condición del creyente: de niño bajo tutor a hijo vestido del Mesías. |
+| #galatas_3_28-29 | Delitzsch: ואין עוד יהודי ולא יוני אין עבד ולא בןחורין אין זכר ולא נקבה כי כלכם אחד אתם במשיח ישוע ואםלמשיח אתם הנכם זרע אברהם ויורשים כפי ההבטחה | La unidad en el Mesías define la pertenencia a la simiente y a la herencia prometida. |
+| #yirmeyahu_31_33 | OE: כי זאת הברית אשר אכרת את בית ישראל אחרי הימים ההם נאם יהוה נתתי את תורתי בקרבם ועל לבם אכתבנה והייתי להם לאלהים והמה יהיו לי לעם | La Torah en el corazón: conexión canónica de la clase. |
 
 ## Del confinamiento bajo pecado a la promesa
 
 La clase comienza recordando Gálatas 3:22: la Escritura «confinó todo bajo pecado». La imagen es de encierro y dependencia; no se afirma que la Torá sea pecaminosa, sino que el pecado ha puesto a todos bajo una condición de la que no pueden liberarse por su propia fuerza. La exposición relaciona esa condición con la sentencia: quien permanece en rebelión queda expuesto al juicio. Esta es una inferencia pastoral de la clase, pero recibe apoyo del movimiento inmediato del pasaje: la promesa no nace de la capacidad humana, sino que se entrega a los que se afirman en la fidelidad de Yehoshua.
 
-En el versículo 23, la clase llama la atención sobre **(ὑπὸ νόμον)**, «bajo ley», y distingue esa expresión de **(ὁ νόμος)**, «la ley», que aparece en el versículo siguiente. La observación apunta a una diferencia gramatical real entre una construcción sin artículo y otra articulada, pero la conclusión completa —que «bajo ley» significa exclusivamente la ley del reino de las tinieblas— requiere cautela y verificación del texto griego, sus variantes y su uso paulino. Aquí se conserva como una interpretación atribuida, no como una regla universal de traducción. Lo firme en el contexto es que el pasaje habla de estar guardados y encerrados hasta la revelación de la fidelidad, mientras presenta la Torá explícitamente como guía en 3:24.
+En el versículo 23, la clase llama la atención sobre **(ὑπὸ νόμον)**, «bajo ley», y distingue esa expresión de **(ὁ νόμος)**, «la ley», que aparece en el versículo siguiente. La observación apunta a una diferencia gramatical real entre una construcción sin artículo y otra articulada, pero la conclusión completa —que «bajo ley» significa exclusivamente la ley del reino de las tinieblas— no se obtiene del artículo: el cotejo confirma ὑπὸ νόμον en 3:23 y ὁ νόμος en 3:24, pero el artículo no redefine automáticamente la primera expresión como «reino de las tinieblas». Aquí se conserva como una interpretación atribuida, no como una regla universal de traducción. Lo firme en el contexto es que el pasaje habla de estar guardados y encerrados hasta la revelación de la fidelidad, mientras presenta la Torá explícitamente como guía en 3:24.
 
 ## La Torá como pedagoga hacia el Mesías
 
-El centro de la enseñanza es Gálatas 3:24: «la Torá era nuestra pedagoga hacia el Mesías». **(παιδαγωγός)**, _paidagōgos_, describe en el mundo antiguo a un encargado de acompañar, vigilar y formar a un niño. La equivalencia con el hebreo **(אמן)**, _omen_, o **(אומנת)**, _omenet_, es una comparación pedagógica de la clase, no una demostración de que ambas palabras tengan exactamente la misma historia léxica. En el texto, «pedagoga» expresa función: conducir hacia el Mesías para que la justificación sea por fidelidad.
+El centro de la enseñanza es Gálatas 3:24: «la Torá era nuestra pedagoga hacia el Mesías». **(παιδαγωγός)**, _paidagōgos_, describe en el mundo antiguo a un encargado de acompañar, vigilar y formar a un niño. La equivalencia con el hebreo **(אמן)**, _omen_, o **(אמנת)**, _omenet_, es una comparación pedagógica de la clase, no una demostración de que ambas palabras tengan exactamente la misma historia léxica. En el texto, «pedagoga» expresa función: conducir hacia el Mesías para que la justificación sea por fidelidad.
 
 La metáfora de la clase —un semáforo que no desaparece cuando el conductor aprende a obedecer— ayuda a separar dos funciones. La señal no salva al conductor ni paga sus multas, pero sí marca un límite y hace visible el camino de obediencia. Del mismo modo, Gálatas no permite convertir la Torá en salvador; tampoco obliga a afirmar que la instrucción desapareció. El versículo 24 la orienta al Mesías, y el versículo 25 cambia la relación de tutela al declarar que, llegada la fidelidad, ya no estamos bajo la mano del pedagogo. «Ya no bajo el pedagogo» describe la condición filial, no prueba por sí solo que toda instrucción de Elohim quede abolida.
 
@@ -88,7 +90,7 @@ El cierre es decisivo: si pertenecen al Mesías, son simiente de Abraham y hered
 
 ## Pendiente de verificar
 
-- [ ] Cotejar el texto griego crítico de Gálatas 3:23-25 y el alcance de la diferencia entre **(ὑπὸ νόμον)** y **(ὁ νόμος)**.
+- [x] Cotejar Gálatas 3:23–25 en SBLGNT: la diferencia formal de artículo existe, pero no exige traducir «bajo ley» como una ley distinta o exclusivamente como sentencia.
 - [ ] Verificar en léxicos históricos la relación propuesta en la clase entre **(παιδαγωγός)**, _omen_ y _emunah_; mantenerla como analogía mientras tanto.
 - [ ] Revisar el contexto completo de Jeremías 31:31-34 antes de usar la frase «nuevo pacto» como resumen de todo Gálatas 3.
 - [ ] Evitar convertir las afirmaciones de la clase sobre divisiones del judaísmo del primer siglo en una descripción histórica general sin fuentes adicionales.

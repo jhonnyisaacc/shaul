@@ -19,7 +19,7 @@ references:
 sources:
   - "https://www.youtube.com/watch?v=ggw8ZKucja4"
   - "docs/scriptures/delitzsch/json/revelation.json"
-  - "docs/scriptures/tth/json/revelation.json"
+  - "docs/scriptures/tth/json/sodot.json"
 source_ids:
   - "youtube:ggw8ZKucja4"
 translation: "[TTH, Delitzsch]"

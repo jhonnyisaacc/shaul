@@ -15,6 +15,8 @@ references:
   - "#yeshayahu_42_21"
   - "#mateo_26_41"
 sources:
+  - "https://github.com/morphgnt/sblgnt/blob/master/66-Ro-morphgnt.txt"
+  - "https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/Rom.txt"
   - "https://www.youtube.com/watch?v=hWLNM5oTVzU"
   - "docs/scriptures/tth/json/romanos.json"
   - "docs/scriptures/tth/json/yeshayahu.json"
@@ -36,30 +38,36 @@ Esta nota organiza la sesión pública sobre Romanos 8:1-17, que la clase deja a
 
 | Unidad | Texto local de TTH | Función en la lectura |
 | --- | --- | --- |
-| #romanos_8_1-4 | «Ahora no hay juicio de muerte» para quienes están en Yeshúa y no andan conforme a la carne sino conforme al Rúaj. La Torah del Rúaj de la vida libera de la Torah del pecado y de la muerte; la justicia de la Torah se cumple en nosotros. | La liberación se define por una nueva forma de andar y por el cumplimiento de la justicia, no por abolición de la Torah. |
-| #romanos_8_5-8 | La carne medita en lo de la carne; el Rúaj, en lo del Rúaj. La intención de la carne es muerte y enemistad, porque no se somete a la Torah de Elohim. | «Carne» y «Rúaj» describen orientaciones rivales de la mente y de la vida. |
-| #romanos_8_9-13 | El Rúaj de Elohim y el Rúaj del Mesías moran en el creyente; por el Rúaj se hacen morir las obras de la carne. | La presencia del Rúaj tiene fruto práctico: muerte de las obras pecaminosas y vida. |
-| #romanos_8_14-17 | Los llevados por el Rúaj son hijos de Elohim; han recibido Rúaj de adopción, claman «¡Abá!», son herederos y comparten la aflicción del Mesías antes de la gloria. | La filiación se reconoce por conducción, relación y perseverancia, no por una afirmación universal sobre toda la humanidad. |
-| #yeshayahu_42_21 | «יהוה se deleitó por el bien de su justicia, engrandecerá la Torah y la glorificará». | La conexión de la clase con una Torah engrandecida apoya el contraste entre debilidad humana y valor de la Torah; no es una cita de Romanos 8. |
-| #mateo_26_41 | «Velen y oren... el espíritu está listo para ir a su Creador, pero la carne es débil y enferma». | Ilustra la tensión entre disposición y debilidad, aunque no decide por sí solo cómo traducir cada aparición de Rúaj en Romanos. |
+| #romanos_8_1-4 | TTH: Por eso, ahora no hay juicio de muerte para estos que están en Yeshúa el Mesías, los que no andan conforme a la carne, sino conforme al Rúaj⁷⁰. Porque la Torah del Rúaj de la vida en Yeshúa el Mesías me liberó de la Torah del pecado y de la muerte. Y lo que era imposible para la Torah, por su debilidad por causa de la carne, Elohim, enviando a su Hijo en semejanza de carne de pecado y por causa del pecado, condenó al pecado en la carne, para que sea llena la justicia de la Torah en nosotros, que no andamos conforme a la carne sino conforme al Rúaj. | La liberación se define por una nueva forma de andar y por el cumplimiento de la justicia, no por abolición de la Torah. |
+| #romanos_8_5-8 | TTH: Porque los que son conforme a la carne, lo que es de la carne meditan, pero los que son del Rúaj, lo que es del Rúaj. Porque la intención de la carne es muerte, pero la intención del Rúaj es vida y shalom⁷¹. Porque la intención de la carne es enemistad contra Elohim, porque a la Torah de Elohim no se somete, ni tampoco puede. Y los que son en la carne, no pueden ser aceptos a Elohim. | «Carne» y «Rúaj» describen orientaciones rivales de la mente y de la vida. |
+| #romanos_8_9-13 | TTH: Y ustedes no son en la carne, sino en el Rúaj, pero si el Rúaj de Elohim mora en ustedes, y si un hombre no tiene el Rúaj del Mesías, este no es de Él. Pero si el Mesías está en ustedes, entonces el cuerpo está muerto por el pecado, pero el Rúaj vive por la justicia. Y si Rúaj de Aquel que levantó a Yeshúa de los muertos mora en ustedes, Este que levantó al Mesías de los muertos vivificará también sus cuerpos por su Rúaj que mora en ustedes. Por eso, hermanos míos, deudores somos, no a la carne, para ser conforme a la carne; y si viven conforme a la carne, ustedes morirán; pero si por el Rúaj hacen morir las obras de la carne, vivirán. | La presencia del Rúaj tiene fruto práctico: muerte de las obras pecaminosas y vida. |
+| #romanos_8_14-17 | TTH: Porque todos los que son llevados por el Rúaj de Elohim, estos son hijos de Elohim. Porque no han recibido el rúaj de servidumbre otra vez para temor, sino que han recibido el Rúaj de adopción, por el cual clamamos: ¡Abá⁷²! ¡Padre nuestro! Y este Rúaj testifica a nuestro rúaj que nosotros somos hijos de Elohim. Y si hijos, también herederos; herederos de Elohim, es decir, compañeros de herencia del Mesías, solo si somos afligidos con Él, para que también seamos glorificados con Él. La esperanza de la redención | La filiación se reconoce por conducción, relación y perseverancia, no por una afirmación universal sobre toda la humanidad. |
+| #yeshayahu_42_21 | OE: יהוה חפץ למען צדקו יגדיל תורה ויאדיר | La conexión de la clase con una Torah engrandecida apoya el contraste entre debilidad humana y valor de la Torah; no es una cita de Romanos 8. |
+| #mateo_26_41 | TTH: Velen y oren, no sea que entren en la tentación. Porque la verdad es que el espíritu está listo para ir a su Creador, pero la carne es débil y enferma. | Ilustra la tensión entre disposición y debilidad, aunque no decide por sí solo cómo traducir cada aparición de Rúaj en Romanos. |
 
 El corpus TTH local consultado para esta nota no contiene un archivo de Ezequiel; por eso la alusión de la clase a Ezequiel 36:26-27 se registra como conexión pendiente y no se publica como cita textual.
+| #yejezkel_36_26-27 | OE: ונתתי לכם לב חדש ורוח חדשה אתן בקרבכם והסרתי את לב האבן מבשרכם ונתתי לכם לב בשר ואת רוחי אתן בקרבכם ועשיתי את אשר בחקי תלכו ומשפטי תשמרו ועשיתם | Corazón y espíritu nuevos en su promesa profética. |
+| #juan_1_12-13 | Delitzsch: ואלה אשר החזיקובו נתןכח בידם להיות בנים לאלהים הלא הם המאמינים בשמו אשר לדתם לא מדם ולא מתאות בשר ולא מרוח גבר כי אםמאלהים | Recibir al Mesías y ser hijos: conexión canónica de la clase. |
 
 ## Del juicio de muerte a la justicia de la Torah
 
-La exposición comienza con la frase «no hay juicio de muerte» y la relaciona con la conclusión de Romanos 7. Eric propone que Pablo no está describiendo una vida dividida en la que el «hombre interior» sirve a Elohim mientras el exterior permanece sin cambio, sino la condición humana sin el Rúaj y la salida que Elohim produce en el Mesías. El texto permite afirmar con seguridad algo más acotado: la ausencia de condena pertenece a quienes están en Yeshúa y cuyo andar ya no se caracteriza por la carne.
+La exposición comienza con la frase «no hay juicio de muerte» y la relaciona con la conclusión de Romanos 7. Eric propone que Pablo no está describiendo una vida dividida en la que el «hombre interior» sirve a Elohim mientras el exterior permanece sin cambio, sino la condición humana sin el Rúaj y la salida que Elohim produce en el Mesías. El texto permite afirmar con seguridad algo más acotado: la ausencia de condena pertenece a quienes están en Yehoshua y cuyo andar ya no se caracteriza por la carne.
 
-Romanos 8:2 habla de «la Torah del Rúaj de la vida» y «la Torah del pecado y de la muerte». La clase explica que no son dos Torot que deban obedecerse del mismo modo, sino dos poderes o regímenes que describen vida y esclavitud. Esa es una lectura interpretativa; lo que el pasaje sí contrasta es la liberación realizada en Yeshúa con aquello que producía pecado y muerte. En 8:3, la debilidad se atribuye a la carne: Elohim envió a su Hijo y condenó al pecado en la carne. No es necesario concluir que la Torah sea defectuosa. En 8:4, el propósito explícito es que la justicia de la Torah sea cumplida en quienes andan conforme al Rúaj.
+Romanos 8:2 habla de «la Torah del Rúaj de la vida» y «la Torah del pecado y de la muerte». La clase explica que no son dos Torot que deban obedecerse del mismo modo, sino dos poderes o regímenes que describen vida y esclavitud. Esa es una lectura interpretativa; lo que el pasaje sí contrasta es la liberación realizada en Yehoshua con aquello que producía pecado y muerte. En 8:3, la debilidad se atribuye a la carne: Elohim envió a su Hijo y condenó al pecado en la carne. No es necesario concluir que la Torah sea defectuosa. En 8:4, el propósito explícito es que la justicia de la Torah sea cumplida en quienes andan conforme al Rúaj.
 
 La conexión con Isaías 42:21 refuerza pedagógicamente la preocupación de la clase: engrandecer la Torah no equivale a desecharla. Sin embargo, Isaías y Romanos deben permanecer en sus contextos. Romanos no dice que cada detalle de una clasificación de estatutos y juicios esté resuelto en este párrafo; sí niega que la liberación mesiánica termine en una vida sin obediencia.
+
+En SBLGNT, 8:1 termina en «los que están en el Mesías Yehoshua» y no incluye la cláusula de andar según carne/Rúaj que reproducen TTH y Delitzsch. Esa oposición sí está explícita en 8:4. Los testigos se mantienen separados: la dirección ética de Eric está sostenida por 8:4-13, pero no se traslada una cláusula a 8:1 como si las tres ediciones fueran idénticas. La capitalización de Rúaj/espíritu tampoco aparece como una regla doctrinal en el griego de la carta.
 
 ## Carne, Rúaj y la mente que orienta la vida
 
 Eric explica «carne» a partir de **(בשר)**, _basar_, y la asocia con la humanidad pecaminosa. Esa asociación recoge un uso teológico frecuente de «carne» en la exposición, pero no toda aparición bíblica de basar significa pecado: la equivalencia es aproximada y contextual. En Romanos 8, la carne funciona como la orientación que medita en lo suyo, resiste a Elohim y no se somete a su Torah. No basta, entonces, con definirla como materia corporal; el énfasis está en el gobierno de una disposición que produce muerte.
 
-Para **(רוח)**, _rúaj_, la clase conserva los sentidos de viento, aliento, fuente de vida y poder de lo alto, y propone que cuando el término se refiere al ser humano puede expresar su mente o sus pensamientos. Esta última relación puede ser una explicación semítica útil, pero no debe convertirse en regla automática. El TTH mismo distingue «el Rúaj» de «nuestro rúaj» mediante capitalización editorial, y la capitalización no pertenece al texto griego original. Por eso la nota no decide la doctrina solo a partir de mayúsculas y minúsculas. Romanos 8:9-11 ofrece el criterio más firme: el Rúaj de Elohim, el Rúaj del Mesías y el Rúaj de Aquel que levantó a Yeshúa son descritos en relación con morada, pertenencia y vivificación.
+Para **(רוח)**, _rúaj_, la clase conserva los sentidos de viento, aliento, fuente de vida y poder de lo alto, y propone que cuando el término se refiere al ser humano puede expresar su mente o sus pensamientos. Esta última relación puede ser una explicación semítica útil, pero no debe convertirse en regla automática. El TTH mismo distingue «el Rúaj» de «nuestro rúaj» mediante capitalización editorial, y la capitalización no pertenece al texto griego original. Por eso la nota no decide la doctrina solo a partir de mayúsculas y minúsculas. Romanos 8:9-11 ofrece el criterio más firme: el Rúaj de Elohim, el Rúaj del Mesías y el Rúaj de Aquel que levantó a Yehoshua son descritos en relación con morada, pertenencia y vivificación.
 
 La clase rechaza una lectura tripartita rígida de la persona y relaciona «nuestro rúaj» con la mente. El punto pastoral —no imaginar una guerra entre dos seres independientes dentro de nosotros— puede conservarse. Pero no es necesario negar toda distinción antropológica para leer 8:16: el Rúaj da testimonio a nuestro rúaj. La formulación deja una relación entre el Rúaj de Elohim y la interioridad humana, sin explicar aquí un tratado completo sobre alma, cuerpo y espíritu.
+
+En 8:16, **συμμαρτυρεῖ τῷ πνεύματι ἡμῶν** relaciona «dar testimonio juntamente» con «nuestro espíritu» en dativo. El elemento «con» procede del verbo compuesto y de cómo se interpreta el dativo, no de una preposición escrita antes de πνεύματι. El testimonio compartido conserva dos referentes en la oración y no los hace idénticos por llevar el mismo sustantivo.
 
 ## Adopción, obediencia y herencia con aflicción
 
@@ -92,14 +100,14 @@ Finalmente, ser heredero incluye una condición que la exposición no permite om
 ## Pendiente de verificar
 
 - [ ] Cotejar Romanos 8:1-17 con el texto griego crítico y revisar si la capitalización editorial del TTH introduce distinciones que el original no marca.
-- [ ] Verificar en el corpus local o en una edición alternativa el texto de Ezequiel 36:26-27 antes de citarlo como apoyo directo de la lectura.
+- [x] Cotejar Yejezkel 36:26-27 en OE; corazón nuevo, Rúaj y caminar en estatutos pertenecen al contexto profético, sin ser una cita literal de Romanos 8.
 - [ ] Revisar léxicos para los sentidos de **(רוח)**, _rúaj_, cuando se traduce como mente, respiración o espíritu en los pasajes aludidos.
 - [ ] Verificar la afirmación histórica de la clase sobre un original hebreo o arameo de Romanos; la presencia de «Abá» no basta para demostrarla.
 - [ ] Cotejar la afirmación de que los profetas no tenían el Rúaj de Elohim antes de Shavuot; no se usa aquí como conclusión de Romanos 8.
 
 ## Conclusión
 
-Romanos 8 no presenta una elección entre Torah y Rúaj. Presenta la obra del Rúaj como la liberación que hace posible que la justicia de la Torah se cumpla en quienes están en Yeshúa. La carne sigue siendo una orientación que produce muerte y resistencia; el Rúaj conduce, transforma, hace morir las obras pecaminosas y confirma la adopción. El resultado es una vida de obediencia humilde, no una espiritualidad definida por fórmulas externas ni por afirmaciones sin fruto. La herencia se espera con el Mesías y también conlleva aflicción, perseverancia y gloria futura.
+Romanos 8 no presenta una elección entre Torah y Rúaj. Presenta la obra del Rúaj como la liberación que hace posible que la justicia de la Torah se cumpla en quienes están en Yehoshua. La carne sigue siendo una orientación que produce muerte y resistencia; el Rúaj conduce, transforma, hace morir las obras pecaminosas y confirma la adopción. El resultado es una vida de obediencia humilde, no una espiritualidad definida por fórmulas externas ni por afirmaciones sin fruto. La herencia se espera con el Mesías y también conlleva aflicción, perseverancia y gloria futura.
 
 ## Ver también
 

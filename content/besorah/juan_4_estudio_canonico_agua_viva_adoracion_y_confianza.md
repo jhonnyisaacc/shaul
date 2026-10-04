@@ -37,7 +37,7 @@ sources:
   - "https://www.youtube.com/watch?v=izoW2caIHWc"
   - "https://www.youtube.com/watch?v=p0hF7k-ZtRc"
   - "https://www.youtube.com/watch?v=3uZbi4E6Cvs"
-  - "docs/scriptures/tth/json/yojanan.json"
+  - "docs/scriptures/tth/json/iojanan.json"
   - "docs/scriptures/delitzsch/json/john.json"
 source_ids:
   - "youtube:izoW2caIHWc"

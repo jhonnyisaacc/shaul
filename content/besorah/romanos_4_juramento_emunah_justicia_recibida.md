@@ -30,6 +30,8 @@ references:
   - "#bereshit_17_10-11"
   - "#yeshayahu_53_4-6"
 sources:
+  - "https://github.com/morphgnt/sblgnt/blob/master/66-Ro-morphgnt.txt"
+  - "https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/Rom.txt"
   - "https://www.youtube.com/watch?v=JsijUo264dA"
   - "docs/scriptures/tth/json/romanos.json"
 source_ids:
@@ -49,17 +51,20 @@ Esta nota organiza la clase pública sobre Romanos 4:11-25. La exposición trata
 
 | Referencia | Texto local de TTH | Función en la lectura |
 | --- | --- | --- |
-| #romanos_4_11-12 | «Y él tomó la señal de la circuncisión, por sello de la justicia y la emunah que tenía en la incircuncisión... y padre de la circuncisión... para estos que se ponen de pie en las huellas de la emunah de nuestro padre Abraham...» | La circuncisión confirma una justicia ya recibida y Abraham queda como padre de circuncisos e incircuncisos. |
-| #romanos_4_13-16 | «Porque el juramento no fue por la Torah a Abraham o a su simiente de ser heredero del olam, sino por la justicia de la emunah... de la emunah que es conforme al favor, desciende el juramento sobre toda simiente...» | Pablo distingue el fundamento del juramento de la posesión posterior de la Torah y abre la promesa a toda la simiente definida por la emunah. |
-| #romanos_4_17-18 | «...el cual da vida a los muertos, y llama a las cosas que no son como las que son... fue afirmado sobre esperanza, dentro de esperanza...» | La esperanza depende del Elohim que crea y vivifica, no de la capacidad biológica de Abraham. |
-| #romanos_4_19-22 | «Y no se debilitó en la emunah... fue fortalecido en la emunah para poner gloria a יהוה... le fue considerada a él para justicia.» | La firmeza de Abraham culmina en dar gloria a יהוה, pero la clase subraya que fue fortalecido, no autosuficiente. |
-| #romanos_4_23-25 | «...también por causa de nosotros... a los que se afirman por Él, quien levantó a Yeshúa nuestro Adón de los muertos, el que fue traspasado por nuestras transgresiones... y se levantó por causa de nuestra justificación.» | La historia de Abraham conduce a la muerte y resurrección de Yehoshua, fundamento de la justificación del pueblo. |
+| #romanos_4_11-12 | TTH: Y él tomó la señal de la circuncisión, por sello de la justicia y la emunah que tenía en la incircuncisión; para ser padre de todos los que se afirman en la incircuncisión, para considerarles también para justicia; y padre de la circuncisión para estos que no solamente son de la circuncisión, sino también para estos que se ponen de pie en las huellas de la emunah de nuestro padre Abraham que hubo para él en la incircuncisión. | La circuncisión confirma una justicia ya recibida y Abraham queda como padre de circuncisos e incircuncisos. |
+| #romanos_4_13-16 | TTH: Porque el juramento no fue por la Torah a Abraham o a su simiente de ser heredero del olam, sino por la justicia de la emunah. Por eso, si estos que son de la Torah son los herederos, entonces, anulada es la emunah y esfumado el juramento; porque la Torah hace irritación⁴⁸, porque no habiendo Torah, tampoco hay apostasía⁴⁹. Por eso, de la emunah que es conforme al favor, desciende el juramento sobre toda simiente, no solamente sobre la que es de la Torah, sino también sobre la que es de la emunah de Abraham, que es padre de todos nosotros. | Pablo distingue el fundamento del juramento de la posesión posterior de la Torah y abre la promesa a toda la simiente definida por la emunah. |
+| #romanos_4_17-18 | TTH: Como está escrito: Porque por padre de multitud de naciones te he dado⁵⁰, delante de Elohim, que fue afirmado por Él, el cual da vida a los muertos, y llama a las cosas que no son como las que son. El cual fue afirmado sobre esperanza, dentro de esperanza, para ser padre de multitud de naciones, como fue dicho: Así será tu simiente⁵¹. | La esperanza depende del Elohim que crea y vivifica, no de la capacidad biológica de Abraham. |
+| #romanos_4_19-22 | Delitzsch: ולא רפתה אמונתו בהתבוננו אלבשרו אשר היה כמת בהיותו כבןמאת שנה ואלרחם שרה אשר בלה ולאחלק לבו בהבטחת האלהים כמחסר אמונה כי אםהתחזק באמונתו ויתן כבוד לאלהים ונפשו ידעת מאד כי אתאשר הבטיח גםיכל לעשותו עלכן גםנחשבהלו לצדקה | La firmeza de Abraham culmina en dar gloria a יהוה, pero la clase subraya que fue fortalecido, no autosuficiente. |
+| #romanos_4_23-25 | TTH: Y no fue escrito por causa de él solamente que le fue considerada para justicia, sino también por causa de nosotros, a quienes será considerada; a los que se afirman por Él, quien levantó a Yeshúa nuestro Adón⁵⁴ de los muertos, el que fue traspasado por nuestras transgresiones, aplastado por nuestras iniquidades⁵⁵, y se levantó por causa de nuestra justificación. | La historia de Abraham conduce a la muerte y resurrección de Yehoshua, fundamento de la justificación del pueblo. |
+| #bereshit_17_5 | OE: ולא יקרא עוד את שמך אברם והיה שמך אברהם כי אב המון גוים נתתיך | Cita sobre padre de muchas naciones, dentro de la promesa. |
 
 ## La señal no produce la justicia
 
 Romanos 4:11 coloca la circuncisión después de la justicia recibida en la incircuncisión. La clase usa este orden para corregir la idea de que Abraham fue aceptado porque primero cumplió una condición ritual. La señal es importante, pero funciona como sello de una obra anterior de Elohim. El texto no desprecia la señal; distingue su función de la causa de la justificación.
 
 Esto también explica el versículo 12. Abraham es padre de quienes pertenecen a la circuncisión, pero no de todos ellos sin distinción: el TTH habla de quienes “se ponen de pie en las huellas de la emunah” que Abraham tuvo en la incircuncisión. La pertenencia visible no reemplaza la relación que el pasaje describe. La clase traduce “huellas” como la emunah misma que conduce, y relaciona esa imagen con la iniciativa de Elohim. La observación es pedagógicamente fértil, aunque la forma exacta debe cotejarse con el griego y no convertirse en una afirmación de que _emunah_ sea literalmente una persona en cada contexto.
+
+En 4:12, **τοῖς ἴχνεσιν** nombra «las huellas» y **στοιχοῦσιν** a quienes las siguen. TTH habla de ponerse de pie en ellas, mientras el griego describe seguir un camino. Las huellas son de la emunah de Abraham, no una variante que convierta a emunah en persona. La personificación de la clase se conserva como enseñanza sobre dirección recibida.
 
 ## El juramento no se compra con Torah
 
@@ -77,11 +82,13 @@ El punto textual seguro es que Pablo incluye a los incircuncisos que reciben la 
 
 ## Esperanza contra lo visible
 
-Los versículos 17-18 presentan al Elohim que da vida a los muertos y llama las cosas que no son como si fueran. El TTH lee que Abraham fue afirmado “sobre esperanza, dentro de esperanza”. La clase contrasta esta forma con “esperanza contra esperanza” y la usa para enfatizar un camino de esperanza y una entrada en la esperanza de salvación. La formulación exacta requiere cotejo con el griego; la afirmación segura es que Abraham permanece orientado hacia lo que Elohim prometió aun cuando las condiciones visibles parecían incapaces de producirlo.
+Los versículos 17-18 presentan al Elohim que da vida a los muertos y llama las cosas que no son como si fueran. El TTH lee que Abraham fue afirmado “sobre esperanza, dentro de esperanza”. La clase contrasta esta forma con “esperanza contra esperanza” y la usa para enfatizar un camino de esperanza y una entrada en la esperanza de salvación. La formulación se coteja abajo con las dos preposiciones griegas; la afirmación segura es que Abraham permanece orientado hacia lo que Elohim prometió aun cuando las condiciones visibles parecían incapaces de producirlo.
 
 Romanos 4:19 no glorifica la capacidad física de Abraham. Él considera su cuerpo como muerto y la matriz de Sarah como incapaz de producir el cumplimiento por medios ordinarios. Así, la emunah no es optimismo sobre el yo. Es confianza en el que da vida. La clase aplica esta estructura a la comunidad: no somos justificados por nuestros recursos ni por nuestra disposición natural, sino por la acción de Elohim que luego nos fortalece para vivir.
 
 El versículo 20 es especialmente importante para esa aplicación: Abraham “fue fortalecido en la emunah”, de acuerdo con el TTH. Eric contrasta esta forma pasiva con traducciones que pueden sonar como si Abraham se hubiera fortalecido por sí mismo. La observación pastoral es válida como advertencia contra la autosuficiencia, aunque la voz verbal y su interpretación completa deben revisarse en la lengua original. El efecto teológico del pasaje es claro: la gloria se dirige a יהוה, no al poder de Abraham.
+
+El cotejo distingue las formas de 4:18-20. **παρʼ ἐλπίδα ἐπʼ ἐλπίδι ἐπίστευσεν** combina «contra/más allá de esperanza» con «sobre esperanza» y un verbo activo, «creyó»; no lleva **ἐν**, «dentro», ni una forma pasiva «fue afirmado». El contraste contrapone la falta de posibilidad visible con la expectativa fundada en la promesa. En cambio, **ἐνεδυναμώθη** en 4:20 sí es aoristo pasivo, «fue fortalecido», seguido de **δοὺς δόξαν**, «dando gloria». Se preserva la lectura de Eric sobre firmeza recibida sin borrar las voces distintas. El sustantivo de 4:13-16 es **ἐπαγγελία**, «promesa»; el «juramento» del TTH expresa su interpretación vinculante, sin introducir aquí **ὅρκος**, «juramento».
 
 ## La resurrección interpreta la promesa
 
@@ -108,15 +115,15 @@ La consecuencia práctica no es pasividad. Si la emunah fue recibida por favor, 
 | --- | --- | --- |
 | Romanos 4:11-12; `youtube:JsijUo264dA` | La circuncisión es sello de una justicia anterior y Abraham es padre de circuncisos e incircuncisos que siguen las huellas de la emunah. | Apoyo textual; la personificación de la emunah se marca como explicación pedagógica. |
 | Romanos 4:13-16; `youtube:JsijUo264dA` | El juramento no fue dado por la Torah; poner la Torah en el lugar de la salvación provoca irritación, sin que eso signifique abolirla. | Apoyo contextual; sintaxis y equivalencias entre Torah, nomos y juramento quedan pendientes. |
-| Romanos 4:17-21; `youtube:JsijUo264dA` | Abraham fue afirmado por Elohim contra lo visible y fue fortalecido en la emunah para dar gloria a יהוה. | Apoyo textual; la voz pasiva y la traducción “esperanza dentro de esperanza” requieren cotejo. |
+| Romanos 4:17-21; `youtube:JsijUo264dA` | Abraham fue afirmado por Elohim contra lo visible y fue fortalecido en la emunah para dar gloria a יהוה. | Apoyo textual; 4:18 usa «creyó» activo y dos preposiciones, mientras 4:20 sí dice «fue fortalecido» pasivo; se conserva la diferencia frente a TTH. |
 | Romanos 4:22-25; `youtube:JsijUo264dA` | Lo considerado a Abraham fue escrito también por nosotros y alcanza su centro en la muerte y resurrección de Yehoshua. | Apoyo textual y conexión mesiánica directa del pasaje. |
 
 ## Pendiente de verificar
 
-- [ ] Cotejar la sintaxis griega de Romanos 4:11-16 y la relación exacta entre “promesa”, “juramento” y _epangelia_.
-- [ ] Revisar si “huellas de la emunah” refleja una variante textual o una decisión de la traducción hebrea del TTH.
-- [ ] Verificar la traducción “esperanza, dentro de esperanza” frente al griego de Romanos 4:18.
-- [ ] Comprobar la voz verbal de Romanos 4:20 antes de concluir que Abraham fue fortalecido exclusivamente en forma pasiva.
+- [x] Cotejar 4:11-16: ἐπαγγελία es «promesa»; «juramento» permanece como formulación TTH, sin atribuirle ὅρκος al pasaje.
+- [x] Cotejar 4:12: ἴχνεσιν significa «huellas»; στοιχοῦσιν expresa seguirlas. La personificación de emunah es pedagógica.
+- [x] Cotejar 4:18: παρʼ ἐλπίδα ἐπʼ ἐλπίδι; no hay ἐν, «dentro», ni verbo pasivo.
+- [x] Cotejar 4:18 y 4:20: ἐπίστευσεν es activo y ἐνεδυναμώθη es pasivo. La forma de 4:20 no borra la respuesta activa de 4:18.
 - [ ] Cotejar las referencias de Bereshit 12, 15 y 17 y distinguir cita explícita, eco narrativo y aplicación de la clase.
 
 ## Conclusión

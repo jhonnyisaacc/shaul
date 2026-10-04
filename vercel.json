@@ -1,4 +1,10 @@
 {
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "git": {
+    "deploymentEnabled": {
+      "feat/review-notes": false
+    }
+  },
   "cleanUrls": true,
   "ignoreCommand": "[ \"$VERCEL_GIT_COMMIT_REF\" = \"feat/eric_youtube\" ] || [ \"$VERCEL_GIT_COMMIT_REF\" = \"feat/somoselcuerpodelmesias\" ]",
   "installCommand": "npm ci",

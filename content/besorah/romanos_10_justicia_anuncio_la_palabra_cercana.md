@@ -15,13 +15,23 @@ references:
   - "#romanos_10_14-17"
   - "#romanos_10_18-21"
 sources:
+  - "docs/scriptures/oe/json/isaiah/65.json"
+  - "docs/scriptures/oe/json/deuteronomy/32.json"
+  - "docs/scriptures/oe/json/psalms/19.json"
+  - "docs/scriptures/oe/json/isaiah/53.json"
+  - "docs/scriptures/oe/json/isaiah/52.json"
+  - "docs/scriptures/oe/json/joel/3.json"
+  - "docs/scriptures/oe/json/deuteronomy/30.json"
+  - "docs/scriptures/oe/json/leviticus/18.json"
+  - "https://github.com/morphgnt/sblgnt/blob/master/66-Ro-morphgnt.txt"
+  - "https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/Rom.txt"
   - "https://www.youtube.com/watch?v=zLynBpmjJr0"
   - "https://www.youtube.com/watch?v=ililQLS9UJE"
   - "docs/scriptures/delitzsch/json/romans.json"
 source_ids:
   - "youtube:zLynBpmjJr0"
   - "youtube:ililQLS9UJE"
-translation: "[Delitzsch]"
+translation: "[TTH, OE]"
 ---
 
 # Tesis
@@ -36,13 +46,21 @@ Esta nota consolida dos sesiones públicas. `youtube:zLynBpmjJr0` presenta la pr
 
 | Unidad            | Texto local de Delitzsch y función                                                                                                      |
 | ----------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
-| #romanos_10_1-4   | Pablo ora por la salvación de Israel, reconoce su celo y contrasta la justicia propia con la justicia de Elohim.                        |
-| #romanos_10_5-8   | La justicia de la emunah no exige una hazaña para traer al Mesías; la palabra está cerca, en boca y corazón.                            |
-| #romanos_10_9-13  | Confesar al Señor y creer en la resurrección se relaciona con una promesa para todo el que invoca, sin diferencia entre judío y griego. |
-| #romanos_10_14-17 | La cadena pregunta cómo invocarán, creerán y oirán sin anunciador ni enviado; la escucha se vincula con la palabra del Mesías.          |
-| #romanos_10_18-21 | El anuncio alcanza ampliamente, mientras Israel aparece como pueblo que oye, contradice y desobedece.                                   |
+| #romanos_10_1-4 | TTH: Hermanos, ciertamente el deseo de mi corazón y la tefilah¹⁰³ a Elohim es por Israel para salvación. Porque yo les doy testimonio que tienen celo de Elohim, pero no conforme al conocimiento. Porque, no conociendo la justicia de Elohim¹⁰⁴ y buscando establecer la justicia de ellos mismos, a la justicia de Elohim no son sujetos. Porque el último recurso¹⁰⁵ de la Torah es el Mesías, para justicia a todo el que ha sido afirmado. |
+| #romanos_10_5-8 | TTH: Porque Moshéh escribe acerca de la justicia que es de la Torah: Los cuales hará el hombre y vivirá en ellos¹⁰⁶. Y la justicia que es de la emunah¹⁰⁷, dice así: No digas en tu corazón: ¿Quién subirá por nosotros a los cielos¹⁰⁸? –esto es, para hacer bajar al Mesías. O, ¿quién descenderá al abismo? –esto es, para hacer subir al Mesías de los muertos. Pero, ¿qué dice? Porque muy cercana a ti está la palabra, en tu boca y en tu corazón, para hacerla¹⁰⁹. Esta es la palabra de la emunah que estamos anunciando. |
+| #romanos_10_9-13 | TTH: Porque si confiesas con tu boca: ¡ יהוהYeshúa! Y eres afirmado en tu corazón que Elohim lo levantó de los muertos, serás salvo. Porque con el corazón se es afirmado para justicia, y con la boca se confiesa para salvación. Porque dice la Escritura: y todo el que sea afirmado por Él no se avergonzará¹¹⁰ Porque no hay diferencia entre el iehudí¹¹¹ y el ievaní¹¹², porque Él es Adón¹¹³ de todos, rico para todos lo que lo llaman; porque todo el que llame por nombre יהוה, será hecho escapar¹¹⁴. |
+| #romanos_10_14-17 | TTH: ¿Y cómo llamarán al que por el cual no han sido afirmados? ¿Y cómo serán afirmados por Él, acerca del cual no han escuchado? ¿Y cómo escucharán sin que haya anunciador? ¿Y cómo anunciarán si no han sido enviados? Como está escrito: Qué hermosos son sobre los montes los pies del que da buenas noticias, quien hace escuchar el shalom¹¹⁵, quien da buenas noticias de bien¹¹⁶. Pero no todos han escuchado a la Besorah¹¹⁷, porque Yeshayahu dijo: יהוה, ¿quién ha sido afirmado¹¹⁸ a¹¹⁹ nuestro hacer oír¹²⁰? Por lo tanto, la emunah proviene del oír, y el oír por medio de la Palabra del Mesías¹²¹. |
+| #romanos_10_18-21 | TTH: Pero yo digo: ¿No han oído? Porque: Por toda la tierra salió la voz de ellos, y por el extremo del Tevel sus palabras¹²². Pero yo digo: ¿No ha conocido Israel? Primero Moshéh dice: Y Yo, los provocaré a celos con lo que no es pueblo; con una nación marchita les provocaré rechazo¹²³. Y Yeshayahu dice resueltamente: Me dejé hallar a los que no me procuraban; me dejé buscar a los que no me preguntaban¹²⁴. Pero a Israel dijo: Extendí mis manos todo el día hacia un pueblo rebelde, quienes caminan por el camino no bueno, tras sus pensamientos¹²⁵. |
 
-El corpus conserva en #romanos_10_1-4: **אֶחָי חֵפֶץ לְבָבִי וּתְפִלָּתִי לֵאלׂהִים בְּעַד יִשְׂרָאֵל אֲשֶׁר יִוָּשֵׁעוּ׃ ... כִּי הַמָּשִׁיחַ סוֹף הַתּוֹרָה לִצְדָקָה לְכָל־הַמַּאֲמִין בּוֹ׃**. En #romanos_10_8-13 lee: **קָרוֹב אֵלֶיךָ הַדָּבָר בְּפִיךָ וּבִלְבָבֶךָ ... כִּי אִם־בְּפִיךָ תוֹדֶה שֶׁיֵּשׁוּעַ הוּא הָאָדוֹן וְתַאֲמִין בִּלְבָבְךָ שֶׁהָאֱלׂהִים הֱעִירוֹ מִן־הַמֵּתִים תִּוָּשֵׁעַ׃ ... כִּי כָּל־אֲשֶׁר יִקְרָא בְּשֵׁם יְהוָֹה יִוָּשֵׁעַ׃**. Finalmente, #romanos_10_14-17 conserva la cadena entre anuncio, escucha y emunah, y 10:20-21 conserva la tensión entre quienes encuentran y un pueblo que resiste.
+El corpus conserva en #romanos_10_1-4: **אחי חפץ לבבי ותפלתי לאלהים בעד ישראל אשר יושעו ... כי המשיח סוף התורה לצדקה לכל־המאמין בו**. En #romanos_10_8-13 lee: **קרוב אליך הדבר בפיך ובלבבך ... כי אם־בפיך תודה שישוע הוא האדון ותאמין בלבבך שהאלהים העירו מן־המתים תושע ... כי כל־אשר יקרא בשם יהוה יושע**. Finalmente, #romanos_10_14-17 conserva la cadena entre anuncio, escucha y emunah, y 10:20-21 conserva la tensión entre quienes encuentran y un pueblo que resiste.
+| #vayikra_18_5 | OE: ושמרתם את חקתי ואת משפטי אשר יעשה אתם האדם וחי בהם אני יהוה | Hacer y vivir en ellos. |
+| #devarim_30_11-14 | OE: כי המצוה הזאת אשר אנכי מצוך היום לא נפלאת הוא ממך ולא רחקה הוא לא בשמים הוא לאמר מי יעלה לנו השמימה ויקחה לנו וישמענו אתה ונעשנה ולא מעבר לים הוא לאמר מי יעבר לנו אל עבר הים ויקחה לנו וישמענו אתה ונעשנה כי קרוב אליך הדבר מאד בפיך ובלבבך לעשתו | Base de la palabra cercana, con diferencias respecto de Romanos. |
+| #yoel_3_5 | OE: והיה כל אשר יקרא בשם יהוה ימלט כי בהר ציון ובירושלם תהיה פליטה כאשר אמר יהוה ובשרידים אשר יהוה קרא | Llamar, escapar y ser llamado; numeración OE. |
+| #yeshayahu_52_7 | OE: מה נאוו על ההרים רגלי מבשר משמיע שלום מבשר טוב משמיע ישועה אמר לציון מלך אלהיך | Anuncio de paz, bien, salvación y reinado. |
+| #yeshayahu_53_1 | OE: מי האמין לשמעתנו וזרוע יהוה על מי נגלתה | האמין es activo: quién creyó el anuncio. |
+| #tehilim_19_5 | OE: בכל הארץ יצא קום ובקצה תבל מליהם לשמש שם אהל בהם | Voz y palabras por toda la tierra; 19:4 en otras ediciones. |
+| #devarim_32_21 | OE: הם קנאוני בלא אל כעסוני בהבליהם ואני אקניאם בלא עם בגוי נבל אכעיסם | Provocación a celo y enojo. |
+| #yeshayahu_65_1-2 | OE: נדרשתי ללוא שאלו נמצאתי ללא בקשני אמרתי הנני הנני אל גוי לא קרא בשמי פרשתי ידי כל היום אל עם סורר ההלכים הדרך לא טוב אחר מחשבתיהם | Ser hallado y manos extendidas al pueblo rebelde. |
 
 ## Romanos 10:1-4: celo, justicia y meta de la Torah #romanos_10_1-4
 
@@ -68,9 +86,13 @@ En la sesión pública `youtube:ililQLS9UJE`, aproximadamente entre 00:01:45 y 0
 
 **(ὁμολογέω)**, _homologeō_, significa confesar, reconocer o declarar públicamente. En 10:9 su fuerza contextual es reconocer al Señor resucitado; «confesar» es **aproximado** si se reduce a repetir sonidos. **(πιστεύω)**, _pisteuō_, significa creer, confiar o depositar confianza. La glosa es **directa**, pero el corazón responde a un contenido: Elohim levantó a Yehoshua de los muertos. **(ἐγείρω)**, _egeirō_, significa levantar, despertar o suscitar; aquí su fuerza es histórica y resurreccional.
 
-Eric pregunta quiénes son «los que invocan» y relaciona Romanos 10:13 con el llamado al remanente. Esa observación protege contra convertir la invocación en mérito autónomo, pero no debe borrar la sintaxis del versículo: «todo el que invoque» será salvo. **(ἐπικαλέω)**, _epikaleō_, significa invocar, apelar o llamar sobre alguien; en Romanos 10 describe una acción dirigida al Señor. **קרא**, _qara_, significa llamar, proclamar o invocar según su construcción. La relación entre _epikaleō_ y _qara_ es **intertextual, aproximada y pedagógica**, no una equivalencia exacta entre formas.
+**(ἐπικαλέω)**, _epikaleō_, significa invocar, apelar o llamar sobre alguien; en Romanos 10 describe una acción dirigida al Señor. **קרא**, _qara_, significa llamar, proclamar o invocar según su construcción. La relación entre _epikaleō_ y _qara_ es **intertextual, aproximada y pedagógica**, no una equivalencia exacta entre formas.
 
 La iniciativa de Elohim aparece en la promesa y en el llamado, pero la respuesta humana también está en el texto: confesar, creer e invocar. Por eso sería **ilegítimo** leer el pasaje como autosalvación por pronunciación o como una etiqueta que elimina toda respuesta real.
+
+SBLGNT distingue **πιστεύοντι** en 10:4, participio activo («al que cree»), y **πιστεύσῃς** en 10:9, subjuntivo activo («creas»), de **πιστεύεται** en 10:10, presente medio/pasivo usado impersonalmente («se cree»). TTH elige expresiones de «ser afirmado»; se conserva su lectura sin convertir todas las formas griegas en pasivas. OE en Yeshayahu 53:1 tiene **האמין**, _heemin_, forma activa de אמן («creyó»), y Romanos 10:16 **ἐπίστευσεν**, también activo. Esto aclara la agencia gramatical sin demostrar autosalvación ni eliminar la iniciativa divina que Eric subraya.
+
+El antecedente se localiza en **#yoel_3_5 según OE**, equivalente a Joel 2:32 en otras ediciones; no es Joel 2:30. Conserva tanto «todo el que llame» como el remanente al que יהוה llama. Esa doble formulación sostiene la conexión de Eric con la iniciativa divina, sin reemplazar el alcance público de Romanos.
 
 ## Romanos 10:14-17: el anuncio hace posible la respuesta #romanos_10_14-17
 
@@ -81,6 +103,8 @@ Las preguntas de Pablo forman una cadena: ¿cómo invocarán sin creer?, ¿cómo
 Eric sostiene que la fidelidad no nace del mero sonido, sino de la palabra de Elohim recibida mediante anuncio, escucha y respuesta. **(ἀκοή)**, _akoē_, significa oído, escucha o noticia recibida; su fuerza contextual es la recepción del anuncio. **(πίστις)**, _pistis_, significa fe, confianza o fidelidad. La relación pedagógica entre _pistis_ y **אמונה**, _emunah_, «fidelidad o firmeza», es **aproximada**, no una identidad léxica automática.
 
 La cadena tampoco permite fatalismo. El Señor envía, el mensajero anuncia, la persona oye y la respuesta puede obedecer o resistir. **(ὑπακούω)**, _hypakouō_, significa escuchar bajo autoridad, obedecer o responder; en 10:16 muestra que no todos obedecieron la buena noticia. La distinción entre oír y obedecer es **textual**, no una teoría añadida desde fuera.
+
+El texto cotejado de 10:17 dice **ῥήματος Χριστοῦ**, «palabra del Mesías», y Delitzsch **דבר המשיח**. El origen divino del mensaje no autoriza a atribuir «de Elohim» a estas formas ni a identificar automáticamente palabra y juramento.
 
 ## Romanos 10:18-21: alcance del anuncio y resistencia #romanos_10_18-21
 
@@ -98,20 +122,6 @@ El capítulo no reduce la incredulidad a falta de información: Israel oyó, per
 | Romanos 10:12-13; `youtube:ililQLS9UJE` | «Los que invocan» se relacionan con el llamamiento y la invocación no se convierte en mérito autónomo.                           | Apoyo canónico cualificado; la relación entre _qara_ y _epikaleō_ es aproximada, no equivalencia filológica. |
 | Romanos 10:14-17; `youtube:ililQLS9UJE` | La fidelidad no nace de sonido vacío, sino de la palabra recibida mediante anuncio, escucha y respuesta.                         | Apoyo textual; la cadena conserva también el envío y la responsabilidad del oyente.                          |
 | Romanos 10:18-21                        | El anuncio alcanza ampliamente, y a la vez Israel puede resistirlo.                                                              | Apoyo directo: Pablo mantiene extensión de la voz y desobediencia del pueblo.                                |
-
-## Estudio desarrollado: la palabra cercana exige una cadena completa
-
-Las dos sesiones públicas integradas en esta nota deben conservarse dentro del recorrido de Romanos 10. En `youtube:zLynBpmjJr0`, Eric de Jesús Rodríguez Mendoza centra la exposición en la pregunta por el «fin de la ley» y la justicia; en `youtube:ililQLS9UJE`, desarrolla la cercanía de la palabra, la invocación y la relación entre anuncio, escucha y respuesta. Estas observaciones se conservan como paráfrasis atribuibles, no como citas literales. El capítulo las confirma solo cuando se leen en orden, desde el celo de Israel hasta la desobediencia que cierra la perícopa.
-
-En 10:1-4, **(ἀγνοέω)**, _agnoeō_, significa ignorar, desconocer o no reconocer; su fuerza contextual explica que Israel tiene celo, pero no reconoce la justicia de Elohim. **(ὑποτάσσω)**, _hypotassō_, significa someter, ordenar bajo o ponerse bajo autoridad; en 10:3 describe la negativa a someterse a la justicia divina. Las glosas son **directas en el campo ordinario** y su aplicación es **contextual**: Pablo critica una justicia propia, no formula aquí un desprecio general de Israel ni una eliminación automática de toda Torah.
-
-En 10:5-8, **(δικαιοσύνη)**, _dikaiosynē_, significa justicia o rectitud, y **(ἐκ πίστεως)**, _ek pisteōs_, significa «procedente de la fe, confianza o fidelidad». «Justicia de la fe» es una traducción **directa y contextual**, pero reducir _pistis_ a una opinión mental sería **ilegítimo**, porque el capítulo la relaciona con la palabra recibida y con la confesión. **(ἄβυσσος)**, _abyssos_, significa abismo o profundidad insondable; en 10:7 su fuerza es retórica: la justicia de la emunah no exige conquistar lo inaccesible para traer al Mesías. Vincular esta cercanía con **דבר**, _davar_, «palabra, asunto o declaración», sigue siendo **pedagógico y aproximado**, no una equivalencia etimológica.
-
-En 10:9-13, **(σωτηρία)**, _sōtēria_, significa salvación, liberación o rescate; su fuerza contextual es el resultado prometido al que confiesa y cree, no un premio producido por la pronunciación. **(διαστολή)**, _diastolē_, significa distinción, diferencia o separación; en 10:12 marca que no hay diferencia entre judío y griego ante el mismo Señor. La amplitud de «todo el que invoque» es **textual y directa**. La observación de Eric sobre el llamado y el remanente recibe apoyo **intertextual cualificado**: ilumina la cita de Joel, pero no permite sustituir el alcance explícito de la promesa por una definición privada de quién puede invocar.
-
-En 10:14-21, **(εὐαγγελίζω)**, _euangelizō_, significa anunciar buenas noticias; **(ὑπακούω)**, _hypakouō_, significa escuchar bajo autoridad u obedecer; y **(ἀπειθέω)**, _apeitheō_, significa desobedecer o no dejarse persuadir. Las glosas son **directas**, mientras la cadena completa es **contextual**: el envío hace posible el anuncio, el anuncio la escucha y la escucha puede desembocar en obediencia o resistencia. La enseñanza atribuible de que la fidelidad no nace de un sonido vacío recibe **apoyo textual cualificado**; el final muestra que Israel oyó, pero no todos obedecieron. Por eso la iniciativa del enviado no cancela la responsabilidad del oyente.
-
-Romanos 10 no permite separar justicia, Torah, palabra, confesión, anuncio y respuesta. El Mesías se relaciona con la meta de la Torah sin que una glosa aislada de _telos_ cierre todo el debate; la invocación responde dentro de una cadena que empieza con el envío y la escucha, sin convertirse en mérito humano; y el final impide reducir la incredulidad a falta de información. La palabra está cerca, pero el capítulo conserva tanto la iniciativa de Elohim como la responsabilidad de quienes oyen, obedecen o contradicen.
 
 ## Créditos
 

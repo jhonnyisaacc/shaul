@@ -22,9 +22,9 @@ references:
   - "#yeshayahu_58_13"
 sources:
   - "https://www.youtube.com/watch?v=x9B0el73UYI"
-  - "docs/scriptures/tth/json/yojanan.json"
+  - "docs/scriptures/tth/json/iojanan.json"
   - "docs/scriptures/tth/json/markos.json"
-  - "docs/scriptures/tth/json/yeshayahu.json"
+  - "docs/scriptures/tth/json/ieshaiahu.json"
   - "docs/scriptures/delitzsch/json/john.json"
 source_ids:
   - "youtube:x9B0el73UYI"
@@ -46,7 +46,7 @@ Esta nota organiza la clase sobre #juan_9_8-16 del hermano Eric de Jesús Rodrí
 | #juan_9_8-10 | TTH: «¿No es este el que se sentaba y pedía? ... Y él decía: ¡Yo soy! ... ¿Cómo fueron abiertos tus ojos?» | Los vecinos reconocen el cambio, pero la primera pregunta ya desplaza la escena hacia el modo de la sanidad. |
 | #juan_9_11-12 | TTH: «Un hombre que se llama Yeshúa, hizo barro y untó mis ojos ... fui, y me lavé y vi ... ¿Dónde está? ... No sé.» | El hombre da un testimonio sobrio: nombre, lodo, envío, lavado y vista. No añade una teoría sobre la señal. |
 | #juan_9_13-14 | TTH: «Y llevaron hacia los perushim al que antes era ciego. Y era Shabat cuando Yeshúa había hecho el barro y abrió sus ojos.» | La narración señala el día y la hechura del barro antes de presentar la controversia. |
-| #juan_9_15-16 | Delitzsch: «והיום אשר לש ישוע את הטיח ... היה יום השבת ... ויש מן הפרושים אמרו ... איננו שומר את השבת ... ויש אמרו היוכל איש חטא לעשות מופתים כאלה» | El informe se repite ante los perushim y el grupo queda dividido entre acusación y la señal visible. |
+| #juan_9_14-16 | Delitzsch: «והיום אשר לש ישוע את הטיח ... היה יום השבת ... ויש מן הפרושים אמרו ... איננו שמר את השבת ... ויש אמרו היוכל איש חטא לעשות מופתים כאלה» | El informe se repite ante los perushim y el grupo queda dividido entre acusación y la señal visible. |
 | #marcos_3_4 | TTH: «¿Es correcto hacer el bien en el Shabat o hacer el mal?, ¿salvar una persona o matarla?» | La pregunta de otro episodio permite contrastar la obra buena con una definición de Shabat reducida a acusación. |
 | #yeshayahu_58_13 | TTH: «Si haces regresar desde el Shabat tu pie ... y llamases al Shabat delicia ... y lo honras...» | La clase propone volver a lo escrito para tratar qué significa honrar Shabat; el verso requiere leerse en su propia exhortación profética. |
 

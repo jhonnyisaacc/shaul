@@ -27,6 +27,7 @@ references:
   - "#hechos_21_20"
   - "#hechos_21_24"
 sources:
+  - "https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/Gal.txt"
   - "https://www.youtube.com/watch?v=fR6qkxt9hrQ"
   - "docs/scriptures/delitzsch/json/galatians.json"
 source_ids:
@@ -46,11 +47,14 @@ Esta nota organiza la clase pública «CARTA A LOS GÁLATAS | El RÚAJ es OPUEST
 
 | Referencia | Texto local de Delitzsch (sin nikud) | Función en el estudio |
 | --- | --- | --- |
-| #galatas_5_11 | **ואני אחי אם־אכריז עוד המילה על־מה אהיה נרדף הלא מבטל מכשול הצלוב** | La predicación hipotética de la circuncisión eliminaría el tropiezo de la cruz. |
-| #galatas_5_13-14 | **כי אתם אחי לחרות נקראתם ובלבד שלא תהיה החרות סבה לבשר אלא שתעבדו איש את־רעהו באהבה׃ כי כל־התורה כלולה במצוה האחת הזאת ואהבת לרעך כמוך׃** | La libertad no es ocasión para la carne; se orienta al servicio y al amor al prójimo. |
-| #galatas_5_16-18 | **והנני אמר התהלכו ברוח ולא תמלאו את־תאות הבשר׃ ... ואם־יהיה הרוח מנהיגכם אז אינכם תחת התורה׃** | Andar en el Ruaj se opone a satisfacer la concupiscencia y a estar bajo sentencia. |
-| #galatas_5_19-21 | **ונודעים המה פעלי הבשר ... אשר אמר מה־שכבר אמרתי כי־עשי אלה לא ינחלו מלכות האלהים׃** | Las obras visibles de la carne no son una categoría neutral: excluyen del reino a quienes las practican. |
-| #galatas_5_22-26 | **ופרִי הרוח הוא אהבה שמחה ושלום ארך רוח ונדיבות וחסד ואמונה׃ וענוה ופרישות לנגד עשי אלה אין־תורה׃ ... אם־נחיה ברוח נתהלכה גם־ברוח׃** | El fruto del Ruaj reúne amor, gozo, paz, paciencia, generosidad, bondad, fidelidad, mansedumbre y dominio propio. |
+| #galatas_5_11 | Delitzsch: ואני אחי אםאכריז עוד המילה עלמה אהיה נרדף הלא מבטל מכשול הצלוב | La predicación hipotética de la circuncisión eliminaría el tropiezo de la cruz. |
+| #galatas_5_13-14 | Delitzsch: כי אתם אחי לחרות נקראתם ובלבד שלא תהיה החרות סבה לבשר אלא שתעבדו איש אתרעהו באהבה כי כלהתורה כלולה במצוה האחת הזאת ואהבת לרעך כמוך | La libertad no es ocasión para la carne; se orienta al servicio y al amor al prójimo. |
+| #galatas_5_16-18 | Delitzsch: והנני אמר התהלכו ברוח ולא תמלאו אתתאות הבשר כי הבשר מתאוה הפך מןהרוח והרוח הפJ מןהבשר ושניהם מתקוממים זה לזה ובכן אין אתם עשים את אשר תחפצו ואםיהיה הרוח מנהיגכם אז אינכם תחת התורה | Andar en el Ruaj se opone a satisfacer la concupiscencia y a estar bajo sentencia. |
+| #galatas_5_19-21 | Delitzsch: ונודעים המה פעלי הבשר אשר הם נאפים זנות טמאה וזמה עבודת אלילים וכשפים איבות ומצה וקנאה ורגז מריבות מחלקות וכתות עין רעה ורצח שכרון וזוללות ודומיהם אשר אמר מהשכבר אמרתי כיעשי אלה לא ינחלו מלכות האלהים | Las obras visibles de la carne no son una categoría neutral: excluyen del reino a quienes las practican. |
+| #galatas_5_22-26 | Delitzsch: ופרי הרוח הוא אהבה שמחה ושלום ארך רוח ונדיבות וחסד ואמונה וענוה ופרישות לנגד עשי אלה איןתורה ואשר הם למשיח צלבו אתבשרם עםתשוקתיו ותאותיו אםנחיה ברוח נתהלכה גםברוח ולא נרדף אחרי כבודשוא להכעיס איש אתרעהו ולקנא איש אתרעהו | El fruto del Ruaj reúne amor, gozo, paz, paciencia, generosidad, bondad, fidelidad, mansedumbre y dominio propio. |
+| #hechos_21_20 | Delitzsch: וישמעו ויהללו אתהאלהים ויאמרו אליו הנך ראה אחינו כמה רבוא יהודים באו להאמין וכלם מקנאים לתורה | La conexión de la clase con los creyentes judíos. |
+| #hechos_21_24 | Delitzsch: הנה ארבעה אנשים אתנו אשר נזירות עליהם ואתה קח אתם והטהר אתם והוצא עליהם אתהוצאת התגלחת וידעו כלם כישמע שוא שמעו עליך וגםאתה הולך בחקות התורה | La propuesta de los ancianos para responder a la acusación. |
+| #vayikra_19_18 | OE: לא תקם ולא תטר את בני עמך ואהבת לרעך כמוך אני יהוה | Mandamiento citado en 5:14. |
 
 ## La libertad no autoriza a la carne (5:11-18) #galatas_5_11-18
 
@@ -58,7 +62,7 @@ La clase vuelve a Gálatas 5:11 para responder a la idea de que Shaul habría ab
 
 En 5:16 la clase define caminar en el Ruaj como andar en la voluntad de Elohim, en obediencia a Yehoshua y a la Escritura, no como una espiritualidad sin forma. Esa aplicación encuentra apoyo en el imperativo del versículo: el Ruaj y la carne se presentan como orientaciones contrarias. Sin embargo, «carne» no debe reducirse simplemente al cuerpo material. En el argumento de Pablo nombra el deseo humano cuando se rebela contra Elohim, y sus obras incluyen tanto inmoralidad como enemistad, celos, divisiones y rivalidad.
 
-El expositor también explica «no están bajo ley» como no estar bajo una sentencia o cargo judicial, no como quedar fuera de toda instrucción divina. Es una lectura contextual coherente con el contraste del capítulo, pero la afirmación gramatical de que la ausencia de artículo resuelve por sí sola el sentido debe verificarse en el griego. El resultado pastoral es claro: la libertad no consiste en hacer todo lo que se quiere, sino en no ser gobernado por la carne.
+El expositor también explica «no están bajo ley» como no estar bajo una sentencia o cargo judicial, no como quedar fuera de toda instrucción divina. Es una lectura contextual coherente con el contraste del capítulo, pero el cotejo de SBLGNT confirma ausencia de artículo en 5:18 y 5:23, sin demostrar por esa sola razón que «ley» signifique únicamente sentencia. El resultado pastoral es claro: la libertad no consiste en hacer todo lo que se quiere, sino en no ser gobernado por la carne.
 
 ## Obras de la carne y fruto singular del Ruaj (5:19-26) #galatas_5_19-26
 
@@ -78,21 +82,21 @@ En contraste, el texto habla del **fruto** del Ruaj en singular. La clase subray
 | **(καρπός)** / **(פרי)** | _karpos_ / _peri_ | fruto | Resultado unitario con varios aspectos | Exacta en la imagen; singular no prueba una teoría completa. |
 | **(ἀγάπη)** / **(אהבה)** | _agape_ / _ahavah_ | amor | Servicio activo y cumplimiento orientado al prójimo | Aproximada si se reduce a emoción. |
 | **(ἐγκράτεια)** | _enkrateia_ | dominio propio | Abstenerse del gobierno de los deseos | Aproximada con «abstinencia»; requiere contexto. |
-| **(νόμος)** | _nomos_ | ley, norma o Torah según contexto | En 5:18 y 5:23 no debe resolverse sólo por una regla de artículo | Pendiente de cotejo gramatical completo. |
+| **(νόμος)** | _nomos_ | ley, norma o Torah según contexto | En 5:18 y 5:23 no debe resolverse sólo por una regla de artículo | Artículos cotejados; la conclusión doctrinal requiere el contexto, no solo la forma. |
 
 ## Mapa de la enseñanza de Eric
 
 | Unidad textual | Observación concreta de la clase | Tratamiento en esta nota |
 | --- | --- | --- |
 | #galatas_5_11 y #hechos_21_20-24 | Shaul no proclama la circuncisión como requisito de salvación; la acusación de que abolía la Torah es presentada como calumnia. | Conexión contextual atribuida; se evita convertir Hechos 21 en una prueba exhaustiva de cada afirmación. |
-| #galatas_5_16-18 | Caminar en el Ruaj significa obedecer la voluntad de Elohim; «bajo ley» se entiende como bajo sentencia, no como abolición de la Torah. | Apoyo textual y aclaración contextual; la afirmación gramatical queda pendiente. |
+| #galatas_5_16-18 | Caminar en el Ruaj significa obedecer la voluntad de Elohim; «bajo ley» se entiende como bajo sentencia, no como abolición de la Torah. | Apoyo textual y aclaración contextual; la forma gramatical está cotejada y la interpretación «bajo sentencia» permanece cualificada. |
 | #galatas_5_19-21 | Las obras de la carne incluyen conflictos, rivalidad y desenfreno, no sólo pecados sexuales. | Apoyo textual; distinciones entre celos y envidia tratadas como aplicación pedagógica. |
 | #galatas_5_22-23 | El fruto es singular y reúne los atributos que la clase presenta como obra de Elohim; «shalom» se distingue de tranquilidad emocional. | Apoyo textual y puente léxico cualificado; no se fijan etimologías como certezas. |
 | #galatas_5_24-26 | La vida por el Ruaj exige crucificar la carne, abandonar la vanagloria y perseverar en un proceso real. | Síntesis textual con aplicación pastoral atribuida. |
 
 ## Pendiente de verificar
 
-- [ ] Cotejar el texto griego de Gálatas 5:18 y 5:23, especialmente la función de **νόμος** y el alcance de «bajo ley».
+- [x] Cotejar νόμος en SBLGNT 5:18,23: no lleva artículo; la función contextual no se reduce a una regla de artículos. El verbo de 5:25 es στοιχέω, distinto de περιπατέω en 5:16.
 - [ ] Verificar las afirmaciones de la clase sobre manuscritos y variantes en Hechos 21:25 antes de usar una traducción particular como prueba textual.
 - [ ] Revisar los campos semánticos de **ζῆλος**, **φθόνος**, **πραΰτης**, **ἐγκράτεια** y sus equivalentes hebreos sin fijar definiciones absolutas.
 - [ ] Cotejar la relación entre **שלום**, pago/reparación y tranquilidad; la exposición ofrece una lectura homilética que no debe presentarse como única definición.
@@ -104,7 +108,7 @@ Gálatas 5 no opone libertad y obediencia. La libertad del Mesías rompe el domi
 
 ## Ver también
 
-- [[galatas_5_ruaj_carne_fruto_y_torah|Gálatas 5: caminar en el Ruaj frente a la carne]]
+- [[galatas_5|Gálatas 5: libertad que sirve y fruto del Ruaj]]
 - [[galatas_4_hijos_herederos_y_madurez|Gálatas 4: hijos y herederos, del tutor a la madurez]]
 - [[galatas_6_restauracion_siembra_y_cruz|Gálatas 6: restauración humilde, siembra y la cruz]]
 

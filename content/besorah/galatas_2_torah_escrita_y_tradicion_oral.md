@@ -24,6 +24,7 @@ references:
   - "#hechos_15_19"
   - "#mateo_12_12"
 sources:
+  - "https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/Gal.txt"
   - "https://www.youtube.com/watch?v=OIHTZpk3h8E"
   - "docs/scriptures/delitzsch/json/galatians.json"
 source_ids:
@@ -43,9 +44,11 @@ Esta nota organiza la clase pública «CARTA A LOS GÁLATAS | La TORAH ESCRITA y
 
 | Referencia | Texto local de Delitzsch | Función en el estudio |
 | --- | --- | --- |
-| #galatas_2_1-2 | **אחרי־כן מקץ ארבע עשרה שנה שבתי ועליתי לירושלם עם בר־נבא ואקח אתי גם את־טיטו ... ואת־הבשורה אשר־קראתי בגוים שמתי לפניהם ולפני החשובים שבהם** | Pablo sube con Bernabé y Tito y expone el evangelio entre los gentiles ante los responsables. |
-| #galatas_2_3-5 | **אבל גם־טיטו אשר אתי אף כי־יוני הוא לא הוצרך להמול ... מפני אחי השקר ... אשר באו לרגל את־חרותנו אשר־לנו בישוע המשיח למען העבידנו** | Tito no es obligado a circuncidarse; la libertad en Yehoshua se opone a la esclavitud de los falsos hermanos. |
-| #galatas_2_6-10 | **והנחשבים להיות מה היו מה־שהיו ... והנחשבים כעמודים ... נתנו לי ולבר־נבא את־יד ימינם** | La asamblea reconoce la gracia y distribuye el envío sin favoritismo; queda el cuidado de los necesitados. |
+| #galatas_2_1-2 | Delitzsch: אחריכן מקץ ארבע עשרה שנה שבתי ועליתי לירושלים עם ברנבא ואקח אתי גם אתטיטוס ואעל שמה עלפי מחזה ואתהבשורה אשרקראתי בגוים שמתי לפניהם ושמתיה לפני החשובים שבהם פןתהיה לריק מרוצתי אשר ארוץ ואשררצתי | Pablo sube con Bernabé y Tito y expone el evangelio entre los gentiles ante los responsables. |
+| #galatas_2_3-5 | Delitzsch: אבל גםטיטוס אשר אתי אף כייוני הוא לא הצרך להמול מפני אחי השקר המתגנבים בתוכנו אשר באו לרגל אתחרותנו אשרלנו בישוע המשיח למען העבידנו ואנחנו לאסרנו למשמעתם אףלא שעה אחת למען אשר תעמד בקרבכם אמתת הבשורה | Tito no es obligado a circuncidarse; la libertad en Yehoshua se opone a la esclavitud de los falsos hermanos. |
+| #galatas_2_6-10 | Delitzsch: והנחשבים להיות מה היו מהשהיו איני חושש להם כי האלהים לא ישא פניאיש הן לי לאהוסיפו החשובים כלדבר ותהי להפך בראותם כיהפקדתי אני עלבשורת הערלים כאשר הפקד כיפא על בשורת המולים כיהמעיר כיפא לשלחו אלהמולים הואהעירני גםאתי לשלחני אלהגוים וכאשר הכירו יעקב וכיפא ויוחנן הנחשבים כעמודים אתהחסד הנתן לי נתנו לי ולברנבא אתיד ימינם ונאות כינלך אנחנו אלהגוים והמה אלהמולים רק אםנזכר אתהאביונים והוא הדבר אשר שקדתי לעשות | La asamblea reconoce la gracia y distribuye el envío sin favoritismo; queda el cuidado de los necesitados. |
+| #hechos_15_10 | Delitzsch: ועתה מהתנסו אתהאלהים לשוום על עלצוארי התלמידים אשר גםאבותינו גם אנחנו לא יכלנו לשאת | El yugo en el argumento de Kefa; identificarlo solo con Torah oral es la lectura de la clase. |
+| #mateo_12_12 | Delitzsch: ומהיקר אדם מןהכבש לכן מתר לעשות טובה בשבת | Hacer bien en Shabbat como conexión pastoral. |
 
 ## La libertad de Tito no depende de una marca externa: 2:1-5 #galatas_2_1-5
 
@@ -76,7 +79,7 @@ La distribución del trabajo también es significativa: Pablo y Bernabé hacia l
 | **(ἐλευθερία)** | _eleutheria_ | libertad | Libertad recibida en Yehoshua y amenazada por sometimiento | Directa en el argumento; no significa ausencia de obediencia. |
 | **(δοκέω)** | _dokeō_ | considerar, pensar, tener por | Personas reconocidas como responsables en el contexto | Aproximada; «parecían ser» puede deformar el flujo. |
 | **(περιτομή)** | _peritomē_ | circuncisión | Señal discutida, no fundamento automático de salvación | Directa; su función pactual no se resuelve sólo en Gálatas 2. |
-| **(παραδόσεις)** / **תורה שבעל פה** | _paradoseis_ / Torah oral | tradiciones transmitidas; tradición según la boca | Categoría usada por la clase para distinguir mandamiento y costumbre | Relación pedagógica; la historia y el alcance requieren cotejo. |
+| **(παραδόσεις)** / **(תורה שבעל פה)** | _paradoseis_ / Torah oral | tradiciones transmitidas; tradición según la boca | Categoría de la clase; παραδόσεις aparece en 1:14, no en 2:1-10 | Relación pedagógica; no es la palabra griega de los «falsos hermanos». La historia y el alcance requieren cotejo. |
 | **(κοινωνία)** | _koinōnia_ | participación, compañerismo | Mano derecha de compañerismo y misión compartida | Directa en sentido comunitario; no es sólo una fórmula de cortesía. |
 
 ## Mapa de la enseñanza de Eric
@@ -91,7 +94,7 @@ La distribución del trabajo también es significativa: Pablo y Bernabé hacia l
 
 ## Pendiente de verificar
 
-- [ ] Cotejar Gálatas 2:2-9 con el texto griego crítico y con otras traducciones antes de fijar una traducción única de **δοκέω**.
+- [x] Cotejar las formas de **δοκέω** en Gálatas 2:2,6,9 (SBLGNT); 2:9 nombra a los tenidos por columnas. La forma griega no confirma el supuesto título técnico arameo de «expertos», que sigue pendiente de una fuente precisa.
 - [ ] Precisar el sentido histórico de «Torah oral» en el siglo I y no proyectar sin más el Shulján Aruj, posterior, al contexto de Gálatas.
 - [ ] Revisar Hechos 15:7-21 para distinguir qué carga se discute allí y qué relación tiene con Gálatas 2.
 - [ ] Verificar la conexión histórica entre los falsos hermanos de Gálatas 2 y grupos fariseos concretos.

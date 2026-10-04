@@ -9,12 +9,17 @@ references:
   - "#apocalipsis_13_1"
   - "#apocalipsis_13_11"
   - "#melajim_alef_10_14"
-sources: []
+sources:
+  - "docs/notes_16_05_2026.md"
 ---
 
 # Tesis
 
-Sodot 13 muestra dos animales que no deben leerse literalmente, sino como apariencias de poder y apostasía impulsadas por la antigua serpiente.
+Los apuntes leen las dos bestias de Sodot 13 como figuras de poder y apostasía impulsadas por la antigua serpiente. Esa lectura simbólica debe conservar las acciones y comparaciones de la visión.
+
+## Alcance de la nota
+
+Esta nota reorganiza el bloque «Sodot 13» de `docs/notes_16_05_2026.md`. El documento no identifica un video concreto para este bloque. Sus correspondencias simbólicas se conservan como interpretación de los apuntes; no equivalen a definiciones léxicas ni a identificaciones históricas comprobadas.
 
 ## Texto base
 
@@ -31,8 +36,13 @@ Sodot 13 muestra dos animales que no deben leerse literalmente, sino como aparie
 
 ## Observaciones
 
-- La bestia se entiende como animal o ser viviente en sentido visionario, no zoológico.
+- θηρίον (therion) conserva el sentido de bestia o animal salvaje; no debe confundirse con ζῷον, ser viviente. La aplicación a poderes históricos es interpretativa.
 - El mar representa caos, disturbio y lo anti torá.
 - Hablar grandezas se resume como blasfemias contra Elohim.
 - El animal que sube de la tierra se asocia con una apariencia más cercana a eretz Israel.
 - La cifra vinculada con #melajim_alef_10_14 se toma aquí como signo de apostasía.
+
+## Pendiente de verificar
+
+- [ ] Cotejar mar, tierra y apostasía en el capítulo; las equivalencias de los apuntes no son definiciones del texto.
+- [ ] Examinar la conexión numérica con #melajim_alef_10_14 antes de identificar el 666 exclusivamente con Shelomóh o con una doctrina.

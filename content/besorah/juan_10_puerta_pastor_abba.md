@@ -45,7 +45,7 @@ references:
   - "#yejezkel_36_22"
 sources:
   - "https://youtu.be/8geNmTcW6ZI?si=CfFScYVQEf-T7cK3"
-  - "docs/scriptures/tth/json/yojanan.json"
+  - "docs/scriptures/tth/json/iojanan.json"
   - "docs/scriptures/delitzsch/json/john.json"
   - "docs/scriptures/oe/json/psalms/118.json"
 source_ids:
@@ -55,9 +55,9 @@ translation: "[TTH, Delitzsch, OE]"
 
 # Tesis
 
-Yojanán 10:7-18 presenta a Yeshúa como la puerta legítima de las ovejas y como el buen pastor que entrega su vida por el rebaño. La clase entiende estas dos imágenes como una sola línea judicial y pastoral: si #tehilim_118_20 habla de "la puerta de יהוה" y Yeshúa dice "Yo soy la puerta", entonces el Mesías no se presenta como una alternativa religiosa más, sino como el acceso establecido por יהוה para salvación, juicio, pasto y vida abundante.
+Yojanán 10:7-18 presenta a Yehoshua como la puerta legítima de las ovejas y como el buen pastor que entrega su vida por el rebaño. La clase entiende estas dos imágenes como una sola línea judicial y pastoral: si #tehilim_118_20 habla de "la puerta de יהוה" y Yehoshua dice "Yo soy la puerta", entonces el Mesías no se presenta como una alternativa religiosa más, sino como el acceso establecido por יהוה para salvación, juicio, pasto y vida abundante.
 
-La segunda mitad de la clase desarrolla que la confesión "Yeshúa es mi pastor" no puede quedarse en una fórmula. Entrar por la puerta implica dejarse pastorear, recibir alimento de Torah y reconocer que Abba no es una figura separada en competencia con el Mesías, sino la fuente/origen de la promesa que el mismo Elohim cumple en el nombre de Yeshúa.
+La segunda mitad de la clase desarrolla que la confesión "Yeshúa es mi pastor" no puede quedarse en una fórmula. Entrar por la puerta implica dejarse pastorear, recibir alimento de Torah y reconocer que Abba no es una figura separada en competencia con el Mesías, sino la fuente/origen de la promesa que el mismo Elohim cumple en el nombre de Yehoshua.
 
 ## Alcance de la nota
 
@@ -65,6 +65,14 @@ La segunda mitad de la clase desarrolla que la confesión "Yeshúa es mi pastor"
 - Modo de trabajo: ampliación de una nota existente dentro de la serie de Yojanán.
 - La clase cubre principalmente #juan_10_7-18, con anticipación doctrinal hacia #juan_10_30.
 - Las observaciones léxicas sobre griego, arameo, Targum, Talmud y Yaakov Halévy quedan marcadas como material útil, pero pendiente de cotejo en fuentes primarias o académicas.
+
+## Mapa de la enseñanza de Eric
+
+| Unidad textual | Observación de la clase | Tratamiento en esta nota |
+| --- | --- | --- |
+| #juan_10_7-10; #tehilim_118_20-22 | Eric relaciona puerta, acceso judicial, pasto y vida abundante. | Se comprueba la imagen de la puerta; la piedra como clave de un arco y el juego nome/nomos son asociaciones pedagógicas pendientes de fuentes. |
+| #juan_10_11-14; #shemuel_alef_17_34-35 | El pastor entrega la vida y conoce al rebaño, en contraste con el asalariado. | Se compara con David y se distingue el lenguaje de vida de la glosa pedagógica «pescuezo»; la referencia talmúdica sobre el lobo queda pendiente. |
+| #juan_10_15-18; #hebreos_6_13; #juan_10_30 | La clase desarrolla Abba como fuente de la promesa y la entrega como cumplimiento del juramento. | Se conserva como interpretación atribuida, sin convertir todos sus usos culturales en equivalencias léxicas exactas ni borrar la relación gramatical Padre/Hijo. |
 
 ## Hoja de comparación
 
@@ -85,7 +93,7 @@ La segunda mitad de la clase desarrolla que la confesión "Yeshúa es mi pastor"
 | #yeshayahu_33_22 | כי יהוה שפטנו יהוה מחקקנו יהוה מלכנו הוא יושיענו | Porque יהוה nos juzga, יהוה nos legisla; יהוה es nuestro Rey, Él nos salvará. | Juez, legislador, rey y salvador es יהוה mismo. |
 | #yirmeyahu_23_6 | בימיו תושע יהודה וישראל ישכן לבטח וזה שמו אשר יקראו יהוה צדקנו | En sus días será salvo Yehudáh... "יהוה Justicia nuestra". | Conecta el nombre revelado con la justicia de Elohim. |
 | #tehilim_23_1 | מזמור לדוד יהוה רעי לא אחסר | יהוה es mi Pastor, no escasearé. | Pasto y cuidado del rebaño; contraste con el asalariado. |
-| #shemuel_alef_17_35 | — (sin OE local en cap. 17) | y salí tras de él y lo herí, y lo rescaté de su boca... | David anticipa al pastor que arriesga su vida por una oveja. |
+| #shemuel_alef_17_35 | ויצאתי אחריו והכתיו והצלתי מפיו ויקם עלי והחזקתי בזקנו והכתיו והמיתיו | y salí tras de él y lo herí, y lo rescaté de su boca... | David anticipa al pastor que arriesga su vida por una oveja. |
 | #hebreos_6_13 | כי בהבטיח אלהים אתאברהם נשבע בנפשו יען אשראין גדול ממנו להשבע בו | — (sin TTH local) | Elohim jura por sí mismo; garantía de la promesa. |
 | #efesios_3_14-15 | בעבור זאת אכרעה עלברכי לפני אבי... אשר נקרא שמו על כלמשפחה | — (sin TTH local) | Abba como fuente del nombre y de toda familia. |
 
@@ -117,17 +125,17 @@ La segunda mitad de la clase desarrolla que la confesión "Yeshúa es mi pastor"
 
 ## Desarrollo del argumento en el video
 
-La clase inicia retomando #juan_10_7 después de la sección previa sobre el redil, la puerta y las ovejas. El expositor insiste en que Yeshúa respondía con sabiduría estratégica: no hablaba según la trampa que sus opositores querían tenderle, sino con imágenes que obligaban a conectar Escritura con Escritura.
+La clase inicia retomando #juan_10_7 después de la sección previa sobre el redil, la puerta y las ovejas. El expositor insiste en que Yehoshua respondía con sabiduría estratégica: no hablaba según la trampa que sus opositores querían tenderle, sino con imágenes que obligaban a conectar Escritura con Escritura.
 
-Cuando Yeshúa dice "Yo soy la puerta", el expositor lo lee contra el trasfondo de los movimientos mesiánicos frustrados del siglo I. Menciona a personajes como Judas el Galileo y otros líderes citados en fuentes históricas, porque en la época existía una expectativa fuerte de liberación política frente a Roma. Según la clase, muchas expectativas populares esperaban un Mesías que primero resolviera el dominio romano; Yeshúa, en cambio, viene primero a reconciliar al pueblo con Elohim.
+Cuando Yehoshua dice "Yo soy la puerta", el expositor lo lee contra el trasfondo de los movimientos mesiánicos frustrados del siglo I. Menciona a personajes como Judas el Galileo y otros líderes citados en fuentes históricas, porque en la época existía una expectativa fuerte de liberación política frente a Roma. Según la clase, muchas expectativas populares esperaban un Mesías que primero resolviera el dominio romano; Yehoshua, en cambio, viene primero a reconciliar al pueblo con Elohim.
 
-Esta distinción responde a una objeción judía frecuente: si Yeshúa es el Mesías, ¿por qué el mundo sigue igual? La respuesta propuesta no niega la expectativa de restauración del mundo, sino que ordena las etapas: primero reconciliación y salvación; después, la consumación visible de esa restauración.
+Esta distinción responde a una objeción judía frecuente: si Yehoshua es el Mesías, ¿por qué el mundo sigue igual? La respuesta propuesta no niega la expectativa de restauración del mundo, sino que ordena las etapas: primero reconciliación y salvación; después, la consumación visible de esa restauración.
 
 ## La puerta de יהוה y la escena de juicio
 
-La conexión decisiva es #tehilim_118_20. Si el salmo dice "esta es la puerta de יהוה" y Yeshúa dice "Yo soy la puerta", entonces Yeshúa se está ubicando en el lugar de acceso al juez. La clase lo expresa así: el único Elohim decide cómo se entra ante él, y la puerta establecida es el nombre de Yeshúa.
+La conexión decisiva es #tehilim_118_20. Si el salmo dice "esta es la puerta de יהוה" y Yehoshua dice "Yo soy la puerta", entonces Yehoshua se está ubicando en el lugar de acceso al juez. La clase lo expresa así: el único Elohim decide cómo se entra ante él, y la puerta establecida es el nombre de Yehoshua.
 
-La figura no se reduce a "entrada a una comunidad". Es una imagen de comparecencia. El expositor compara a Yeshúa con un juez que se infiltra en la vida diaria de los empleados antes de revelar su identidad: cuando llegue el juicio, nadie podrá decir que no fue advertido, porque el juez mismo estuvo presente y dio a conocer la puerta.
+La figura no se reduce a "entrada a una comunidad". Es una imagen de comparecencia. El expositor compara a Yehoshua con un juez que se infiltra en la vida diaria de los empleados antes de revelar su identidad: cuando llegue el juicio, nadie podrá decir que no fue advertido, porque el juez mismo estuvo presente y dio a conocer la puerta.
 
 Por eso los "ladrones y salteadores" no son solamente líderes inmorales. Son todos los que intentan acercarse por otro acceso: por nombre propio, justicia propia, mérito propio o un mesianismo falso. En esa lógica, rechazar la puerta no es un problema de lenguaje religioso, sino de jurisdicción: si יהוה es juez, legislador, rey y salvador (#yeshayahu_33_22), él mismo determina el camino de entrada.
 
@@ -135,13 +143,13 @@ Por eso los "ladrones y salteadores" no son solamente líderes inmorales. Son to
 
 La clase une la puerta con #tehilim_118_22: "La piedra que despreciaron los edificadores ha sido por cabeza del ángulo". La explicación arquitectónica propuesta es que una puerta de arco necesita una piedra superior que sostenga el conjunto. Si se quita esa piedra, el arco cae; si se rechaza la piedra correcta, no hay entrada estable.
 
-Así, la piedra rechazada no es un adorno doctrinal. Es la pieza que permite que la puerta exista. En la lectura de la clase, Yeshúa es simultáneamente la puerta y la piedra que sostiene la entrada. Los edificadores que desechan esa piedra quedan intentando construir acceso a Elohim sin el elemento que hace posible el acceso.
+Así, la piedra rechazada no es un adorno doctrinal. Es la pieza que permite que la puerta exista. En la lectura de la clase, Yehoshua es simultáneamente la puerta y la piedra que sostiene la entrada. Los edificadores que desechan esa piedra quedan intentando construir acceso a Elohim sin el elemento que hace posible el acceso.
 
 ## Nombres, atributos y el Tetragrammaton
 
 El expositor hace un excursus sobre los nombres de Elohim. Propone pensar los nombres como atributos o "etiquetas" que describen cómo el único Elohim se da a conocer. En ese marco, Elohim, El Shaddai, Elyon y יהוה no son seres separados, sino modos de manifestar atributos del único y sabio Elohim.
 
-La clase asocia Elohim con רחמים, amor entrañable o misericordia, y יהוה con juicio. Esta asociación se usa para leer "la puerta de יהוה" como la puerta del juicio. No significa que Yeshúa conduzca hacia otro ser llamado יהוה; significa que el único Elohim ha establecido en Yeshúa la puerta por la cual se accede a su propio juicio.
+La clase asocia Elohim con רחמים, amor entrañable o misericordia, y יהוה con juicio. Esta asociación se usa para leer "la puerta de יהוה" como la puerta del juicio. No significa que Yehoshua conduzca hacia otro ser llamado יהוה; significa que el único Elohim ha establecido en Yehoshua la puerta por la cual se accede a su propio juicio.
 
 La nota debe conservar aquí una cautela: la asociación precisa de cada nombre con un atributo necesita cotejo con fuentes judías y léxicas. La idea central que sí queda clara en la clase es que los nombres no deben convertirse en una pluralidad de personas separadas. Son nombres del único Elohim revelando sus obras, atributos y compromisos.
 
@@ -149,21 +157,21 @@ La nota debe conservar aquí una cautela: la asociación precisa de cada nombre 
 
 El expositor conecta #yirmeyahu_23_6 con #romanos_3_21-22. "יהוה Justicia nuestra" se lee junto con la justicia de Elohim revelada aparte de Torah, pero atestiguada por Torah y profetas. El argumento no es contra la Torah, sino contra establecer una justicia propia como puerta alternativa.
 
-La justicia revelada en el Mesías no elimina la obediencia, pero sí impide que la obediencia funcione como acceso autónomo. La puerta es Yeshúa. La justicia es recibida en el nombre que יהוה reveló. Por eso presentarse ante Elohim por otro nombre o por otra justicia equivale a rechazar la puerta.
+La justicia revelada en el Mesías no elimina la obediencia, pero sí impide que la obediencia funcione como acceso autónomo. La puerta es Yehoshua. La justicia es recibida en el nombre que יהוה reveló. Por eso presentarse ante Elohim por otro nombre o por otra justicia equivale a rechazar la puerta.
 
 ## Salvación, entrada, salida y pasto
 
-#juan_10_9 reúne cuatro movimientos: entrar por Yeshúa, ser salvo, entrar y salir, y hallar pasto. La clase se detiene especialmente en "pasto". La palabra se interpreta como alimento espiritual que sostiene para vida, en conexión con #tehilim_23_1: יהוה como pastor que no deja carente a su rebaño.
+#juan_10_9 reúne cuatro movimientos: entrar por Yehoshua, ser salvo, entrar y salir, y hallar pasto. La clase se detiene especialmente en "pasto". La palabra se interpreta como alimento espiritual que sostiene para vida, en conexión con #tehilim_23_1: יהוה como pastor que no deja carente a su rebaño.
 
 El expositor propone además un juego entre el griego nomē, "pasto", y nomos, "ley/Torah". Esta observación queda pendiente de verificación técnica, pero sirve para expresar la idea teológica principal de la clase: el pastor verdadero alimenta al rebaño con Torah viva, no con espectáculo, fama o entretenimiento religioso.
 
-El "entrar y salir" también se aplica contra el sectarismo. Si el pastor es Yeshúa, la seguridad no depende de quedar encerrado en una denominación, grupo, maestro o plataforma. Las ovejas pueden entrar y salir porque su pertenencia está definida por la puerta y el pastor, no por el control de un asalariado.
+El "entrar y salir" también se aplica contra el sectarismo. Si el pastor es Yehoshua, la seguridad no depende de quedar encerrado en una denominación, grupo, maestro o plataforma. Las ovejas pueden entrar y salir porque su pertenencia está definida por la puerta y el pastor, no por el control de un asalariado.
 
 ## Vida abundante
 
-En #juan_10_10, el ladrón roba, mata y destruye; Yeshúa viene para dar vida abundante. La clase insiste en que "vida" debe leerse con "salvación" y "vida eterna", no solo como mejora de las condiciones presentes. La abundancia apunta a una vida que excede lo que el oyente podía imaginar.
+En #juan_10_10, el ladrón roba, mata y destruye; Yehoshua viene para dar vida abundante. La clase insiste en que "vida" debe leerse con "salvación" y "vida eterna", no solo como mejora de las condiciones presentes. La abundancia apunta a una vida que excede lo que el oyente podía imaginar.
 
-El expositor menciona el griego perisson como algo que rebasa, excede o va más allá. Lo conecta de manera general con textos paulinos sobre la sobreabundancia de la gracia. La línea argumental es que quien entra por mérito propio termina en carencia y muerte; quien entra por Yeshúa recibe una vida que rebasa la expectativa humana.
+El expositor menciona el griego perisson como algo que rebasa, excede o va más allá. Lo conecta de manera general con textos paulinos sobre la sobreabundancia de la gracia. La línea argumental es que quien entra por mérito propio termina en carencia y muerte; quien entra por Yehoshua recibe una vida que rebasa la expectativa humana.
 
 ## El buen pastor entrega su nefesh
 
@@ -183,7 +191,7 @@ El expositor conecta esto con #mateo_7_13-14. La puerta que lleva a la vida es e
 
 ## Decir "mi pastor" y dejarse pastorear
 
-La clase diferencia entre decir y llamar. Muchos pueden decir "Señor, Señor" (#mateo_7_21-23), pero no todos son conocidos por él. Del mismo modo, muchos pueden repetir #tehilim_23_1 o decir que Yeshúa es su pastor; la prueba es si aceptan su guía, tratamiento, disciplina, corrección y dirección.
+La clase diferencia entre decir y llamar. Muchos pueden decir "Señor, Señor" (#mateo_7_21-23), pero no todos son conocidos por él. Del mismo modo, muchos pueden repetir #tehilim_23_1 o decir que Yehoshua es su pastor; la prueba es si aceptan su guía, tratamiento, disciplina, corrección y dirección.
 
 El expositor usa una comparación laboral: cualquiera puede decir que trabaja para una empresa, pero la credencial, el contrato y la función demuestran si eso es verdad. En términos del rebaño, la credencial no es un lema, sino haber sido pastoreado por el buen pastor.
 
@@ -191,7 +199,7 @@ El expositor usa una comparación laboral: cualquiera puede decir que trabaja pa
 
 #juan_10_14 agrega una segunda prueba: "conozco mis ovejas, y estas que son mías, me conocen". La clase critica los modelos de liderazgo donde alguien se presenta como pastor de miles que no conoce. Si el pastor no conoce a las ovejas, la relación real se parece más a audiencia que a rebaño.
 
-Yeshúa predicó a multitudes, pero caminó con discípulos concretos. La clase usa ese dato para recordar que el pastoreo verdadero tiene límites de cercanía, responsabilidad y conocimiento. No se trata de negar la enseñanza pública, sino de distinguir entre enseñar a muchos y pastorear realmente a quienes uno conoce.
+Yehoshua predicó a multitudes, pero caminó con discípulos concretos. La clase usa ese dato para recordar que el pastoreo verdadero tiene límites de cercanía, responsabilidad y conocimiento. No se trata de negar la enseñanza pública, sino de distinguir entre enseñar a muchos y pastorear realmente a quienes uno conoce.
 
 ## Abba: más que una imagen familiar moderna
 
@@ -208,7 +216,7 @@ La clase sostiene que Abba puede funcionar en varios niveles:
 
 ## Abba como fuente de la promesa
 
-El punto doctrinal de la clase es que cuando Yeshúa habla de Abba, no necesariamente está describiendo a otro ser separado. Está apelando a la fuente de donde proceden las promesas por las cuales él está en el mundo. En ese sentido, Abba nombra al único Elohim como origen de la iniciativa mesiánica.
+El punto doctrinal de la clase es que cuando Yehoshua habla de Abba, no necesariamente está describiendo a otro ser separado. Está apelando a la fuente de donde proceden las promesas por las cuales él está en el mundo. En ese sentido, Abba nombra al único Elohim como origen de la iniciativa mesiánica.
 
 #efesios_3_14-15 se usa para sostener esta lectura: toda familia toma nombre desde esa fuente. La clase entiende que la identidad, la familia y la promesa proceden de Elohim, y que el Mesías viene a ejecutar personalmente lo prometido.
 
@@ -216,7 +224,7 @@ Esto se enlaza con #hebreos_6_13: Elohim juró por sí mismo porque no tenía ot
 
 ## "Yo y Abba somos uno"
 
-Aunque el tramo estudiado llega hasta #juan_10_18, la clase anticipa #juan_10_30: "Yo y mi Padre uno somos." Esta frase se vuelve la conclusión de todo el argumento. Yeshúa no sería un mensajero desvinculado de Abba, ni un sustituto enviado mientras Elohim queda a distancia. Es el único Elohim cumpliendo su propia palabra en el nombre de Yeshúa.
+Aunque el tramo estudiado llega hasta #juan_10_18, la clase anticipa #juan_10_30: "Yo y mi Padre uno somos." Esta frase se vuelve la conclusión de todo el argumento. Yehoshua no sería un mensajero desvinculado de Abba, ni un sustituto enviado mientras Elohim queda a distancia. Es el único Elohim cumpliendo su propia palabra en el nombre de Yehoshua.
 
 El expositor lo formula como cumplimiento del compromiso divino con Abraham y con los patriarcas. El respeto de Elohim por su propia palabra lo lleva a poner su vida. La muerte del Mesías no sería entonces un accidente ni una delegación cruel, sino el acto por el cual יהוה honra lo que juró.
 
@@ -245,11 +253,11 @@ La aplicación ética es que el creyente debe aprender a cumplir su propia palab
 - #juan_10_15 con #efesios_3_14-15: Abba se interpreta como fuente de nombre, familia y promesa.
 - #hebreos_6_13 con la entrega del Mesías: Elohim jura por sí mismo y cumple personalmente.
 - #yirmeyahu_23_6 con #romanos_3_21-22: "יהוה Justicia nuestra" se conecta con la justicia de Elohim revelada en el Mesías.
-- #juan_10_30 como conclusión: Abba y Yeshúa son uno en la obra y en la identidad revelada.
+- #juan_10_30 como conclusión: Abba y Yehoshua son uno en la obra y en la identidad revelada.
 
 ## Resumen detallado por bloques del video
 
-1. Retoma #juan_10_7 y afirma que Yeshúa no responde como sus opositores querían, sino con lenguaje que exige discernimiento.
+1. Retoma #juan_10_7 y afirma que Yehoshua no responde como sus opositores querían, sino con lenguaje que exige discernimiento.
 2. Sitúa la expectativa mesiánica del siglo I en tensión con Roma y con movimientos mesiánicos fallidos.
 3. Explica que el Mesías debía reconciliar primero al pueblo con Elohim antes de ejecutar la transformación visible del mundo.
 4. Lee "Yo soy la puerta" junto con #tehilim_118_20 y concluye que la puerta es la de יהוה.
@@ -266,9 +274,9 @@ La aplicación ética es que el creyente debe aprender a cumplir su propia palab
 15. Explica que conocer a las ovejas limita la idea de pastorear multitudes anónimas.
 16. Introduce Abba como problema de traducción cultural: "padre" debe entenderse desde el mundo hebreo-arameo.
 17. Enumera sentidos posibles de Abba: afecto familiar, tutoría, origen, fuente, fundador y linaje.
-18. Lee Abba como fuente de las promesas mesiánicas, no como un segundo ser separado de Yeshúa.
+18. Lee Abba como fuente de las promesas mesiánicas, no como un segundo ser separado de Yehoshua.
 19. Usa #hebreos_6_13 para afirmar que Elohim juró por sí mismo y por eso cumple personalmente.
-20. Cierra con #juan_10_30: Yeshúa y Abba son uno; el mismo Elohim que prometió viene a cumplir.
+20. Cierra con #juan_10_30: Yehoshua y Abba son uno; el mismo Elohim que prometió viene a cumplir.
 
 ## Pendiente de verificar
 
@@ -282,7 +290,7 @@ La aplicación ética es que el creyente debe aprender a cumplir su propia palab
 
 ## Conclusión
 
-La clase lee Yojanán 10 como una revelación concentrada de identidad y acceso. Yeshúa es la puerta porque es el acceso dispuesto por יהוה; es el buen pastor porque no abandona al rebaño ante el lobo; y habla de Abba porque viene desde la fuente misma de la promesa. La salvación no consiste en hallar una figura religiosa útil, sino en entrar por la puerta correcta, recibir pasto, ser conocido por el pastor y reconocer que יהוה cumple personalmente lo que juró.
+La clase lee Yojanán 10 como una revelación concentrada de identidad y acceso. Yehoshua es la puerta porque es el acceso dispuesto por יהוה; es el buen pastor porque no abandona al rebaño ante el lobo; y habla de Abba porque viene desde la fuente misma de la promesa. La salvación no consiste en hallar una figura religiosa útil, sino en entrar por la puerta correcta, recibir pasto, ser conocido por el pastor y reconocer que יהוה cumple personalmente lo que juró.
 
 ## Ver también
 

@@ -21,7 +21,7 @@ references:
   - "#juan_16_11"
 sources:
   - "https://www.youtube.com/watch?v=ag3Zg3B2sbs"
-  - "docs/scriptures/tth/json/yojanan.json"
+  - "docs/scriptures/tth/json/iojanan.json"
   - "docs/scriptures/delitzsch/json/john.json"
 source_ids:
   - "youtube:ag3Zg3B2sbs"
@@ -30,13 +30,21 @@ translation: "[TTH, Delitzsch]"
 
 # Tesis
 
-En #juan_16_1-11, **Yehoshua** prepara a sus discípulos para una oposición que podría hacerlos tropezar. Su partida no cancela el cuidado del discurso: abre el envío del Menajem, cuyo testimonio expone al \_olam* respecto del pecado, la justicia y el juicio. El texto presenta esos tres asuntos con explicaciones propias; la nota los conserva antes de extenderlos a sistemas completos.
+En #juan_16_1-11, **Yehoshua** prepara a sus discípulos para una oposición que podría hacerlos tropezar. Su partida no cancela el cuidado del discurso: abre el envío del Menajem, cuyo testimonio expone al _olam_ respecto del pecado, la justicia y el juicio. El texto presenta esos tres asuntos con explicaciones propias; la nota los conserva antes de extenderlos a sistemas completos.
 
 ## Alcance de la nota
 
 Esta nota organiza la parte 60 de la serie de Eric de Jesús sobre Yojanán, dedicada a #juan_16_1-11. La transcripción automática contiene errores de reconocimiento, sobre todo en voces griegas y hebreas; por eso describe la línea de la exposición en vez de citarla como transcripción literal.
 
 El expositor conecta la expulsión con experiencias institucionales posteriores, entiende el testimonio del Menajem como una demostración pública y desarrolla una lectura amplia sobre la identidad del Mesías, el mal y la transformación futura. Esas conexiones se distinguen del alcance explícito de los versículos y quedan sujetas a cotejo.
+
+## Mapa de la enseñanza de Eric
+
+| Unidad textual | Observación de la clase | Tratamiento en esta nota |
+| --- | --- | --- |
+| #juan_16_1-4 | La clase explica el tropiezo y el peso comunitario de la expulsión. | La advertencia se coteja; las aplicaciones a instituciones posteriores requieren evidencia histórica propia. |
+| #juan_16_5-7 | Eric relaciona la tristeza por la partida con el envío del Menajem y promesas de transformación interior. | El envío está en el pasaje; las equivalencias semíticas y las promesas propuestas se distinguen de una cita directa. |
+| #juan_16_8-11 | La exposición prefiere demostrar o poner en evidencia y desarrolla pecado, justicia y juicio. | Cada asunto conserva la explicación del propio versículo; los desarrollos de tsedeq y la cronología escatológica siguen pendientes. |
 
 ## Hoja de comparación
 
@@ -56,7 +64,7 @@ La clase llama la atención sobre la expresión griega habitualmente traducida �
 
 ## La partida y el envío
 
-La tristeza de los discípulos en #juan_16_5-7 enmarca una afirmación difícil: la partida de Yehoshua les conviene porque dará lugar al envío del Menajem. El versículo no reduce al enviado a una idea abstracta; habla de venir y de ser enviado a ellos. Tampoco explica aquí todos los modos de su obra: la siguiente frase delimita una función de testimonio respecto del \_olam*.
+La tristeza de los discípulos en #juan_16_5-7 enmarca una afirmación difícil: la partida de Yehoshua les conviene porque dará lugar al envío del Menajem. El versículo no reduce al enviado a una idea abstracta; habla de venir y de ser enviado a ellos. Tampoco explica aquí todos los modos de su obra: la siguiente frase delimita una función de testimonio respecto del _olam_.
 
 El expositor enlaza este envío con promesas proféticas de transformación interior. Esa lectura puede examinarse canónicamente, pero la equivalencia precisa entre cada promesa y el término «Menajem» requiere comparar los contextos y no se debe fijar únicamente desde una traducción.
 
@@ -65,8 +73,8 @@ El expositor enlaza este envío con promesas proféticas de transformación inte
 La clase prefiere hablar de «demostrar» o «poner en evidencia» para el verbo de #juan_16_8, en vez de limitarlo a «convencer». Ambas posibilidades deben cotejarse en el griego y en sus usos; lo seguro en el pasaje es que la venida del Menajem se relaciona con una exposición acerca de tres realidades.
 
 - **Pecado**: #juan_16_9 lo explica por no afirmarse en Yehoshua. La exposición lo asocia con la ruptura humana y con la incapacidad de una fidelidad autosuficiente. Esa ampliación no reemplaza la razón que el versículo formula.
-- **Justicia**: #juan_16_10 la vincula con que Yehoshua va al Padre y ya no será visto. La clase desarrolla las familias hebreas \_tsedeq* y _tsedaqá_ y una esperanza de transformación corporal; las conexiones léxicas y la deducción escatológica necesitan ser verificadas por separado.
-- **Juicio**: #juan_16_11 afirma que el príncipe de este \_olam* «ha sido juzgado». El texto no desarrolla en estos versículos una cronología total de la derrota del mal ni identifica aquí todos los acontecimientos que la clase vincula a ese juicio.
+- **Justicia**: #juan_16_10 la vincula con que Yehoshua va al Padre y ya no será visto. La clase desarrolla las familias hebreas _tsedeq_ y _tsedaqá_ y una esperanza de transformación corporal; las conexiones léxicas y la deducción escatológica necesitan ser verificadas por separado.
+- **Juicio**: #juan_16_11 afirma que el príncipe de este _olam_ «ha sido juzgado». El texto no desarrolla en estos versículos una cronología total de la derrota del mal ni identifica aquí todos los acontecimientos que la clase vincula a ese juicio.
 
 ## Hoja léxica
 
@@ -80,7 +88,7 @@ La clase prefiere hablar de «demostrar» o «poner en evidencia» para el verbo
 
 ## Conexiones principales
 
-- #juan_15_18-25 antecede la advertencia: el odio del \_olam* ya había sido anunciado en el discurso.
+- #juan_15_18-25 antecede la advertencia: el odio del _olam_ ya había sido anunciado en el discurso.
 - #juan_16_1-4: la anticipación busca que los discípulos recuerden y no tropiecen.
 - #juan_16_7-11: la partida de Yehoshua y el envío del Menajem conducen a un testimonio sobre pecado, justicia y juicio.
 - [[juan_15_vid_fruto_amor_discipulado|Yojanán 15: vid, fruto, amor y discipulado]]: el permanecer en Yehoshua da el marco relacional previo a la oposición de #juan_16.

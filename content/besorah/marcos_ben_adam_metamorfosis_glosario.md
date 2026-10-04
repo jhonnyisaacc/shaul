@@ -47,7 +47,7 @@ sources:
   - "docs/scriptures/delitzsch/json/mark.json"
   - "docs/scriptures/oe/json/daniel/7.json"
   - "docs/scriptures/oe/json/iikings/2.json"
-  - "docs/scriptures/tth/json/yojanan.json"
+  - "docs/scriptures/tth/json/iojanan.json"
   - "docs/scriptures/tth/json/lukas.json"
   - "docs/scriptures/tth/json/shir_hashirim.json"
   - "docs/scriptures/delitzsch/json/colossians.json"
@@ -64,7 +64,7 @@ La clase lee la metamorfosis de Yeshúa en Marcos como una revelación condensad
 
 - Esta es una hoja léxica complementaria; la fuente pública de la clase y su `source_id` pertenecen al estudio canónico [[marcos_9_gloria_servicio_sal_paz|Marcos 9]], para evitar duplicar una fuente exclusiva del capítulo.
 - Se conserva la línea argumental de la clase en forma de glosario, no cada giro oral ni como una segunda nota canónica de capítulo.
-- El video llama a este material "capítulo 2" del estudio de Marcos, pero los anclajes bíblicos principales están en #marcos_9_1-9, #marcos_10_33 y #marcos_13_26.
+- El estudio complementa la parte 28 y enlaza discusiones anteriores de la serie; pero los anclajes bíblicos principales están en #marcos_9_1-9, #marcos_10_33 y #marcos_13_26.
 - Las referencias a Targum, Midrash, Talmud y literatura judía quedan como marco de la clase, pero se marcan como pendientes cuando no se cotejó la fuente exacta.
 - Para Tanaj y Besorah se usó el corpus local disponible, confirmado el 17 de julio de 2026.
 
@@ -84,23 +84,23 @@ La clase lee la metamorfosis de Yeshúa en Marcos como una revelación condensad
 
 | Referencia | Texto local | Función en la clase |
 | --- | --- | --- |
-| #marcos_8_38 | TTH: quien se avergüence de Yeshúa y sus palabras, también el Ben HaAdam se avergonzará de él cuando venga en la gloria de su Padre. | Abre la transición: Yeshúa habla de sí mismo como Ben HaAdam antes de anunciar la visión del reino venido con poder. |
-| #marcos_9_1 | TTH: algunos no probarán muerte hasta ver "el reino de Elohim viniendo con poder". | La clase identifica esta promesa con la escena inmediata de la metamorfosis. |
-| #marcos_9_2 | TTH: Yeshúa tomó a Kefa, Yaakov e Yojanán y "se transformó delante de ellos". Delitzsch: וישתנה לעיניהם. | La transformación revela quién es el Mesías, no solo un prodigio visual. |
-| #marcos_9_3 | TTH: sus vestiduras quedaron "muy blancas como la nieve". | Se conecta con #daniel_7_9 y la figura del Anciano de días. |
-| #marcos_9_7 | TTH: la nube cubre y la voz dice: "Este es mi Hijo amado, escúchenlo." | La bat kol centra la atención en Yehoshua; ver también [[../temas/bat_kol|Bat Kol: Hijo, Siervo y Testimonio]]. |
+| #marcos_8_38 | TTH: Porque, todo el que se avergüence de Mí y de mis palabras en esta generación de adúlteros y pecadores, también el Ben Ha’Adam se avergonzará cuando venga en la gloria de su Padre con sus santos ángeles. | Abre la transición: Yeshúa habla de sí mismo como Ben HaAdam antes de anunciar la visión del reino venido con poder. |
+| #marcos_9_1 | TTH: Y Él les dijo: Verdaderamente Yo les digo que hay hombres aquí parados que no probarán la muerte hasta que vean el reino de Elohim viniendo con poder. | La clase identifica esta promesa con la escena inmediata de la metamorfosis. |
+| #marcos_9_2 | TTH: Y después de seis días, tomó Yeshúa a Kefa, a Yaakov y a Yojanán, y los hizo subir a un monte alto, solos, y se transformó delante de ellos;Delitzsch: וישתנה לעיניהם. | La transformación revela quién es el Mesías, no solo un prodigio visual. |
+| #marcos_9_3 | TTH: y sus vestiduras estuvieron resplandecientes y muy blancas como la nieve, semejante a ellas no podría ningún lavador sobre la tierra emblanquecer. | Se conecta con #daniel_7_9 y la figura del Anciano de días. |
+| #marcos_9_7 | TTH: Y hubo una nube que los cubrió, y vino una voz de la nube, diciendo: Este es mi Hijo amado, escúchenlo. | La bat kol centra la atención en Yehoshua; ver también [[../temas/bat_kol\|Bat Kol: Hijo, Siervo y Testimonio]]. |
 | #marcos_9_8 | TTH: "no vieron a nadie más, sino a Yeshúa sólo con ellos." | La clase lo lee como cierre interpretativo: Moisés y Eliyahu quedan reunidos en él. |
-| #marcos_9_9 | TTH: no contaran lo visto hasta que el Ben HaAdam se levantara de los muertos. | El título Ben HaAdam queda unido a muerte y resurrección. |
-| #marcos_10_33 | TTH: el Ben HaAdam será entregado, condenado y entregado a gentiles. | Ejemplo de Yeshúa apropiándose el título para hablar de su padecimiento. |
-| #marcos_13_26 | TTH: verán al Ben HaAdam venir en las nubes con fuerza y honra. | Conecta Marcos con Daniel 7 y la venida en nubes. |
-| #romanos_9_6-8 | TTH: "no todos los que son de Israel son Israel"; tampoco todos los descendientes físicos de Abraham son hijos, sino que los hijos del juramento son considerados simiente. | La clase usa este pasaje para distinguir descendencia física de la condición de hijo y heredero. |
+| #marcos_9_9 | TTH: Y cuando descendieron del monte, Él les ordenó que no contaran lo que habían visto, sino después de que el Ben Ha’Adam se levantara de los muertos. | El título Ben HaAdam queda unido a muerte y resurrección. |
+| #marcos_10_33 | TTH: Pues, he aquí, nosotros subimos a Yerushaláim, y el Ben Ha’Adam¹³¹ será entregado a los sacerdotes y a los escribas, y condenarán su cabeza a muerte, y lo entregarán en manos de los gentiles. | Ejemplo de Yeshúa apropiándose el título para hablar de su padecimiento. |
+| #marcos_13_26 | TTH: Y entonces verán al Ben Ha’Adam venir en las nubes¹⁷⁷ con gran fuerza y con honra. | Conecta Marcos con Daniel 7 y la venida en nubes. |
+| #romanos_9_6-8 | TTH: Y por eso, la Palabra de Elohim no ha caído a tierra, porque no todos los que son de Israel son Israel, y tampoco por ser simiente de Abraham son todos hijos, porque: En Yitzjak será llamada para ti simiente⁸⁵. Esto es, no los que son hijos de la carne son hijos de Elohim, sino que los hijos del juramento son considerados simiente. | La clase usa este pasaje para distinguir descendencia física de la condición de hijo y heredero. |
 | #daniel_7_9 | OE: "לבושה כתלג חור ושער ראשה כעמר נקא... גלגלוהי נור דלק". | Vestido blanco, cabello como lana y ruedas de fuego dan el campo simbólico de la escena. |
 | #daniel_7_13-14 | OE: "כבר אנש... ולה יהיב שלטן ויקר ומלכו". | El Bar Enash recibe dominio, honra y reino indestructible. |
 | #melajim_bet_2_11 | OE: "רכב אש וסוסי אש... ויעל אליהו בסערה השמים". | El fuego y la carroza evocan a Eliyahu dentro del lenguaje de la clase. |
-| #juan_7_37-38 | TTH: en el gran día de la fiesta, Yeshúa habla de ríos de aguas vivas "como dice la Escritura". | La clase propone que la pista apunta hacia los Ketuvim, especialmente Shir HaShirim leído targúmicamente. |
-| #lucas_24_44-45 | TTH: Torah de Moshéh, profetas y salmos; luego abrió el entendimiento. | Apoya la división tripartita: Torah, Neviim y Ketuvim. |
+| #juan_7_37-38 | TTH: Y en el último día, el grande de la fiesta, se levantó Yeshúa y exclamó, diciendo: ¡Oy, todo el que tenga sed, venga a Mí y beba! Todo el que se afirma en Mí, como dice la Escritura: Ríos de aguas vivas de su vientre fluirán¹¹⁰. | La clase propone que la pista apunta hacia los Ketuvim, especialmente Shir HaShirim leído targúmicamente. |
+| #lucas_24_44-45 | TTH: Y les dijo: Estas palabras son las que les hablé cuando todavía estaba con ustedes: que era necesario llenar todas las cosas que están escritas en la Torah de Moshéh, en los profetas y en los salmos, acerca de Mí. Entonces les abrió el entendimiento para entender las Escrituras. | Apoya la división tripartita: Torah, Neviim y Ketuvim. |
 | #shir_hashirim_4_5 | TTH: "Tus dos pechos son como dos cervatillos gemelos de gacela". | La clase cita el Targum: Moisés y Aharón / Torah y profecía; pendiente de cotejo exacto. |
-| #shir_hashirim_2_1-2 | TTH: shoshanáh de los valles; shoshanáh entre espinos. | Base textual para la asociación pedagógica shoshaná/espinos/corona, que requiere verificación botánica y targúmica. |
+| #shir_hashirim_2_1-2 | TTH: Yo soy la jabatsélet de Sharón, la shoshanáh de los valles. Como la shoshanáh entre los espinos, así es mi compañera entre las hijas. | Base textual para la asociación pedagógica shoshaná/espinos/corona, que requiere verificación botánica y targúmica. |
 | #colosenses_2_2-3 | Delitzsch: "סוד האלהים... וסוד המשיח... כל אצרות החכמה והדעת". | La clase lee los tesoros de sabiduría e inteligencia como Torah y profecía escondidas en el Mesías. |
 | #colosenses_2_9 | Delitzsch: "בו בגופו שכן כל מלא האלהות". | La plenitud corporal del Mesías explica por qué todo converge en él. |
 | #santiago_3_13 | Delitzsch: "מי בכם חכם ונבון... בענות החכמה". | Sabiduría e inteligencia deben mostrarse en mansedumbre y conducta, no en ego religioso. |
@@ -155,7 +155,7 @@ La clase propone esta cadena:
 | Eliyahu | Profecía | Inteligencia |
 | Yeshúa | Plenitud de ambas | Tesoro escondido de Elohim |
 
-Desde ahí lee #colosenses_2_2-3: en el Mesías están escondidos los tesoros de la sabiduría y la inteligencia. La clase no lo entiende como cultura religiosa acumulada, sino como la convergencia de Torah y profecía en una persona. #colosenses_2_9 intensifica esa lectura: en él habita corporalmente la plenitud de la deidad.
+La equivalencia entre esas categorías es pedagógica. El griego de #colosenses_2_3 usa **(γνῶσις)**, _gnōsis_, conocimiento, y Delitzsch **(דעת)**, _daat_; “inteligencia” no debe atribuirse como cita literal a esos testigos. Desde ahí lee #colosenses_2_2-3: en el Mesías están escondidos los tesoros de la sabiduría y la inteligencia. La clase no lo entiende como cultura religiosa acumulada, sino como la convergencia de Torah y profecía en una persona. #colosenses_2_9 intensifica esa lectura: en él habita corporalmente la plenitud de la deidad.
 
 ## Sabiduría como sujeción, no como ego intelectual
 
@@ -188,8 +188,17 @@ En ese marco, #shir_hashirim_4_5 se menciona por la interpretación targúmica d
 - [ ] Verificar en fuentes midráshicas la afirmación de que los patriarcas son llamados **(מרכבה)** por su sujeción a Elohim.
 - [ ] Revisar el uso botánico y simbólico de **(שושנה)** antes de afirmar que en Shir HaShirim implica una planta espinosa.
 - [ ] Cotejar la equivalencia pedagógica **jojmá = Torah / biná = profecía** en fuentes judías primarias.
-- [ ] Revisar si #colosenses_2_3 debe citarse como "conocimiento" o "inteligencia" según el griego, Delitzsch y la línea de la clase.
+- [ ] Precisar las fuentes del esquema Torah/sabiduría y profecía/inteligencia; #colosenses_2_3 tiene γνώσεως, conocimiento, y Delitzsch דעת. “Inteligencia” es la aplicación de Eric, no una sustitución del texto.
 - [ ] Ampliar con Nejemiah 8 el argumento sobre lectura hebrea, explicación y tradición aramea.
+
+## Mapa de la enseñanza de Eric
+
+| Pasaje | Observación de la clase | Tratamiento en la nota |
+| --- | --- | --- |
+| #marcos_9_1-9 | La metamorfosis revela el reino venido con poder y culmina con Yehoshua solo. | Se conserva la secuencia; identificar todos los símbolos con Torah y profecía es lectura atribuida. |
+| #daniel_7_9-14 | Vestiduras blancas y Bar Enash ofrecen el marco de la manifestación mesiánica. | Conexión intertextual cualificada, sin añadir cabellos blancos al relato de Marcos. |
+| #juan_7_37-38; #shir_hashirim_4_15 | Eric propone una lectura targúmica de aguas vivas y Levanón como altar. | Fuente targúmica y referencia ritual pendientes de cotejo directo. |
+| #colosenses_2_3; #shir_hashirim_2_1-2 | Sabiduría, conocimiento y flor entre espinos se incorporan al glosario simbólico. | Se restauran los textos locales; las equivalencias simbólicas y botánicas permanecen pedagógicas y pendientes. |
 
 ## Créditos
 
@@ -206,4 +215,4 @@ La clase presenta Marcos 9 como una escena de revelación, no como una visión a
 - [[../temas/bat_kol|Bat Kol: Hijo, Siervo y Testimonio]]
 - [[juan_9_ben_adam_y_el_ciego|Yojanán 9: Ben Adam y el ciego que se postró]]
 - [[../temas/ben_hijo_titulos_mesias|Ben, hijo y títulos del Mesías]]
-- [[juan_12_ben_haadam_hijos_luz|Yojanán 12: Ben HaAdam e hijos de luz]]
+- [[juan_12_camino_hora_luz_palabra#Dossier integrado: Yojanán 12: Ben HaAdam y los hijos de luz|Yojanán 12: Ben HaAdam e hijos de luz]]

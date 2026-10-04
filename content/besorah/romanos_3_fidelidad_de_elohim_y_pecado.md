@@ -41,6 +41,8 @@ references:
   - "#yeshayahu_59_8"
   - "#tehilim_36_2"
 sources:
+  - "https://github.com/morphgnt/sblgnt/blob/master/66-Ro-morphgnt.txt"
+  - "https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/Rom.txt"
   - "https://www.youtube.com/watch?v=wb-2RKsjztY"
   - "docs/scriptures/tth/json/romanos.json"
   - "docs/scriptures/oe/json/psalms/51.json"
@@ -66,20 +68,23 @@ Esta nota organiza la clase 6 de la serie de Romanos del hermano Eric de Jesús 
 
 | Referencia | Texto local | Función en la clase |
 | --- | --- | --- |
-| #romanos_3_1-4 | **¿Y qué es la abundancia del iehudí? ¿O, qué es el beneficio de la circuncisión? Grandemente mucho, en todas maneras. Primeramente, porque les han sido entregadas las palabras de Elohim. ¿Y qué será si algunos hombres no se han afirmado? ¿La apostasía de ellos hará vacua la emunah de Elohim? ¡Profanación! Será יהוה firme y todo hombre mentiroso, como está escrito: A fin de que estés justificado en tu hablar, limpio en tu juzgar.** (TTH) | Conserva el privilegio de Israel y afirma que la infidelidad de algunos no altera la firmeza de יהוה. |
-| #romanos_3_5-8 | **Y si la injusticia de ellos establece a la justicia de Elohim, ¿qué diremos? ¿Será violento Elohim ardiendo en su nariz? —como hombre hablo... ¿por qué no decir... Hagamos males para que vengan bienes?, que el juicio de ellos es juzgado.** (TTH) | Rechaza la conclusión de que la justicia divina autoriza el mal o que Pablo lo enseña. |
-| #romanos_3_9-12 | **¿Y qué? ¿Valemos más? De ninguna manera. Pues hemos acusado a los yehudim y a los ievanim que todos ellos están bajo pecado, como está escrito: Justo no hay aun uno. No hay prudente, que busque a Elohim. Todo se desvió... no hay hacedor del bien, no hay aun uno.** (TTH) | Coloca a todos bajo la acusación común y usa el Tanaj como testigo. |
-| #romanos_3_13-18 | **Tumba abierta su garganta; harán suave su lengua. Veneno de víbora hay bajo sus labios... Sus pies se apresuran para derramar sangre... Camino de shalom no conocen. No hay temor de Elohim delante de sus ojos.** (TTH) | Describe la corrupción de la palabra, la violencia de las acciones y la ausencia del temor de Elohim. |
-| #romanos_3_19-20 | **Todo lo que habla esta Torah, habla a estos que están en esta Torah, a fin de que toda boca se cierre y todo el olam se someta a Elohim. Por eso, por obras de Torah no será justificada ninguna carne delante de Él, porque por esta Torah es el conocimiento del pecado.** (TTH) | Define la función de la Torah en esta unidad: cerrar la jactancia y dar conocimiento del pecado. |
+| #romanos_3_1-4 | TTH: ¿Y qué es la abundancia del iehudí²³? ¿O, qué es el beneficio de la circuncisión? Grandemente mucho, en todas maneras. Primeramente, porque les han sido entregadas las palabras de Elohim. ¿Y qué será si algunos hombres no se han afirmado? ¿La apostasía de ellos hará vacua la emunah²⁴ de Elohim? ¡Profanación! Será יהוה firme²⁵ y todo hombre mentiroso, como está escrito: A fin de que estés justificado en tu hablar, limpio en tu juzgar²⁶. | Conserva el privilegio de Israel y afirma que la infidelidad de algunos no altera la firmeza de יהוה. |
+| #romanos_3_5-8 | TTH: Y si la injusticia de ellos establece a la justicia de Elohim, ¿qué diremos? ¿Será violento Elohim ardiendo en su nariz? –como hombre hablo. ¡Profanación! ¿Y cómo juzgaría Elohim al olam? Pero si la verdad de Elohim por mi mentira abundó para su gloria, ¿por qué todavía soy juzgado como pecador? ¿Y por qué no decir, según estamos siendo injuriados, y como dicen hombres, diciendo de nosotros: Hagamos males para que vengan bienes?, que el juicio de ellos es juzgado. | Rechaza la conclusión de que la justicia divina autoriza el mal o que Pablo lo enseña. |
+| #romanos_3_9-12 | TTH: ¿Y qué? ¿Valemos más? De ninguna manera. Pues hemos acusado a los yehudim²⁷ y a los ievanim²⁸ que todos ellos están bajo pecado, como está escrito: Justo no hay aun uno²⁹. No hay prudente, que busque a Elohim³⁰. Todo se desvió, juntos se han infectado; no hay hacedor del bien, no hay aun uno³¹. | Coloca a todos bajo la acusación común y usa el Tanaj como testigo. |
+| #romanos_3_13-18 | Delitzsch: קבר פתוח גרונם לשונם יחליקון חמת עכשוב תחת שפתימו אשר אלה פיהם מלא ומררות רגליהם ימהרו לשפךדם שד ושבר במסלותם ודרך שלום לא ידעו אין פחד אלהים לנגד עיניהם | Describe la corrupción de la palabra, la violencia de las acciones y la ausencia del temor de Elohim. |
+| #romanos_3_19-20 | TTH: Y sabemos que todo lo que habla esta Torah³⁹, habla a estos que están en esta Torah, a fin de que toda boca se cierre y todo el olam se someta a Elohim. Por eso, por obras de Torah no será justificada ninguna carne delante de Él, porque por esta Torah es el conocimiento del pecado. | Define la función de la Torah en esta unidad: cerrar la jactancia y dar conocimiento del pecado. |
 
 ### Testigos del Tanaj reunidos por Pablo
 
 | Referencia | Hebreo local OE, normalizado | Relación con Romanos 3 |
 | --- | --- | --- |
-| #tehilim_51_6 | **לך לבדך חטאתי והרע בעיניך עשיתי למען תצדק בדברך תזכה בשפטך** | David confiesa el pecado y reconoce que יהוה es justo en su palabra y juicio. |
-| #tehilim_14_1-3 | **אמר נבל בלבו אין אלהים... יהוה משמים השקיף על בני אדם... הכל סר יחדו נאלחו אין עשה טוב אין גם אחד** | Presenta la corrupción general y la búsqueda ausente de Elohim. |
-| #tehilim_53_2-3 | **אמר נבל בלבו אין אלהים השחיתו והתעיבו עול אין עשה טוב / אלהים משמים השקיף על בני אדם לראות היש משכיל דרש את אלהים** | Repite y refuerza el diagnóstico de Salmo 14. |
-| #mishlei_1_16; #yeshayahu_59_7-8; #tehilim_36_2 | **כי רגליהם לרע ירוצו וימהרו לשפך דם נקי... / רגליהם לרע ירצו... דרך שלום לא ידעו... / נאם פשע לרשע בקרב לבי אין פחד אלהים לנגד עיניו** | Ilustran pies violentos, caminos sin shalom y ausencia del temor de Elohim. |
+| #tehilim_51_6 | OE: לך לבדך חטאתי והרע בעיניך עשיתי למען תצדק בדברך תזכה בשפטך | David confiesa el pecado y reconoce que יהוה es justo en su palabra y juicio. |
+| #tehilim_14_1-3 | OE: למנצח לדוד אמר נבל בלבו אין אלהים השחיתו התעיבו עלילה אין עשה טוב יהוה משמים השקיף על בני אדם לראות היש משכיל דרש את אלהים הכל סר יחדו נאלחו אין עשה טוב אין גם אחד | Presenta la corrupción general y la búsqueda ausente de Elohim. |
+| #tehilim_53_2-4 | OE: אמר נבל בלבו אין אלהים השחיתו והתעיבו עול אין עשה טוב אלהים משמים השקיף על בני אדם לראות היש משכיל דרש את אלהים כלו סג יחדו נאלחו אין עשה טוב אין גם אחד | Repite y refuerza el diagnóstico de Salmo 14. |
+| #mishlei_1_16; #yeshayahu_59_7-8; #tehilim_36_2 | OE: כי רגליהם לרע ירוצו וימהרו לשפך דם רגליהם לרע ירצו וימהרו לשפך דם נקי מחשבותיהם מחשבות און שד ושבר במסלותם דרך שלום לא ידעו ואין משפט במעגלותם נתיבותיהם עקשו להם כל דרך בה לא ידע שלום נאם פשע לרשע בקרב לבי אין פחד אלהים לנגד עיניו | Ilustran pies violentos, caminos sin shalom y ausencia del temor de Elohim. |
+| #tehilim_5_10 | OE: כי אין בפיהו נכונה קרבם הוות קבר פתוח גרונם לשונם יחליקון | Testigo de la composición sobre garganta, labios o boca; se conserva numeración OE. |
+| #tehilim_140_4 | OE: שננו לשונם כמו נחש חמת עכשוב תחת שפתימו סלה | Testigo de la composición sobre garganta, labios o boca; se conserva numeración OE. |
+| #tehilim_10_7 | OE: אלה פיהו מלא ומרמות ותך תחת לשונו עמל ואון | Testigo de la composición sobre garganta, labios o boca; se conserva numeración OE. |
 
 ## 3:1-4: privilegio, infidelidad y la firmeza de יהוה #romanos_3_1-4
 
@@ -88,6 +93,8 @@ La clase comienza retomando la conclusión del capítulo anterior: el valor del 
 La pregunta siguiente es decisiva: ¿la apostasía humana vuelve vacía la emunah de Elohim? Romanos responde con una negación fuerte. El TTH traduce «será יהוה firme y todo hombre mentiroso», enlazando la firmeza divina con la falsedad humana. La clase explica **(נאמן)**, _neemán_, como algo más denso que una fidelidad romántica: estable, afirmado y digno de confianza. Esa explicación conserva un sentido teológico válido, pero la relación detallada entre _neemán_, _emunah_ y **(ἀλήθεια)** debe verificarse con léxicos y no tratarse como equivalencia perfecta.
 
 Pablo cita el Salmo 51:6. El OE dice: «a ti solo he pecado... para que seas justo en tu palabra y limpio en tu juicio». En la lectura de Eric, David habla desde su pecado, pero el principio alcanza al pueblo: cuando el ser humano es expuesto como mentiroso, la palabra y el juicio de יהוה aparecen justos. El versículo no convierte la injusticia en instrumento moralmente deseable; declara la rectitud de Elohim frente al pecado confesado.
+
+En 3:2, **ἐπιστεύθησαν** es pasivo: a ellos se les confiaron las palabras de Elohim. En 3:3, **ἠπίστησαν** describe la infidelidad o incredulidad de algunos; no es **ἐπίστευσαν**, «creyeron». El v. 4 llama a Elohim **ἀληθής**, adjetivo «verdadero», mientras TTH dice «firme». La asociación de Eric con _neemán_ preserva su argumento de fidelidad divina, sin sustituir las formas o la voz verbal.
 
 ## 3:5-8: la retórica no convierte el mal en bien #romanos_3_5-8
 
@@ -103,6 +110,8 @@ Después Pablo no cita una sola línea aislada como si Salmo 14 o 53 dijeran pal
 
 La cadena avanza desde la garganta y los labios hasta los pies y los caminos. La clase explica «harán suave su lengua» como suavizar la Torah, volverla cómoda y decir que el pecado no es pecado. El texto local sí presenta garganta abierta, veneno, maldición, engaño, violencia, sangre y caminos sin shalom. La asociación específica con la «mujer ajena» de Proverbios es una aplicación intertextual de la sesión, no el sentido exclusivo demostrado por Romanos 3. La advertencia verificable es más amplia: la boca y la conducta del ser humano pueden producir muerte y no manifiestan por sí mismas el temor de Elohim.
 
+La cadena se coteja por unidades: Tehilim 14:1-3 y 53:2-4 sostienen el diagnóstico general; 5:10, la garganta y lengua; 140:4, el veneno; 10:7, la boca; Yeshayahu 59:7-8, los pies y caminos; y Tehilim 36:2, la falta de temor. La numeración OE cuenta los encabezados. No es una sola cita literal continua. El griego **ἐδολιοῦσαν** en 3:13 expresa engaño con las lenguas; el «harán suave» del TTH y la aplicación de Eric a suavizar la Torah son lectura del testigo y pedagogía, no la definición griega de suavizar.
+
 ## 3:19-20: la Torah cierra la boca y revela el pecado #romanos_3_19-20
 
 El cierre define la función de la Torah en esta sección. Habla a quienes están bajo su ámbito «a fin de que toda boca se cierre y todo el olam se someta a Elohim». La Torah no se presenta como un problema que deba abolirse, sino como el testigo que impide la jactancia y hace conocido el pecado. «Por obras de Torah no será justificada ninguna carne» no autoriza a llamar mala a la Torah; especifica que la posesión o ejecución de obras no crea una justicia propia delante de Elohim.
@@ -113,11 +122,11 @@ Eric conecta esta conclusión con la «Torah del Mesías» y sostiene que no es 
 
 | Forma | Transliteración | Sentido normal | Fuerza contextual |
 | --- | --- | --- | --- |
-| **(ἐπίστευσαν)** / **(πίστις)** | _episteusan / pistis_ | confiar, creer / confianza, fidelidad | El TTH usa _afirmarse_ y _emunah_. La relación con **(אמונה)**, _emunah_, es aproximada: el contexto incluye confianza y firmeza, no solo asentimiento mental. |
+| **(ἐπιστεύθησαν)** / **(ἠπίστησαν)** / **(πίστις)** | _episteuthēsan / ēpistēsan / pistis_ | fueron confiadas / fueron infieles o no creyeron / confianza, fidelidad | El TTH usa _afirmarse_ y _emunah_. La relación con **(אמונה)**, _emunah_, es aproximada: el contexto incluye confianza y firmeza, no solo asentimiento mental. |
 | **(ψεύστης)** | _pseustēs_ | mentiroso | En 3:4 contrasta la falsedad humana con la firmeza y verdad de יהוה. No afirma que cada palabra humana sea falsa en todo contexto. |
 | **(δικαιόω)** | _dikaioō_ | declarar justo, vindicar o justificar según contexto | La nota conserva «justificado» del TTH y evita decidir aquí todas sus implicaciones en Romanos. |
 | **(ὀργή)** | _orgē_ | ira, reacción judicial | La explicación de «nariz ardiente» es una imagen semítica contextual; no reduce la justicia de Elohim a una emoción humana. |
-| **(καταδικάζω)** | _katadikazō_ | condenar, juzgar adversamente | La clase explica el juicio de los calumniadores; la atribución exacta debe cotejarse con la forma griega del versículo 8. |
+| **(κρίμα ἔνδικον)** | _krima endikon_ | juicio/condena justa | Son el sustantivo y el adjetivo de 3:8; no aparece el verbo καταδικάζω. La respuesta condena la calumnia, sin aceptar «hagamos males». |
 | **(ἁμαρτία)** | _hamartia_ | pecado, transgresión | «Bajo pecado» tiene fuerza de condición y acusación común en 3:9, no solo de errores aislados. |
 
 ## Mapa de la enseñanza de Eric
@@ -132,7 +141,7 @@ Eric conecta esta conclusión con la «Torah del Mesías» y sostiene que no es 
 ## Pendiente de verificar
 
 - [ ] Cotejar la sintaxis griega de Romanos 3:7-8 y precisar el referente de «mi mentira» y «el juicio de ellos».
-- [ ] Identificar uno por uno los testigos del Tanaj en Romanos 3:10-18 y comparar hebreo, griego y la forma citada por Pablo.
+- [x] Localizar la composición en Tehilim 14, 53, 5, 140, 10 y 36, y Yeshayahu 59; se cotejan OE y SBLGNT, sin tratar la composición como una cita hebrea literal única. El estudio exhaustivo de testigos griegos externos queda abierto.
 - [ ] Verificar con léxicos la explicación de _neemán_, _emunah_, «harán suave» y «nariz ardiente» antes de formular equivalencias exactas.
 - [ ] Leer Romanos 3:19-20 con 3:21-31 para no separar el diagnóstico de pecado de la respuesta de justicia que sigue.
 - [ ] Comprobar las referencias de la clase a la resurrección y al encuentro de Pablo con Yehoshua en otras fuentes apostólicas; no son el desarrollo directo de Romanos 3:1-20.

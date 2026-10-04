@@ -39,7 +39,7 @@ references:
   - "#tehilim_115_17"
 sources:
   - "https://www.youtube.com/live/-W2giXMqvUE"
-  - "docs/scriptures/tth/json/yojanan.json"
+  - "docs/scriptures/tth/json/iojanan.json"
   - "docs/scriptures/tth/json/romanos.json"
   - "docs/scriptures/tth/json/tehilim.json"
   - "docs/scriptures/delitzsch/json/john.json"
@@ -58,9 +58,9 @@ translation: "[TTH, Delitzsch, OE]"
 
 # Tesis
 
-La clase lee el cierre de Yojanan 9 como una escena de revelación: el hombre que había nacido ciego es expulsado por los perushim, Yeshúa lo busca, le revela quién es el objeto de su fidelidad, y el hombre responde afirmándose y postrándose ante él. El argumento del video conecta esa escena con el título "Ben Adam", no como una forma débil de decir "humano", sino como una clave para distinguir entre Adam corruptible y el Adam celestial que trae vida.
+La clase lee el cierre de Yojanan 9 como una escena de revelación: el hombre que había nacido ciego es expulsado por los perushim, Yehoshua lo busca, le revela quién es el objeto de su fidelidad, y el hombre responde afirmándose y postrándose ante él. El argumento del video conecta esa escena con el título "Ben Adam", no como una forma débil de decir "humano", sino como una clave para distinguir entre Adam corruptible y el Adam celestial que trae vida.
 
-El punto central es que Yeshúa no conduce al ciego a rendir fidelidad a otro dios. Si acepta la fidelidad y la postración, entonces la escena solo se sostiene dentro de la identidad del Elohim de Israel revelándose en Yeshúa. De otro modo, el relato caería en el patrón de un falso profeta que desvía la adoración.
+El argumento doctrinal de la clase es que Yehoshua no conduce al ciego a rendir fidelidad a otro dios. Si acepta la fidelidad y la postración, entonces la escena solo se sostiene dentro de la identidad del Elohim de Israel revelándose en Yehoshua. De otro modo, el relato caería en el patrón de un falso profeta que desvía la adoración.
 
 ## Alcance de la nota
 
@@ -141,7 +141,7 @@ Finalmente, en #juan_9_39-41 Eric lee la vista y la ceguera como juicio revelado
 
 ## Ben Adam y Adam
 
-La clase distingue entre "ben Adam" como hijo de Adam corruptible y el uso mesiánico del título en Yeshúa. En Yejezkel, "ben Adam" se dirige al profeta como un hombre sujeto a la condición humana:
+La clase distingue entre "ben Adam" como hijo de Adam corruptible y el uso mesiánico del título en Yehoshua. En Yejezkel, "ben Adam" se dirige al profeta como un hombre sujeto a la condición humana:
 
 | Referencia    | Hebreo local                                            | Función                                                                   |
 | ------------- | ------------------------------------------------------- | ------------------------------------------------------------------------- |
@@ -164,7 +164,7 @@ La clase apoya la distinción en Romanos 5 y 1 Corintios 15:
 | #1_corintios_15_49 | וכאשר לבשנו צלם האדם שהוא שלעפר כן נלבש גםצלם האדם שהוא שלהשמים                 | — (sin TTH local)                                      | La esperanza es portar la imagen del celestial, no quedar en la imagen del terrenal.  |
 | #1_pedro_1_23        | כנולדים שנית לא מזרע נשחת כי אםמזרע לא ישחת במאמר שלאלהים החי והקים לעולם       | — (sin TTH local)                                      | La clase vincula la vida nueva con semilla incorruptible.                             |
 
-Desde esa línea, "Ben Adam" aplicado a Yeshúa no debería rebajarse a "un humano cualquiera". La clase propone oírlo como "portador de aquel Adam", el Adam de arriba, incorruptible y celestial. Esta formulación necesita seguir cotejándose con los textos griegos y hebreos, pero funciona como tesis interpretativa del video.
+Desde esa línea, "Ben Adam" aplicado a Yehoshua no debería rebajarse a "un humano cualquiera". La clase propone oírlo como "portador de aquel Adam", el Adam de arriba, incorruptible y celestial. Esta formulación necesita seguir cotejándose con los textos griegos y hebreos, pero funciona como tesis interpretativa del video.
 
 ## La muerte y la imposibilidad de redención humana
 
@@ -180,7 +180,7 @@ La conclusión del video es que si el Mesías fuera solo un ben Adam corruptible
 
 ## Postración aceptada y postración rechazada
 
-La escena de #juan_9_38 se interpreta por contraste. Cuando Cornelio se postra ante Pedro, Pedro lo levanta. Cuando Yojanan se postra ante el mensajero celestial, el mensajero lo prohíbe. En cambio, Yeshúa no corrige al ciego.
+La escena de #juan_9_38 se interpreta por contraste. Cuando Cornelio se postra ante Pedro, Pedro lo levanta. Cuando Yojanan se postra ante el mensajero celestial, el mensajero lo prohíbe. En cambio, Yehoshua no corrige al ciego.
 
 | Referencia              | Texto local                                               | Respuesta                                                                        |
 | ----------------------- | --------------------------------------------------------- | -------------------------------------------------------------------------------- | ----------------------------------------------------------------- |
@@ -189,15 +189,17 @@ La escena de #juan_9_38 se interpreta por contraste. Cuando Cornelio se postra a
 | #hechos_10_26 | Delitzsch: "ויקם אותו פטרוס ויאמר קום כי גםאני אנוש אנכי" | Pedro lo levanta y declara que él también es hombre.                             |
 | #apocalipsis_19_10            | ראה אלתעשהזאת עבד אני כמוך... השתחוה לאלהים               | Y caí a mis pies para postrármele, pero me dijo: ¡Guárdate!... Póstrate a Elohim | El mensajero rechaza la postración y manda postrarse ante Elohim. |
 
-La clase usa esta comparación para sostener que Yeshúa no se comporta como un simple enviado creado. Si fuera solo un siervo, tendría que rechazar la postración como Pedro o como el mensajero de Jizayon. La aceptación de la postración se vuelve parte del testimonio de Yojanan sobre la identidad de Yeshúa.
+La clase usa esta comparación para sostener que Yehoshua no se comporta como un simple enviado creado. Si fuera solo un siervo, tendría que rechazar la postración como Pedro o como el mensajero de Jizayon. La aceptación de la postración se vuelve parte del testimonio de Yojanan sobre la identidad de Yehoshua.
 
 ## Conexión con el contexto histórico de Yojanan
 
-El video ubica el evangelio en la última parte del siglo I, después de la destrucción del templo y en un ambiente de disputa con líneas judías que no recibieron a Yeshúa como Mesías. Desde esa perspectiva, Yojanan insiste en que Yeshúa es la luz, el templo mayor, el Mesías y la revelación del Elohim de Israel.
+El video ubica el evangelio en la última parte del siglo I, después de la destrucción del templo y en un ambiente de disputa con líneas judías que no recibieron a Yehoshua como Mesías. Desde esa perspectiva, Yojanan insiste en que Yehoshua es la luz, el templo mayor, el Mesías y la revelación del Elohim de Israel.
 
-Esta lectura ayuda a explicar por qué el relato del ciego no termina solo en una sanidad. Termina en juicio, confesión y postración. Los que dicen "sabemos" no ven; el que nació ciego llega a ver, afirmarse y responder ante Yeshúa.
+Esta lectura ayuda a explicar por qué el relato del ciego no termina solo en una sanidad. Termina en juicio, confesión y postración. Los que dicen "sabemos" no ven; el que nació ciego llega a ver, afirmarse y responder ante Yehoshua.
 
 ## Pendiente de verificar
+
+- [ ] Documentar la reconstrucción del evangelio como respuesta a grupos reorganizados después del 70 EC; no tratar esa fecha y ese conflicto como hechos demostrados por la escena.
 
 - [ ] Cotejar el aparato textual de #juan_9_35: el video desarrolla "Hijo del Hombre / Ben Adam", mientras TTH y Delitzsch locales reflejan "Hijo de Elohim".
 - [ ] Revisar con el texto griego la relación entre `pisteuo eis` y la formulación española "afirmarse en / exhibir fidelidad en función de".
@@ -214,9 +216,9 @@ Esta lectura ayuda a explicar por qué el relato del ciego no termina solo en un
 
 ## Conclusión
 
-La clase presenta #juan_9_35-38 como una escena de identificación mesiánica fuerte: Yeshúa no solo sana al ciego, sino que recibe la fidelidad y la postración del hombre sanado. La diferencia entre Adam corruptible y Adam celestial sostiene el argumento de que el Mesías no puede reducirse a un hombre ordinario ni a un enviado separado de la gloria de יהוה.
+La clase presenta #juan_9_35-38 como una escena de identificación mesiánica fuerte: Yehoshua no solo sana al ciego, sino que recibe la fidelidad y la postración del hombre sanado. La diferencia entre Adam corruptible y Adam celestial sostiene el argumento de que el Mesías no puede reducirse a un hombre ordinario ni a un enviado separado de la gloria de יהוה.
 
-La sanidad abre los ojos; la revelación exige una respuesta. En el relato, el ciego ve mejor que quienes decían saber, porque reconoce en Yeshúa al que puede recibir la fidelidad que pertenece a Elohim.
+La sanidad abre los ojos; la revelación exige una respuesta. En el relato, el ciego ve mejor que quienes decían saber, porque reconoce en Yehoshua al que puede recibir la fidelidad que pertenece a Elohim.
 
 ## Créditos
 

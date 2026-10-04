@@ -21,12 +21,14 @@ references:
   - "#romanos_16_25"
   - "#romanos_16_26"
 sources:
+  - "https://github.com/morphgnt/sblgnt/blob/master/66-Ro-morphgnt.txt"
+  - "https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/Rom.txt"
   - "https://www.youtube.com/watch?v=YuANrfa9CsQ"
   - "docs/scriptures/tth/json/romanos.json"
   - "docs/scriptures/delitzsch/json/romans.json"
 source_ids:
   - "youtube:YuANrfa9CsQ"
-translation: "[TTH, Delitzsch]"
+translation: "[TTH]"
 ---
 
 # Tesis
@@ -39,13 +41,13 @@ Esta nota organiza la sesión final de la serie del hermano Eric de Jesús Rodr�
 
 ## Hoja de comparación
 
-| Referencia | Texto local (TTH) | Función en la clase |
+| Referencia | Texto local | Función en el argumento |
 | --- | --- | --- |
-| #romanos_16_1-2 | **Y les encargo a Foibe, nuestra hermana, que es sierva de la congregación que está en Kéncreas, que la reciban en יהוה... y que la sostengan... porque también ella ha sido ayudadora de muchos, y también de mí mismo.** | Presenta servicio, recepción y ayuda material sin anonimato. |
-| #romanos_16_3-7 | **Pregunten por el shalom de Prisca y Aquilas, mis compañeros de obra... Pregunten por el shalom de Miriam, la cual ha trabajado mucho... Andrónicos y Iunías, mis parientes...** | La despedida recuerda riesgo, trabajo, parentesco y antigüedad en el Mesías. |
-| #romanos_16_16-20 | **Pregunten un hombre a su compañero por el shalom... observen a los que hacen divisiones y tropiezos contra la enseñanza... el Elohim de shalom aplastará a Ha’satán pronto debajo de los pies de ustedes.** | El cuidado mutuo exige también discernir doctrina, intención y fruto. |
-| #romanos_16_21-23 | **Timoteos, mi compañero de obra... Yo, Tértios, el que escribe esta carta... Gayos, hospedador mío y de toda la congregación...** | Visibiliza la cooperación detrás de la carta y la hospitalidad congregacional. |
-| #romanos_16_25-27 | **...conforme la revelación del misterio... dado a conocer a todos los gentiles para la obediencia a la emunah...** | La doxología vuelve de los saludos al propósito de la Besorah. |
+| #romanos_16_1-2 | TTH: Y les encargo a Foíbe, nuestra hermana, que es sierva de la congregación que está en Kéncreas¹⁹⁴, que la reciban en יהוה, como es digno de los kedoshim¹⁹⁵, y que la sostengan en cualquier cosa que necesite de ustedes, porque también ella ha sido ayudadora de muchos, y también de mí mismo. | Recomendación, recepción y ayuda a Foibe. |
+| #romanos_16_3-16 | TTH: Pregunten por el shalom¹⁹⁶ de Prisca¹⁹⁷ y Aquilas, mis compañeros de obra en Yeshúa el Mesías, quienes por mi vida pusieron sus cuellos, a quienes no solo yo doy gracias, sino también todas las congregaciones de los gentiles, y a la congregación de la casa. Pregunten por el shalom de Epénetos, amado mío, que es la primicia de Asia¹⁹⁸ para el Mesías. Pregunten por el shalom de Miriam, la cual ha trabajado mucho para ustedes. Pregunten por el shalom de Andrónicos y Iunías, mis parientes y los que fueron cautivos conmigo, quienes son honrados entre los enviados¹⁹⁹, los cuales también fueron antes de mí en el Mesías. Pregunten por el shalom de Amplías, amado mío en יהוה. Pregunten por el shalom de Urbanós, nuestro ayudador en Yeshúa el Mesías, y de Stájis, amado mío. Pregunten por el shalom de Apeles, refinado en el Mesías. Pregunten por el shalom de los de la casa de Aristóbulos. Pregunten por el shalom de Herodión, mi pariente. Pregunten por el shalom de los de la casa de Nárquisos, los cuales están en יהוה. Pregunten por el shalom de Trifaina y Trifosa, los cuales trabajan en יהוה. Pregunten por el shalom de Pérsida la amada, la cual ha trabajado mucho en יהוה. Pregunten por el shalom de Rufos, escogido en יהוה, y a su madre y mía. Pregunten por el shalom de Asíncritos, Flegonte, Hermes, Patrobas, Hermas, y a los hermanos que están con ellos. Pregunten por el shalom de Filólogos, Yulia, Nereus y su hermana, Olimpas y a todos los kedoshim que están con ellos. Pregunten un hombre a su compañero por el shalom, con beso santo. ¡Las congregaciones del Mesías preguntan por el shalom de ustedes! | Saludos, trabajos, riesgos y casas. |
+| #romanos_16_17-20 | TTH: Les amonesto, mis hermanos, que observen a los que hacen divisiones y tropiezos contra la enseñanza que ustedes han aprendido, y apártense de ellos. Porque los hombres como estos no sirven a nuestro Adón²⁰⁰ Yeshúa el Mesías, sino a sus propios vientres, y con palabras agradables y bendiciones engañan a los corazones de los ingenuos. Porque la escucha de ustedes ha sido conocida por todos, por eso me alegro por ustedes; pero quiero que sean sabios para el bien e ingenuos para el mal. Y el Elohim de shalom aplastará a Ha’satán²⁰¹ pronto debajo de los pies de ustedes. El favor de nuestro Adón Yeshúa el Mesías sea con ustedes. | División, engaño, obediencia y victoria. |
+| #romanos_16_21-24 | TTH: Preguntan por el shalom de ustedes Timoteos, mi compañero de obra, y Luquios, Yasón y Sosípatros, mis parientes. Yo, Tértios, el que escribe esta carta, pregunto por el shalom de ustedes en יהוה. Gayos, hospedador mío y de toda la congregación, pregunta por el shalom de ustedes. Erastos, tesorero de la ciudad, y el hermano Cuartos, preguntan por el shalom de ustedes. El favor de nuestro Adón Yeshúa el Mesías sea con todos ustedes. Amén. | Colaboradores, escribiente y hospitalidad. |
+| #romanos_16_25-27 | TTH: Y al que puede establecerlos conforme a mi Besorah²⁰² y la proclamación de Yeshúa el Mesías, conforme la revelación del misterio que estaba oculto desde tiempos olam²⁰³, pero que ahora ha sido descubierto, y por medio de los escritos de los profetas, conforme al mandamiento del Elohei Olam²⁰⁴, dado a conocer a todos los gentiles para la obediencia²⁰⁵ a la emunah²⁰⁶, Al único sabio Elohim, por medio de Yeshúa el Mesías sea la gloria, le’olmei olamim²⁰⁷. Amén. | Revelación, naciones y obediencia de fe. |
 
 ## 16:1-2: Foibe, sierva y ayudadora #romanos_16_1-2
 
@@ -60,6 +62,8 @@ Prisca y Aquilas son compañeros de obra que pusieron sus cuellos por la vida de
 Sobre Andrónicos e Iunías (#romanos_16_7), Eric destaca que son parientes de Pablo, compañeros de prisión, honrados entre los enviados y anteriores a él en el Mesías. También usa el nombre Iunías/Junia, cuyo origen relaciona con Juno, para rechazar la obligación moderna de cambiar todo nombre de trasfondo no hebreo. El punto pastoral nace de que Pablo saluda a personas con nombres griegos o romanos sin narrar un cambio; la etimología concreta de cada nombre y la sintaxis de «entre los enviados» necesitan examen especializado.
 
 El saludo culmina en preguntar por el shalom «un hombre a su compañero» (#romanos_16_16). Eric lo entiende como interés activo por deudas, dificultades y estrecheces, no como una fórmula vacía. Esa aplicación armoniza con la larga lista: Pablo recuerda personas, casas, riesgos y trabajos. La afirmación de la clase de que el «beso santo» no es literal debe tratarse como interpretación cultural, porque el versículo sí nombra el beso y esta sesión no ofrece evidencia histórica suficiente para negar toda práctica concreta.
+
+SBLGNT en 16:7 imprime **Ἰουνίαν**, _Iounian_, con la acentuación de Junia, y **ἐπίσημοι ἐν τοῖς ἀποστόλοις**, «destacados entre/en relación con los enviados». La construcción se reproduce sin decidir desde esa frase sola todos los cargos o funciones. Su participación e historia anteriores a Pablo sí quedan explícitas. En 16:16, **ἀσπάσασθε**, _aspasasthe_, de ἀσπάζομαι, significa «salúdense», y **φιλήματι ἁγίῳ** nombra un beso santo. «Preguntar por el shalom» recoge la interpretación TTH y la aplicación de cuidado de Eric; el griego no usa allí un verbo de preguntar ni permite borrar el beso por una glosa.
 
 ## 16:17-20: observar división, engaño e intención #romanos_16_17-20
 

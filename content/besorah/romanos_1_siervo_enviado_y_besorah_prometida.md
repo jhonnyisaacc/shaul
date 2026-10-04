@@ -20,6 +20,8 @@ references:
   - "#bereshit_49_10"
   - "#colosenses_2_9"
 sources:
+  - "https://github.com/morphgnt/sblgnt/blob/master/66-Ro-morphgnt.txt"
+  - "https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/Rom.txt"
   - "https://www.youtube.com/watch?v=WV7tunCQhfQ"
   - "docs/scriptures/tth/json/romanos.json"
   - "docs/scriptures/delitzsch/json/romans.json"
@@ -40,10 +42,12 @@ Esta nota organiza la primera clase de la serie de Romanos del hermano Eric de J
 
 | Referencia | Texto local (TTH) | Función en la clase |
 | --- | --- | --- |
-| #romanos_1_1 | **Paulos, siervo de Yeshúa el Mesías, llamado enviado, separado hacia la Besorah de Elohim** | La identidad apostólica empieza con servicio, llamado y dirección hacia la buena noticia. |
-| #romanos_1_2-4 | **La cual desde antes había sido dada a conocer por los profetas en las Escrituras sagradas, sobre su Hijo, el nacido de la semilla de David según la carne; sobre el Hijo de Elohim, dado a conocer por la potencia del Rúaj Ha’Kódesh por el levantamiento de los muertos, Yeshúa el Mesías Adón nuestro** | La promesa, la descendencia davídica y la resurrección forman una sola presentación del Mesías. |
-| #romanos_1_5-6 | **En el cual hemos tomado el favor y el comisionado para obediencia de la emunah en todas las naciones, sobre su Nombre. Entre los cuales están también ustedes, llamados de Yeshúa el Mesías** | El favor recibido produce comisión y obediencia; Roma está incluida entre las naciones llamadas. |
-| #romanos_1_7 | **A todos ustedes que están en Roma, a los amados de Elohim, a los llamados santos, favor a ustedes, y shalom de Elohim nuestro Padre y nuestro Adón Yeshúa el Mesías** | La comunidad es descrita como amada y apartada antes de cualquier desarrollo posterior. |
+| #romanos_1_1 | TTH: Paulos, siervo de Yeshúa el Mesías, llamado enviado¹, separado hacia la Besorah² de Elohim, | La identidad apostólica empieza con servicio, llamado y dirección hacia la buena noticia. |
+| #romanos_1_2-4 | TTH: la cual desde antes había sido dada a conocer por los profetas en las Escrituras sagradas, sobre su Hijo³, el nacido de la semilla de David según la carne; sobre el Hijo de Elohim, dado a conocer por la potencia del Rúaj Ha’Kódesh⁴ por el levantamiento de los muertos, Yeshúa el Mesías Adón⁵ nuestro; | La promesa, la descendencia davídica y la resurrección forman una sola presentación del Mesías. |
+| #romanos_1_5-6 | TTH: en el cual hemos tomado el favor y el comisionado para obediencia de la emunah⁶ en todas las naciones, sobre su Nombre. Entre los cuales están también ustedes, llamados de Yeshúa el Mesías. | El favor recibido produce comisión y obediencia; Roma está incluida entre las naciones llamadas. |
+| #romanos_1_7 | TTH: A todos ustedes que están en Roma, a los amados de Elohim, a los llamados santos⁷, favor a ustedes, y shalom de Elohim nuestro Padre⁸ y nuestro Adón Yeshúa el Mesías. | La comunidad es descrita como amada y apartada antes de cualquier desarrollo posterior. |
+| #yeshayahu_61_1 | OE: רוח אדני יהוה עלי יען משח יהוה אתי לבשר ענוים שלחני לחבש לנשברי לב לקרא לשבוים דרור ולאסורים פקח קוח | Besorah en el anuncio profético, como conexión de la clase. |
+| #colosenses_2_9 | Delitzsch: כי בו בגופו שכן כלמלא האלהות ובו אתם נמלאים | Plenitud de la deidad en el Mesías; conexión doctrinal, no explicación exhaustiva de Romanos 1. |
 
 ## Siervo, enviado y dirección de la Besorah
 
@@ -59,6 +63,8 @@ Romanos no define al Mesías solo por una idea espiritual. El versículo 3 lo vi
 
 La clase insiste en que «Hijo» no debe imaginarse como un semidiós separado del Padre. Presenta al _Ben_ como imagen visible y obra manifestada de Elohim, apoyándose en Colosenses 2:9 y en la unidad entre origen y manifestación. Romanos 1:3-4 afirma filiación, carne, potencia y resurrección, pero no resuelve por sí solo toda formulación metafísica. Por eso la nota conserva la intuición central —el Mesías no es una figura ajena a Elohim— sin atribuir al pasaje afirmaciones que pertenecen a otros textos.
 
+La forma griega de 1:4 es **ὁρισθέντος**, _horisthentos_, participio pasivo de **ὁρίζω**, «determinado/designado». No es **προορίζω**, «determinar previamente», ni nombra aquí un sacerdocio. Delitzsch dice **אשר הוכן לבן האלהים בגבורה**; TTH prefiere «dado a conocer». La resurrección y la potencia son explícitas, mientras la lectura sacerdotal de Eric se prueba mediante otras conexiones y no mediante un sustantivo presente en este versículo.
+
 ## Favor, obediencia y naciones llamadas
 
 El favor no aparece como una licencia para permanecer sin encargo. Pablo dice que recibió favor y comisión «para obediencia de la emunah» entre todas las naciones y «sobre su Nombre». Eric desarrolla **emunah** como firmeza, crianza y fidelidad, y contrasta esa riqueza con reducirla a una opinión interna. La equivalencia entre _pistis_ y _emunah_ es aproximada y contextual: el TTH deja visible la palabra hebrea, pero el sentido completo debe probarse en el uso de la carta.
@@ -73,7 +79,7 @@ La salutación alcanza a los romanos como «llamados de Yehoshua el Mesías» y 
 | **(שליח)** | _shaliaj_ | enviado, comisionado | Aproximación hebrea al griego **(ἀπόστολος)**; ambos apuntan a misión, pero no son idénticos en todos los usos. |
 | **(בשורה)** | _besorah_ | buena noticia, anuncio favorable | TTH conserva Besorah; la clase la conecta con anuncio profético y con la obra redentora del Mesías. |
 | **(אמונה)** | _emunah_ | firmeza, fidelidad, confianza | En 1:5 se vincula con obediencia; «fe» es una traducción posible, pero incompleta para el argumento de la clase. |
-| **(קדש)** | _qodesh_ | santidad, apartamiento | «Llamados santos» puede explicarse como llamados apartados o distinguidos; la vida consecuente se desarrolla en la carta. |
+| **(קדש)** | _qodesh_ | santidad, apartamiento | קדש es la base nominal de santidad; el griego de 1:7 es el adjetivo ἁγίοις. «Llamados santos» puede explicarse como llamados apartados o distinguidos; la vida consecuente se desarrolla en la carta. |
 
 ## Mapa de la enseñanza de Eric
 

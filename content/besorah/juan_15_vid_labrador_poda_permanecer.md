@@ -18,7 +18,7 @@ references:
   - "#juan_15_5"
 sources:
   - "https://www.youtube.com/watch?v=-EwRZKoqHo4"
-  - "docs/scriptures/tth/json/yojanan.json"
+  - "docs/scriptures/tth/json/iojanan.json"
   - "docs/scriptures/delitzsch/json/john.json"
 source_ids:
   - "youtube:-EwRZKoqHo4"
@@ -35,6 +35,14 @@ En #juan_15_1-5, **Yehoshua** se presenta como la vid y nombra al Padre como lab
 Esta nota organiza el tramo de la parte 57 de la serie de Eric de Jesús sobre Yojanán que pasa de #juan_14_27-31 a #juan_15_1-5, especialmente desde aproximadamente 00:35:05 hasta el final. La transcripción automática tiene errores de reconocimiento; por ello se resume la línea argumental y no se la trata como cita literal.
 
 El expositor propone que la metáfora se dirige de modo especial a maestros de Israel y relaciona «pámpano» con **(אשכול)**. También extiende la imagen a la confesión del Mesías, al Rúaj y a controversias religiosas posteriores. Tales desarrollos se conservan como propuestas de la clase, no como significado explícito del pasaje.
+
+## Mapa de la enseñanza de Eric
+
+| Unidad textual | Observación de la clase | Tratamiento en esta nota |
+| --- | --- | --- |
+| #juan_15_1-2 | Eric describe al Padre como labrador y desarrolla la poda orientada a más fruto. | La función del labrador está en el texto; identificar cada rama con maestros de Israel sigue siendo propuesta de clase. |
+| #juan_15_3 | La exposición relaciona la limpieza con la palabra y amplía esta a obra y promesas del Mesías. | La primera relación se coteja; la ampliación se conserva como síntesis teológica. |
+| #juan_15_4-5 | Eric insiste en permanecer y cuestiona la autoridad basada en conocimiento autosuficiente. | La dependencia de la rama se comprueba; eshkol como título de sabios y sus aplicaciones contemporáneas requieren verificación. |
 
 ## Hoja de comparación
 

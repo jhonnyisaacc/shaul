@@ -26,6 +26,8 @@ references:
   - "#yeshayahu_54_1"
   - "#juan_8_31"
 sources:
+  - "https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/Gal.txt"
+  - "https://www.sefaria.org/Pirkei_Avot.1.1?lang=bi"
   - "https://www.youtube.com/watch?v=CUvmLWZVfps"
   - "docs/scriptures/delitzsch/json/galatians.json"
 source_ids:
@@ -39,21 +41,27 @@ Gálatas 4:21-31 usa la historia de Agar y Sara como una alegoría para distingu
 
 ## Alcance de la nota
 
-Esta nota organiza la clase pública «CARTA A LOS GÁLATAS | El HIJO de la SIERVA y el HIJO de la LIBRE | Capítulo 4 | #09 | Live». La exposición cubre Gálatas 4:21-31 y desarrolla el contraste entre Agar e Isaac, la diferencia entre «bajo ley» y la Torah, la esclavitud de la Jerusalén actual, la libertad de la Jerusalén de arriba, los hijos de la promesa y la persecución del nacido según el Ruaj. También registra la alusión que la clase hace a Juan 8:31-32 y a Génesis 21:10. La transcripción automática sirve para seguir el argumento y no se presenta como cita literal.
+Esta nota organiza la clase pública «CARTA A LOS GÁLATAS | El HIJO de la SIERVA y el HIJO de la LIBRE | Capítulo 4 | #09 | Live». La exposición cubre Gálatas 4:21-31 y desarrolla el contraste entre Agar/Sara e Ismael/Isaac, la diferencia entre «bajo ley» y la Torah, la esclavitud de la Jerusalén actual, la libertad de la Jerusalén de arriba, los hijos de la promesa y la persecución del nacido según el Ruaj. También registra la alusión que la clase hace a Juan 8:31-32 y a Génesis 21:10. La transcripción automática sirve para seguir el argumento y no se presenta como cita literal.
 
 ## Hoja de comparación
 
 | Referencia | Texto local de Delitzsch (sin nikud) | Función en el estudio |
 | --- | --- | --- |
-| #galatas_4_21 | **אמרו לי אתם החפצים להיות תחת התורה הלא שמעתם את־התורה׃** | Pablo confronta a quienes desean estar bajo la Torah y los manda a escuchar la Torah. |
-| #galatas_4_22-23 | **כי כתוב שני בנים היו לאברהם האחד מן־האמה והשני מן־החפשיה׃ ובן־האמה נולד לפי הבשר ובן־החפשיה על־פי ההבטחה׃** | Ismael e Isaac son presentados como nacidos según la carne y según la promesa. |
-| #galatas_4_24-26 | **והדברים הם משל כי אלה הן שתי הבריתות האחת מן־הר סיני היולדת לעבדות והיא הגר׃ ... אבל ירושלים למעלה חפשיה היא והיא אם כלנו׃** | La alegoría contrasta esclavitud y libertad mediante Agar, Sinaí y la Yerushalayim de arriba. |
-| #galatas_4_27-29 | **כי כתוב רני עקרה לא ילדה ... ואנחנו אחי הננו כיצחק בני ההבטחה׃ וכאשר רדף אז הנולד לפי־הבשר את־הנולד לפי הרוח כן־גם־עתה׃** | Los creyentes son identificados como hijos de la promesa y se anticipa oposición. |
-| #galatas_4_30-31 | **והכתוב מה־הוא אמר גרש האמה ואת־בנה כי לא יירש בן־האמה עם בן־החפשיה׃ על־כן אחי לא־בני האמה אנחנו כי אם־בני החפשיה׃** | La conclusión apostólica afirma que la comunidad no es hija de la sierva, sino de la libre. |
+| #galatas_4_21 | Delitzsch: אמרו לי אתם החפצים להיות תחת התורה הלא שמעתם אתהתורה | Pablo confronta a quienes desean estar bajo la Torah y los manda a escuchar la Torah. |
+| #galatas_4_22-23 | Delitzsch: כי כתוב שני בנים היו לאברהם האחד מןהאמה והשני מןהחפשיה ובןהאמה נולד לפי הבשר ובןהחפשיה עלפי ההבטחה | Ismael e Isaac son presentados como nacidos según la carne y según la promesa. |
+| #galatas_4_24-26 | Delitzsch: והדברים הם משל כי אלה הן שתי הבריתות האחת מןהר סיני היולדת לעבדות והיא הגר כיסיני הוא הר בערב והוא כנגד ירושלים שלעתה כיבעבדות היא עםבניה אבל ירושלים למעלה חפשיה היא והיא אם כלנו | La alegoría contrasta esclavitud y libertad mediante Agar, Sinaí y la Yerushalayim de arriba. |
+| #galatas_4_27-29 | Delitzsch: כי כתוב רני עקרה לא ילדה פצחי רנה וצהלי לאחלה כי רבים בנישוממה מבני בעולה ואנחנו אחי הננו כיצחק בני ההבטחה וכאשר רדף אז הנולד לפיהבשר אתהנולד לפי הרוח כןגםעתה | Los creyentes son identificados como hijos de la promesa y se anticipa oposición. |
+| #galatas_4_30-31 | Delitzsch: והכתוב מההוא אמר גרש האמה ואתבנה כי לא יירש בןהאמה עם בןהחפשיה עלכן אחי לאבני האמה אנחנו כי אםבני החפשיה | La conclusión apostólica afirma que la comunidad no es hija de la sierva, sino de la libre. |
+| #bereshit_21_10 | OE: ותאמר לאברהם גרש האמה הזאת ואת בנה כי לא יירש בן האמה הזאת עם בני עם יצחק | Fuente narrativa de la expulsión citada por Shaul. |
+| #yeshayahu_54_1 | OE: רני עקרה לא ילדה פצחי רנה וצהלי לא חלה כי רבים בני שוממה מבני בעולה אמר יהוה | La estéril y los hijos: contexto de la cita en 4:27. |
+| #juan_8_31 | Delitzsch: ויאמר ישוע אלהיהודים המאמינים בו אםתעמדו בדברי אז תהיו תלמידי באמת ובתמים | Permanecer en la palabra: conexión temática. |
+| #juan_8_32 | Delitzsch: כי תשכילו אתהאמת והאמת תעשה אתכם חפשים | Verdad y libertad: conexión temática. |
+| #shemot_19_1 | OE: בחדש השלישי לצאת בני ישראל מארץ מצרים ביום הזה באו מדבר סיני | Sinaí en la secuencia narrativa. |
+| #shemot_24_8 | OE: ויקח משה את הדם ויזרק על העם ויאמר הנה דם הברית אשר כרת יהוה עמכם על כל הדברים האלה | La sangre del pacto: contraste de la afirmación de la clase. |
 
 ## Escuchar la Torah para entender la alegoría (4:21-24) #galatas_4_21-24
 
-Pablo comienza con una pregunta dirigida a quienes quieren estar «bajo la Torah»: ¿no han escuchado la Torah? La clase aprovecha la diferencia para separar dos expresiones que muchas traducciones españolas hacen sonar iguales. El expositor entiende «bajo ley» como estar bajo una sentencia, esclavizado por el pecado o por una estructura humana; en cambio, «la Torah» con artículo apunta a la palabra escrita que Pablo va a citar. La distinción es útil para leer el argumento sin convertir la Torah en enemiga, aunque la afirmación gramatical no debe sostenerse sólo en la presencia o ausencia del artículo sin revisar el griego completo.
+Pablo comienza con una pregunta dirigida a quienes quieren estar «bajo la Torah»: ¿no han escuchado la Torah? La clase aprovecha la diferencia para separar dos expresiones que muchas traducciones españolas hacen sonar iguales. El expositor entiende «bajo ley» como estar bajo una sentencia, esclavizado por el pecado o por una estructura humana; en cambio, «la Torah» con artículo apunta a la palabra escrita que Pablo va a citar. La distinción es útil para leer el argumento sin convertir la Torah en enemiga, aunque SBLGNT confirma «bajo ley» sin artículo y «la ley» con artículo en 4:21. Esa diferencia de construcción no demuestra por sí sola que sean dos leyes de origen distinto.
 
 La clase insiste en que el hijo de la sierva nació «según la carne» porque Abraham y Sara intentaron producir por sus propios medios lo que Elohim había prometido. El texto local dice **לפי הבשר**, _lefi ha-basar_, y contrapone **על־פי ההבטחה**, _al-pi ha-havtajah_, «según la promesa». La lectura de Eric conecta carne con iniciativa humana y promesa con poder divino. Es una aplicación que encaja con el contraste del pasaje, pero no permite tratar todo uso bíblico de «carne» como idéntico a pecado ni borrar la complejidad de la historia de Bereshit.
 
@@ -63,9 +71,11 @@ Cuando Pablo llama a estas cosas una alegoría, no está diciendo que Abraham, A
 
 Gálatas 4:24-26 habla de dos alianzas, una «del monte Sinaí» que engendra para esclavitud y es Agar, y otra representada por la Yerushalayim de arriba, que es libre y madre de todos nosotros. Eric rechaza identificar automáticamente la primera con todo el Antiguo Testamento o con la Torah divina. Según la clase, Pablo apunta a la confianza en tradiciones y mandatos humanos que se presentan como camino de justificación. Esa lectura responde a la preocupación central de Gálatas, pero debe mantenerse como interpretación contextual: el versículo no nombra por sí mismo cada institución posterior ni prueba todas las afirmaciones históricas sobre el judaísmo rabínico.
 
-La exposición menciona la fórmula rabínica «Moisés recibió la Torah desde Sinaí» para sostener que Pablo estaría aludiendo a una tradición oral presentada como revelación del Sinaí. Como el origen y la datación exacta de esa tradición requieren investigación independiente, esta nota no la cita como evidencia cerrada. El hecho textual seguro es otro: Pablo usa Sinaí dentro de una alegoría para describir una condición de esclavitud y contrasta esa condición con la Yerushalayim de arriba.
+La exposición menciona la fórmula rabínica «Moisés recibió la Torah desde Sinaí» para sostener que Pablo estaría aludiendo a una tradición oral presentada como revelación del Sinaí. La fórmula se localiza en **m. Avot 1:1**, «Moshe recibió Torah desde Sinaí». Su existencia en esa fuente queda cotejada; no demuestra por sí sola que Shaul esté aludiendo a ella ni que la datación de su formulación sea contemporánea con Gálatas. La correspondencia que Eric propone entre Sinaí y tradición oral permanece como interpretación atribuida. El hecho textual seguro es otro: Pablo usa Sinaí dentro de una alegoría para describir una condición de esclavitud y contrasta esa condición con la Yerushalayim de arriba.
 
 La cita de Isaías 54:1 sobre la estéril ensancha la imagen: la que parecía desolada recibe hijos. La clase relaciona esa promesa con la comunidad que todavía sufre y espera glorificación. Puede sostenerse que Pablo usa Isaías para afirmar fecundidad y promesa; no es necesario convertir la «Yerushalayim de arriba» en una descripción geográfica detallada. Los hijos de la promesa son como Isaac, y su identidad no depende de una marca humana ni de una ciudad terrenal convertida en objeto de misticismo.
+
+La exposición también afirma que no hubo pacto en Sinaí (aproximadamente 00:20:24–00:21:19) y propone distinguir «Arab» de Arabia (00:32:28–00:34:26). El cotejo no adopta esas afirmaciones como datos cerrados: Shemot 19 sitúa al pueblo en el desierto de Sinaí y 24:8 nombra la sangre del pacto en esa misma secuencia narrativa. En Gálatas 4:25, SBLGNT escribe **Ἀραβίᾳ**, Arabia; delimitar esa designación antigua y la localización del monte exige fuentes geográficas, y no depende de sustituir el nombre por fronteras modernas. La lectura de Eric sobre tradición oral se conserva, pero esas dos propuestas no se deducen de la fórmula de Avot ni del texto bíblico citado.
 
 ## Persecución, herencia y expulsión (4:28-31) #galatas_4_28-31
 
@@ -99,8 +109,8 @@ La conclusión de Pablo es confesional y comunitaria: «no somos hijos de la sie
 
 ## Pendiente de verificar
 
-- [ ] Cotejar el griego de Gálatas 4:21-26 antes de fijar la distinción entre «bajo ley» y «la Torah» como argumento gramatical concluyente.
-- [ ] Localizar y verificar la referencia exacta de la fórmula rabínica sobre Moisés y Sinaí; no asumir que una tradición oral posterior prueba el sentido original de Pablo.
+- [x] Cotejar 4:21 en SBLGNT: ὑπὸ νόμον y τὸν νόμον no contienen por sí solos la identificación de la primera con tradición oral. En 4:26, SBLGNT tiene «madre nuestra» y Delitzsch «madre de todos nosotros».
+- [x] Localizar la fórmula en m. Avot 1:1 (Sefaria). Queda pendiente la datación pertinente y la supuesta alusión de Shaul; el cotejo de una frase no prueba esa dependencia.
 - [ ] Leer Gálatas 4 junto con Bereshit 16 y 21, Isaías 54 y los contextos de la palabra «promesa» sin borrar sus diferencias literarias.
 - [ ] Investigar el trasfondo histórico de «Arab» y de la Yerushalayim del siglo I antes de convertir la geografía propuesta por la clase en una afirmación histórica cerrada.
 - [ ] Delimitar el uso de Juan 8:31-32 como conexión temática, no como cita directa de Gálatas 4.

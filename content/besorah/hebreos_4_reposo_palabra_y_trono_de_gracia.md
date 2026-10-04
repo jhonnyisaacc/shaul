@@ -38,16 +38,19 @@ La nota sigue Hebreos 4:1-16 en orden. La transcripción automática no se prese
 
 ## Hoja de comparación
 
-| Unidad y fuente                         | Observación atribuible de la exposición                                                                                    | Evaluación frente a Hebreos 4                                                                                                               |
-| --------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
-| #hebreos_4_1-3; `youtube:H_GBWMOusNo`   | La promesa de entrar en el reposo no quedó agotada en la generación del desierto; debe recibirse con fe y temor reverente. | Apoyo textual directo: el autor dice que la promesa permanece y contrasta oír con mezclar la palabra con fe.                                |
-| #hebreos_4_6-11; `youtube:H_GBWMOusNo`  | El primer Yehoshua no agotó el reposo, por lo que queda una entrada para el pueblo de Elohim y se llama a perseverar.      | Apoyo textual cualificado: el capítulo distingue la entrada bajo Yehoshua hijo de Nun del reposo escatológico y exhortativo que desarrolla. |
-| #hebreos_4_12-13; `youtube:vbJeGh-kmb0` | La palabra descubre lo que ocurre en el interior y no puede usarse como un lema para controlar a otros.                    | Apoyo textual directo para el discernimiento ante Elohim; la aplicación contra la manipulación es pedagógica.                               |
-| #hebreos_4_14-16; `youtube:vbJeGh-kmb0` | El Kohén Gadol celestial permite acercarse con confianza, no con autosuficiencia ni con desprecio de la debilidad humana.  | Apoyo textual directo para confesar, compadecerse y acercarse; la forma concreta de cada aplicación comunitaria es inferencial.             |
+TTH no contiene Hebreos en la biblioteca local; se cita Delitzsch.
+
+| Referencia | Texto local (Delitzsch, sin nikud) | Función en la lectura |
+| --- | --- | --- |
+| #hebreos_4_1-3 | **עלכן בהמצא עוד ההבטחה לבוא אלמנוחתו נירא נא פןיראה איש מכם מאחר פעמיו … כי גםאלינו באה הבשורה כבאה אליהם ולהם לאהועיל דבר השמועה מפני אשר לאהתערב באמונה לשמעים … כי באי המנוחה אנחנו המאמינים כמו שאמר אשרנשבעתי באפי אםיבאון אלמנוחתי אף כי נגמרו מעשי יהוה מעת הוסד העולם** | La promesa permanece; oír y confiar pertenecen a la respuesta. |
+| #hebreos_4_4-5 | **כי עלהיום השביעי הכתוב אמר וישבת ביום השביעי מכלמלאכתו … ואמר עוד אםיבאון אלמנוחתי** | El descanso de la creación se lee junto a la advertencia del salmo. |
+| #hebreos_4_6-11 | **כי אלו הניח להם יהושע לאהיה מדבר אחרי כן עליום אחר … עלכן נשארה עוד מנוחת שבת לעם אלהים … לכן נשקדהנא לבוא אלהמנוחה ההיא למען אשר לאיכשל איש והיה ממרה כמוהם** | La entrada con Yehoshua hijo de Nun no agota el reposo que queda. |
+| #hebreos_4_12-13 | **כידבר האלהים חי הוא ופעל גבורות וחד מכלחרב פיפיות וירד עדלהבדיל ביןהנפש ובין הרוח בין הדבקים וביןהמוח ובחן מחשבות לבב ומזמותיו … ואין יצור נסתר מלפניו כיהכל חשוף וגלוי לעיניבעל דברים שלנו** | La palabra discierne el interior y nadie queda oculto ante Elohim. |
+| #hebreos_4_14-16 | **ועתה בהיותלנו כהן גדול נעלה מאד אשר עבר אתהשמים ישוע בןהאלהים נחזיקה בהודאת אמונתנו … כי אין לנו כהן גדול אשר לאיוכל להצטער בחליינו כי אםמתנסה בכל כמונו ובליחטא … עלכן נקרבה בבטחון לפני כסא החסד לשאת רחמים ולמצא חסד לעזרה בעתה** | El sacerdote que atravesó los cielos funda la confesión y el acercamiento. |
 
 ## Hebreos 4:1-5: una promesa que permanece #hebreos_4_1-5
 
-El capítulo comienza con una conclusión prudente: «temamos, pues, no sea que permaneciendo aún la promesa de entrar en su reposo, alguno de vosotros parezca haberse quedado atrás». **(καταλείπω)**, _kataleipō_, significa dejar atrás, abandonar o quedar remanente; su fuerza contextual es que la promesa no fue cancelada, aunque algunos no entraron. «Quedarse atrás» es una glosa contextual directa, no una descripción de una emoción pasajera.
+El capítulo comienza con una conclusión prudente: «temamos, pues, no sea que permaneciendo aún la promesa de entrar en su reposo, alguno de vosotros parezca haberse quedado atrás». **(καταλείπω)**, _kataleipō_, significa dejar atrás, abandonar o quedar remanente; su fuerza contextual es que la promesa no fue cancelada, aunque algunos no entraron. En 4:1 ese verbo se refiere a la promesa que permanece; “quedarse atrás” corresponde a la otra forma del versículo. No se identifican los dos sujetos ni se convierte el temor comunitario en diagnóstico de una emoción pasajera.
 
 La exposición de Eric enlaza esta advertencia con el camino de Israel y con la diferencia entre el primer Yehoshua y el Mesías. El capítulo sí afirma que el anuncio fue oído por los antiguos y que no les aprovechó por no estar mezclado con fe en quienes lo oyeron (#hebreos_4_2). **(εὐαγγελίζομαι)**, _euangelizomai_, significa anunciar buenas noticias o evangelizar; aquí su fuerza es el anuncio de una promesa que exige una respuesta confiada. «Evangelio» como etiqueta doctrinal completa sería una ampliación; el sentido ordinario de anunciar buenas noticias es directo.
 
@@ -55,7 +58,7 @@ La exposición de Eric enlaza esta advertencia con el camino de Israel y con la 
 
 ## Hebreos 4:6-11: el reposo todavía queda #hebreos_4_6-11
 
-El autor insiste en que, puesto que algunos no entraron por desobediencia, otros reciben nuevamente la invitación «hoy». **(ἀπειθέω)**, _apeitheō_, significa desobedecer, no dejarse persuadir o rehusar creer; su fuerza contextual incluye una respuesta resistente al anuncio. «Desobediencia» es una glosa directa en el argumento, pero no debe usarse para diagnosticar sin más cada enfermedad, demora o conflicto de una persona.
+El autor insiste en que, puesto que algunos no entraron por desobediencia, otros reciben nuevamente la invitación «hoy». **(ἀπείθεια)**, _apeitheia_, significa desobediencia o resistencia a creer; su fuerza contextual incluye una respuesta resistente al anuncio. «Desobediencia» es una glosa directa en el argumento, pero no debe usarse para diagnosticar sin más cada enfermedad, demora o conflicto de una persona.
 
 El texto menciona a Yehoshua y sostiene que, si él hubiera dado el reposo definitivo, David no habría hablado después de «otro día». La observación de Eric sobre el primer y el último Yehoshua recibe aquí apoyo textual, pero con un límite: la distinción depende de la argumentación de Hebreos 4:8-9, no de una equivalencia automática entre cada uso del nombre. **(σαββατισμός)**, _sabbatismos_, significa reposo sabático o observancia de reposo; en 4:9 designa el reposo que queda para el pueblo de Elohim. «Reposo sabático» es una traducción directa del campo, mientras convertirlo en un calendario particular contemporáneo sería aproximado y no demostrado por este versículo aislado.
 
@@ -65,7 +68,7 @@ El texto menciona a Yehoshua y sostiene que, si él hubiera dado el reposo defin
 
 La palabra de Elohim es descrita como viva, eficaz y más cortante que una espada de dos filos. **(ζάω)**, _zaō_, significa vivir; aplicado a la palabra, su fuerza contextual es actividad y eficacia presentes. **(ἐνεργής)**, _energēs_, significa activo, eficaz u operativo; la glosa «eficaz» es directa, pero no autoriza a convertir cualquier interpretación humana en palabra infalible.
 
-**(κριτικός)**, _kritikos_, significa capaz de juzgar, discernir o evaluar; en 4:12 describe la capacidad de la palabra para juzgar pensamientos e intenciones del corazón. «Discernir» es aproximado pero adecuado en este contexto. El verso 13 elimina la posibilidad de esconderse: todas las cosas están desnudas y abiertas ante los ojos de aquel a quien debemos dar cuenta. Eric conserva una advertencia importante al no tratar este pasaje como una herramienta para examinar y dominar a los demás. Hebreos dirige primero la palabra hacia la comunidad que debe entrar, perseverar y presentarse ante Elohim.
+**(κριτικός)**, _kritikos_, significa capaz de juzgar, discernir o evaluar; en 4:12 describe la capacidad de la palabra para juzgar pensamientos e intenciones del corazón. «Discernir» es aproximado pero adecuado en este contexto. El verso 13 elimina la posibilidad de esconderse: todas las cosas están desnudas y abiertas ante los ojos de aquel a quien debemos dar cuenta. La advertencia contra usar el pasaje para dominar a otros es una aplicación de esta nota; no se atribuye como una afirmación literal de Eric. Hebreos dirige primero la palabra hacia la comunidad que debe entrar, perseverar y presentarse ante Elohim.
 
 ## Hebreos 4:14-16: confesión, compasión y acercamiento #hebreos_4_14-16
 
@@ -88,10 +91,10 @@ Por eso el cierre llama a acercarse con confianza al trono de la gracia para rec
 
 | Forma fuente        | Transliteración | Sentido ordinario                      | Fuerza contextual y calificación                                                                    |
 | ------------------- | --------------- | -------------------------------------- | --------------------------------------------------------------------------------------------------- |
-| **(καταλείπω)**     | _kataleipō_     | dejar, abandonar, quedar atrás         | La promesa permanece y algunos pueden quedarse atrás; glosa contextual directa.                     |
+| **(καταλείπω)**     | _kataleipō_     | dejar, abandonar, quedar atrás         | Se refiere a la promesa que permanece, no al verbo aplicado a quien se queda atrás.                     |
 | **(εὐαγγελίζομαι)** | _euangelizomai_ | anunciar buenas noticias               | El anuncio de la promesa; «evangelio» como sistema completo sería una ampliación.                   |
 | **(πίστις)**        | _pistis_        | fe, confianza, fidelidad               | Respuesta confiada al anuncio; su alcance teológico total no se decide por una sola forma.          |
-| **(ἀπειθέω)**       | _apeitheō_      | desobedecer, rehusar persuadirse       | Resistencia al anuncio en el argumento del desierto; glosa directa y no diagnóstico indiscriminado. |
+| **(ἀπείθεια)**       | _apeitheia_     | desobediencia, resistencia a creer       | Resistencia al anuncio en el argumento del desierto; glosa directa y no diagnóstico indiscriminado. |
 | **(σαββατισμός)**   | _sabbatismos_   | reposo sabático                        | El reposo que queda para el pueblo; aplicación a un calendario particular sería aproximada.         |
 | **(σπουδάζω)**      | _spoudazō_      | apresurarse, esforzarse, ser diligente | Perseverar para entrar; no enseña mérito autosuficiente.                                            |
 | **(ἐνεργής)**       | _energēs_       | activo, eficaz                         | La palabra actúa y no es un lema vacío; glosa directa.                                              |
@@ -102,31 +105,12 @@ Por eso el cierre llama a acercarse con confianza al trono de la gracia para rec
 | **(ἔλεος)**         | _eleos_         | misericordia, compasión                | Socorro recibido ante la necesidad; glosa directa.                                                  |
 | **(χάρις)**         | _charis_        | gracia, favor, benevolencia            | Favor para el momento oportuno; aplicación concreta permanece pedagógica.                           |
 
-## Estudio desarrollado: promesa abierta, perseverancia y acceso responsable
+## Ruta de las fuentes y puntos pendientes
 
-La exposición pública de Eric debe conservarse como un recorrido, no como una colección de fórmulas. `youtube:H_GBWMOusNo` enfoca la continuidad entre el primer Yehoshua y el reposo que todavía queda; `youtube:vbJeGh-kmb0` lleva la exhortación a la palabra que discierne y al Kohén Gadol celestial. La atribución se mantiene en paráfrasis, no en citas literales. Hebreos 4 respalda **directamente** que la promesa permanece, que la desobediencia del desierto sirve de advertencia, que la palabra juzga el interior y que el sacerdote permite acercarse con confianza. La aplicación contra la manipulación espiritual es **pedagógica y cualificada**: nace de la dirección del texto, pero no debe presentarse como una frase explícita de la fuente.
+La parte 5 desarrolla el reposo y pasa a la palabra en torno a [55:14](https://www.youtube.com/watch?v=H_GBWMOusNo&t=3314s). La parte 6 retoma la superioridad sacerdotal y continúa con los capítulos 5–6; véanse [[hebreos_5_sumo_sacerdote_madurez_y_discernimiento]] y [[hebreos_6_promesa_esperanza_y_perseverancia]]. La numeración de una parte del video no equivale a la del capítulo bíblico.
 
-### 4:1-5 — Oír la promesa con fe
-
-El temor del comienzo no es pánico usado para controlar, sino una vigilancia que toma en serio la posibilidad de quedarse atrás. **(φοβέω)**, _phobeō_, significa temer, respetar o estremecerse; en 4:1 su fuerza contextual acompaña la exhortación comunitaria y no autoriza a convertir cada dificultad en prueba de abandono. **(καταλείπω)**, _kataleipō_, significa dejar, abandonar o quedar atrás; la promesa sigue disponible mientras el texto examina la respuesta de quienes oyen. «Quedarse atrás» es **directo y contextual**, no un diagnóstico automático de la vida espiritual de una persona.
-
-El anuncio no basta como sonido externo. **(συγκεράννυμι)**, _synkerannymi_, significa mezclar, unir o combinar; en 4:2 describe la relación entre la palabra oída y la fe de quienes la reciben. «Mezclar con fe» es una traducción **aproximada y pedagógica** del giro: no enseña una técnica interior ni una salvación fabricada por la intensidad de la emoción. La observación de Eric recibe apoyo **cualificado**: la entrada prometida exige una respuesta perseverante, pero Hebreos mantiene juntos la iniciativa de Elohim y la responsabilidad de la comunidad.
-
-### 4:6-11 — Otro día y un reposo que queda
-
-La argumentación avanza mediante el Salmo 95 y la referencia a David. Si la entrada bajo el primer Yehoshua hubiera agotado el propósito divino, no se hablaría después de «hoy». **(ἀπολείπω)**, _apoleipō_, significa dejar restante, quedar disponible o reservar; en 4:6 y 4:9 su fuerza es que el reposo no se agotó en el episodio histórico. **(κατάπαυσις)**, _katapausis_, significa descanso, cesación o lugar de reposo; el sustantivo recibe su alcance del argumento completo, no de una definición aislada. La conexión entre el primer Yehoshua y el Mesías es **textual en la secuencia de Hebreos**, mientras convertirla en una etimología que resuelva toda cristología sería **ilegítimo**.
-
-**(σαββατισμός)**, _sabbatismos_, significa reposo sabático o celebración de reposo; en 4:9 nombra lo que queda para el pueblo de Elohim. La glosa «reposo sabático» es **directa en el campo ordinario**, pero la aplicación a un calendario particular es **aproximada**, porque el versículo no enumera por sí solo todas las prácticas que una comunidad debería adoptar. **(σπουδάζω)**, _spoudazō_, significa apresurarse, esforzarse o ser diligente; en 4:11 llama a entrar y no repetir el modelo de desobediencia. «Esforzarse» es **directo y contextual**, pero no significa comprar el reposo por mérito autónomo.
-
-### 4:12-13 — La palabra delante del Juez
-
-La palabra es viva y activa antes de ser una herramienta del intérprete. **(ζάω)**, _zaō_, significa vivir; aplicado a la palabra, comunica actividad presente. **(ἐνεργής)**, _energēs_, significa activo, eficaz u operativo; su fuerza es que el mensaje de Elohim no queda como información inerte. **(τομώτερος)**, _tomōteros_, significa más cortante o agudo; la imagen de la espada expresa penetración y discernimiento, no autorización para herir la conciencia ajena. **(κριτικός)**, _kritikos_, significa capaz de juzgar o discernir; en 4:12 la palabra examina pensamientos e intenciones, y el v. 13 coloca a toda persona ante Elohim. Estas glosas son **directas**, mientras la aplicación pastoral contra el control humano es **pedagógica**.
-
-### 4:14-16 — Confesión, compasión y gracia
-
-La exhortación final no abandona la perseverancia: «retengamos la confesión». **(κρατέω)**, _krateō_, significa asir, sujetar o mantener firme; en 4:14 pide no soltar la confesión del gran sumo sacerdote. **(ἀρχιερεύς)**, _archiereus_, significa sumo sacerdote; la equivalencia de oficio es **directa**, mientras el alcance celestial y definitivo depende de la argumentación de toda la carta. El sacerdote puede compadecerse porque fue probado sin pecado. **(συμπαθέω)**, _sympatheō_, significa compadecerse o sufrir con; su fuerza contextual es solidaridad real, no identidad absoluta con toda experiencia humana. **(πειράζω)**, _peirazō_, significa probar, poner a prueba o tentar; «ser probado» es **directo**, pero el verbo aislado no describe cada detalle de la experiencia del Mesías.
-
-Finalmente, **(παρρησία)**, _parrēsia_, significa franqueza, libertad para hablar o confianza; acercarse con confianza no equivale a autosuficiencia. **(ἔλεος)**, _eleos_, significa misericordia o compasión, y **(χάρις)**, _charis_, significa gracia, favor o benevolencia. Sus glosas son **directas**; el «socorro oportuno» muestra una ayuda recibida en necesidad, no una promesa de que la comunidad nunca sufrirá. Así, la enseñanza de Eric queda evaluada en tres niveles: **directa** para la promesa, la advertencia, el discernimiento y el acceso sacerdotal; **aproximada** para equivalencias entre reposo y prácticas contemporáneas; y **pedagógica** para las aplicaciones contra manipulación y autosuficiencia.
+- [ ] Comparar las variantes de 4:2: el [SBLGNT](https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/Heb.txt) relaciona la forma plural con los oyentes, mientras Delitzsch presenta la palabra no mezclada con emunah. Conservar la distinción antes de fijar una sola sintaxis.
+- [ ] Verificar las aplicaciones históricas y calendáricas del reposo sin convertirlas en el significado único de sabbatismos.
 
 ## Conclusión
 

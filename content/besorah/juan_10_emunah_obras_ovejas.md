@@ -32,7 +32,7 @@ references:
   - "#juan_6_44"
 sources:
   - "https://www.youtube.com/live/csFssLdcLsE?si=wDyEHuy-z-Ux9npN"
-  - "docs/scriptures/tth/json/yojanan.json"
+  - "docs/scriptures/tth/json/iojanan.json"
   - "docs/scriptures/delitzsch/json/john.json"
   - "docs/scriptures/tth/json/romanos.json"
   - "docs/scriptures/oe/json/psalms/82.json"
@@ -44,15 +44,23 @@ translation: "[TTH, Delitzsch, OE]"
 
 # Tesis
 
-Yojanán 10:25-38 presenta la falta de emunah de los opositores de Yeshúa como un problema de instrucción no recibida o no atendida. La clase no lee "creer" como optimismo mental, sino como fidelidad formada por la educación de יהוה: la Torah, los profetas, los escritos y las promesas debían preparar al pueblo para reconocer las obras del Mesías.
+Yojanán 10:25-38 presenta la falta de emunah de los opositores de Yehoshua como un problema de instrucción no recibida o no atendida. La clase no lee "creer" como optimismo mental, sino como fidelidad formada por la educación de יהוה: la Torah, los profetas, los escritos y las promesas debían preparar al pueblo para reconocer las obras del Mesías.
 
-Por eso Yeshúa responde: "les dije, pero no se afirman" (#juan_10_25). Las obras hechas en nombre de Abba ya estaban testificando; el problema no era falta de evidencia, sino falta de conexión con la palabra que decía qué debía hacer el Mesías. Las ovejas oyen su voz porque han sido traídas por la instrucción y por la promesa; luego reciben vida olam y no pueden ser arrebatadas de su mano.
+Por eso Yehoshua responde: "les dije, pero no se afirman" (#juan_10_25). Las obras hechas en nombre de Abba ya estaban testificando; el problema no era falta de evidencia, sino falta de conexión con la palabra que decía qué debía hacer el Mesías. Las ovejas oyen su voz porque han sido traídas por la instrucción y por la promesa; luego reciben vida olam y no pueden ser arrebatadas de su mano.
 
 ## Alcance de la nota
 
 - Fuente principal: transcripción automática del video; la nota ordena y sintetiza, no reproduce citas literales extensas.
 - La clase cubre principalmente #juan_10_25-38, con excursus sobre emunah, elección, nuevo nacimiento, Abba, Tehilim 82 y la promesa de la simiente.
 - Las afirmaciones técnicas sobre hebreo, arameo, griego y categorías rabínicas quedan útiles como línea de estudio, pero pendientes de verificación cuando no están cotejadas directamente.
+
+## Mapa de la enseñanza de Eric
+
+| Unidad textual | Observación de la clase | Tratamiento en esta nota |
+| --- | --- | --- |
+| #juan_10_25-27; #romanos_10_17 | Eric relaciona emunah con la instrucción que prepara para reconocer las obras y oír la voz. | Se coteja la secuencia del pasaje; «educación» describe su aplicación pedagógica y no agota el significado de creer. |
+| #juan_10_28-30 | La clase conecta la custodia de las ovejas en la mano del Mesías y del Padre con la declaración de unidad. | La relación narrativa se conserva; las formulaciones doctrinales se identifican como lectura de la exposición. |
+| #juan_10_31-38; #tehilim_82_6 | La respuesta a la acusación remite a la Escritura y vuelve a las obras. | El uso del salmo se comprueba en el capítulo; ben como portador y Abba como Escritura son explicaciones de Eric que requieren cotejo léxico propio. |
 
 ## Hoja de comparación
 
@@ -108,11 +116,11 @@ La clase dedica un bloque amplio a corregir la idea moderna de "creer". El expos
 
 En esa lectura, pedir "con emunah" no significa pedir cualquier deseo con fuerza mental. Significa pedir dentro de lo que יהוה ha enseñado, prometido y revelado. Como alguien que acude a un juez "en derecho", la petición debe estar ajustada al marco de la ley; no puede contradecir la instrucción ni buscar vanagloria, adulterio, injusticia o deseos del mundo.
 
-La aplicación para #juan_10_25 es directa: los opositores no exhiben emunah porque no reproducen la educación que debían haber recibido. Si hubieran atendido Torah, profetas y escritos, las obras de Yeshúa no les sonarían extrañas. Verían que el Mesías estaba haciendo lo que el sistema educativo de יהוה había anunciado.
+La aplicación para #juan_10_25 es directa: los opositores no exhiben emunah porque no reproducen la educación que debían haber recibido. Si hubieran atendido Torah, profetas y escritos, las obras de Yehoshua no les sonarían extrañas. Verían que el Mesías estaba haciendo lo que el sistema educativo de יהוה había anunciado.
 
 ## Las obras como testimonio de Abba
 
-Yeshúa dice que las obras hechas en nombre de Abba testifican de él (#juan_10_25). La clase entiende "en nombre de Abba" como actuar dentro de todo lo que Abba había prometido. Sanar, dar vista, levantar, alimentar y perdonar no son actos aislados; forman la evidencia de que la Escritura estaba cumpliéndose delante de ellos.
+Yehoshua dice que las obras hechas en nombre de Abba testifican de él (#juan_10_25). La clase entiende "en nombre de Abba" como actuar dentro de todo lo que Abba había prometido. Sanar, dar vista, levantar, alimentar y perdonar no son actos aislados; forman la evidencia de que la Escritura estaba cumpliéndose delante de ellos.
 
 Por eso el expositor repite que el Mesías no vino a hacer señales arbitrarias. No hace espectáculo religioso ni prodigios sin anclaje profético. Hace las obras que correspondían al Mesías según la instrucción previa. La pregunta no era si había obras, sino si los oyentes habían sido formados para reconocerlas.
 
@@ -122,7 +130,7 @@ La frase #juan_10_26 no se presenta como insulto, sino como diagnóstico. No son
 
 La clase distingue aquí entre pertenencia étnica a Israel y elección para salvación. Muchos judíos podían confiar en ser descendientes de Abraham y haber recibido la Torah; pero al llegar el Mesías debían ser traídos por Abba hacia él. Por eso el expositor conecta esta sección con #juan_6_44: nadie viene al Mesías si Abba no lo trae.
 
-También conecta con #juan_3_3 y #juan_3_5. Nicodemo reconoce que las obras de Yeshúa vienen de Elohim, pero aun así necesita ser parido de arriba. Reconocer las señales puede acercar; entrar al reino requiere la obra del Rúaj.
+También conecta con #juan_3_3 y #juan_3_5. Nicodemo reconoce que las obras de Yehoshua vienen de Elohim, pero aun así necesita ser parido de arriba. Reconocer las señales puede acercar; entrar al reino requiere la obra del Rúaj.
 
 ## Judíos y gentiles ante la emunah
 
@@ -132,17 +140,17 @@ La consecuencia práctica es importante: para el gentil que recibe la emunah del
 
 ## Vida olam y seguridad en la mano
 
-Yeshúa da vida olam a sus ovejas (#juan_10_28). La clase lee la frase siguiente, "no perecerán para siempre", como explicación de esa vida: no es solo una experiencia espiritual presente, sino ser preservado de la perdición final.
+Yehoshua da vida olam a sus ovejas (#juan_10_28). La clase lee la frase siguiente, "no perecerán para siempre", como explicación de esa vida: no es solo una experiencia espiritual presente, sino ser preservado de la perdición final.
 
 Luego el texto pasa de "mi mano" (#juan_10_28) a "la mano de mi Padre" (#juan_10_29). La clase ve allí la preparación inmediata de #juan_10_30: "Yo y mi Padre uno somos." Si nadie arrebata de la mano del Mesías y nadie arrebata de la mano de Abba, no se trata de dos custodias separadas, sino de una misma obra de salvación.
 
 ## Tehilim 82 y la acusación de blasfemia
 
-Cuando los opositores toman piedras, Yeshúa pregunta por cuál obra buena lo apedrean (#juan_10_32). Ellos responden que no lo hacen por obra buena, sino porque siendo hombre se hace Elohim. La clase subraya que entendieron la fuerza de su afirmación: "Yo y Abba uno somos" no era una frase menor.
+Cuando los opositores toman piedras, Yehoshua pregunta por cuál obra buena lo apedrean (#juan_10_32). Ellos responden que no lo hacen por obra buena, sino porque siendo hombre se hace Elohim. La clase subraya que entendieron la fuerza de su afirmación: "Yo y Abba uno somos" no era una frase menor.
 
-Yeshúa responde con #tehilim_82_6: "Ustedes son elohim." El argumento de la clase es que si la Escritura llamó elohim a quienes recibieron la palabra de Elohim, no puede ser blasfemia que aquel a quien Abba distinguió y envió diga "Hijo de Elohim soy" (#juan_10_36).
+Yehoshua responde con #tehilim_82_6: "Ustedes son elohim." El argumento de la clase es que si la Escritura llamó elohim a quienes recibieron la palabra de Elohim, no puede ser blasfemia que aquel a quien Abba distinguió y envió diga "Hijo de Elohim soy" (#juan_10_36).
 
-Aquí "Hijo de Elohim" se trabaja como portador. Si otros fueron llamados elohim por portar palabra de Elohim, cuánto más el Mesías, que porta y ejecuta la plenitud de la promesa. La clase incluso presenta a Yeshúa reduciendo el escándalo: no reclama primero un título abstracto, sino que invita a mirar la Escritura, las obras y el hecho de ser enviado conforme al plan prometido.
+Aquí "Hijo de Elohim" se trabaja como portador. Si otros fueron llamados elohim por portar palabra de Elohim, cuánto más el Mesías, que porta y ejecuta la plenitud de la promesa. La clase incluso presenta a Yehoshua reduciendo el escándalo: no reclama primero un título abstracto, sino que invita a mirar la Escritura, las obras y el hecho de ser enviado conforme al plan prometido.
 
 ## Abba como Escritura, promesa y plenitud
 
@@ -165,7 +173,7 @@ La señal de Yonah aparece como imagen: así como Yonah estuvo oculto en el gran
 - #juan_10_27: oír la voz, ser conocido y seguir son inseparables.
 - #juan_10_28-30: la mano del Mesías y la mano de Abba conducen a la confesión de unidad.
 - #juan_10_34-36 con #tehilim_82_6: la Escritura ya usa elohim para portadores de la palabra; el Hijo porta la plenitud.
-- #juan_10_37-38: aun si la persona de Yeshúa escandaliza, las obras deben ser atendidas como testimonio.
+- #juan_10_37-38: aun si la persona de Yehoshua escandaliza, las obras deben ser atendidas como testimonio.
 - #bereshit_3_15: la simiente prometida concentra el compromiso de יהוה de venir a salvar.
 
 ## Pendiente de verificar
@@ -178,9 +186,9 @@ La señal de Yonah aparece como imagen: así como Yonah estuvo oculto en el gran
 
 ## Conclusión
 
-La clase lee Yojanán 10:25-38 como una confrontación hermenéutica. Las obras del Mesías estaban delante de todos, pero solo las ovejas formadas por la promesa oyeron su voz. La emunah no aparece como emoción religiosa, sino como fidelidad a la instrucción de יהוה que reconoce en Yeshúa la obra prometida.
+La clase lee Yojanán 10:25-38 como una confrontación hermenéutica. Las obras del Mesías estaban delante de todos, pero solo las ovejas formadas por la promesa oyeron su voz. La emunah no aparece como emoción religiosa, sino como fidelidad a la instrucción de יהוה que reconoce en Yehoshua la obra prometida.
 
-La unidad entre Yeshúa y Abba se muestra en la custodia de las ovejas, en las obras y en la Escritura que no puede ser quebrantada. El Mesías no viene como un delegado menor, sino como יהוה cumpliendo su propia palabra, desde la promesa de la simiente hasta la entrega de vida olam a los que oyen su voz.
+La unidad entre Yehoshua y Abba se muestra en la custodia de las ovejas, en las obras y en la Escritura que no puede ser quebrantada. El Mesías no viene como un delegado menor, sino como יהוה cumpliendo su propia palabra, desde la promesa de la simiente hasta la entrega de vida olam a los que oyen su voz.
 
 ## Ver también
 

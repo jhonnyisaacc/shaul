@@ -1,6 +1,6 @@
 ---
-title: "¿A quién oraba Yeshúa? Tribunal celestial y cuatro verbos"
-description: "Nota de clase sobre los evangelios donde Yeshúa ora o se dirige al cielo: προσεύχομαι, εὐλογέω, εὐχαριστέω y ἐντυγχάνω frente a lehitpallel, baruj y gestión de promesas; con aplicación a Juan 11 y 17"
+title: "¿A quién oraba Yehoshua? Tribunal celestial y cuatro verbos"
+description: "Nota de clase sobre los evangelios donde Yehoshua ora o se dirige al cielo: προσεύχομαι, εὐλογέω, εὐχαριστέω y ἐρωτάω frente a lehitpallel, baruj y gestión de promesas; con aplicación a Juan 11 y 17"
 date: 2026-06-11
 tags:
   - juan
@@ -37,6 +37,7 @@ references:
   - "#daniel_7_9"
   - "#daniel_7_13"
   - "#tehilim_8_5"
+  - "#tehilim_8_6"
   - "#tehilim_105_4"
   - "#tehilim_110_1"
   - "#hebreos_1_3"
@@ -55,11 +56,11 @@ translation: "[TTH, Delitzsch, OE]"
 
 # Tesis
 
-La pregunta «¿a quién le oraba Yeshúa si él era el mismo Elohim?» parte de una equivalencia falsa: leer «orar» en castellano como «hablar con Dios» y trasladar eso al griego y al hebreo del evangelio.
+La clase aborda la pregunta «¿a quién le oraba Yeshúa si él era el mismo Elohim?» y cuestiona una equivalencia: leer «orar» en castellano como «hablar con Dios» y trasladar eso al griego y al hebreo del evangelio.
 
-La clase propone otra lectura. En los cuatro evangelios aparecen varios verbos distintos para las escenas donde Yeshúa se retira, alza los ojos al cielo o se dirige hacia el cielo. Esos verbos no apuntan todos a una oración devocional privada dirigida a un «Padre» separado, sino a un protocolo de presentación ante el tribunal celestial, confesión de la justicia y la palabra prometida, y gestión de las promesas hechas a Abraham en favor del pueblo.
+La clase propone otra lectura. En los cuatro evangelios aparecen varios verbos distintos para las escenas donde Yehoshua se retira, alza los ojos al cielo o se dirige hacia el cielo. Esos verbos no apuntan todos a una oración devocional privada dirigida a un «Padre» separado, sino a un protocolo de presentación ante el tribunal celestial, confesión de la justicia y la palabra prometida, y gestión de las promesas hechas a Abraham en favor del pueblo.
 
-Yeshúa, en su condición de siervo disminuido, no busca gloria humana ni honra propia en esa etapa; confiesa y reporta ante la corte celestial para que se ejecute lo que él mismo, como palabra de Elohim, había prometido.
+Yehoshua, en su condición de siervo disminuido, no busca gloria humana ni honra propia en esa etapa; confiesa y reporta ante la corte celestial para que se ejecute lo que él mismo, como palabra de Elohim, había prometido.
 
 ## Alcance de la nota
 
@@ -67,6 +68,8 @@ Yeshúa, en su condición de siervo disminuido, no busca gloria humana ni honra 
 - La clase revisa pasajes de los cuatro evangelios, pero el hilo central son cuatro verbos griegos y su trasfondo semítico.
 - Segunda mitad de la clase: aplica la misma lógica a #juan_11_41-57 y cierra el capítulo 11.
 - Las equivalencias con Hatch-Redpath, Josefo, versión siriaca de Zekharyah y lectura de `Atik Yomin` quedan como líneas útiles con puntos pendientes de verificación.
+
+La reconstrucción celestial y las equivalencias de las cuatro familias verbales son propuestas de la clase. Las citas bíblicas verifican escenas y acciones; no prueban por sí solas el protocolo reconstruido ni excluyen el sentido de oración.
 
 ## Metodología de reconstrucción
 
@@ -89,12 +92,21 @@ La clase recuerda que el griego del evangelio no es griego ateniense neutro: es 
 | **(לְבָרֵךְ)** | levarej | expresar gratitud y confesar que Elohim provee | ברך | En hamotsi se confiesa que Elohim creó vid, pan, fruto, etc. |
 | **(εὐχαριστέω)** | eucharisteo | hacer partícipe de gracia divina | εὐχαριστ- | En #marcos_14_23; trasfondo de someterse a gracia, no «dar gracias» a otro ser separado |
 | **(הִתְאַנֶּה)** | hit'aneh | someterse a gracia / favor divino | אנה | La clase cita Devarim 4 (mujer que se somete por Israel); referencia exacta pendiente |
-| **(ἐντυγχάνω)** | entynchano | procurar, gestionar diligencia a favor de otros | ἐντυγχ- | En #juan_17_9,15,20: no «rogar» como súplica humana, sino gestionar promesas |
+| **(ἐρωτάω)** | erotao | pedir; la clase desarrolla procurar o gestionar | ἐρωτ- | #juan_17_9,15,20 usan ἐρωτῶ. La glosa gestionar es interpretación de Eric; ἐντυγχάνω no es el verbo de estos versículos. |
 | **(דָּרַשׁ)** | darash | buscar, solicitar rostro | דרש | En #tehilim_105_4; distinto de «procurar» |
 | **(לְבַקֵּשׁ)** | levakesh | buscar algo extraviado | בקש | Contraste pedagógico con gestionar lo ya prometido |
 | **(אֱלֹהִים)** | Elohim | amor entrañable manifiesto, corte, jueces según contexto | אלהים | No equivale automáticamente a «Dios» castellano ni a θεός griego clásico |
 | **(מַלְאָךְ)** | malaj | mensajero, representante de oficina celestial | מלאך | En #zejariah_3_1: malaj de יהוה; no identificar automáticamente a Yeshúa con «el ángel de יהוה» |
 | **(אַבָּא)** | Abba | en #juan_11_41 aparece en confesión hacia el cielo | אבא | La clase lee la escena como confesión ante tribunal, no diálogo con otro ser |
+
+## Mapa de la enseñanza de Eric
+
+| Unidad textual | Observación de la clase | Tratamiento en esta nota |
+| --- | --- | --- |
+| #marcos_1_35; #zejariah_3_1-2; #daniel_7_9-13 | Eric propone un protocolo de presentación y confesión ante una corte celestial. | Se conservan las escenas bíblicas; el protocolo es reconstrucción de clase, no el significado demostrado de proseuchomai. |
+| #marcos_6_41; #marcos_14_23 | La clase distingue bendecir y dar gracias, relacionándolos con provisión y gracia compartida. | Se cotejan las acciones; las glosas semíticas se presentan como aproximaciones pedagógicas pendientes. |
+| #juan_17_9; #juan_17_15; #juan_17_20 | Eric explica procurar o gestionar promesas a favor de los dados. | Se preserva su argumento; el cotejo griego corrige la identificación del verbo: estos versículos usan erotao, no entynchano. |
+| #juan_11_40-55 | La clase aplica confesión y gloria a Eleazar, el cargo de Caifás y el retiro antes de Pesaj. | Se restauran citas locales, se conserva el orden narrativo y se distingue el análisis doctrinal del texto citado. |
 
 ## Hoja de comparación
 
@@ -102,13 +114,13 @@ La clase recuerda que el griego del evangelio no es griego ateniense neutro: es 
 
 | Referencia | Hebreo (Delitzsch, sin nikud) | TTH (ES) | Función en la clase |
 | --- | --- | --- | --- |
-| #marcos_1_35 | וישכם בבקר בעוד נשף ויצא וילך אלמקום חרבה ויתפלל שם | Y madrugó... y fue a un lugar del desierto, y allí oró. | Primer texto del evangelio más antiguo; `proseuchomai` / `lehitpallel` = presentarse al tribunal celestial, no «hablar con Dios» en sentido moderno |
+| #marcos_1_35 | וישכם בבקר בעוד נשף ויצא וילך אלמקום חרבה ויתפלל שם | Y madrugó por la mañana, y se levantó y salió, y fue Yeshúa a un lugar del desierto, y allí oró²². | Primer texto del evangelio más antiguo; `proseuchomai` / `lehitpallel` = presentarse al tribunal celestial, no «hablar con Dios» en sentido moderno |
 
 ### Confesar provisión y gracia
 
 | Referencia | Hebreo (Delitzsch) | TTH (ES) | Función en la clase |
 | --- | --- | --- | --- |
-| #marcos_6_41 | ויקח... וישא עיניו השמימה ויברך | tomó los panes... miró arriba a los cielos y bendijo | `eulogeo` / levarej: confiesa al cielo, no «a Dios» o «al Padre» como otro ser |
+| #marcos_6_41 | ויקח... וישא עיניו השמימה ויברך | Y tomó los cinco panes y los dos peces, y miró arriba a los cielos y bendijo, y partió el pan y dio a sus discípulos para que los pusieran delante de ellos, y los dos peces repartió para todos. | `eulogeo` / levarej: confiesa al cielo, no «a Dios» o «al Padre» como otro ser |
 | #marcos_14_23 | ויקח אתהכוס ויברך | tomó la copa y bendijo | `eucharisteo`: hacer partícipe de gracia a los que beben |
 
 ### Yojanán 16-17: de dónde salió y a quién gestiona
@@ -117,8 +129,8 @@ La clase recuerda que el griego del evangelio no es griego ateniense neutro: es 
 | --- | --- | --- | --- |
 | #juan_16_29 | ויאמרו תלמידיו הנך מדבר עתה במלים בררות | He aquí, ahora eres claro al hablar | Los discípulos reconocen claridad |
 | #juan_16_30 | ...בזאת נאמין כי מאת אלהים יצאת | ...nos afirmamos en que saliste de Elohim | Dicen «Elohim», no «Dios» genérico; distancia semántica importante |
-| #juan_17_9 | ואני בעדם מפגיע... כי אםבעד אלה אשר נתתה לי | Yo pido acerca de ellos; no pido acerca del olam | `entygchano`: gestiona por los dados; no súplica a otro ser |
-| #juan_17_15 | ...אינני מפגיע בעדם כי תקחם מןהעולם | No pido que los quites del olam | Procura preservación, no «oración» devocional |
+| #juan_17_9 | ואני בעדם מפגיע... כי אםבעד אלה אשר נתתה לי | Yo pido acerca de ellos; no pido acerca del olam | `erotao`: petición por los dados; la clase la interpreta como gestión de promesas |
+| #juan_17_15 | ...אינני מפגיע בעדם כי תקחם מןהעולם | No pido de ti que los quites del olam, sino que los preserves del mal. | Procura preservación, no «oración» devocional |
 | #juan_17_20 | ...גםבעד אלה אשר יאמינו בי עלפי דברם | también acerca de los que se afirmarán en Mí | Incluye a quienes creerán por la palabra de los discípulos |
 
 ### Tribunal celestial en el Tanaj
@@ -126,7 +138,7 @@ La clase recuerda que el griego del evangelio no es griego ateniense neutro: es 
 | Referencia | Hebreo (OE, sin nikud) | TTH (ES) | Función en la clase |
 | --- | --- | --- | --- |
 | #zejariah_3_1 | ויראני את יהושע הכהן הגדול עמד לפני מלאך יהוה | Yehoshúa el gran sacerdote parado delante del ángel de יהוה | Protocolo de corte celestial; Yeshúa no es el malaj ante quien se presenta otro Yeshúa |
-| #zejariah_3_2 | ויאמר יהוה אל השטן יגער יהוה בך השטן | יהוה reprende a Ha'satán | Mensajero de la oficina judicial; יהוה como atributo de juicio |
+| #zejariah_3_2 | ויאמר יהוה אל השטן יגער יהוה בך השטן | Y dijo יהוה a Ha’satán: Te reprenderá יהוה, Ha’satán. Y te reprenderá יהוה, el que ha escogido a Yerushaláim. ¿No es este un tizón rescatado del fuego? | Mensajero de la oficina judicial; יהוה como atributo de juicio |
 | #tehilim_110_1 | נאם יהוה לאדני שב לימיני | Declaración de יהוה a mi Amo: Siéntate a mi diestra | Edicto de la corte celestial, no dos personas rivales |
 | #daniel_7_9 | ...עתיק יומין יתב לבושה כתלג חור ושער ראשה כעמר נקא | — (sin TTH local) | Atik Yomin: metalenguaje de majestad, no anciano literal separado del Hijo |
 | #daniel_7_13 | ...כבר אנש... ועד עתיק יומיא מטה וקדמוהי הקרבוהי | — (sin TTH local) | Bar Enash se acerca; la corte celestial lo presenta |
@@ -135,10 +147,10 @@ La clase recuerda que el griego del evangelio no es griego ateniense neutro: es 
 
 | Referencia | Hebreo | TTH (ES) | Función en la clase |
 | --- | --- | --- | --- |
-| #tehilim_8_5 | — (OE #tehilim_8_5 = otro contenido) | ¡Lo disminuirás un poco menos que los Elohim! | `mach achat`: disminuido, no «un poco menor que ángeles»; base de la condición de siervo |
+| #tehilim_8_6 (OE); #tehilim_8_5 (TTH) | ותחסרהו מעט מאלהים וכבוד והדר תעטרהו | ¡Lo disminuirás un poco menos que los Elohim²⁶, y gloria y esplendor le coronarás! | La clase aplica la disminución a la condición de siervo; las numeraciones son distintas y la lectura es interpretativa. |
 | #hebreos_1_3 | ...וישב לימין הגדלה במרומים (Delitzsch) | Pendiente en TTH local | Después de purificar pecados, se sienta a la diestra de la majestad |
 | #marcos_9_2 | וישתנה לעיניהם (Delitzsch) | se transformó delante de ellos | Metamorfosis conectada con Atik Yomin |
-| #marcos_9_3 | ויזהירו בגדיו... כשלג | vestiduras resplandecientes como nieve | Paralelo con #daniel_7_9: vestidura blanca, trono de fuego |
+| #marcos_9_3 | ויזהירו בגדיו... כשלג | y sus vestiduras estuvieron resplandecientes y muy blancas como la nieve, semejante a ellas no podría ningún lavador sobre la tierra emblanquecer. | Paralelo con #daniel_7_9: vestidura blanca, trono de fuego |
 | #juan_13_16 | אין העבד גדול מאדניו | El siervo no es más grande que su amo | En condición de siervo no puede recibir más honra que la palabra que ejecuta |
 | #juan_6_15 | ...חלץ מהם... אלההר לבדו | volvió solo al monte | Rechaza reinado humano; no recibe gloria de hombres |
 
@@ -147,11 +159,11 @@ La clase recuerda que el griego del evangelio no es griego ateniense neutro: es 
 | Referencia | Hebreo (Delitzsch) | TTH (ES) | Función en la clase |
 | --- | --- | --- | --- |
 | #juan_11_4 | ...לכבוד האלהים למען יכבדבה בןהאלהים | para honra de Elohim, y para que sea honrado el Hijo de Elohim | La gloria es de la palabra ejecutada, no tomada por el siervo |
-| #juan_11_40 | — | si te afirmas, verás la honra de Elohim | Honra = `kabod`, peso demostrado |
+| #juan_11_40 | ויאמר אליה ישוע הלא אמרתי לך אםתאמיני אז תראי אתכבוד האלהים | Le dijo Yeshúa: ¿No te he dicho, si te afirmas, que verás la honra de Elohim? | Honra = `kabod`, peso demostrado |
 | #juan_11_41 | וישוע נשא אתעיניו למרום ויאמר אודך אבי כי עניתני | alzó sus ojos... Padre mío, te confieso | `eucharisteo`/confesión de gracia ante el cielo; «para que crean que tú me has enviado» |
-| #juan_11_51 | ...בהיותו כהן גדול בשנה ההיא נבא בפיו | siendo el gran sacerdote en aquel año, profetizó | La profecía de Caifás por el cargo, no por persona |
-| #juan_11_54 | ...נטה... אלעיר אפרים | fue a Efráim | Se retira de manifestación pública entre los yehudim |
-| #juan_11_55 | — | Pesaj de los yehudim estaba cerca | Pesaj de יהוה, no «pascua de los judíos» en sentido étnico reducido |
+| #juan_11_51 | ...בהיותו כהן גדול בשנה ההיא נבא בפיו | Y esto no lo dijo de sí mismo, sino que, siendo el gran sacerdote en aquel año, por eso profetizó que Yeshúa iba pronto a morir por el pueblo. | La profecía de Caifás por el cargo, no por persona |
+| #juan_11_54 | ועלכן לאהתהלך ישוע עוד בין היהודים בגלוי כי אםנטה משם עדהככר הקרובה למדבר אלעיר ושמה אפרים ויגרשם עםתלמידיו | Y Yeshúa ya no andaba manifiestamente entre los yehudim, sino que fue de allí al lugar cercano al desierto, a una ciudad llamada Efráim; y allí andaba con sus discípulos. | Se retira de manifestación pública entre los yehudim |
+| #juan_11_55 | ויקרב חגהפסח ליהודים ורבים מןהארץ עלו ירושלימה לפני הפסח להתקדש שמה | Y se acercaba el Pésaj¹⁷¹ de los yehudim, y subieron muchos desde sus lugares hacia Yerushaláim antes del Pésaj, para santificar su ser. | Pesaj de יהוה, no «pascua de los judíos» en sentido étnico reducido |
 
 ## Primera palabra: proseuchomai y lehitpallel
 
@@ -162,7 +174,7 @@ La diferencia es grande:
 - Orar en castellano suele significar hablar con Dios.
 - `lehitpallel` muchas veces significa presentarse en juicio, someterse al tribunal celestial y confesar la rectitud de los cielos.
 
-Para Israel, la tefillah confiesa justicia de Torah y también pecado. Yeshúa, sin pecado, no estaría allí pidiendo perdón como la multitud imagina; confiesa el Nombre del cielo y verifica que su palabra se ejecute, porque él es el juez de todos los mundos (#hebreos_12_23, según la clase).
+Para Israel, la tefillah confiesa justicia de Torah y también pecado. Yehoshua, sin pecado, no estaría allí pidiendo perdón como la multitud imagina; confiesa el Nombre del cielo y verifica que su palabra se ejecute, porque él es el juez de todos los mundos (#hebreos_12_23, según la clase).
 
 La clase conecta esto con #hebreos_12: el tribunal celestial no es condenación automática en sentido moderno; «juicio» también puede nombrar edictos del tribunal celestial.
 
@@ -170,7 +182,7 @@ La clase conecta esto con #hebreos_12: el tribunal celestial no es condenación 
 
 ### Elohim no es «Dios» castellano
 
-En #juan_16_30 los discípulos dicen que Yeshúa salió de **Elohim**, no de «Dios» en sentido genérico. La clase repite la distancia entre **(אלהים)** y θεός/dios castellano, ya trabajada en notas previas sobre [[../temas/elohim_aba|Elohim y Aba]].
+En #juan_16_30 los discípulos dicen que Yehoshua salió de **Elohim**, no de «Dios» en sentido genérico. La clase repite la distancia entre **(אלהים)** y θεός/dios castellano, ya trabajada en notas previas sobre [[../temas/elohim_aba|Elohim y Aba]].
 
 Decir que se presentaba en tefillah delante de Elohim no suena igual que decir que oraba a «Dios» como otro ser supremo separado.
 
@@ -180,7 +192,7 @@ Decir que se presentaba en tefillah delante de Elohim no suena igual que decir q
 
 - Hay una corte.
 - Hay mensajeros encargados de la veeduría de la voluntad divina.
-- Yeshúa no puede ser simultáneamente «el ángel de יהוה» y el que se presenta ante ese malaj.
+- Yehoshua no puede ser simultáneamente «el ángel de יהוה» y el que se presenta ante ese malaj.
 
 La clase distingue nombres como atributos: יהוה ligado al juicio, Elohim al amor entrañable. Esto es pedagógico y requiere cotejo con fuentes judías.
 
@@ -195,11 +207,11 @@ La síntesis de la clase: Bar Enash se presenta ante la corte celestial, recibe 
 
 ## Segunda palabra: eulogeo y confesar provisión
 
-En #marcos_6_41 Yeshúa alza los ojos **al cielo** y bendice (`eulogeo` = levarej). No dice «a Dios» ni «al Padre».
+En #marcos_6_41 Yehoshua alza los ojos **al cielo** y bendice (`eulogeo` = levarej). No dice «a Dios» ni «al Padre».
 
 La acción confiesa que Elohim provee: pan, peces, vid, fruto. Es el mismo corazón del hamotsi y de las bendiciones que confiesan a **Baruj** ha'olam (lleno de adoptados/gratitud).
 
-La clase subraya que Yeshúa, como siervo, evita que se le honre en su condición disminuida más que a la palabra que ejecuta (#juan_13_16).
+La clase subraya que Yehoshua, como siervo, evita que se le honre en su condición disminuida más que a la palabra que ejecuta (#juan_13_16).
 
 ## Tercera palabra: eucharisteo y gracia compartida
 
@@ -207,11 +219,11 @@ En #marcos_14_23, al tomar la copa, «dio gracias» (`eucharisteo`). La clase lo
 
 La misma lógica se aplica a #juan_11_41: alza los ojos, dice «Abba, te confieso» — confiesa gracia y ejecuta la promesa **para que crean que el Padre lo envió**, no para recibir algo que no tenga.
 
-## Cuarta palabra: entynchano en Yojanán 17
+## Cuarta palabra: petición y gestión en Yojanán 17
 
-La clase destaca que en los milagros previos de Yojanán, Yeshúa no hace ninguna «oración» previa: da la orden y ocurre. Solo en #juan_17 aparece repetidamente `entygchano` (#juan_17_9,15,20).
+La clase distingue las órdenes de los milagros previos de las peticiones en #juan_17_9,15,20 y las explica como **procurar/gestionar** a favor de los que el Padre le dio, en relación con las promesas. Esa propuesta debe conservarse como lectura de Eric.
 
-No significa «rogar» como súplica humana, sino **procurar/gestionar** a favor de los que el Padre le dio, según la promesa a Abraham y a la simiente. La similla es el siervo disminuido (#tehilim_8_5) que ejecuta lo prometido.
+El [texto griego SBLGNT de Yojanán 17](https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/John.txt) usa **(ἐρωτῶ)**, de **(ἐρωτάω)**, en los tres versículos; no usa **(ἐντυγχάνω)**. Por ello no se puede sostener la glosa de la clase mediante una identificación errónea del verbo. El texto contiene peticiones dirigidas al Padre; la reconstrucción de gestión ante un tribunal requiere argumentación propia y no elimina esa formulación.
 
 La clase contrasta **darash** (buscar) con gestión de lo ya prometido (#tehilim_105_4).
 
@@ -222,14 +234,14 @@ La segunda mitad de la clase aplica todo lo anterior a Eleazar.
 ### Sin gloria propia en condición de siervo
 
 - #juan_11_4: la enfermedad es para honra de Elohim y del Hijo de Elohim.
-- Yeshúa no toma gloria para sí en su etapa humillada; si lo hiciera y luego muriera, destruiría la imagen de Elohim (#juan_6_15 rechaza reinado humano).
+- Yehoshua no toma gloria para sí en su etapa humillada; si lo hiciera y luego muriera, destruiría la imagen de Elohim (#juan_6_15 rechaza reinado humano).
 - La tentación de convertir piedra en pan (#mateo_4_3-4, mencionada en la clase) es precisamente usurpar gloria en favor propio.
 
-El amor «no busca lo suyo» (#1_corintios_13_5, citado en la clase) se identifica con Elohim/Yeshúa que no procura beneficio propio.
+El amor «no busca lo suyo» (#1_corintios_13_5, citado en la clase) se identifica con Elohim/Yehoshua que no procura beneficio propio.
 
 ### #juan_11_41: confesión ante el cielo
 
-Antes de llamar a Eleazar, Yeshúa alza los ojos y confiesa. La clase insiste:
+Antes de llamar a Eleazar, Yehoshua alza los ojos y confiesa. La clase insiste:
 
 - No está pidiendo a otro ser separado.
 - Confiesa para que la compañía crea que fue enviado.
@@ -237,9 +249,9 @@ Antes de llamar a Eleazar, Yeshúa alza los ojos y confiesa. La clase insiste:
 
 ### Caifás, concilio y Pesaj
 
-- #juan_11_47-53: el concilio teme que todos crean y que los romanos quiten lugar y nación; proyectan un mesianismo político que Yeshúa rechaza.
+- #juan_11_47-53: el concilio teme que todos crean y que los romanos quiten lugar y nación; proyectan un mesianismo político que Yehoshua rechaza.
 - #juan_11_51: Caifás profetiza por el **cargo** de sumo sacerdote ese año, no por mérito personal del hombre Caifás.
-- #juan_11_54-57: Yeshúa se retira a Efráim; se acerca Pesaj de los **yehudim** (Pesaj de יהוה en Judea, no pascua étnica reducida).
+- #juan_11_54-57: Yehoshua se retira a Efráim; se acerca Pesaj de los **yehudim** (Pesaj de יהוה en Judea, no pascua étnica reducida).
 
 ## Referencias judías y fuentes externas
 
@@ -268,7 +280,7 @@ Antes de llamar a Eleazar, Yeshúa alza los ojos y confiesa. La clase insiste:
 ## Pendiente de verificar
 
 - [ ] Cotejar en Hatch-Redpath la equivalencia sistemática de `proseuchomai` con `lehitpallel`.
-- [ ] Revisar en léxicos el alcance de `entygchano` en #juan_17 frente a «rogar» y «procurar».
+- [ ] Revisar el alcance de **(ἐρωτάω)** en Yojanán 17 y evaluar la glosa de gestión sin confundirlo con **(ἐντυγχάνω)**.
 - [ ] Localizar en Devarim la referencia exacta a `hit'aneh` citada en la clase.
 - [ ] Cotejar numeración y texto de #tehilim_8_5-6 (disminuido) en OE, TTH y traducciones usadas en la clase.
 - [ ] Verificar la lectura siriaca de #zejariah_3_2 mencionada en el video.
@@ -277,9 +289,9 @@ Antes de llamar a Eleazar, Yeshúa alza los ojos y confiesa. La clase insiste:
 
 ## Conclusión
 
-La clase responde la «pregunta del millón» desmontando la equivalencia entre «orar» castellano y los verbos del evangelio. Yeshúa no aparece principalmente como alguien que habla con un Dios separado, sino como el siervo disminuido que se presenta ante el tribunal celestial, confiesa la justicia y la palabra prometida, bendice reconociendo provisión, hace partícipe de gracia y gestiona en favor de los herederos prometidos.
+La clase propone responder la «pregunta del millón» cuestionando la equivalencia entre «orar» castellano y los verbos del evangelio. En esa lectura, Yehoshua se presenta como el siervo disminuido que se presenta ante el tribunal celestial, confiesa la justicia y la palabra prometida, bendice reconociendo provisión, hace partícipe de gracia y gestiona en favor de los herederos prometidos.
 
-Esa lectura se sostiene con Zekharyah 3, Tehilim 110, Daniel 7, Ivrim 1 y llega a tierra en #juan_11_41: confiesa ante el cielo para que se crea que fue enviado, resucita a Eleazar y cierra el capítulo 11 sin tomar para sí la gloria que pertenece a la palabra de Elohim.
+La clase articula esa lectura con Zekharyah 3, Tehilim 110, Daniel 7 e Ivrim 1, y la aplica en #juan_11_41: confiesa ante el cielo para que se crea que fue enviado, resucita a Eleazar y cierra el capítulo 11 sin tomar para sí la gloria que pertenece a la palabra de Elohim.
 
 ## Ver también
 
@@ -297,3 +309,5 @@ Esa lectura se sostiene con Zekharyah 3, Tehilim 110, Daniel 7, Ivrim 1 y llega 
 - Expositor: **hermano Eric de Jesús Rodríguez Mendoza**.
 - Video público: [Fuente de la clase](https://www.youtube.com/watch?v=4nYEkCmDn14) (`source_id`: `youtube:4nYEkCmDn14`).
 - Esta nota organiza y contrasta la exposición; no presenta la transcripción automática como cita literal.
+
+- Expositor: **hermano Eric de Jesús Rodríguez Mendoza**. Continuación: <https://www.youtube.com/watch?v=LfJ1LGjOXho> — `source_id`: `youtube:LfJ1LGjOXho`.

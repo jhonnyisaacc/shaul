@@ -30,6 +30,8 @@ Sodot 1 presenta lo que debe suceder en breve y conecta esa brevedad con el día
 
 ## Alcance de la nota
 
+Apunte preexistente con fuentes bíblicas locales. La nota no identifica su autor ni una clase o video de origen; no se le asigna una atribución nueva sin evidencia. Sus agrupaciones de atributos y aplicaciones temporales se conservan como lectura del apunte.
+
 - Apunte de estudio sobre Sodot 1:1 y 1:5-6; no cubre el capítulo completo.
 - Se usa TTH y Delitzsch para los versículos del Besorah; las referencias del Tanaj se citan como soporte de atributos mesiánicos.
 - Las conexiones con #yom_yhvh y #daniel_7_13 son interpretativas y quedan abiertas a verificación.
@@ -45,15 +47,15 @@ Sodot 1 presenta lo que debe suceder en breve y conecta esa brevedad con el día
 | Referencia | Hebreo (Delitzsch, sin nikud) | TTH (ES) | Observación |
 | --- | --- | --- | --- |
 | #apocalipsis_1_1 | חזון ישוע המשיח אשר נתןלו האלהים להראות אתעבדיו את אשריהיה במהרה והוא הודיע בשלחו בידמלאכו לעבדו ליוחנן | Misterio revelado de Yeshúa el Mesías, que le dio Elohim, para mostrar a sus siervos lo que necesita ser con rapidez, y lo dio a conocer y lo envió por su mensajero a su siervo, a Yojanán; | במהרה enlaza brevedad con #yom_yhvh y rapidez de cumplimiento. |
-| #apocalipsis_1_5 | ומאתישוע המשיח העד הנאמן ובכור המתים ועליון למלכיארץ אשר אהב אתנו ובדמו גאלנו מחטאתינו | es decir, de Yeshúa el Mesías, el testigo, el fidedigno, el primogénito de los muertos, y Elyón de los reyes de la tierra, el que nos amó y nos lavó de nuestros pecados con su sangre, | Siete atributos confesados; cada uno con ancla en el Tanaj. |
-| #apocalipsis_1_6 | ויעש אתנו מלכים וכהנים לאלהים אביו לו הכבוד והעז לעולמי עולמים אמן | y nos hizo reyes y sacerdotes para Elohim, es decir, para su Padre, a Él la gloria y la potencia para siempre y siempre. Amén. | Reino de sacerdotes; la “y” hebrea funciona como “es decir”. |
+| #apocalipsis_1_5 | ומאתישוע המשיח העד הנאמן ובכור המתים ועליון למלכיארץ אשר אהב אתנו ובדמו גאלנו מחטאתינו | es decir, de Yeshúa el Mesías, el testigo, el fidedigno, el primogénito de los muertos, y Elyón de los reyes de la tierra, el que nos amó y nos lavó de nuestros pecados con su sangre, | Agrupación de atributos con conexiones al Tanaj; la cifra siete no es una división explícita del versículo. |
+| #apocalipsis_1_6 | ויעש אתנו מלכים וכהנים לאלהים אביו לו הכבוד והעז לעולמי עולמים אמן | y nos hizo reyes y sacerdotes para Elohim, es decir, para su Padre, a Él la gloria y la potencia para siempre y siempre. Amén. | La TTH adopta «es decir»; es una decisión interpretativa de la traducción, no una regla universal para la conjunción. |
 
 ## Observaciones por pasaje
 
 ### Sodot 1:1
 
 - La expresión "debe suceder" se relaciona aquí con #yom_yhvh **(יום יהוה)**.
-- Es un día mencionado en varios profetas, con mucho énfasis, y también es explicado por Yeshua antes de ser crucificado.
+- Es un día mencionado en varios profetas, con mucho énfasis, y también es explicado por Yehoshua antes de ser crucificado.
 - Referencias asociadas en esta nota: #yoel_2_31 y #malaji_4_5.
 - La expresión "en breve" se entiende como rapidez, prontitud y también como un período corto de tiempo.
 - La nota enlaza esa brevedad con #apocalipsis_1_7 y con #daniel_7_13 para subrayar que venir con las nubes no solo habla de rapidez sino también de cercanía temporal.
@@ -70,7 +72,7 @@ Sodot 1 presenta lo que debe suceder en breve y conecta esa brevedad con el día
 
 ### Sodot 1:5-6
 
-- En estos versículos la nota reúne siete atributos de Elohim.
+- El apunte agrupa atributos de Elohim; el número de filas no debe presentarse como una división gramatical obligatoria.
 
 #### Atributos confesados
 
@@ -87,7 +89,17 @@ Sodot 1 presenta lo que debe suceder en breve y conecta esa brevedad con el día
 1. También se afirma que es soberano de los reyes de la tierra en relación con #tehilim_2_8.
 2. Nos libertó de nuestros pecados con su sangre.
 3. Nos hizo un reino de sacerdotes para Elohim y Abá.
-4. La nota aclara que el uso de "y" allí funciona como recurso hebreo en sentido de "es decir".
+4. La nota recoge el «es decir» de TTH como lectura explicativa. El Delitzsch y el griego deben cotejarse sin afirmar que toda «y» tenga ese valor.
+
+## Anclas del Tanaj y numeración
+
+OE sitúa el día de יהוה de Yoel en 3:4 (TTH 2:31) y el anuncio de Eliahu en Malají 3:23 (numeración 4:5 de otras ediciones). Devarim 23:6 OE corresponde a 23:5 TTH en el pasaje sobre el amor a Israel. No deben combinarse estas numeraciones bajo una sola etiqueta de corpus.
+
+| Referencia | Hebreo local | Corpus y función |
+| --- | --- | --- |
+| #yoel_3_4 | השמש יהפך לחשך והירח לדם לפני בוא יום יהוה הגדול והנורא | OE; ancla textual, distinta de la interpretación. |
+| #malaji_3_23 | הנה אנכי שלח לכם את אליה הנביא לפני בוא יום יהוה הגדול והנורא | OE; ancla textual, distinta de la interpretación. |
+| #devarim_23_6 | ולא אבה יהוה אלהיך לשמע אל בלעם ויהפך יהוה אלהיך לך את הקללה לברכה כי אהבך יהוה אלהיך | OE; ancla textual, distinta de la interpretación. |
 
 ## Referencias judías y fuentes externas
 
@@ -101,8 +113,8 @@ Sodot 1 presenta lo que debe suceder en breve y conecta esa brevedad con el día
 ## Pendiente de verificar
 
 - [ ] Conexión explícita entre #apocalipsis_1_7 y #daniel_7_13 en la argumentación de la nota.
-- [ ] OE local para #yoel_2_31 y #malaji_4_5.
-- [ ] Referencia exacta de #devarim_23_6 en la tabla de atributos (posible desfase versicular).
+- [ ] Cotejar la aplicación temporal del día de יהוה; los textos OE ya están citados con su numeración propia.
+- [ ] Revisar las conexiones de cada atributo en su contexto; la numeración de Devarim ya está distinguida entre OE y TTH.
 
 ## Ver también
 

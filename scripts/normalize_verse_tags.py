@@ -161,7 +161,12 @@ def normalize_names(text: str) -> tuple[str, int]:
             changed += 1
             return NAME_REPLACEMENTS[match.group(0)]
 
-        output.append(NAME_RE.sub(replace, line))
+        # Corpus filenames are source identifiers, not display transliterations.
+        parts = re.split(r"(docs/scriptures/[^\s\"'<>|)]+)", line)
+        output.append("".join(
+            part if index % 2 else NAME_RE.sub(replace, part)
+            for index, part in enumerate(parts)
+        ))
     return "".join(output), changed
 
 

@@ -18,7 +18,7 @@ references:
   - "#juan_8_58"
 sources:
   - "https://www.youtube.com/watch?v=VsjYQKWSKMs"
-  - "docs/scriptures/tth/json/yojanan.json"
+  - "docs/scriptures/tth/json/iojanan.json"
   - "docs/scriptures/delitzsch/json/john.json"
 source_ids:
   - "youtube:VsjYQKWSKMs"
@@ -37,7 +37,7 @@ Esta nota organiza la parte 23 de la serie de Eric sobre Yojanán 8:30 en adelan
 
 | Referencia       | Texto local (TTH; cotejo Delitzsch)                                                                                       | Función en el argumento                                                                |
 | ---------------- | ------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
-| #juan_8_30-32 | TTH: «muchos se afirmaron en Él»; «si permanecen en mi palabra… serán mis discípulos»; «la verdad los liberará».          | La fe inicial debe continuar en permanencia y discipulado; la verdad produce libertad. |
+| #juan_8_30-32 | TTH: «muchos se afirmaron en Él»; «si permanecen en mi palabra… en verdad mis discípulos son ustedes»; «la verdad los liberará».          | La fe inicial debe continuar en permanencia y discipulado; la verdad produce libertad. |
 | #juan_8_34-36 | TTH: «todo el que hace pecado, siervo del pecado es»; «si el Hijo los libera, en verdad hijos de libertad serán ustedes». | Yehoshua distingue libertad del pecado y libertad concedida por el Hijo.               |
 | #juan_8_39-42 | TTH: «si fueran hijos de Abraham, también las obras de Abraham harían»; «de Elohim he salido… Él me envió».               | La descendencia de Abraham se prueba por las obras; el enviado procede del Padre.      |
 | #juan_8_51-59 | TTH: «si un hombre guarda mi palabra, no saboreará la muerte nunca»; «antes que Abraham fuese, Yo soy».                   | Guardar la palabra, la vida y la declaración «Yo soy» llevan la discusión a su clímax. |

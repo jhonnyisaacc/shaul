@@ -40,7 +40,7 @@ translation: "[TTH, Delitzsch]"
 
 Yojanán 10:17-24 muestra que la muerte del Mesías no fue una derrota impuesta desde afuera, sino la entrega voluntaria de su nefesh para cumplir aquello que los sacrificios señalaban. La clase conecta #juan_10_17 y #juan_10_18 con #yeshayahu_53_10, #tehilim_16_10 y #hechos_2_27: el Mesías pone su vida, su cuerpo entregado, y vuelve a tomarla sin quedar en corrupción.
 
-El hilo continúa con la reacción dividida de los yehudim, la memoria de la sanidad del ciego y el marco de Janucá. La pregunta "si tú eres el Mesías, dínoslo con confianza" no aparece en el vacío: llega después de que Yeshúa ha presentado sus obras como testimonio, ha hablado de poner su nefesh por las ovejas y camina en el área sagrada del templo durante una fiesta ligada a dedicación, educación y recuperación del culto.
+El hilo continúa con la reacción dividida de los yehudim, la memoria de la sanidad del ciego y el marco de Janucá. La pregunta "si tú eres el Mesías, dínoslo con confianza" no aparece en el vacío: llega después de que Yehoshua ha presentado sus obras como testimonio, ha hablado de poner su nefesh por las ovejas y camina en el área sagrada del templo durante una fiesta ligada a dedicación, educación y recuperación del culto.
 
 ## Alcance de la nota
 
@@ -48,6 +48,14 @@ El hilo continúa con la reacción dividida de los yehudim, la memoria de la san
 - Continúa la línea de [[juan_10_puerta_pastor_abba|Yojanán 10: la puerta, el buen pastor y Abba]].
 - El foco principal está en #juan_10_17-24, con excursus sobre nefesh, sacrificios, Janucá, el templo y expectativas mesiánicas.
 - Las observaciones sobre griego, etimología y arquitectura del templo quedan como tesis de la clase, pendientes de verificación técnica si se desarrollan en nota especializada.
+
+## Mapa de la enseñanza de Eric
+
+| Unidad textual | Observación de la clase | Tratamiento en esta nota |
+| --- | --- | --- |
+| #juan_10_17-18; [07:29](https://www.youtube.com/watch?v=W1agi038QCs&t=449s) | Eric acerca nefesh a la persona que expone su vida y al cuerpo ofrecido. | La imagen de cuello o pescuezo se conserva como explicación pedagógica; la traducción no se reduce a una equivalencia única con psyche. |
+| #tehilim_16_10; #hechos_2_27 | La clase sigue el paralelismo entre nefesh, Sheol y no ver corrupción. | Se comparan los textos locales; no se deduce de una glosa aislada una descripción completa del estado de los muertos. |
+| #juan_10_19-24 | El discurso continúa con división, el recuerdo del ciego y Janukah antes de la pregunta por el Mesías. | Se conserva ese orden; la relación entre dedicación y reeducación, y la arquitectura del templo, requieren cotejo externo. |
 
 ## Hoja de comparación
 
@@ -79,7 +87,7 @@ El hilo continúa con la reacción dividida de los yehudim, la memoria de la san
 | **(ψυχή)** | psuche | vida, nefesh en lectura semítica de la clase | ψυχ- | Equivalencia aproximada; marcar como pedagógica, no lexicografía cerrada. |
 | **(שאול)** | Sheol | sepultura, muerte, no Hades filosófico | שאל | #tehilim_16_10: no abandono al Sheol ≠ inframundo griego. |
 | **(שחת)** | shachat | corrupción, podredumbre del cuerpo | שחת | Segunda línea del paralelismo aclara la primera en el salmo. |
-| **(חנוכה)** | Janukah / enkainia | dedicación, reeducación en emunah | חנך | Fiesta histórica; ver [[../temas/janukah|Janukah]]. |
+| **(חנוכה)** | Janukah / enkainia | dedicación, reeducación en emunah | חנך | Fiesta histórica; ver [[../temas/janukah\|Janukah]]. |
 | **(παρρησία)** | parresia | franqueza, decir abiertamente | — | Petición de #juan_10_24: confesión pública mesiánica. |
 | **(אשם)** | asham | ofrenda de culpa | אשם | En #yeshayahu_53_10 la nefesh del siervo se pone como asham. |
 
@@ -113,17 +121,17 @@ Aquí también se marca una diferencia cultural. "Hades" puede traer al lector g
 
 El expositor usa esta sección para explicar por qué la vigencia de la Torah no obliga a restaurar sacrificios animales. Según la clase, las disposiciones sacrificiales eran pedagógicas y estaban ligadas al sacerdocio levítico, surgido después del becerro de oro, mientras que el propósito inicial de #shemot_19_6 era que todo Israel fuera reino de sacerdotes.
 
-Los sacrificios señalaban al Mesías hasta el tiempo de reformar las cosas. Cuando Yeshúa pone su nefesh, la dimensión sacrificial alcanza su plenitud. El argumento no es "la ley fue abolida", sino que una sección específica de disposiciones encontró su cumplimiento máximo en el cuerpo entregado del Mesías.
+Los sacrificios señalaban al Mesías hasta el tiempo de reformar las cosas. Cuando Yehoshua pone su nefesh, la dimensión sacrificial alcanza su plenitud. El argumento no es "la ley fue abolida", sino que una sección específica de disposiciones encontró su cumplimiento máximo en el cuerpo entregado del Mesías.
 
 Por eso la clase distingue entre mandamientos morales y celebraciones que siguen fluyendo, y los sacrificios que ya fueron colmados en la entrega del Mesías. Shabat, fiestas, no mentir y otros mandamientos no dependen de seguir derramando sangre animal. En cambio, los sacrificios ya no se practican porque el Mesías puso su nefesh una vez para siempre.
 
 ## La contienda por sus palabras
 
-#juan_10_19 dice que hubo contienda por estas palabras. La clase entiende que esa división no nace de una frase aislada, sino del peso acumulado del argumento: si los sacrificios apuntaban a él, si el siervo de #yeshayahu_53_10 pone su nefesh, y si #tehilim_16_10 anuncia que no verá corrupción, entonces Yeshúa está reclamando el lugar central de toda esa pedagogía.
+#juan_10_19 dice que hubo contienda por estas palabras. La clase entiende que esa división no nace de una frase aislada, sino del peso acumulado del argumento: si los sacrificios apuntaban a él, si el siervo de #yeshayahu_53_10 pone su nefesh, y si #tehilim_16_10 anuncia que no verá corrupción, entonces Yehoshua está reclamando el lugar central de toda esa pedagogía.
 
 Unos responden acusándolo de tener a Ha'satán y estar fuera de sí. Otros, en cambio, razonan desde las obras: esas palabras no suenan como palabras de un endemoniado, y un demonio no abre los ojos de los ciegos. La sanidad de #juan_9_6-7 sigue funcionando como testimonio público. No pueden resolver fácilmente la tensión entre sus tradiciones de Shabat y una obra visible de Elohim.
 
-La clase aprovecha esa tensión para corregir una lectura común: Yeshúa no quebranta Shabat al sanar al ciego. Lo que quebranta es la tradición que había oscurecido el propósito del Shabat. Si el Shabat fue hecho por causa del hombre, entonces sanar, consolar y restaurar vida está en armonía con el día, no contra él.
+La clase aprovecha esa tensión para corregir una lectura común: Yehoshua no quebranta Shabat al sanar al ciego. Lo que quebranta es la tradición que había oscurecido el propósito del Shabat. Si el Shabat fue hecho por causa del hombre, entonces sanar, consolar y restaurar vida está en armonía con el día, no contra él.
 
 ## Janucá y el templo
 
@@ -135,15 +143,15 @@ Luego la clase traslada el principio hacia la Besorah: ahora la edificación ya 
 
 ## El área sagrada y el pórtico de Shelomóh
 
-#juan_10_23 dice que Yeshúa andaba en el Hejal, en el pórtico de Shelomóh. La clase advierte que "templo" no debe imaginarse solamente como el edificio interior. El área sagrada incluía la explanada, los patios y las galerías ampliadas en tiempos de Herodes.
+#juan_10_23 dice que Yehoshua andaba en el Hejal, en el pórtico de Shelomóh. La clase advierte que "templo" no debe imaginarse solamente como el edificio interior. El área sagrada incluía la explanada, los patios y las galerías ampliadas en tiempos de Herodes.
 
 Esta observación sirve para leer también escenas como la expulsión de cambistas. Si la casa de יהוה debía ser casa de oración para todos los pueblos, el patio de los gentiles también importaba. No era una zona sin santidad. La santidad del monte completo ayuda a entender por qué el comercio invasivo y el control religioso podían convertirse en profanación.
 
 ## "Dínoslo con confianza"
 
-En #juan_10_24 los yehudim rodean a Yeshúa y le piden que diga abiertamente si es el Mesías. La clase subraya dos detalles: primero, la pregunta aparece después de obras que ya daban testimonio; segundo, el lenguaje del texto, según el expositor, tiene una imagen de tener la nefesh suspendida o retenida.
+En #juan_10_24 los yehudim rodean a Yehoshua y le piden que diga abiertamente si es el Mesías. La clase subraya dos detalles: primero, la pregunta aparece después de obras que ya daban testimonio; segundo, el lenguaje del texto, según el expositor, tiene una imagen de tener la nefesh suspendida o retenida.
 
-La respuesta implícita de Yeshúa ya está en el contexto: lo ha dicho y lo ha mostrado, pero ellos no ejercen emunah. Esperan una declaración que encaje con su esquema mesiánico, mientras él viene cumpliendo la Torah y los profetas en una forma que confronta sus expectativas.
+La respuesta implícita de Yehoshua ya está en el contexto: lo ha dicho y lo ha mostrado, pero ellos no ejercen emunah. Esperan una declaración que encaje con su esquema mesiánico, mientras él viene cumpliendo la Torah y los profetas en una forma que confronta sus expectativas.
 
 El cierre del video anticipa una discusión posterior: qué se esperaba del Mesías y qué expresa realmente el Tanaj. La clase menciona la objeción de que el Mesías debería traer paz mundial o reconstruir el templo, pero propone ordenar la expectativa: primero debe pagarse la deuda delante de Elohim; la paz entre pueblos solo puede ser fruto de esa reconciliación, no un acuerdo político sin transformación.
 
@@ -157,7 +165,7 @@ El cierre del video anticipa una discusión posterior: qué se esperaba del Mes�
 
 ## Conclusión
 
-La entrega de la nefesh en #juan_10_17-18 no contradice las obras ya mostradas ni el marco de Janukah. Al contrario: completa la pedagogía sacrificatorial de Torah y profetas, anticipa resurrección sin corrupción (#tehilim_16_10) y prepara la pregunta mesiánica de #juan_10_24. Quien ha sido formado por la Escritura debería reconocer en Yeshúa al siervo que pone su vida y la vuelve a tomar.
+La entrega de la nefesh en #juan_10_17-18 no contradice las obras ya mostradas ni el marco de Janukah. Al contrario: completa la pedagogía sacrificatorial de Torah y profetas, anticipa resurrección sin corrupción (#tehilim_16_10) y prepara la pregunta mesiánica de #juan_10_24. Quien ha sido formado por la Escritura debería reconocer en Yehoshua al siervo que pone su vida y la vuelve a tomar.
 
 ## Ver también
 

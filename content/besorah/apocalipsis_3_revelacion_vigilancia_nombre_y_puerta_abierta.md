@@ -54,7 +54,7 @@ Esta nota reúne las clases 9–12 de la serie de Eric de Jesús Rodríguez Mend
 
 ## Sardis: un nombre de vida que debe ser guardado (3:1-6) #apocalipsis_3_1-6
 
-La primera clase comienza por el nombre de Sardis y advierte contra convertirlo automáticamente en una geografía o una era histórica. Eric relaciona el mensaje con una comunidad que tiene fama de estar viva, pero cuya evaluación real es la muerte. El contraste no queda en una impresión espiritual: el texto dice que sus obras no han sido halladas completas delante de Elohim (#apocalipsis_3_1-2). Por eso la instrucción es concreta: estar despierto, fortalecer lo que queda, recordar lo recibido y oído, guardarlo y volver (#apocalipsis_3_2-3).
+Los destinatarios nombrados conservan su ubicación en Asia (#apocalipsis_1_11); la aplicación simbólica de Eric no elimina esa dimensión histórica. La primera clase comienza por el nombre de Sardis y advierte contra convertirlo automáticamente en una geografía o una era histórica. Eric relaciona el mensaje con una comunidad que tiene fama de estar viva, pero cuya evaluación real es la muerte. El contraste no queda en una impresión espiritual: el texto dice que sus obras no han sido halladas completas delante de Elohim (#apocalipsis_3_1-2). Por eso la instrucción es concreta: estar despierto, fortalecer lo que queda, recordar lo recibido y oído, guardarlo y volver (#apocalipsis_3_2-3).
 
 Eric conecta esta vigilancia con su insistencia en estudiar la Torá y el testimonio para discernir entre lo santo y lo profano. La conexión es pedagógica y canónica: Apocalipsis 3 sí ordena recordar, guardar y volver, pero no nombra aquí todos los materiales escriturales que Eric incluye en su aplicación. La nota conserva la observación sin convertirla en una cita literal del versículo.
 
@@ -107,7 +107,7 @@ Apocalipsis 3 conduce al lector desde el despertar de Sardis hasta la puerta abi
 
 ## Ver también
 
-- [[apocalipsis_1_revelacion_testimonio_y_mensaje|Apocalipsis 1: revelación, testimonio y mensaje]]
+- [[apocalipsis_1_revelacion_mensaje_testimonio_y_esperanza|Apocalipsis 1: revelación, testimonio y mensaje]]
 - [[apocalipsis_4_trono_redencion_y_adoracion|Apocalipsis 4: trono, redención y adoración]]
 
 ## Créditos

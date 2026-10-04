@@ -18,12 +18,14 @@ references:
   - "#romanos_15_20"
   - "#romanos_15_25"
   - "#romanos_15_30"
-  - "#tehilim_18_49"
+  - "#tehilim_18_50"
   - "#devarim_32_43"
   - "#tehilim_117_1"
   - "#yeshayahu_11_10"
   - "#yeshayahu_52_15"
 sources:
+  - "https://github.com/morphgnt/sblgnt/blob/master/66-Ro-morphgnt.txt"
+  - "https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/Rom.txt"
   - "https://www.youtube.com/watch?v=cnpWPNR8xyg"
   - "docs/scriptures/tth/json/romanos.json"
   - "docs/scriptures/oe/json/psalms/18.json"
@@ -46,22 +48,16 @@ Esta nota organiza la clase 28 de la serie del hermano Eric de Jesús Rodríguez
 
 ## Hoja de comparación
 
-| Referencia | Texto local | Función en la clase |
+| Referencia | Texto local | Función en el argumento |
 | --- | --- | --- |
-| #romanos_15_7-9 | **Por lo tanto, tómense un hombre a su compañero, como también el Mesías los tomó para gloria de Elohim. Porque yo digo que Yehoshua el Mesías fue siervo de la circuncisión por causa de la verdad de Elohim, para establecer los juramentos a los padres, y para que los gentiles glorifiquen a Elohim por causa de su amor bondadoso.** (TTH) | Une acogida, fidelidad a las promesas y misericordia hacia las naciones. |
-| #romanos_15_10-12 | **Griten de alegría, gentiles, con su pueblo... Alaben a יהוה, todos los gentiles... la raíz de Yishai... a Él los gentiles buscarán.** (TTH) | Pablo reúne Torá, Salmos y Profetas como una sola línea de testimonio. |
-| #romanos_15_13 | **Y el Elohim de la esperanza los llenará de toda alegría y shalom para ser afirmados en fidelidad, para hacerlos abundar en la esperanza en la potencia del Rúaj Ha’Kódesh.** (TTH) | La esperanza produce plenitud comunitaria por el Rúaj. |
-| #romanos_15_16-20 | **...para que sea la ofrenda de los gentiles aceptada y santificada por el Rúaj Ha’Kódesh... me esforcé para anunciar la Besorah... para no edificar sobre otro fundamento.** (TTH) | Define el servicio de Pablo y su prioridad misionera. |
-| #romanos_15_25-33 | **Pero ahora voy a Yerushaláim para servir a los kedoshim... que me ayuden en sus tefilot... para que con alegría llegue a ustedes por la voluntad de Elohim...** (TTH) | La misión se concreta en colecta, riesgo, oración y dependencia de Elohim. |
-
-### Testigos del Tanaj citados por Pablo
-
-| Referencia | Hebreo local OE (sin nikud y sin segmentación) | Observación |
-| --- | --- | --- |
-| #devarim_32_43 | **הרנינו גוים עמו כי דם עבדיו יקום ונקם ישיב לצריו וכפר אדמתו עמו** | El texto local conservado lee «naciones, su pueblo»; la forma «con su pueblo» usada en Romanos y defendida en la clase requiere cotejo textual. |
-| #tehilim_117_1 | **הללו את יהוה כל גוים שבחוהו כל האמים** | La alabanza de todas las naciones y pueblos sostiene directamente Romanos 15:11. |
-| #yeshayahu_11_10 | **והיה ביום ההוא שרש ישי אשר עמד לנס עמים אליו גוים ידרשו והיתה מנחתו כבוד** | La raíz de Yishai funciona como señal y objeto de búsqueda de las naciones. |
-| #yeshayahu_52_15 | **כן יזה גוים רבים עליו יקפצו מלכים פיהם כי אשר לא ספר להם ראו ואשר לא שמעו התבוננו** | La clase conecta el programa de Pablo con quienes ven y entienden lo que no les había sido anunciado. |
+| #romanos_15_7-13 | TTH: Por lo tanto, tómense un hombre a su compañero, como también el Mesías los tomó para gloria de Elohim. Porque yo digo que Yeshúa el Mesías fue siervo de la circuncisión por causa de la verdad de Elohim, para establecer los juramentos a los padres, y para que los gentiles glorifiquen a Elohim por causa de su amor bondadoso¹⁷⁵, como está escrito: Por eso te confesaré entre los gentiles, יהוה, y a tu Nombre cantaré melodías¹⁷⁶. Y otra vez dice: Griten de alegría, gentiles, con su pueblo¹⁷⁷. Y otra vez: Alaben a יהוה, todos los gentiles; elógienlo, todos los pueblos¹⁷⁸. Y otra vez dice Yeshayahu: Y sucederá que en aquel día, la raíz de Yishai que está parada por estandarte de los pueblos, a Él los gentiles buscarán¹⁷⁹. Y el Elohim de la esperanza los llenará de toda alegría y shalom¹⁸⁰ para ser afirmados en fidelidad, para hacerlos abundar en la esperanza en la potencia del Rúaj Ha’Kódesh¹⁸¹. | Acogida, promesas, misericordia y esperanza. |
+| #romanos_15_14-21 | TTH: Y he aquí, hermanos míos, yo confío acerca de ustedes, que están llenos de bondad, y llenos de todo conocimiento, y pueden amonestarse un hombre a su compañero. Pero les he escrito, hermanos míos, en parte con atrevimiento¹⁸², para hacerles recordar por el favor que me es dado de Elohim, para ser ministro de Yeshúa el Mesías a los gentiles, y para oficiar como sacerdote en la Besorah¹⁸³ de Elohim, para que sea la ofrenda de los gentiles aceptada y santificada por el Rúaj Ha’Kódesh. Por eso hay para mí alabanza en Yeshúa el Mesías delante de Elohim. Porque no osaría hablar palabra que el Mesías no haya hecho por mano mía para la obediencia de los gentiles, en palabra y en obra, con potencia de señales y maravillas, en la potencia del Rúaj¹⁸⁴ de Elohim; así que, desde Yerushaláim y sus alrededores hasta Ilurikón¹⁸⁵, he llenado de la Besorah del Mesías. Y así me esforcé para anunciar la Besorah, no en los lugares donde haya sido oído el Nombre del Mesías, para no edificar sobre otro fundamento, sino como está escrito: Porque lo que no se les había contado verán, y lo que no habían escuchado entenderán¹⁸⁶. Planificación de futuros viajes | Servicio, ofrenda y programa de anuncio. |
+| #romanos_15_22-33 | TTH: Por lo cual, he sido impedido en muchas ocasiones de ir a ustedes. Pero ahora que no tengo más lugar en estas regiones, y deseando yo ir a ustedes desde hace muchos años, Y cuando vaya a Hispania¹⁸⁷, iré a ustedes; porque espero verlos al pasar, y por ustedes ser enviado allá, si primero me lleno de ustedes. Pero ahora voy a Yerushaláim para servir a los kedoshim¹⁸⁸. Porque Makedonía¹⁸⁹ y Acaya consintieron en hacer una colecta para los pobres de los kedoshim que hay en Yerushaláim. Porque consintieron, y también son deudores a ellos; porque si los gentiles fueron hechos partícipes de los asuntos del Rúaj, también en los de la carne les deben de servir. Por lo tanto, cuando haya acabado esto y les hubiere sellado este fruto, pasaré a ustedes rumbo a Hispania. Y sé que cuando llegue a ustedes, en plenitud de bendición de la Besorah del Mesías vendré. Ruego a ustedes, hermanos míos, en nuestro Adón¹⁹⁰ Yeshúa el Mesías, y por el amor del Rúaj Ha’Kódesh, que me ayuden en sus tefilot¹⁹¹ por mí a Elohim, para que sea rescatado de los rebeldes que están en Yehudáh, y que mi servicio en Yerushaláim a los kedoshim sea acepto; para que con alegría llegue a ustedes por la voluntad¹⁹² de Elohim, y tenga un respiro con ustedes. Y el Elohim de shalom¹⁹³ sea con todos ustedes. Amén. Saludos personales | Viajes, ayuda y oración. |
+| #tehilim_18_50 | OE: על כן אודך בגוים יהוה ולשמך אזמרה | Confesión y alabanza entre las naciones; numeración OE. |
+| #devarim_32_43 | OE: הרנינו גוים עמו כי דם עבדיו יקום ונקם ישיב לצריו וכפר אדמתו עמו | OE no lleva una preposición «con» separada. |
+| #tehilim_117_1 | OE: הללו את יהוה כל גוים שבחוהו כל האמים | Alabanza de naciones y pueblos. |
+| #yeshayahu_11_10 | OE: והיה ביום ההוא שרש ישי אשר עמד לנס עמים אליו גוים ידרשו והיתה מנחתו כבוד | Raíz de Yishai y búsqueda de naciones. |
+| #yeshayahu_52_15 | OE: כן יזה גוים רבים עליו יקפצו מלכים פיהם כי אשר לא ספר להם ראו ואשר לא שמעו התבוננו | Ver y entender lo que no fue anunciado. |
 
 ## 15:7-13: tomar al compañero y leer juntos los testigos #romanos_15_7-13
 
@@ -70,6 +66,8 @@ Eric subraya que «tomarse» en #romanos_15_7 comunica una acogida activa, no un
 La razón de la acogida aparece en #romanos_15_8-9. Yehoshua sirve a la circuncisión para establecer los juramentos dados a los padres, mientras las naciones glorifican a Elohim por misericordia. La clase no presenta estos dos propósitos como programas rivales; los enlaza en la fidelidad de Elohim. Pablo confirma ese enlace mediante una cadena de Escritura: Tehilim 18, Devarim 32, Tehilim 117 e Yeshayahu 11. Eric observa especialmente la repetición de **(גוים)**, _goyim_, para mostrar que «naciones» y «gentiles» traducen la misma forma hebrea según el contexto.
 
 La explicación de Devarim 32:43 requiere cautela. La clase propone que debe leerse «gentiles con su pueblo» y atribuye la ausencia de **(עם)**, _im_, «con», a una omisión en la transmisión masorética. El OE local no contiene esa preposición separada: **הרנינו גוים עמו**. Romanos 15:10 TTH sí expresa «con su pueblo». La convergencia conceptual es clara, pero el mecanismo textual propuesto por la clase no se puede declarar resuelto sin comparar testigos hebreos y griegos.
+
+La primera cita se localiza en #tehilim_18_50 (OE; 18:49 en otras ediciones). En 15:8, SBLGNT tiene **ἐπαγγελίας**, _epangelias_, «promesas»; TTH habla de «juramentos», sin que el griego use aquí ὅρκος, juramento. En 15:10 sí aparece **μετὰ τοῦ λαοῦ αὐτοῦ**, «con su pueblo». Esa preposición explícita verifica la formulación de Romanos, pero no prueba por sí sola una omisión en la transmisión de Devarim 32:43.
 
 ## 15:13-21: esperanza, ofrenda y anuncio donde no se había oído #romanos_15_13-21
 

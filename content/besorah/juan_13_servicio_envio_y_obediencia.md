@@ -20,7 +20,7 @@ references:
   - "#hebreos_10_7"
 sources:
   - "https://www.youtube.com/watch?v=j8X5qMbLDfM"
-  - "docs/scriptures/tth/json/yojanan.json"
+  - "docs/scriptures/tth/json/iojanan.json"
   - "docs/scriptures/delitzsch/json/john.json"
 source_ids:
   - "youtube:j8X5qMbLDfM"
@@ -54,7 +54,7 @@ Lo explícito no es una técnica ritual detallada, sino una semejanza que debe s
 
 ## Siervo y enviado bajo autoridad
 
-#juan_13_16 sostiene dos comparaciones: el siervo no es mayor que su amo, y el enviado no es mayor que quien lo envió. La clase entiende **(שליח)**, \_shaliaj*, como un enviado autorizado y relaciona la comparación con la responsabilidad de cumplir una comisión sin inventar otra. El pasaje usa el término griego para «enviado»; la equivalencia con la figura jurídica rabínica de _shaliaj_ es una aproximación pedagógica que necesita cotejo histórico y lingüístico.
+#juan_13_16 sostiene dos comparaciones: el siervo no es mayor que su amo, y el enviado no es mayor que quien lo envió. La clase entiende **(שליח)**, _shaliaj_, como un enviado autorizado y relaciona la comparación con la responsabilidad de cumplir una comisión sin inventar otra. El pasaje usa el término griego para «enviado»; la equivalencia con la figura jurídica rabínica de _shaliaj_ es una aproximación pedagógica que necesita cotejo histórico y lingüístico.
 
 La aplicación pastoral del video es clara: autoridad recibida no equivale a autonomía. Sin embargo, la nota no convierte esa aplicación en una regla para silenciar el discernimiento ni en una jerarquía eclesial automática. El criterio inmediato del capítulo es el ejemplo de Yehoshua: el Maestro sirve y encarga a los suyos una práctica correspondiente.
 
@@ -91,7 +91,7 @@ Así, el ejemplo no justifica prestigio para quien enseña ni pasividad para qui
 
 ## Pendiente de verificar
 
-- [ ] Cotejar el uso de ἀπόστολος en #juan_13_16 frente a **(שליח)**/\_shaliaj* y sus alcances jurídicos en fuentes antiguas.
+- [ ] Cotejar el uso de ἀπόστολος en #juan_13_16 frente a **(שליח)**/_shaliaj_ y sus alcances jurídicos en fuentes antiguas.
 - [ ] Localizar la fuente rabínica exacta que la clase asocia con el enviado autorizado y la representación legal.
 - [ ] Revisar la explicación de «amén, amén» dada en la clase antes de convertirla en una conclusión léxica.
 - [ ] Cotejar el desarrollo sobre sacrificios, juramentos y muerte vicaria que el video vincula con la obediencia del Mesías.

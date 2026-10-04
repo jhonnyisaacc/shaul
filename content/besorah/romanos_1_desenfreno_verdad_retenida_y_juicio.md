@@ -26,6 +26,8 @@ references:
   - "#vayikra_18_22"
   - "#efesios_2_3"
 sources:
+  - "https://github.com/morphgnt/sblgnt/blob/master/66-Ro-morphgnt.txt"
+  - "https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/Rom.txt"
   - "https://www.youtube.com/watch?v=-xgUSMnGvW8"
   - "docs/scriptures/tth/json/romanos.json"
 source_ids:
@@ -45,11 +47,11 @@ Esta nota organiza la clase pública sobre Romanos 1:22-32 y el comienzo de Roma
 
 | Referencia | Texto local de TTH | Función en la lectura |
 | --- | --- | --- |
-| #romanos_1_22-23 | «Y aparentando ser sabios, fueron indisciplinados. Y cambiaron a la gloria de Elohim, que es inmutable, por un modelo de imagen de mutabilidad de hombre, ave de los cielos, buey que come hierba y reptil.» | La apariencia de sabiduría culmina en el intercambio de gloria por imágenes de lo creado. |
-| #romanos_1_24-25 | «Por eso, también los dio Elohim al deseo de sus corazones en impureza, contaminando sus cuerpos con sus gargantas; los cuales cambiaron la verdad de Elohim por la mentira, y temieron y sirvieron a lo creado antes que al Creador...» | El “dar” de Elohim aparece como juicio sobre un deseo ya dirigido contra la verdad. |
-| #romanos_1_26-28 | «Por eso, los dio Elohim a sufrimientos de vergüenza... Y porque no quisieron conocer a Elohim, les dio Elohim un corazón apóstata, para hacer lo que no les es adecuado.» | La repetición del verbo muestra una entrega progresiva a las consecuencias del rechazo. |
-| #romanos_1_29-32 | «Llenos de toda injusticia... que, aunque conocían la justicia de Elohim... no solo los que las hacen, sino también los que consienten a los que las hacen.» | La lista incluye injusticia social y complicidad; no reduce el problema a una sola categoría de pecado. |
-| #romanos_2_1 | «Por eso, no eres inocente, cualquier hombre, que juzgas; porque en lo que juzgas al otro, a ti mismo te juzgas...» | El pasaje siguiente corrige la lectura que condena al otro sin arrepentimiento propio. |
+| #romanos_1_22-23 | TTH: Y aparentando ser sabios, fueron indisciplinados. Y cambiaron a la gloria de Elohim, que es inmutable, por un modelo de imagen de mutabilidad de hombre, ave de los cielos, buey que come hierba y reptil. | La apariencia de sabiduría culmina en el intercambio de gloria por imágenes de lo creado. |
+| #romanos_1_24-25 | TTH: Por eso, también los dio Elohim al deseo de sus corazones en impureza, contaminando sus cuerpos con sus gargantas; los cuales cambiaron la verdad de Elohim por la mentira, y temieron y sirvieron a lo creado antes que al Creador, quien es Santo Bendito por siempre y siempre. Amén. | El “dar” de Elohim aparece como juicio sobre un deseo ya dirigido contra la verdad. |
+| #romanos_1_26-28 | TTH: Por eso, los dio Elohim a sufrimientos de vergüenza, porque sus mujeres cambiaron el camino de la naturaleza por lo que es contra naturaleza. Y asimismo, los hombres abandonaron el camino natural de la mujeres, y se encendieron en sus lujurias un hombre hacia su compañero, varones con varones, hacedores de vacuidad, obradores de artimaña y marchitez; y también, el pago de sus obras y su marchitez, conforme a lo apropiado para sus cuerpos y para sus vidas, tomaron. Y porque no quisieron conocer a Elohim, les dio Elohim un corazón apóstata, para hacer lo que no les es adecuado. | La repetición del verbo muestra una entrega progresiva a las consecuencias del rechazo. |
+| #romanos_1_29-32 | TTH: Llenos de toda injusticia, fornicación, maldad, ganancia injusta, desviaciones; llenos de envidia, homicidio, contienda, artimaña y plan malvado; hechiceros, calumniadores, aborrecedores de Elohim, insultadores, altivos, jactanciosos, productores de males, rebeldes a sus progenitores, insípidos, traidores, inmisericordes, insolentes, crueles; que, aunque conocían la justicia de Elohim que los que hacen tales cosas tienen juicio de muerte, no solo los que las hacen, sino también los que consienten a los que las hacen. | La lista incluye injusticia social y complicidad; no reduce el problema a una sola categoría de pecado. |
+| #romanos_2_1 | TTH: Por eso, no eres inocente, cualquier hombre, que juzgas; porque en lo que juzgas al otro, a ti mismo te juzgas, porque estas cosas que juzgas tú haces. | El pasaje siguiente corrige la lectura que condena al otro sin arrepentimiento propio. |
 
 ## De la apariencia de sabiduría al intercambio de gloria
 
@@ -58,6 +60,8 @@ Eric observa que Romanos 1:22 no describe una sabiduría real que luego se perdi
 En el versículo 23, el intercambio tiene dos direcciones: se cambia la gloria inmutable por imágenes mutables, y en el versículo 25 se cambia la verdad por la mentira. La clase relaciona “gloria” con honra, pertenencia y presencia de Elohim, no solamente con brillo o apariencia. Esa ampliación es teológica, pero el contraste principal sí está explícito: Creador y creación no ocupan el mismo lugar. El texto menciona figuras humanas, aves, cuadrúpedos y reptiles; por eso la idolatría no es una idea abstracta, sino una reordenación concreta del culto.
 
 La clase lee esta acusación a la luz de la historia de Israel: un pueblo que recibió pacto y enseñanza pudo contaminarse siguiendo las prácticas de las naciones. Esa aplicación es coherente con el uso que hace Pablo de la Escritura, pero no debe presentarse como si Romanos 1 nombrara a Israel de forma exclusiva en cada frase. La unidad habla de quienes conocen y retienen la verdad; el argumento más seguro es mantener abierta la referencia mientras se observa la responsabilidad agravada de quien ha recibido revelación.
+
+El cotejo griego distingue **ἐμωράνθησαν**, «se volvieron necios», en 1:22, de **ἀδόκιμον νοῦν**, «mente no aprobada», en 1:28. Eric organiza el deterioro como indisciplina y rechazo; se conserva esa progresión sin atribuir a ambos versículos la misma palabra. TTH vierte las formas de manera propia y queda reproducido como testigo, no como retrotraducción del griego.
 
 ## “Los dio Elohim”: deseo, consecuencia y responsabilidad
 
@@ -81,8 +85,8 @@ Por eso Romanos 2:1 es indispensable. El que juzga a otro mientras practica las 
 
 | Forma | Transliteración | Sentido normal | Fuerza contextual |
 | --- | --- | --- | --- |
-| **(δόκιμος / ἀδόκιμος)** | _dokimos / adokimos_ | probado / rechazado, no aprobado | La clase propone “indisciplinado” para el contraste; debe cotejarse con el texto griego. Correspondencia aproximada. |
-| **(ἀλλάσσω)** | _allassō_ | cambiar, intercambiar | Marca el doble intercambio: gloria por imagen y verdad por mentira. Sentido contextual directo. |
+| **(ἐμωράνθησαν)** / **(ἀδόκιμον νοῦν)** | _emōranthēsan / adokimon noun_ | se volvieron necios / mente no aprobada | «Indisciplinados» en TTH 1:22 corresponde al verbo μωραίνω; ἀδόκιμος aparece en 1:28, no en 1:22. No se confunden los dos momentos. |
+| **(ἀλλάσσω)** | _allassō_ | cambiar, intercambiar | En 1:23, ἤλλαξαν cambia gloria por imagen; 1:25 usa μετήλλαξαν, de μεταλλάσσω, para verdad por mentira. Son verbos relacionados, no la misma forma. |
 | **(ἐπιθυμία)** | _epithymia_ | deseo, anhelo, apetito | La clase lo acerca a deseo desordenado; no todo uso de la palabra tiene idéntica carga. |
 | **(ἀκαθαρσία)** | _akatharsia_ | impureza | “No apto para santidad” es una explicación pedagógica; requiere distinguir uso ritual y moral. |
 | **(συνυδοκέω)** | _syneudokeō_ | consentir, aprobar juntamente | En 1:32 incluye complicidad moral, no solo conocimiento pasivo. |
@@ -100,7 +104,7 @@ Por eso Romanos 2:1 es indispensable. El que juzga a otro mientras practica las 
 
 ## Pendiente de verificar
 
-- [ ] Cotejar las formas griegas de Romanos 1:22-32 con el TTH y con la traducción hebrea usada en la clase.
+- [x] Cotejar SBLGNT y TTH en 1:22-32: separar μωραίνω, ἀδόκιμος, ἀλλάσσω y μεταλλάσσω. La edición hebrea histórica citada oralmente sigue pendiente de identificación precisa.
 - [ ] Verificar los sentidos de _nefesh_, “garganta”, “apetito” y “vida” antes de convertirlos en una sola definición.
 - [ ] Revisar la conexión precisa entre Romanos 1:26-27, Bereshit 3 y las prohibiciones de Vaikra 18.
 - [ ] Comprobar la referencia histórica exacta al episodio de Guivá y a la tribu de Binyamín en Shoftim 19–20.

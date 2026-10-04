@@ -193,7 +193,7 @@ sources:
   - "https://www.youtube.com/live/Hv7enV-uw5A?si=7SNfqE7UOGAZgadp"
   - "https://www.youtube.com/live/AYrCYjkwyYo?si=WPR3AC6VhLy_nAwN"
   - "https://www.youtube.com/live/dKqd5lQXyEA?si=01S7uym38s1VjlmO"
-  - "docs/scriptures/tth/json/yojanan.json"
+  - "docs/scriptures/tth/json/iojanan.json"
   - "docs/scriptures/delitzsch/json/john.json"
   - "docs/scriptures/oe/json/zechariah/9.json"
   - "docs/scriptures/oe/json/psalms/118.json"
@@ -210,19 +210,15 @@ sources:
   - "docs/scriptures/oe/json/zephaniah/3.json"
   - "docs/scriptures/oe/json/songofsolomon/1.json"
   - "docs/scriptures/oe/json/songofsolomon/4.json"
-  - "/Users/jhonny/.codex/attachments/690ab911-fe2e-4873-ac02-6ccb689dcd46/pasted-text.txt"
   - "docs/scriptures/oe/json/genesis/*.json"
   - "docs/scriptures/oe/json/exodus/14.json"
   - "docs/scriptures/oe/json/zechariah/12.json"
-  - "/Users/jhonny/.codex/attachments/92369d7e-105f-4dd8-84a5-b01b8ec912d2/pasted-text.txt"
   - "docs/scriptures/oe/json/leviticus/10.json"
-  - "/Users/jhonny/.codex/attachments/fd1a1e02-783e-413d-9ea7-178b2b08271b/pasted-text.txt"
-  - "docs/scriptures/tth/json/yeshayahu.json"
+  - "docs/scriptures/tth/json/ieshaiahu.json"
   - "docs/scriptures/tth/json/devarim.json"
   - "docs/scriptures/tth/json/mishlei.json"
   - "docs/scriptures/tth/json/matityahu.json"
   - "docs/scriptures/oe/json/deuteronomy/11.json"
-  - "/Users/jhonny/.codex/attachments/c13ff151-31a2-4631-aaed-a6754268356d/pasted-text.txt"
   - "docs/scriptures/tth/json/romanos.json"
   - "docs/scriptures/tth/json/maasei_hashlijim.json"
   - "docs/scriptures/oe/json/isaiah/43.json"
@@ -250,13 +246,13 @@ Yojanán 12 ordena la última subida pública de Yehoshua hacia Pesaj. La unció
 
 ## Alcance de la nota
 
-Este es el punto de entrada canónico para el capítulo y conserva la ruta de nueve clases de Eric de Jesús. Las notas de bloque se retienen porque contienen sus hojas comparativas completas, desarrollo léxico, fuentes y cautelas propias; aquí se integran su línea de lectura, sus URL y sus `source_ids`, sin atribuir a Yojanán lo que pertenece a la interpretación de las clases.
+Este es el punto de entrada canónico para el capítulo y conserva la ruta de nueve clases de Eric de Jesús. Los nueve dossiers se conservan dentro de esta misma nota con sus hojas comparativas, desarrollo léxico, fuentes y cautelas propias; su ruta enlaza los encabezados integrados y conserva sus URL y sus `source_ids`, sin atribuir a Yojanán lo que pertenece a la interpretación de las clases.
 
 ## Hoja de comparación
 
 | Referencia        | Texto local                                                                                                                                                                                                 | Función en el capítulo                                                                    |
 | ----------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
-| #juan_12_1     | וששת ימים לפני חגהפסח בא ישוע אלביתעניה ושם אלעזר המת אשר החיה מןהמתים                                                                                                                                      | Betania sitúa la cena a seis días de Pesaj y mantiene a Eleazar como testigo de la señal. |
+| #juan_12_1     | Delitzsch: וששת ימים לפני חגהפסח בא ישוע אלביתעניה ושם אלעזר המת אשר החיה מןהמתים                                                                                                                                      | Betania sitúa la cena a seis días de Pesaj y mantiene a Eleazar como testigo de la señal. |
 | #juan_12_3     | Y Miriam tomó una medida de aceite del mejor nardo, muy costoso, y ungió los pies de Yeshúa, y frotó con sus cabellos sus pies; y toda la casa se llenó del aroma del perfume.                              | El aroma anticipa la sepultura dentro de una casa llena.                                  |
 | #juan_12_16    | Pero estas palabras no las supieron sus discípulos primero; pero después, cuando fue glorificado Yeshúa, entonces recordaron que acerca de Él habían sido escritas, y que se las habían hecho, estas cosas. | La glorificación abre la memoria de las Escrituras.                                       |
 | #juan_12_20    | Y había unos hombres griegos que habían subido a postrarse en la fiesta.                                                                                                                                    | La llegada de las naciones marca el giro hacia la hora.                                   |
@@ -304,17 +300,17 @@ La clase insiste correctamente en que oír y guardar no deben separarse en una r
 | **(בת קול)**     | voz/eco celestial                   | Categoría pedagógica de las clases para #juan_12_28; fuente rabínica exacta pendiente.                           |
 | **(אמונה)**      | afirmarse, fidelidad                | La TTH usa «afirmarse»; su alcance frente a los verbos griegos debe revisarse pasaje por pasaje.                    |
 
-## Notas de bloque conservadas
+## Ruta de dossiers integrados
 
-- [[juan_12_betania_nardo_rey_humillado|Betania, nardo y el Rey humillado]] — #juan_12_1-15; `youtube:mG0xaFkcSag`.
-- [[juan_12_gloria_peso_palabra|La gloria como peso de la palabra]] — #juan_12_16-17; `youtube:aRt3PuB_gSw`.
-- [[juan_12_griegos_kabod_ben_haadam|Griegos, kabod y Ben HaAdam]] — #juan_12_16-24; `youtube:90O6TYH0NOM`.
-- [[juan_12_grano_trigo_gloria_gentiles|Grano de trigo, gloria y gentiles]] — #juan_12_20-28; `youtube:ZLTG7uQExR4`.
-- [[juan_12_bat_kol_nombre_juicio|Bat kol, Nombre y juicio]] — #juan_12_27-33; `youtube:So_vr4hwcJQ`.
-- [[juan_12_ben_haadam_hijos_luz|Ben HaAdam y los hijos de luz]] — #juan_12_31-36; `youtube:0SNICYI6yM0`.
-- [[juan_12_hijos_luz_senales_yeshayahu|Hijos de la luz y el anuncio no recibido]] — #juan_12_35-43; `youtube:Hv7enV-uw5A`.
-- [[juan_12_luz_emunah_kabod|Luz, emunah y kabod]] — #juan_12_36-47; `youtube:AYrCYjkwyYo`.
-- [[juan_12_palabra_juicio_vida_olam|Palabra, juicio y vida olam]] — #juan_12_47-50; `youtube:dKqd5lQXyEA`.
+- [[juan_12_camino_hora_luz_palabra#Dossier integrado: Yojanán 12: Betania, nardo y el Rey humillado|Betania, nardo y el Rey humillado]] — #juan_12_1-15; `youtube:mG0xaFkcSag`.
+- [[juan_12_camino_hora_luz_palabra#Dossier integrado: Yojanán 12: la gloria como peso de la palabra|La gloria como peso de la palabra]] — #juan_12_16-17; `youtube:aRt3PuB_gSw`.
+- [[juan_12_camino_hora_luz_palabra#Dossier integrado: Yojanán 12: griegos, kabod y Ben HaAdam|Griegos, kabod y Ben HaAdam]] — #juan_12_16-24; `youtube:90O6TYH0NOM`.
+- [[juan_12_camino_hora_luz_palabra#Dossier integrado: Yojanán 12: grano de trigo, gloria y gentiles|Grano de trigo, gloria y gentiles]] — #juan_12_20-28; `youtube:ZLTG7uQExR4`.
+- [[juan_12_camino_hora_luz_palabra#Dossier integrado: Yojanán 12: bat kol, Nombre y juicio|Bat kol, Nombre y juicio]] — #juan_12_27-33; `youtube:So_vr4hwcJQ`.
+- [[juan_12_camino_hora_luz_palabra#Dossier integrado: Yojanán 12: Ben HaAdam y los hijos de luz|Ben HaAdam y los hijos de luz]] — #juan_12_31-36; `youtube:0SNICYI6yM0`.
+- [[juan_12_camino_hora_luz_palabra#Dossier integrado: Yojanán 12: hijos de la luz y el anuncio no recibido|Hijos de la luz y el anuncio no recibido]] — #juan_12_35-43; `youtube:Hv7enV-uw5A`.
+- [[juan_12_camino_hora_luz_palabra#Dossier integrado: Yojanán 12: luz, emunah y kabod|Luz, emunah y kabod]] — #juan_12_36-47; `youtube:AYrCYjkwyYo`.
+- [[juan_12_camino_hora_luz_palabra#Dossier integrado: Yojanán 12: palabra, juicio y vida olam|Palabra, juicio y vida olam]] — #juan_12_47-50; `youtube:dKqd5lQXyEA`.
 
 El cierre debe leerse sin borrar sus pasos intermedios. Primero, Yehoshua clama que quien se afirma en Él se afirma en quien lo envió (#juan_12_44); luego declara que quien lo ve ve al que lo envió y que vino como Luz para que el que se afirma no permanezca en oscuridad (#juan_12_45-46). Después distingue la finalidad de su venida —salvar al olam— del juicio futuro de la palabra rechazada (#juan_12_47-48), y termina diciendo que no habla por iniciativa propia: el mandamiento del Padre es vida olam (#juan_12_49-50). Eric usa esta cadena para insistir en oír y guardar, pero el texto local es el que sostiene el recorrido afirmación–visión–luz–salvación–juicio–mandamiento. **(ἀκούω)** (_akouō_), «oír» o «escuchar», tiene aquí fuerza de recepción de un mensaje; su relación con «guardar» en la aplicación de la clase es pedagógica y contextual, no una equivalencia léxica automática.
 
@@ -390,7 +386,7 @@ La voz de los cielos no viene para darle información a Yehoshua, sino para la m
 | **(שם)**     | shem            | nombre, fama, revelación, trayectoria | שם          | No se trata solo de pronunciación, sino del Nombre manifestado en la obra de Elohim.            |
 | **(בת קול)** | bat kol         | hija de la voz, eco celestial         | בת + קול    | La clase la define como lectura/veredicto celestial; cotejo rabínico pendiente.                 |
 | **(קול)**    | qol             | voz, sonido, estruendo                | קול         | En el relato algunos oyen trueno; otros entienden voz angelical.                                |
-| **(מלאך)**   | malaj           | mensajero, ángel                      | לאך         | En la clase, el ángel lee o comunica un edicto; no sustituye a Elohim.                          |
+| **(מלאך)**   | malaj           | mensajero, ángel                      | מלאך (base formal) | En la clase, el ángel lee o comunica un edicto; la etimología de la palabra queda pendiente.                          |
 | **(משפט)**   | mishpat         | juicio, proceso legal                 | שפט         | TTH traduce #juan_12_31 como "proceso legal del olam".                                       |
 | **(נשא)**    | nasa            | levantar, alzar                       | נשא         | En #juan_12_32 queda explicado por #juan_12_33 como alusión a la muerte.                  |
 
@@ -474,7 +470,7 @@ La respuesta de Yehoshua no es una definición técnica, sino una identificació
 #### Alcance de la nota
 
 - Fuente principal: transcripción automática provista por el usuario; la nota sintetiza la clase y no reproduce el video palabra por palabra.
-- Pasaje base: #juan_12_31-36, en continuidad con [[juan_12_bat_kol_nombre_juicio|Yojanán 12: bat kol, Nombre y juicio]] y [[juan_12_griegos_kabod_ben_haadam|Yojanán 12: griegos, kabod y Ben HaAdam]].
+- Pasaje base: #juan_12_31-36, en continuidad con [[juan_12_camino_hora_luz_palabra#Dossier integrado: Yojanán 12: bat kol, Nombre y juicio|Yojanán 12: bat kol, Nombre y juicio]] y [[juan_12_camino_hora_luz_palabra#Dossier integrado: Yojanán 12: griegos, kabod y Ben HaAdam|Yojanán 12: griegos, kabod y Ben HaAdam]].
 - La clase usa Yeshayahu 60 y 62 para leer la venida de la luz, Tehilim 89 e Yejezkel 37 para la permanencia del Mesías, Tehilim 8 para Ben Adam, y 1 Yojanán 2 / Efesios 5 / 1 Tesalonicenses 5 para explicar "hijos de luz".
 - Las menciones a Qumrán, el Rollo de la Guerra, Masada y la categoría rabínica de Mesías ben Yosef quedan útiles para contexto, pero pendientes de cotejo documental.
 
@@ -501,7 +497,7 @@ La respuesta de Yehoshua no es una definición técnica, sino una identificació
 | #yeshayahu_62_1   | למען ציון לא אחשה... עד יצא כנגה צדקה וישועתה כלפיד יבער            | ...hasta que salga como brillo su justicia, y su salvación como antorcha se encienda.      | La clase distingue el brillo tenue y la antorcha: etapas de manifestación de luz. |
 | #tehilim_89_36-37 | זרעו לעולם יהיה וכסאו כשמש נגדי                                    | Su simiente para siempre será, y su trono como el sol delante de Mí.                       | Base para la objeción: el Mesías permanece para siempre.                          |
 | #yejezkel_37_25   | ודוד עבדי נשיא להם לעולם                                             | ...David mi siervo será príncipe de ellos para siempre.                                    | "David" es leído como título mesiánico: el amado/príncipe permanente.             |
-| #tehilim_8_5-6    | מה אנוש כי תזכרנו ובן אדם כי תפקדנו                                   | ¿Qué es el hombre que lo recordarás, y el hijo de Adam que lo visitarás?                   | Responde la pregunta por Ben Adam como profecía de disminución y exaltación.      |
+| #tehilim_8_5 (OE) / #tehilim_8_4 (TTH) | מה אנוש כי תזכרנו ובן אדם כי תפקדנו                                   | ¿Qué es el hombre que lo recordarás, y el hijo de Adam que lo visitarás?                   | Responde la pregunta por Ben Adam como profecía de disminución y exaltación.      |
 
 ##### Hijos de luz en las cartas
 
@@ -555,13 +551,13 @@ Dos anclas sostienen la objeción: #tehilim_89_36-37, donde la simiente y el tro
 
 #### "¿Quién es este Ben HaAdam?"
 
-La clase conecta la pregunta con Tehilim 8. Allí no se trata de una reflexión genérica sobre la humanidad, sino de una visión profética: el hijo de Adam es disminuido por un poco y luego coronado de kabod y esplendor, con todas las cosas bajo sus pies. Esa lectura se conecta con Ivrim, donde el salmo se aplica al Mesías.
+La clase conecta la pregunta con Tehilim 8. La clase propone una lectura mesiánica del salmo, sin agotar su referencia a la humanidad: el hijo de Adam es disminuido por un poco y luego coronado de kabod y esplendor, con todas las cosas bajo sus pies. Esa lectura se conecta con Ivrim, donde el salmo se aplica al Mesías.
 
 Por eso Yehoshua no responde con una cita explícita, sino con la clave de lectura: "todavía por un poco de tiempo la Luz estará con ustedes". En la lógica del video, eso significa: si preguntan quién es este Ben HaAdam, miren la Luz. El Ben HaAdam es la Luz verdadera que vino al mundo, la que desde Bereshit pone límite a las tinieblas y da orden a la creación.
 
 #### Luz mayor que el templo
 
-La clase recuerda que el templo podía ser llamado luz del mundo en sentido pedagógico: allí Israel experimentaba cercanía, santidad y acceso mediante el qorban. Pero Yojanán escribe después de la destrucción del templo, y su consuelo es más alto: alguien mayor que el templo estuvo aquí.
+La clase recuerda que el templo podía ser llamado luz del mundo en sentido pedagógico: allí Israel experimentaba cercanía, santidad y acceso mediante el qorban. La clase presupone una redacción posterior a la destrucción del templo, datación que esta nota no verifica, y propone un consuelo más alto: alguien mayor que el templo estuvo aquí.
 
 El Beit HaMikdash era una señal real, pero no contenía a יהוה. La Luz en persona vino en el Mesías. Por eso, ante la pérdida del templo, Yojanán no deja al lector en desconsolación: la luz verdadera ya fue manifestada, y esa luz no era una institución, sino Yehoshua mismo.
 
@@ -610,9 +606,9 @@ Ser hijo de luz, entonces, no es pertenecer a un grupo que se cree puro contra o
 
 #### Ver también
 
-- [[juan_12_griegos_kabod_ben_haadam|Yojanán 12: griegos, kabod y Ben HaAdam]]
-- [[juan_12_bat_kol_nombre_juicio|Yojanán 12: bat kol, Nombre y juicio]]
-- [[juan_12_gloria_peso_palabra|Yojanán 12: gloria, peso y palabra]]
+- [[juan_12_camino_hora_luz_palabra#Dossier integrado: Yojanán 12: griegos, kabod y Ben HaAdam|Yojanán 12: griegos, kabod y Ben HaAdam]]
+- [[juan_12_camino_hora_luz_palabra#Dossier integrado: Yojanán 12: bat kol, Nombre y juicio|Yojanán 12: bat kol, Nombre y juicio]]
+- [[juan_12_camino_hora_luz_palabra#Dossier integrado: Yojanán 12: la gloria como peso de la palabra|Yojanán 12: gloria, peso y palabra]]
 - [[juan_1_judios_luz_y_cosmos|Yojanán 1: yehudim, luz y cosmos]]
 - [[juan_10_17_28_vida_indestructible|Yojanán 10: vida indestructible y mandamiento de Abba]]
 - [[../temas/ben_hijo_titulos_mesias|Ben, Bar Enash y el Hijo de Elohim]]
@@ -629,7 +625,7 @@ La clase lee el nardo como señal aromática frente al pecado que Yehoshua carga
 
 - Fuente principal: transcripción automática provista por el usuario; la nota ordena la clase y no reproduce el video palabra por palabra.
 - Pasaje base: #juan_12_1-15, con atención especial a la cena en Betania, el nardo, los pobres/necesitados y la entrada con palmeras.
-- El TTH local disponible comienza esta sección en #juan_12_2; #juan_12_1 queda citado como referencia de contexto, pendiente de extracción local.
+- El TTH local disponible comienza esta sección en #juan_12_2; el texto de #juan_12_1 está disponible en Delitzsch y se conserva en la hoja inicial de esta nota.
 - Las afirmaciones sobre calendario, Talmud, aparato crítico, costumbres de comidas de Shabat y juegos fonéticos quedan conservadas como líneas de estudio, pero marcadas para verificación.
 
 #### Hoja de comparación
@@ -753,7 +749,7 @@ El pollino no montado por nadie refuerza la señal. No se trata de una entrada m
 
 #### Pendiente de verificar
 
-- [ ] Extraer #juan_12_1 desde una fuente local compatible o revisar por qué falta en TTH local.
+- [ ] Documentar la falta de #juan_12_1 en TTH; el pasaje sí está extraído de Delitzsch en la hoja inicial.
 - [ ] Verificar la explicación talmúdica sobre la preparación del aceite de nardo y el nombre `piliaton`/`piliatun`.
 - [ ] Localizar la fuente exacta que interpreta el nardo de Shir haShirim en relación con el becerro de oro.
 - [ ] Cotejar si #juan_12_8 tiene discusión textual relevante en la familia occidental y cómo debe formularse.
@@ -930,15 +926,15 @@ El grano de trigo debe caer y morir para llevar mucho fruto. Ese fruto no se lim
 | #juan_12_25 | האהב את־נפשו תכרת־לו והשנא את־נפשו בעולם הזה...         | El que ama su vida, la perderá; y el que aborrece su vida en este olam, para vida olam la preservará. | No aferrarse a la נפש ni al honor del olam presente.     |
 | #juan_12_26 | מי־החפץ לשרתני ילך בעקבותי... אתו יכבד האב              | Si un hombre me sirve, vendrá detrás de Mí... lo honrará el Padre.                                    | Servicio implica seguimiento; Abba honra al siervo.      |
 | #juan_12_27 | עתה נבהלה נפשי... אך על־כן באתי למועד הזה               | Ahora está muy turbado mi ser... por esto he venido a esta hora.                                      | La hora no se evita; para eso vino.                      |
-| #juan_12_28 | אבי גדל כבוד שמך... גדלתי כבודו וגם־אגדלנו עוד          | Padre mío, glorifica tu Nombre... Lo he glorificado, y volveré a glorificarlo.                        | Conecta con [[../temas/bat_kol                           | Bat Kol]]. |
+| #juan_12_28 | אבי גדל כבוד שמך... גדלתי כבודו וגם־אגדלנו עוד          | Padre mío, glorifica tu Nombre... Lo he glorificado, y volveré a glorificarlo.                        | Conecta con [[../temas/bat_kol\| Bat Kol]]. |
 
 ##### Textos de apoyo
 
 | Referencia         | Texto local                                                                                                                   | Función en la clase                                                      |
 | ------------------ | ----------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ |
-| #tehilim_8_6       | ותחסרהו מעט מאלהים וכבוד והדר תעטרהו / "Lo disminuirás un poco menos que los Elohim, y gloria y esplendor le coronarás" | Base para leer disminución, כבוד y הדר.                                  |
+| #tehilim_8_6 (OE) / #tehilim_8_5 (TTH) | OE: ותחסרהו מעט מאלהים וכבוד והדר תעטרהו / TTH: ¡Lo disminuirás un poco menos que los Elohim²⁶, y gloria y esplendor le coronarás! | Base para leer disminución, כבוד y הדר.                                  |
 | #tehilim_8_7       | תמשילהו במעשי ידיך כל שתה תחת רגליו                                                                                       | Todo bajo sus pies; dominio del Ben HaAdam.                              |
-| #tehilim_8_9       | "¡יהוה, Adón nuestro, cuán glorioso es tu Nombre en toda la tierra!"                                                          | El Nombre en toda la tierra conecta con #juan_12_28.                  |
+| #tehilim_8_10 (OE) / #tehilim_8_9 (TTH) | OE: יהוה אדנינו מה אדיר שמך בכל הארץ / TTH: ¡יהוה, Adón nuestro, cuán glorioso es tu Nombre en toda la tierra! | El Nombre en toda la tierra conecta con #juan_12_28.                  |
 | #yeshayahu_49_6    | ונתתיך לאור גוים להיות ישועתי עד קצה הארץ                                                                               | Luz de las naciones y salvación hasta el extremo de la tierra.           |
 | #hebreos_2_9         | אבל ישוע המחסר מעט ממלאכים אותו ראינו מעטר בכבוד והדר...                                                                      | Ivrim aplica Tehilim 8 a Yeshúa, coronado por el padecimiento de muerte. |
 | #filipenses_2_7-9     | כי אם־הפשיט את־עצמו... על־כן הגביהו האלהים מאד                                                                                | Despojo, humillación, muerte y exaltación.                               |
@@ -990,7 +986,7 @@ La clase contrasta dos honras incompatibles. El mundo ofrece כבוד y הדר p
 
 #### El mundo y la luz
 
-El expositor recuerda que Yojanán escribe después de la destrucción del templo y que el templo era visto como luz para las naciones. En ese marco, el énfasis de Yojanán sobre la luz adquiere fuerza: la luz del mundo ya no se localiza en el edificio destruido, sino en Yehoshua.
+El expositor presupone una redacción posterior a la destrucción del templo y presenta el templo como luz para las naciones; ambas afirmaciones históricas requieren documentación. En ese marco, el énfasis de Yojanán sobre la luz adquiere fuerza: la luz del mundo ya no se localiza en el edificio destruido, sino en Yehoshua.
 
 Los griegos llegaron atraídos por el culto y por el Elohim de Israel; la respuesta de Yehoshua muestra que el acceso definitivo no dependerá de mirar el templo, sino del Mesías glorificado por medio de la muerte y el fruto. Él es la luz para Israel y para las naciones.
 
@@ -1026,9 +1022,9 @@ La clase convierte esa lectura en llamado de discipulado: no se puede buscar al 
 
 #### Ver también
 
-- [[juan_12_betania_nardo_rey_humillado|Yojanán 12: Betania, nardo y Rey humillado]]
-- [[juan_12_gloria_peso_palabra|Yojanán 12: gloria, peso de la palabra y resurrección]]
-- [[juan_12_bat_kol_nombre_juicio|Yojanán 12: bat kol, Nombre y juicio]]
+- [[juan_12_camino_hora_luz_palabra#Dossier integrado: Yojanán 12: Betania, nardo y el Rey humillado|Yojanán 12: Betania, nardo y Rey humillado]]
+- [[juan_12_camino_hora_luz_palabra#Dossier integrado: Yojanán 12: la gloria como peso de la palabra|Yojanán 12: gloria, peso de la palabra y resurrección]]
+- [[juan_12_camino_hora_luz_palabra#Dossier integrado: Yojanán 12: bat kol, Nombre y juicio|Yojanán 12: bat kol, Nombre y juicio]]
 - [[juan_10_17_28_vida_indestructible|Yojanán 10: vida indestructible y mandamiento de Abba]]
 - [[juan_11_eleazar_resurreccion_vida|Yojanán 11: Eleazar, resurrección y vida]]
 - [[../temas/bat_kol|Bat Kol: Hijo, Siervo y Testimonio]]
@@ -1277,7 +1273,7 @@ Yeshayahu no aparece como cita ornamental. Su palabra se llena cuando el anuncio
 
 #### Ver también
 
-- [[juan_12_betania_nardo_rey_humillado|Yojanán 12: Betania, nardo y el Rey humillado]]
+- [[juan_12_camino_hora_luz_palabra#Dossier integrado: Yojanán 12: Betania, nardo y el Rey humillado|Yojanán 12: Betania, nardo y el Rey humillado]]
 - [[juan_10_emunah_obras_ovejas|Yojanán 10: emunah, obras y ovejas]]
 - [[juan_10_janukah_senales_mesias|Yojanán 10: Janukah, señales y Mesías]]
 - [[../tanaj/mishlei_3|Mishlei 3]]
@@ -1416,9 +1412,9 @@ La buena noticia del pasaje es que Yehoshua vino como luz para que quien se afir
 
 #### Ver también
 
-- [[juan_12_gloria_peso_palabra|Yojanán 12: la gloria como peso de la palabra]]
-- [[juan_12_bat_kol_nombre_juicio|Yojanán 12: bat kol, Nombre y juicio]]
-- [[juan_12_betania_nardo_rey_humillado|Yojanán 12: Betania, nardo y Rey humillado]]
+- [[juan_12_camino_hora_luz_palabra#Dossier integrado: Yojanán 12: la gloria como peso de la palabra|Yojanán 12: la gloria como peso de la palabra]]
+- [[juan_12_camino_hora_luz_palabra#Dossier integrado: Yojanán 12: bat kol, Nombre y juicio|Yojanán 12: bat kol, Nombre y juicio]]
+- [[juan_12_camino_hora_luz_palabra#Dossier integrado: Yojanán 12: Betania, nardo y el Rey humillado|Yojanán 12: Betania, nardo y Rey humillado]]
 - [[juan_10_emunah_obras_ovejas|Yojanán 10: emunah, obras y ovejas]]
 - [[juan_conceptos_deidad|Yojanán: conceptos de deidad]]
 
@@ -1466,7 +1462,7 @@ La enseñanza también une el juicio final con la vida olam: el mandamiento de A
 | **(שפט)**                | shafat               | juzgar, defender, hacer justicia         | שפט         | La clase subraya el sentido positivo de defender justicia, verdad e inocencia; cotejo técnico pendiente. |
 | **(דין)**                | din / dan            | juzgar, condenar                         | דין         | Se usa en la clase para diferenciar juicio condenatorio; requiere verificación lexical.                  |
 | **(יום אחרון)**          | yom acharon          | día postrero, día final                  | יום + אחרון | La clase lo conecta con Sheminí Atzéret y el cierre de Sucot; verificar fuentes judías.                  |
-| **(אבא / אב)**           | Abba / av            | fuente, maestro, origen de la promesa    | אב          | No se lee como figura separada de Yeshúa, sino como el compendio de promesas y designios de יהוה.        |
+| **(אבא / אב)**           | Abba / av            | padre; aplicación: fuente de la promesa | אב | «Fuente» y «maestro» describen la aplicación de la clase; no reemplazan el sentido léxico padre.        |
 | **(אלהים חיים / אל חי)** | Elohim jaim / El jai | Elohim vivo, fuente de vida              | חי          | En la clase se conecta con vida olam, verdad y manifestación por obras.                                  |
 
 #### La palabra que se escucha y se guarda
@@ -1493,11 +1489,11 @@ La segunda deformación es escapista: una expectativa de ser retirado de toda di
 
 Para explicar cómo una comunidad reconoce a los que comienzan el camino de salvación, la clase recurre a Maasei Hashlijim 15. El debate no era si los gentiles debían vivir sin santidad, sino si debían hacerse enteramente judíos según las formas acumuladas por ciertos grupos para ser considerados completos.
 
-La decisión de Yaakov se presenta como un orden inicial: no inquietar a los gentiles que se convierten, pero ordenarles apartarse de idolatría, inmoralidad sexual y homicidio, porque Moshé se lee cada Shabat. La clase usa esto para afirmar que la salvación se reconoce por una separación real del mundo y una entrada progresiva en la instrucción de Elohim, no por sumisión a un sistema religioso humano.
+La clase interpreta la decisión de Yaakov como un orden inicial: no inquietar a los gentiles que se convierten, pero ordenarles apartarse de idolatría, inmoralidad sexual y homicidio, porque Moshé se lee cada Shabat. La clase usa esto para afirmar que la salvación se reconoce por una separación real del mundo y una entrada progresiva en la instrucción de Elohim, no por sumisión a un sistema religioso humano. El texto de #hechos_15_20 enumera contaminación de ídolos, inmoralidad sexual, lo estrangulado y sangre. «Homicidio» es la interpretación ética de la clase sobre sangre, no una sustitución de esa lista; su relación con las variantes textuales queda pendiente. Véase [SBLGNT, Maasei Hashlijim 15](https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/Acts.txt).
 
 #### Andar conforme al Rúaj
 
-#romanos_8_1 se lee como equivalente de #juan_12_47: no hay condenación para los que están en Yehoshua el Mesías y no andan conforme a la carne, sino conforme al Rúaj. "Andar" se entiende de modo hebreo: caminar, proceder, conducirse.
+#romanos_8_1 se lee como equivalente de #juan_12_47: no hay condenación para los que están en Yehoshua el Mesías y no andan conforme a la carne, sino conforme al Rúaj. "Andar" se entiende de modo hebreo: caminar, proceder, conducirse. La cláusula sobre no andar conforme a la carne está en la forma local citada, pero no en #romanos_8_1 de [SBLGNT](https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/Rom.txt); el contraste sí se desarrolla en #romanos_8_4. La aplicación de la clase debe distinguirse de esta diferencia textual.
 
 Por eso andar en el Rúaj no se reduce a ayunos, atmósferas, visiones o lenguaje espiritual. La prueba está en la conducta. #romanos_8_7 define la carne como enemistad contra Elohim porque no se sujeta a la Torah de Elohim ni puede hacerlo. En la clase, el espiritual es el que puede sujetarse a la voluntad de Elohim porque fue liberado para obedecer.
 
@@ -1541,8 +1537,8 @@ Desde ahí, llamar Abba a Elohim es reconocer la fuente de esa existencia, heren
 
 #### Conexiones principales
 
-- [[juan_12_gloria_peso_palabra|Yojanán 12: la gloria como peso de la palabra]]: antecedente inmediato para la revelación del peso de Yehoshua.
-- [[juan_12_bat_kol_nombre_juicio|Yojanán 12: bat kol, Nombre y juicio]]: desarrolla el juicio del olam y la glorificación del Nombre en la hora del Mesías.
+- [[juan_12_camino_hora_luz_palabra#Dossier integrado: Yojanán 12: la gloria como peso de la palabra|Yojanán 12: la gloria como peso de la palabra]]: antecedente inmediato para la revelación del peso de Yehoshua.
+- [[juan_12_camino_hora_luz_palabra#Dossier integrado: Yojanán 12: bat kol, Nombre y juicio|Yojanán 12: bat kol, Nombre y juicio]]: desarrolla el juicio del olam y la glorificación del Nombre en la hora del Mesías.
 - [[juan_14_abba_menajem_nombre|Yojanán 14: Abba, el Nombre y el Menajem]]: continúa la explicación de Abba como fuente de promesa, nombre y obra.
 - [[juan_conceptos_deidad|Yojanán: conceptos de deidad]]: marco para no separar Abba, palabra y Mesías como centros rivales.
 - [[../temas/elohim_aba|Elohim y Aba]]: nota temática relacionada con Abba como fuente, maestro y origen.
@@ -1564,8 +1560,8 @@ Para los que reciben la palabra, el juicio tiene otro rostro: la palabra cumplid
 
 #### Ver también
 
-- [Yojanán 12: la gloria como peso de la palabra](./juan_12_gloria_peso_palabra)
-- [Yojanán 12: bat kol, Nombre y juicio](./juan_12_bat_kol_nombre_juicio)
+- [Yojanán 12: la gloria como peso de la palabra](./juan_12_camino_hora_luz_palabra#dossier-integrado-yojanán-12-la-gloria-como-peso-de-la-palabra)
+- [Yojanán 12: bat kol, Nombre y juicio](./juan_12_camino_hora_luz_palabra#dossier-integrado-yojanán-12-bat-kol-nombre-y-juicio)
 - [Yojanán 14: Abba, el Nombre y el Menajem](./juan_14_abba_menajem_nombre)
 - [Yojanán: conceptos de deidad](./juan_conceptos_deidad)
 - [Elohim y Aba](../temas/elohim_aba)

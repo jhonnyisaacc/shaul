@@ -29,6 +29,7 @@ references:
   - "#galatas_4_31"
   - "#bereshit_21_10"
 sources:
+  - "https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/Gal.txt"
   - "https://www.youtube.com/watch?v=9gyBskCmlPE"
   - "docs/scriptures/delitzsch/json/galatians.json"
 source_ids:
@@ -42,18 +43,20 @@ Galatim 4 anuncia que Elohim envió a su Hijo, nacido de mujer y puesto bajo la 
 
 ## Alcance de la nota
 
-La nota se apoya en la clase pública que cubre #galatas_3_23-4:31 («De esclavos a herederos»). Resume el puente final del capítulo 3 solo para enmarcar la tutela y la herencia; el desarrollo principal de #galatas_3_1-22 está en [[galatas_3]]. No se presenta la transcripción automática como cita literal. Cuando la clase propone identificaciones históricas amplias, lecturas de calendarios o equivalencias fuertes entre «elementos del mundo» y sistemas religiosos posteriores, se conserva la observación atribuida y se marca su alcance.
+La nota se apoya en la clase pública que cubre #galatas_3_23-29 y #galatas_4_1-31 («De esclavos a herederos»). Resume el puente final del capítulo 3 solo para enmarcar la tutela y la herencia; el desarrollo principal de #galatas_3_1-22 está en [[galatas_3]]. No se presenta la transcripción automática como cita literal. Cuando la clase propone identificaciones históricas amplias, lecturas de calendarios o equivalencias fuertes entre «elementos del mundo» y sistemas religiosos posteriores, se conserva la observación atribuida y se marca su alcance.
 
 ## Hoja de comparación
 
 | Referencia         | Texto local Delitzsch                                                                             | Función en el estudio                                                                               |
 | ------------------ | ------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
-| #galatas_3_23-29 | **ולפני בוא האמונה שמורים וסגורים היינו תחת התורה ... הנכם זרע אברהם ויורשים כפי ההבטחה**         | El puente: custodia bajo la Torah y herencia de la simiente en el Mesías.                           |
-| #galatas_4_1-3   | **היורש כל־זמן שהוא קטן ... אין בינו לעבד דבר ... היינו משעבדים לתקוני העולם**                    | El heredero menor vive como siervo bajo tutores hasta el tiempo fijado.                             |
-| #galatas_4_4-7   | **שלח האלהים את־בנו ... לפדות את אשר היו תחת יד־התורה למען נקבל משפט הבנים ... הקורא אבא אבינו**  | Envío del Hijo, redención, adopción y clamor del Ruaj.                                              |
-| #galatas_4_8-11  | **עבדתם את אשר בעצמותם אינם אלהים ... איך תשובו אל־התיקונים הרפים והדלים ... ימים אתם שמרים**     | Advertencia contra volver a servidumbres y observancias que Shaul teme vanas.                       |
-| #galatas_4_12-20 | **היו־נא כמוני ... בני אשר־אני נתון שנית בחבלי לדה עד כי־יוצר בכם המשיח**                         | El tono pastoral: memoria de la primera recepción y dolores de parto por formar al Mesías en ellos. |
-| #galatas_4_21-31 | **שני בנים היו לאברהם ... אלה הן שתי הבריתות ... אנחנו אחי הננו כיצחק בני ההבטחה ... בני החפשיה** | Alegoría de dos alianzas y defensa de la libertad de la promesa.                                    |
+| #galatas_3_23-29 | Delitzsch: ולפני בוא האמונה שמורים וסגורים היינו תחת התורה אלי האמונה העתידה להגלות ובכן התורה היתה אמנת אותנו למשיח למען נצדק באמונה אבל עתה אחרי אשר באה האמונה איננו עוד תחת יד האמן כיאתם כלכם בני אלהים עלידי האמונה במשיח ישוע כי כלכם אשר למשיח נטבלתם לבשתם אתהמשיח ואין עוד יהודי ולא יוני אין עבד ולא בןחורין אין זכר ולא נקבה כי כלכם אחד אתם במשיח ישוע ואםלמשיח אתם הנכם זרע אברהם ויורשים כפי ההבטחה | El puente: custodia bajo la Torah y herencia de la simiente en el Mesías.                           |
+| #galatas_4_1-3   | Delitzsch: ואני אמר היורש כלזמן שהוא קטן אף עלפי שהוא אדון הכל אין בינו לעבד דבר כי אם תחת יד אמנים הוא ותחת פקידי הבית עד למועד המיעד לו מאת אביו וכןאנחנו בעודנו קטנים היינו משעבדים לתקוני העולם | El heredero menor vive como siervo bajo tutores hasta el tiempo fijado.                             |
+| #galatas_4_4-7   | Delitzsch: ובמלאת הימים שלח האלהים אתבנו ילוד אשה ונתון תחת ידהתורה לפדות את אשר היו תחת ידהתורה למען נקבל משפט הבנים ויען כיבנים אתם שלח האלהים בלבבכם אתרוח בנו הקורא אבא אבינו לכן אינך עוד עבד כי אםבן ואםבן אתה הנך גםיורש נחלת האלהים עלידי המשיח | Envío del Hijo, redención, adopción y clamor del Ruaj.                                              |
+| #galatas_4_8-11  | Delitzsch: הן לפנים באיןדעת אלהים עבדתם את אשר בעצמותם אינם אלהים ועתה אחרי אשרידעתם אתהאלהים ויותר שנודעתם לאלהים איך תשובו אלהתיקונים הרפים והדלים ההם אשר תרצו להכנע להם כבתחלה ימים אתם שמרים וחדשים ומועדים ושנים מתירא אני פןיגעתי בכם לריק | Advertencia contra volver a servidumbres y observancias que Shaul teme vanas.                       |
+| #galatas_4_12-20 | Delitzsch: היונא כמוני כי גםאני כמוכם מתחנן אני לכם אחי לאעשיתם לי מאומה רע אתם ידעתם אשר בחלשת בשרי בשרתי לכם אתהבשורה בראשונה ואתם לא בזיתם אתנסיוני אשרנסיתי בבשרי ולא געלתם אתו כי אםקבלתם אתי כמלאך אלהים כמשיח ישוע ועתה איה אשרכם הן מעיד אני עליכם שאםיכלתם הייתם נקרים אתעיניכם לתתן לי ועתה הלאיב נהייתי לכם בדברי אליכם אמת המה לא יקנאו לכם לטובה רק להפריד ביניכם ובינינו יחפצו למען תקנאו אתם להם אמנם טוב לקנא תמיד לטובה ולא בהיותי אצלכם בלבד בני אשראני נתון שנית בחבלי לדה עד כייוצר בכם המשיח אמנה חפצתי להיות עתה אצלכם לשנות אתקול דברי כי נבוך אני בכם | El tono pastoral: memoria de la primera recepción y dolores de parto por formar al Mesías en ellos. |
+| #galatas_4_21-31 | Delitzsch: אמרו לי אתם החפצים להיות תחת התורה הלא שמעתם אתהתורה כי כתוב שני בנים היו לאברהם האחד מןהאמה והשני מןהחפשיה ובןהאמה נולד לפי הבשר ובןהחפשיה עלפי ההבטחה והדברים הם משל כי אלה הן שתי הבריתות האחת מןהר סיני היולדת לעבדות והיא הגר כיסיני הוא הר בערב והוא כנגד ירושלים שלעתה כיבעבדות היא עםבניה אבל ירושלים למעלה חפשיה היא והיא אם כלנו כי כתוב רני עקרה לא ילדה פצחי רנה וצהלי לאחלה כי רבים בנישוממה מבני בעולה ואנחנו אחי הננו כיצחק בני ההבטחה וכאשר רדף אז הנולד לפיהבשר אתהנולד לפי הרוח כןגםעתה והכתוב מההוא אמר גרש האמה ואתבנה כי לא יירש בןהאמה עם בןהחפשיה עלכן אחי לאבני האמה אנחנו כי אםבני החפשיה | Alegoría de dos alianzas y defensa de la libertad de la promesa.                                    |
+| #bereshit_21_10 | OE: ותאמר לאברהם גרש האמה הזאת ואת בנה כי לא יירש בן האמה הזאת עם בני עם יצחק | La narración citada en la alegoría. |
+| #yeshayahu_54_1 | OE: רני עקרה לא ילדה פצחי רנה וצהלי לא חלה כי רבים בני שוממה מבני בעולה אמר יהוה | La estéril y los hijos en la cita de 4:27. |
 
 ## Galatim 3:23–4:7: de la tutela a la adopción #galatas_3_23 #galatas_4_7
 
@@ -63,7 +66,7 @@ La clase comienza en #galatas_3_23: antes de venir la emunah estábamos custodia
 
 #galatas_4_4-5 es el centro confesional del capítulo: al cumplirse el tiempo, Elohim envió a su Hijo, nacido de mujer y puesto bajo la Torah, para redimir a los que estaban bajo la Torah, a fin de que recibiéramos la adopción de hijos. **(υἱοθεσία)** / **משפט הבנים**, _huiothesia_ / _mishpat ha-banim_, es el estatuto o colocación como hijos. «Adopción» es equivalencia **aproximada** útil, siempre que no se proyecte un trámite legal moderno completo sobre el siglo I. Eric subraya que el envío del Hijo no anula la historia de Israel ni convierte la Torah en enemiga: el Hijo nace bajo ella para redimir.
 
-#galatas_4_6-7 continúa: porque sois hijos, Elohim envió a vuestros corazones el Ruaj de su Hijo, que clama «Aba, Padre»; de modo que ya no eres siervo, sino hijo; y si hijo, también heredero por medio del Mesías. **(ἀββᾶ)**, _Abba_, es la forma aramea/familiar de «padre» que la clase acerca a intimidad filial sin trivializarla. La equivalencia «papá» puede ser **pedagógica** en algunos contextos y excesiva en otros; aquí la fuerza es el clamor confiado del hijo, no un sentimentalismo vago.
+#galatas_4_6-7 continúa: porque sois hijos, Elohim envió a vuestros corazones el Ruaj de su Hijo, que clama «Aba, Padre»; de modo que ya no eres siervo, sino hijo; y si hijo, también heredero por medio del Mesías, según Delitzsch. SBLGNT 4:7 dice «por medio de Elohim» y 4:6 tiene «nuestros corazones» frente al «vuestros» del hebreo; se distinguen testigos sin resolver aquí su transmisión. **(ἀββᾶ)**, _Abba_, es la forma aramea/familiar de «padre» que la clase acerca a intimidad filial sin trivializarla. La equivalencia «papá» puede ser **pedagógica** en algunos contextos y excesiva en otros; aquí la fuerza es el clamor confiado del hijo, no un sentimentalismo vago.
 
 ## Galatim 4:8-20: no volver a lo débil y el dolor pastoral de Shaul #galatas_4_8-20
 
@@ -101,9 +104,9 @@ Eric presenta la alegoría como defensa de la promesa y de la libertad filial, n
 ## Pendiente de verificar
 
 - [ ] Cotejar el campo de _stoicheia tou kosmou_ en Galatim y Colosenses antes de identificarlo con un único sistema religioso.
-- [ ] Examinar #galatas_4_10 junto a las moadim de Vaikra 23, distinguiendo memoria de יהוה y presión meritoria en Galacia.
+- [ ] Examinar #galatas_4_10 junto a las moadim de Vayikra 23, distinguiendo memoria de יהוה y presión meritoria en Galacia.
 - [ ] Leer #galatas_4_21-31 junto a #bereshit_16 y #bereshit_21 sin proyectar la retórica de Shaul como juicio total sobre Hagar o Ismael.
-- [ ] Verificar en el griego el alcance de _huiothesia_ y la forma _Abba ho pater_.
+- [x] Cotejar υἱοθεσία y el clamor Αββα ὁ πατήρ en SBLGNT 4:5–6; no se traduce Abba automáticamente como «papá». Las diferencias de testigo en 4:6–7 quedan identificadas.
 
 ## Conclusión
 

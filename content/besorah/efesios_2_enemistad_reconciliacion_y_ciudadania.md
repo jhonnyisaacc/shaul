@@ -23,6 +23,8 @@ references:
   - "#efesios_2_21"
   - "#efesios_2_22"
 sources:
+  - "https://github.com/morphgnt/sblgnt/blob/master/70-Eph-morphgnt.txt"
+  - "https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/Eph.txt"
   - "https://www.youtube.com/watch?v=VSUBNi9Q1Z0"
   - "docs/scriptures/delitzsch/json/ephesians.json"
 source_ids:
@@ -42,10 +44,10 @@ Esta nota organiza la clase pública «CARTA A LOS EFESIOS | La ENEMISTAD contra
 
 | Referencia | Texto local de Delitzsch (sin nikud) | Función en la exposición |
 | --- | --- | --- |
-| #efesios_2_11-12 | **על־כן זכרו כי־אתם מתחלה הגוים בבשר ... זרים מעדת ישראל ונכרים לבריתות ההבטחה באין תקוה ובאין לכם אלהים בעולם** | Recordar la condición anterior: sin Mesías, ciudadanía, pactos, esperanza y Elohim. |
-| #efesios_2_13-16 | **ועתה בישוע המשיח אתם הרחוקים מאז הייתם קרובים בדם המשיח ... אשר עשה השנים אחד ... וירצה את־שניהם בגוף אחד לאלהים** | El Mesías acerca, hace paz, forma un hombre nuevo y reconcilia a ambos en un cuerpo. |
-| #efesios_2_17-18 | **ויבא ויבשר לכם שלום שלום לרחוק ולקרוב ... לשנינו מבוא ברוח אחד אל־אבינו** | El anuncio alcanza al lejano y al cercano; ambos reciben acceso al Padre en un Rúaj. |
-| #efesios_2_19-22 | **אינכם עוד גרים ותושבים ... בני בית אלהים ... ובו נבנים גם־אתם להיות משכן אלהים ברוח** | La reconciliación se vuelve pertenencia, fundamento y morada común. |
+| #efesios_2_11-12 | Delitzsch: עלכן זכרו כיאתם מתחלה הגוים בבשר הנקראים ערלים בפי הנקראים בני המילה שהיא מעשה ידים בבשר כיאתם בעת ההיא הייתם בלי משיח זרים מעדת ישראל ונכרים לבריתות ההבטחה באין תקוה ובאין לכם אלהים בעולם | Recordar la condición anterior: sin Mesías, ciudadanía, pactos, esperanza y Elohim. |
+| #efesios_2_13-16 | Delitzsch: ועתה בישוע המשיח אתם הרחוקים מאז הייתם קרובים בדם המשיח כי הוא שלומנו אשר עשה השנים אחד והרס מחיצת הגדר בבטלו האיבה בבשרו אתתורת המצות והחקות לברא בנפשו אתהשנים לאדם אחד חדש ויעש שלום וירצה אתשניהם בגוף אחד לאלהים עלידי צליבתו בהמיתו בנפשו אתהאיבה | El Mesías acerca, hace paz, forma un hombre nuevo y reconcilia a ambos en un cuerpo. |
+| #efesios_2_17-18 | Delitzsch: ויבא ויבשר לכם שלום שלום לרחוק ולקרוב כי עלידו יש לשנינו מבוא ברוח אחד אלאבינו | El anuncio alcanza al lejano y al cercano; ambos reciben acceso al Padre en un Rúaj. |
+| #efesios_2_19-22 | Delitzsch: לכן אינכם עוד גרים ותושבים כיבניעירם שלהקדשים ובני בית אלהים אתם בנוים עליסוד השליחים והנביאים וישוע המשיח הוא אבן הפנה אשר חברבו יחד הבנין כלו עד אשריגבה להיכל קדש ליהוה ובו נבנים גםאתם להיות משכן אלהים ברוח | La reconciliación se vuelve pertenencia, fundamento y morada común. |
 
 ## Recordar la lejanía sin convertirla en superioridad (2:11-12) #efesios_2_11-12
 
@@ -62,6 +64,8 @@ El giro comienza con «pero ahora». Los que estaban lejos fueron hechos cercano
 La expresión «los dos» es decisiva. La unidad no significa que un grupo se vuelva invisible, sino que la hostilidad deja de gobernar la relación. **εἰρήνη**, _eirēnē_, «paz», se aproxima a **שלום**, _shalom_, como campo de integridad y relación restaurada; no son equivalencias perfectas. **καταργήσας**, _katargēsas_, puede expresarse como «dejando inoperante» o «desactivando». En la frase, el resultado explícito es el hombre nuevo y la reconciliación. Por eso no se debe usar la palabra aislada para afirmar sin más que toda instrucción de Elohim fue abolida.
 
 La «pared intermedia» y la «enemistad» son imágenes y términos del argumento. **μεσότοιχον**, _mesotoichon_, es una pared divisoria; **ἔχθρα**, _echthra_, es enemistad u hostilidad; **ἀποκαταλλάξῃ**, _apokatallaxē_, significa reconciliar plenamente. El vínculo con **איבה**, _eyvah_, y **שלום**, _shalom_, es aproximado y pedagógico. La prueba pública de la sangre y de la cruz no es una teoría sobre un muro arqueológico, sino un cuerpo reconciliado con un mismo acceso.
+
+La lectura completa de 2:15 exige nombrar también el objeto de **καταργήσας**: **τὸν νόμον**, la ley de mandamientos en decretos. La finalidad es crear de los dos un hombre nuevo y hacer paz; en 2:16 se mata la enemistad. No basta reemplazar el objeto «ley» por «enemistad» ni concluir, a partir del verbo aislado, qué conjunto de instrucciones se tiene en vista. Delitzsch traduce la ley de preceptos en ordenanzas; el alcance histórico de esa expresión sigue siendo una cuestión interpretativa.
 
 ## De extranjeros a casa y morada (2:19-22) #efesios_2_19-22
 
@@ -86,13 +90,13 @@ La casa tiene fundamento: apóstoles y profetas, con Yehoshua el Mesías como pi
 | --- | --- | --- |
 | #efesios_2_11-12 | Los gentiles estaban fuera de la ciudadanía de Israel y de los pactos, como alguien sin derechos de pertenencia. | Apoyo textual; la comparación con Roma queda como analogía histórica pendiente de cotejo detallado. |
 | #efesios_2_13-18 | La sangre del Mesías acerca a los lejanos y la enemistad contra Elohim pierde su poder. | Apoyo textual para acercamiento, paz y reconciliación; «recurso» se conserva como glosa atribuida. |
-| #efesios_2_14-16 | «Los dos» se vuelven uno sin que la unidad sea una absorción de un grupo por otro. | Apoyo textual y aclaración léxica de **ἄμφω**, **καταργέω** y **ἀποκαταλλάσσω**. |
+| #efesios_2_14-16 | «Los dos» se vuelven uno sin que la unidad sea una absorción de un grupo por otro. | Apoyo textual y aclaración léxica de **ἀμφότερος**, **καταργέω** y **ἀποκαταλλάσσω**. |
 | #efesios_2_19-22 | La congregación es casa y morada, no un conjunto de individuos sin vínculo. | Apoyo textual en «conciudadanos», «casa» y «edificados juntamente». |
 
 ## Pendiente de verificar
 
 - [ ] Cotejar con fuentes históricas responsables los detalles sobre ciudadanía romana mencionados en la clase.
-- [ ] Estudiar la sintaxis completa de Efesios 2:14-16 y el alcance de **καταργέω** en relación con la enemistad, los mandamientos y los decretos.
+- [x] Cotejar la sintaxis completa en SBLGNT: 2:15 tiene la ley como objeto de **καταργήσας**, y 2:16 la enemistad como objeto de matar. La identidad histórica de las ordenanzas requiere estudio adicional.
 - [ ] Revisar el trasfondo histórico de «pared intermedia» sin convertir una hipótesis arqueológica en significado directo del pasaje.
 - [ ] Cotejar los usos de **πολιτεία**, **προσαγωγή** y **κατοικητήριον** en el corpus griego antes de ampliar sus matices.
 

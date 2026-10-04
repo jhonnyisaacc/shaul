@@ -32,6 +32,12 @@ class NormalizeVerseTagsTests(unittest.TestCase):
         self.assertEqual(normalized, "| #iojanan_10_11 | Yojanán / Yaakov |\n")
         self.assertEqual(count, 2)
 
+    def test_preserves_corpus_source_paths_while_normalizing_prose(self) -> None:
+        text = 'Iojanán: "docs/scriptures/tth/json/iojanan.json" and docs/scriptures/oe/json/iehoshua/1.json'
+        normalized, count = normalize_names(text)
+        self.assertEqual(normalized, 'Yojanán: "docs/scriptures/tth/json/iojanan.json" and docs/scriptures/oe/json/iehoshua/1.json')
+        self.assertEqual(count, 1)
+
     def test_aliases_are_canonical(self) -> None:
         self.assertEqual(canonicalize_tag("#galatians_3_13"), "#galatas_3_13")
         self.assertEqual(canonicalize_tag("#shemuel_2_12_1-15"), "#2_samuel_12_1-15")

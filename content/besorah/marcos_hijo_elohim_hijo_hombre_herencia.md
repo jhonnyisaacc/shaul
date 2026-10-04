@@ -53,6 +53,7 @@ sources:
   - "docs/scriptures/oe/json/psalms/139.json"
   - "docs/scriptures/oe/json/daniel/7.json"
   - "docs/scriptures/oe/json/zechariah/9.json"
+  - "https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/Mark.txt"
 translation: "[TTH, OE]"
 source_ids:
   - "youtube:j52NQB6sKSQ"
@@ -94,13 +95,13 @@ La formulación «hijo = heredero» es el eje pedagógico del video, no una trad
 | #marcos_3_11 | TTH: los espíritus impuros caen delante de él y gritan: «Tú eres el Hijo de Elohim». | La clase interpreta la confesión como reconocimiento del heredero y repartidor del don divino. |
 | #marcos_12_6-7 | TTH: el dueño envía a «su hijo amado»; los viñadores responden: «este es el heredero» y buscan quedarse con «la herencia». | Es el apoyo textual más directo para el énfasis hijo/heredero, aunque no agota todos los usos de **ben**. |
 | #marcos_4_26 | TTH: «Así es el reino de los cielos: como un hombre que echa semilla en la tierra». | La clase ve en la semilla una figura del Mesías que entra en el vientre/tierra y aparece en pequeñez. |
-| #marcos_4_30-31 | TTH: el reino se compara con el grano de mostaza, pequeño entre las semillas sembradas. | El reino pequeño no es ausencia de identidad, sino manifestación dosificada que después crece. |
+| #marcos_4_30-31 | TTH: Y dijo: ¿A quién haremos semejante el reino de los cielos, o con qué parábola lo compararemos? Al grano de mostaza, que cuando se siembra sobre la tierra, pequeño es más que todas las semillas que están sobre la tierra. | El reino pequeño no es ausencia de identidad, sino manifestación dosificada que después crece. |
 | #tehilim_139_13 | OE: כי אתה קנית כליתי תסכני בבטן אמי | «En el vientre de mi madre» establece explícitamente el contexto de formación prenatal. |
 | #tehilim_139_15 | OE: לא נכחד עצמי ממך אשר עשיתי בסתר רקמתי בתחתיות ארץ | «Fui entretejido en las profundidades de la tierra» funciona como paralelo poético del vientre en la lectura de la clase. |
 | #hechos_1_8 | TTH: «tomarán el poder del Rúaj Ha’Kódesh que vendrá a ustedes de lo alto». | La clase identifica Rúaj HaKódesh con el poder mediante el cual Elohim obra en el pueblo. |
 | #romanos_5_5 | TTH: «el amor de Elohim fue derramado en nuestros corazones por el Rúaj Ha’Kódesh dado a nosotros». | Amor, don y poder se reúnen en la explicación de lo que el Hijo reparte. |
 | #tehilim_89_10 | OE: אתה מושל בגאות הים בשוא גליו אתה תשבחם | יהוה gobierna la arrogancia del mar y aquieta sus olas. |
-| #marcos_4_39-41 | TTH: Yeshúa reprende al viento, manda callar al mar y los discípulos preguntan quién es aquel a quien viento y mar escuchan. | La obra atribuida a יהוה en el salmo se manifiesta en la acción de Yeshúa. |
+| #marcos_4_39-41 | TTH: Y Él se levantó, y reprendió al viento, y dijo al mar: ¡Calla, séllate! Y se aquietó el viento, y hubo gran tranquilidad. Y les dijo: ¿Por qué temen de esta manera? ¿Cómo no hay para ustedes emunah⁵⁴? Y temieron con gran temor, y decía un hombre a su compañero: ¿Y quén es Este?, porque también los vientos y el mar escuchan a su voz. | La obra atribuida a יהוה en el salmo se manifiesta en la acción de Yeshúa. |
 | #marcos_5_19-20 | TTH: Yeshúa manda contar «cómo te ha hecho יהוה»; el hombre proclama «cómo le había hecho Yeshúa». | El paralelismo narrativo identifica la obra de Yeshúa con la obra de יהוה. |
 | #daniel_7_13 | OE: כבר אנש... ועד עתיק יומיא מטה | El Bar Enash que llega ante el Anciano de días sostiene el trasfondo mesiánico de Hijo del Hombre; la identificación completa requiere leer #daniel_7_13-14. |
 | #zejariah_9_9 | OE: הנה מלכך יבוא לך צדיק ונושע הוא עני ורכב על חמור ועל עיר בן אתנות | El rey justo y salvador entra humilde sobre asno; la clase lo conecta con la señal del pollino en Marcos 11. |
@@ -115,7 +116,7 @@ La formulación «hijo = heredero» es el eje pedagógico del video, no una trad
 | **(בר אנש)** | Bar Enash | figura aramea «como hijo de hombre» en Daniel 7 | Aproximada | Debe leerse con dominio, honra y reino en #daniel_7_14, no aislada de su visión. |
 | **(רוח הקדש)** | Rúaj HaKódesh | poder de la santidad de Elohim | Pedagógica | #hechos_1_8 une ruaj y poder, pero «poder de la santidad» no es una sustitución lexical automática de la frase. |
 | **(בתחתיות ארץ)** | tajtiyot eretz | profundidades/partes inferiores de la tierra | Contextual | #tehilim_139_15 las usa en paralelo con formación en el vientre; aplicar la imagen a #efesios_4_9 es una decisión exegética. |
-| **(ὤφθη)** | ōphthē | forma mencionada al discutir #marcos_9_4 | Pendiente | El transcript afirma que significa «les pareció» y no «se les apareció»; debe cotejarse directamente con el griego antes de usar esa distinción. |
+| **(ὤφθη)** | ōphthē | forma mencionada al discutir #marcos_9_4 | Pendiente | Aoristo pasivo de ὁράω, ver; en 9:4 se vierte “se apareció/fue visto”. “Les pareció” no es una glosa demostrada; el modo visionario requiere argumento adicional. |
 
 ## Hijo como heredero
 
@@ -177,7 +178,7 @@ El argumento no descansa en un título aislado. Marcos permite que confesión, a
 
 La clase rechaza que Moshéh y Eliyahu estuvieran corporalmente presentes en la metamorfosis. Para sostenerlo reúne #devarim_34_5-6 —Moshéh murió y fue sepultado—, la afirmación de que nadie subió al cielo, la esperanza de resurrección y la observación de #marcos_9_8: al mirar, los discípulos no ven a nadie sino a Yeshúa.
 
-El expositor añade que el griego de #marcos_9_4 debería entenderse como «les pareció» en lugar de «se les apareció». Esa afirmación es decisiva para su lectura, pero no fue cotejada en esta nota y debe quedar abierta. La conclusión segura del relato es que la voz dirige a los discípulos hacia el Hijo amado y que la escena termina con Yeshúa solo; determinar el modo exacto de la aparición exige revisar el griego y el género visionario.
+El expositor añade que el griego de #marcos_9_4 debería entenderse como «les pareció» en lugar de «se les apareció». El cotejo griego identifica **(ὤφθη)** como aoristo pasivo de **(ὁράω)**, ver: Elías con Moshéh se apareció o fue visto por ellos. El verbo no demuestra que solo “les pareció”. Se conserva la lectura simbólica de Eric como interpretación de la escena y no como traducción de esa forma. La conclusión segura del relato es que la voz dirige a los discípulos hacia el Hijo amado y que la escena termina con Yeshúa solo; determinar el modo exacto de la aparición exige revisar el griego y el género visionario.
 
 ## El rey que entra en un pollino
 
@@ -212,7 +213,7 @@ La referencia talmúdica es concreta y útil, pero la clase también hace afirma
 - [ ] Revisar la afirmación de que **(אלהים)** significa o concentra lexicalmente «amor»; distinguir atributo teológico, etimología y uso gramatical.
 - [ ] Comparar **(רוח הקדש)** con el griego de #romanos_5_5 y #hechos_1_8 antes de traducir la frase directamente como «poder de la santidad».
 - [ ] Estudiar #efesios_4_8-10 junto con #tehilim_68_19 y #tehilim_139_13-15 para medir la lectura vientre/profundidades de la tierra.
-- [ ] Cotejar **(ὤφθη)** y la sintaxis completa de #marcos_9_4; no afirmar «les pareció» solo desde la transcripción.
+- [ ] Contrastar el modo de la aparición en #marcos_9_4 con el género de la escena; el verbo ὤφθη ya está identificado y no prueba por sí solo una impresión subjetiva.
 - [ ] Verificar el nombre, la formulación y la clasificación de **binyan av mi-katuv ejad** entre las reglas atribuidas a Hillel.
 - [ ] Leer directamente b. Sanhedrin 98a y precisar qué parte de la aplicación del pollino pertenece al pasaje y qué parte a la clase.
 - [ ] Documentar por separado las afirmaciones sobre la cronología de la tradición oral, la Mishnah, el Talmud, Hillel, Shammai, los Targumim y la literatura del siglo I.

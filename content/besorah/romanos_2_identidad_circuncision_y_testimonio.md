@@ -29,6 +29,8 @@ references:
   - "#yeshayahu_52_5"
   - "#yejezkel_36_20"
 sources:
+  - "https://github.com/morphgnt/sblgnt/blob/master/66-Ro-morphgnt.txt"
+  - "https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/Rom.txt"
   - "https://www.youtube.com/watch?v=GVdzt-aThXk"
   - "docs/scriptures/tth/json/romanos.json"
   - "docs/scriptures/oe/json/jeremiah/4.json"
@@ -45,23 +47,23 @@ Romanos 2:17-29 no elimina la Torah ni convierte la circuncisión en un mérito 
 
 ## Alcance de la nota
 
-Esta nota organiza la clase 5 de la serie de Romanos del hermano Eric de Jesús Rodríguez Mendoza. La sesión continúa el capítulo 2 y concentra su explicación en el sentido de **(יְהוּדִי)**, _iehudí_, la relación entre circuncisión y obediencia, la deshonra del Nombre entre las naciones y la circuncisión del corazón. Las observaciones de la clase se presentan como paráfrasis atribuibles y se contrastan con el texto local. La historia de los usos del gentilicio y algunas etimologías hebreas requieren investigación adicional; no se presentan aquí como hechos ya demostrados.
+Esta nota organiza la clase 5 de la serie de Romanos del hermano Eric de Jesús Rodríguez Mendoza. La sesión continúa el capítulo 2 y concentra su explicación en el sentido de **(יהודי)**, _iehudí_, la relación entre circuncisión y obediencia, la deshonra del Nombre entre las naciones y la circuncisión del corazón. Las observaciones de la clase se presentan como paráfrasis atribuibles y se contrastan con el texto local. La historia de los usos del gentilicio y algunas etimologías hebreas requieren investigación adicional; no se presentan aquí como hechos ya demostrados.
 
 ## Hoja de comparación
 
 | Referencia | Texto local | Función en la clase |
 | --- | --- | --- |
-| #romanos_2_17-20 | **He aquí, tú eres llamado iehudí, y descansas en la Torah, y para gloriarte en Elohim, y conoces su voluntad, para distinguir entre la santidad y lo profanado, entre lo impuro y lo puro, enseñado por la Torah. Y tú confías que eres el que lleva por el camino a los ciegos, luz de aquellos que están en oscuridad, instructor de ingenuos, maestro de niños, que tienes la forma del conocimiento y la verdad en la Torah.** (TTH) | Presenta privilegio de enseñanza y conocimiento, pero también la tentación de confiar en el título y en la posición de instructor. |
-| #romanos_2_21-24 | **El que tú enseñes a otro, ¿a ti mismo no te enseñas? El que lee: No robarás, ¿robas?... El que en la Torah se gloría, ¿traspasando a la Torah, a יהוה deshonras? Porque el Nombre de יהוה por ustedes es deshonrado entre los gentiles, como está escrito.** (TTH) | Une doctrina y práctica: el testimonio público del pueblo puede honrar o deshonrar el Nombre. |
-| #romanos_2_25-29 | **Porque la circuncisión es beneficiosa si haces la Torah, pero si te rebelas contra la Torah, entonces tu circuncisión por incircuncisión será... la circuncisión es del corazón, en Rúaj, no en letra, que su alabanza no es de los hombres, sino de Elohim.** (TTH) | Desplaza el centro desde la marca visible hacia la obra interior del Rúaj y la obediencia real. |
-| #yirmeyahu_4_1-4 | **אם תשוב ישראל נאם יהוה אלי תשוב ואם תסיר שקוציך מפני ולא תנוד / ונשבעת חי יהוה באמת במשפט ובצדקה והתברכו בו גוים ובו יתהללו / כי כה אמר יהוה לאיש יהודה ולירושלם נירו לכם ניר ואל תזרעו אל קוצים / המלו ליהוה והסרו ערלות לבבכם איש יהודה וישבי ירושלם פן תצא כאש חמתו...** (OE) | Aporta la imagen profética de volver a יהוה, preparar el campo y quitar el prepucio del corazón. |
-| #yeshayahu_52_5; #yejezkel_36_20 | **ותמיד כל היום שמי מנאץ** / **ויחללו את שם קדשי** (OE) | Testigos del problema que Romanos 2:24 formula: la conducta del pueblo puede hacer que el Nombre sea despreciado o profanado entre las naciones. |
+| #romanos_2_17-20 | TTH: He aquí, tú eres llamado iehudí²⁰, y descansas en la Torah, y para gloriarte en Elohim, y conoces su voluntad, para distinguir entre la santidad y lo profanado, entre lo impuro y lo puro, enseñado por la Torah. Y tú confías que eres el que lleva por el camino a los ciegos, luz de aquellos que están en oscuridad, instructor de ingenuos, maestro de niños, que tienes la forma del conocimiento y la verdad en la Torah. | Presenta privilegio de enseñanza y conocimiento, pero también la tentación de confiar en el título y en la posición de instructor. |
+| #romanos_2_21-24 | TTH: El que tú enseñes a otro, ¿a ti mismo no te enseñas? El que lee: No robarás, ¿robas? El que dice no adulterar, ¿adulteras? El que abomina a los ídolos, ¿hurtas al templo? El que en la Torah se gloría, ¿traspasando a la Torah, a יהוה deshonras? Porque el Nombre de יהוה por ustedes es deshonrado entre los gentiles²¹, como está escrito. | Une doctrina y práctica: el testimonio público del pueblo puede honrar o deshonrar el Nombre. |
+| #romanos_2_25-29 | TTH: Porque la circuncisión es beneficiosa si haces la Torah, pero si te rebelas contra la Torah, entonces tu circuncisión por incircuncisión será. Y si la incircuncisión guarda las justicias de la Torah, ¿no será considerada su incircuncisión por circuncisión? Y la incircuncisión física²² que completa la Torah te juzgará a ti, que con la letra y la circuncisión te rebelas contra la Torah. Porque no está lo iehudí en lo descubierto, ni la circuncisión en lo descubierto en la carne, sino que está lo iehudí en lo cubierto, y la circuncisión es del corazón, en Rúaj, no en letra, que su alabanza no es de los hombres, sino de Elohim. | Desplaza el centro desde la marca visible hacia la obra interior del Rúaj y la obediencia real. |
+| #yirmeyahu_4_1-4 | OE: אם תשוב ישראל נאם יהוה אלי תשוב ואם תסיר שקוציך מפני ולא תנוד ונשבעת חי יהוה באמת במשפט ובצדקה והתברכו בו גוים ובו יתהללו כי כה אמר יהוה לאיש יהודה ולירושלם נירו לכם ניר ואל תזרעו אל קוצים המלו ליהוה והסרו ערלות לבבכם איש יהודה וישבי ירושלם פן תצא כאש חמתי ובערה ואין מכבה מפני רע מעלליכם | Aporta la imagen profética de volver a יהוה, preparar el campo y quitar el prepucio del corazón. |
+| #yeshayahu_52_5; #yejezkel_36_20 | OE: ועתה מי לי מה לי פה נאם יהוה כי לקח עמי חנם משלו משליו יהילילו נאם יהוה ותמיד כל היום שמי מנאץ ויבוא אל הגוים אשר באו שם ויחללו את שם קדשי באמר להם עם יהוה אלה ומארצו יצאו | Testigos del problema que Romanos 2:24 formula: la conducta del pueblo puede hacer que el Nombre sea despreciado o profanado entre las naciones. |
 
 ## 2:17-20: el nombre y el privilegio no sustituyen la obediencia #romanos_2_17-20
 
 Eric comienza preguntando qué significa realmente ser llamado _iehudí_. La clase enumera varios usos posibles del término en distintos momentos: descendencia de Judá, relación tribal, pertenencia territorial a Judea y, finalmente, una lectura confesional ligada a reconocer a יהוה y guardar el testimonio del Mesías. El texto de Romanos no desarrolla toda esa historia. Sí establece el criterio de Pablo: el que es llamado _iehudí_ descansa en la Torah, conoce la voluntad de Elohim y presume ser guía, luz e instructor.
 
-Por eso la palabra inicial «he aquí» introduce una confrontación, no una felicitación automática. Tener la forma del conocimiento y la verdad en la Torah es un privilegio real, pero también una responsabilidad. La clase aplica este punto a quienes enseñan desde congregaciones o medios digitales: no basta hablar correctamente sobre la Torah si las decisiones y el carácter contradicen lo enseñado. Esa aplicación sigue la pregunta de Pablo, aunque no permite acusar a una persona concreta sin evidencia de sus obras.
+El TTH comienza «he aquí», mientras SBLGNT lee **Εἰ δὲ**, «pero si», una condición dirigida al interlocutor. La diferencia de testigos no cambia la confrontación, pero «he aquí» no debe atribuirse al texto crítico griego. Tener la forma del conocimiento y la verdad en la Torah es un privilegio real, pero también una responsabilidad. La clase aplica este punto a quienes enseñan desde congregaciones o medios digitales: no basta hablar correctamente sobre la Torah si las decisiones y el carácter contradicen lo enseñado. Esa aplicación sigue la pregunta de Pablo, aunque no permite acusar a una persona concreta sin evidencia de sus obras.
 
 ## 2:21-24: la enseñanza se prueba en el cuerpo de la vida #romanos_2_21-24
 
@@ -89,7 +91,7 @@ La expresión «no en letra» tampoco debe usarse para oponer al Rúaj contra la
 | **(περιτομή)** | _peritomē_ | circuncisión | En Romanos 2 funciona como señal corporal cuyo valor depende de la obediencia; no es presentada como salvoconducto. |
 | **(καρδία)** | _kardia_ | corazón, centro interior de la persona | «Circuncisión del corazón» comunica transformación interior, no mera emoción privada. |
 | **(πνεῦμα)** | _pneuma_ | espíritu, aliento, Rúaj | La relación con **(רוח)**, _rúaj_, es aproximada y contextual; aquí señala el ámbito interior de la circuncisión frente a la apariencia externa. |
-| **(δοκιμή)** implícita en la aprobación | — | prueba, aprobación según contexto | La nota usa «aprobación de Elohim» como síntesis del contraste final; no afirma que Romanos 2:29 contenga literalmente esta forma. |
+| **(ἔπαινος)** | _epainos_ | alabanza, elogio | Es el sustantivo de 2:29; «aprobación» sintetiza el sentido contextual y no introduce δοκιμή, que no aparece aquí. |
 
 ## Mapa de la enseñanza de Eric
 
@@ -113,7 +115,7 @@ Romanos 2 no permite descansar en una etiqueta, una señal corporal o una reputa
 
 ## Ver también
 
-- [[romanos_3_todos_bajo_pecado_y_palabra_firme|Romanos 3: todos bajo pecado y la palabra firme]]
+- [[romanos_3_fidelidad_de_elohim_y_pecado|Romanos 3: todos bajo pecado y la palabra firme]]
 - [[romanos_4_emunah_recibida_antes_de_la_senal|Romanos 4: emunah recibida antes de la señal]]
 
 ## Créditos

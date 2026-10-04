@@ -29,12 +29,12 @@ references:
 sources:
   - "https://www.youtube.com/watch?v=82O3VGG9qBg"
   - "docs/scriptures/delitzsch/json/revelation.json"
-  - "docs/scriptures/oe/json/yeshayahu/26.json"
-  - "docs/scriptures/oe/json/yeshayahu/66.json"
-  - "docs/scriptures/oe/json/mijah/4.json"
+  - "docs/scriptures/oe/json/isaiah/26.json"
+  - "docs/scriptures/oe/json/isaiah/66.json"
+  - "docs/scriptures/oe/json/micah/4.json"
   - "docs/scriptures/oe/json/daniel/7.json"
-  - "docs/scriptures/oe/json/yeshayahu/27.json"
-  - "docs/scriptures/oe/json/yejezkel/29.json"
+  - "docs/scriptures/oe/json/isaiah/27.json"
+  - "docs/scriptures/oe/json/ezekiel/29.json"
 source_ids:
   - "youtube:82O3VGG9qBg"
 translation: "[Delitzsch, OE]"

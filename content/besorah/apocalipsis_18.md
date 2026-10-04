@@ -8,12 +8,17 @@ tags:
   - babel
 references:
   - "#apocalipsis_18_2"
-sources: []
+sources:
+  - "docs/notes_16_05_2026.md"
 ---
 
 # Tesis
 
 Sodot 18 relee Babel no solo como ciudad o imperio, sino como mentalidad: todo lo que parece ser de Elohim pero no lo es.
+
+## Alcance de la nota
+
+Esta nota reorganiza el bloque «Sodot 18» de `docs/notes_16_05_2026.md`. El documento no identifica un video concreto para este bloque. Se conservan sus asociaciones como interpretación de los apuntes y se distingue esa lectura de las palabras y del orden de la visión.
 
 ## Texto base
 
@@ -27,7 +32,18 @@ Sodot 18 relee Babel no solo como ciudad o imperio, sino como mentalidad: todo l
 
 ## Observaciones
 
-- Bab ilu se resume como puerta de dios, origen del nombre Babel en la nota.
+- Los apuntes relacionan Bab ilu con «puerta de dios»; la etimología acadia necesita una fuente lingüística trazable. Bereshit ofrece por su parte un juego narrativo con בלל (balal), no una explicación que esta nota deba borrar.
 - La tierra iluminada por su gloria se entiende en clave de juicio expuesto.
 - Espíritu impuro se trabaja como ánimo inclinado a lo inhabilitado.
-- Babel se define finalmente como mentalidad y como condición del corazón.
+- Babel se aplica en los apuntes a una mentalidad y condición del corazón; esa aplicación no reemplaza la ciudad y su economía en la visión.
+
+## Ancla de Bereshit
+
+| Referencia | Hebreo local | Corpus y función |
+| --- | --- | --- |
+| #bereshit_11_9 | על כן קרא שמה בבל כי שם בלל יהוה שפת כל הארץ ומשם הפיצם יהוה על פני כל הארץ | OE; ancla textual, distinta de la interpretación. |
+
+## Pendiente de verificar
+
+- [ ] Documentar Bab ilu en una fuente acadia y distinguir etimología histórica del juego narrativo de Bereshit.
+- [ ] Cotejar la identificación exclusiva con Yerushaláim; el capítulo describe también comercio, reyes, duelo y juicio.

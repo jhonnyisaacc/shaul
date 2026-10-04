@@ -18,6 +18,8 @@ references:
   - "#efesios_2_6"
   - "#efesios_2_10"
 sources:
+  - "https://github.com/morphgnt/sblgnt/blob/master/70-Eph-morphgnt.txt"
+  - "https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/Eph.txt"
   - "https://www.youtube.com/watch?v=0otmAtIUsUQ"
   - "docs/scriptures/delitzsch/json/ephesians.json"
 source_ids:
@@ -37,23 +39,26 @@ Esta nota organiza la clase pública «LETTER TO THE EPHESIANS | We were DEAD in
 
 | Referencia | Texto local de Delitzsch (sin nikud) | Función en el estudio |
 | --- | --- | --- |
-| #efesios_2_1 | **גם־אתכם אשר מתים הייתם בפשעיכם וחטאתיכם** | La condición descrita es muerte en transgresiones y pecados. |
-| #efesios_2_2 | **אשר התהלכתם בהם כדור העולם הזה כרצון שר ממשלת האויר והוא הרוח הפעל כעת בבני המרִי** | El antiguo caminar se ajustaba al orden presente y al ruaj que opera en los hijos de la rebelión. |
-| #efesios_2_3 | **וגם־אנחנו כלנו בתוכם הלכנו לפנים בתאות הבשר ... ונהי בני־רגז בטבענו כשאר בני אדם** | Pablo incluye a todos en la condición anterior: deseos, pensamientos y juicio. |
-| #efesios_2_4-6 | **אבל־האלהים המלא רחמים ... החינו עם־המשיח ... ואף־הושיבנו במרומים** | El giro decisivo comienza con «pero Elohim»: misericordia, vivificación y unión con el Mesías. |
-| #efesios_2_10 | **כי־פעל אלהים אנחנו נבראים במשיח ישוע למעשים טובים ... למען נתהלך בהם** | La obra de Elohim tiene como finalidad un caminar nuevo en buenas obras. |
+| #efesios_2_1 | Delitzsch: גםאתכם אשר מתים הייתם בפשעיכם וחטאתיכם | La condición descrita es muerte en transgresiones y pecados. |
+| #efesios_2_2 | Delitzsch: אשר התהלכתם בהם כדור העולם הזה כרצון שר ממשלת האויר והוא הרוח הפעל כעת בבני המרי | El antiguo caminar se ajustaba al orden presente y al ruaj que opera en los hijos de la rebelión. |
+| #efesios_2_3 | Delitzsch: וגםאנחנו כלנו בתוכם הלכנו לפנים בתאות הבשר לעשות חפצי בשרנו ומחשבותינו ונהי בנירגז בטבענו כשאר בני אדם | Pablo incluye a todos en la condición anterior: deseos, pensamientos y juicio. |
+| #efesios_2_4-6 | Delitzsch: אבלהאלהים המלא רחמים ברב אהבתו אשר אהב אתנו אחרי היותנו מתים בפשעים החינו עםהמשיח בחסד נושעתם ויעירנו אתו אףהושיבנו במרומים במשיח ישוע | El giro decisivo comienza con «pero Elohim»: misericordia, vivificación y unión con el Mesías. |
+| #efesios_2_10 | Delitzsch: כיפעל אלהים אנחנו נבראים במשיח ישוע למעשים טובים אשר הכין האלהים מקדם למען נתהלך בהם | La obra de Elohim tiene como finalidad un caminar nuevo en buenas obras. |
+| #efesios_2_7-9 | Delitzsch: להראות בדרות הבאים אתגדלת עשר חסדו בטובתו עלינו במשיח ישוע כיבחסד נושעתם עלידי האמונה ולא מידכם היתה זאת כימתת אלהים היא לא מתוך המעשים שלא יתהלל איש | Dádiva y jactancia excluida antes del nuevo caminar. |
 
 ## Recordar la muerte sin convertirla en identidad final
 
 La clase comienza con el peso de «estaban muertos». Eric explica que no se trata de muerte física, sino de estar excluidos de la vida que el pasaje atribuye al Mesías. La exposición usa la oposición entre muerte y vida para exhortar a no romantizar la condición anterior. Esta aplicación está respaldada por la secuencia del texto: la vivificación aparece sólo después de describir transgresiones, pecados, deseos y pensamientos.
 
-El contraste entre **פשע**, _pesha_, y **חטא**, _jata_, se presenta en la clase como diferencia entre rebelión o transgresión y pecado como condición. Esa distinción puede ayudar pedagógicamente a leer la relación entre acto y estado, pero no debe presentarse como si Efesios hubiera sido escrito originalmente en hebreo. El texto local de Delitzsch traduce el contraste mediante **פשעים** y **חטאות**; el griego subyacente requiere cotejo independiente antes de fijar una equivalencia semántica absoluta.
+El contraste entre **פשע**, _pesha_, y **חטא**, _jata_, se presenta en la clase como diferencia entre rebelión o transgresión y pecado como condición. Esa distinción puede ayudar pedagógicamente a leer la relación entre acto y estado, pero no debe presentarse como si Efesios hubiera sido escrito originalmente en hebreo. El texto local de Delitzsch traduce el contraste mediante **פשעים** y **חטאות**; SBLGNT emplea **παραπτώματα** y **ἁμαρτίαι**. Ambos nombran faltas; la separación rígida entre actos y naturaleza es el esquema pedagógico de Eric, no una distinción universal impuesta por esos sustantivos.
 
 ## El antiguo caminar: un orden que forma la conducta (2:2-3) #efesios_2_2-3
 
 La expresión «caminar» no describe un acto aislado, sino la forma de vida que los destinatarios seguían. Eric desarrolla la imagen como un círculo vicioso: deseos, pensamientos y costumbres reproducen el mismo rumbo. La palabra griega **αἰών**, _aiōn_, suele significar edad, era o mundo en su dimensión temporal; la clase la explica además como «esencia» o fuerza vital de este orden. Esa ampliación es una lectura pedagógica, no una definición exhaustiva. En Efesios 2:2 la fuerza directa del término está en el orden o era conforme al cual caminaban.
 
 El versículo 3 impide que el diagnóstico se aplique sólo a los gentiles: «también nosotros todos» participamos de la antigua conducta. La clase extrae de aquí una exhortación contra el orgullo religioso. Sin embargo, las afirmaciones amplias sobre que nadie puede decidir nada, o que toda emoción pertenece por definición a la caída, no son demostradas por estos tres versículos; quedan como aplicaciones doctrinales que necesitan otros pasajes y verificación.
+
+SBLGNT 2:2 no dice «esencia biológica»: une **αἰών** con «de este mundo» y con el antiguo caminar. La clase ilustra la salida del círculo con una autopista cuyas señales son la Torah (aproximadamente 00:38:21–00:38:40). La imagen conserva su enseñanza sobre dirección recibida; los términos de carretera y señalización no aparecen en el versículo. La referencia al gobernante de la autoridad del aire tampoco demuestra que toda emoción o enfermedad sea una entidad espiritual.
 
 ## El giro: Elohim vivifica y abre un camino
 
@@ -83,7 +88,7 @@ La clase habla de la gracia como capacidad y dirección para comenzar a obedecer
 
 ## Pendiente de verificar
 
-- [ ] Cotejar **αἰών**, **σάρξ** y **νεκρός** en el griego de Efesios antes de convertir las glosas de la clase en definiciones.
+- [x] Cotejar los términos en SBLGNT 2:1-3: muerte y carne se leen por la conducta descrita; «esencia biológica» no es la traducción exigida de **αἰών**.
 - [ ] Verificar las etimologías hebreas usadas para diferenciar transgresión y pecado.
 - [ ] Revisar por separado las afirmaciones sobre el «aire» como morada de demonios y sobre el dominio de las emociones.
 - [ ] Estudiar con otros pasajes la relación entre vivificación, elección, libertad humana y santificación.

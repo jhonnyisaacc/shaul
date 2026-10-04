@@ -21,6 +21,7 @@ references:
   - "#hechos_13_13"
   - "#hechos_13_42"
 sources:
+  - "https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/Gal.txt"
   - "https://www.youtube.com/watch?v=U8378WvU6Nk"
   - "docs/scriptures/delitzsch/json/galatians.json"
 source_ids:
@@ -40,10 +41,16 @@ Esta nota organiza la clase pública «LETTER TO THE GALATIANS | SENT by the MES
 
 | Referencia | Texto local de Delitzsch (sin nikud) | Función en el estudio |
 | --- | --- | --- |
-| #galatas_1_1 | **פולוס השליח לא מבני אדם ולא על־ידי בן־אדם כי אם־על־ידי ישוע המשיח ואלהים האב אשר העירו מן־המתים׃** | La autoridad del remitente no procede de una persona humana, sino del Mesías y de Elohim que lo levantó de los muertos. |
-| #galatas_1_2 | **וכל־האחים אשר עמדי אל־הקהלות אשר בגלטיא׃** | La carta se dirige a las congregaciones de Galacia, en plural. |
-| #galatas_1_3 | **חסד לכם ושלום מאת האלהים אבינו ומאת אדנינו ישוע המשיח׃** | El saludo reúne bondad y shalom procedentes de Elohim y de nuestro Adón Yehoshua el Mesías. |
-| #galatas_1_4-5 | **אשר־נתן את־נפשו על־חטאתינו לחלצנו מן־העולם הרע הזה כרצון אלהינו אבינו׃ אשר־לו הכבוד לעולמי עולמים אמן׃** | El Mesías se entrega por los pecados para librar del mundo malo conforme al propósito de Elohim; la doxología cierra la apertura. |
+| #galatas_1_1 | Delitzsch: פולוס השליח לא מבני אדם ולא עלידי בןאדם כי אםעלידי ישוע המשיח ואלהים האב אשר העירו מןהמתים | La autoridad del remitente no procede de una persona humana, sino del Mesías y de Elohim que lo levantó de los muertos. |
+| #galatas_1_2 | Delitzsch: וכלהאחים אשר עמדי אלהקהלות אשר בגלטיא | La carta se dirige a las congregaciones de Galacia, en plural. |
+| #galatas_1_3 | Delitzsch: חסד לכם ושלום מאת האלהים אבינו ומאת אדנינו ישוע המשיח | El saludo reúne bondad y shalom procedentes de Elohim y de nuestro Adón Yehoshua el Mesías. |
+| #galatas_1_4-5 | Delitzsch: אשרנתן אתנפשו עלחטאתינו לחלצנו מןהעולם הרע הזה כרצון אלהינו אבינו אשרלו הכבוד לעולמי עולמים אמן | El Mesías se entrega por los pecados para librar del mundo malo conforme al propósito de Elohim; la doxología cierra la apertura. |
+| #hechos_13_2 | Delitzsch: ויהי בשרתם בשם יהוה ובצומם ויאמר רוח הקדש הבדילו לי את ברנבא ואתשאול למלאכה אשר קראתים לה | Apartamiento de Bernabé y Shaul para la obra. |
+| #hechos_13_3 | Delitzsch: ויצומו ויתפללו ויסמכו אתידיהם עליהם וישלחום | Ayuno, oración e imposición de manos. |
+| #hechos_13_4 | Delitzsch: והמה השלוחים עלידי רוח הקדש ירדו אלסלוקיא ומשם באו באניה אלקיפרוס | Envío por el Ruaj y recorrido hacia Chipre. |
+| #hechos_13_13 | Delitzsch: ויצאו פולוס והאנשים אשר אתו מפפוס וירדו באניה ויבאו אלפרגי אשר בפמפוליא ושם נפרד יוחנן מעליהם וישב ירושלים | Perge de Panfilia, antes de Antioquía de Pisidia. |
+| #hechos_13_14 | Delitzsch: והמה נסעו מפרגי ויבאו אלאנטיוכיא אשר בפיסדיא ויבאו אלבית הכנסת ביום השבת וישבו | Entrada en la sinagoga de Antioquía de Pisidia. |
+| #tehilim_49_8 | OE: אח לא פדה יפדה איש לא יתן לאלהים כפרו | El hombre no puede rescatar a su hermano en la numeración OE. |
 
 ## Galacia: una región y varias congregaciones
 
@@ -78,7 +85,7 @@ El lenguaje de «librarnos de este mundo malo» tampoco autoriza a despreciar la
 | Unidad textual | Observación concreta de la clase | Tratamiento en esta nota |
 | --- | --- | --- |
 | #galatas_1_1-2 | Shaul es enviado por Yehoshua y la carta va a congregaciones de una región, no a una sola ciudad. | Apoyo textual; se añade la cautela sobre el uso de «apóstol» y la pluralidad de comunidades. |
-| #hechos_13_1-4 | Antioquía aparece como comunidad de ayuno, tefilá y envío por el Ruaj de Bernabé y Shaul. | Se conserva como conexión atribuida; los detalles de Hechos requieren cotejo local adicional. |
+| #hechos_13_1-4 | Antioquía aparece como comunidad de ayuno, tefilá y envío por el Ruaj de Bernabé y Shaul. | Se conserva como conexión atribuida; los versículos 2–4 se incluyen en el cotejo local; la reconstrucción geográfica más amplia queda abierta. |
 | #hechos_13_13-16 | El primer viaje avanza por Chipre, Panfilia y Antioquía de Pisidia antes de la predicación en Galacia. | Contexto histórico-literario cualificado; no se presenta la transcripción como cita. |
 | #galatas_1_3-5 | La entrega del Mesías y la liberación del mundo malo son el fundamento de la carta. | Apoyo directo en el texto local; se evita reducir «mundo» a una huida de la creación. |
 | Conflicto sobre circuncisión | La clase anticipa la presión de exigir circuncisión para salvación. | Se registra como contexto de la exposición; Gálatas 1:1-5 todavía no desarrolla todos sus detalles. |
@@ -88,7 +95,7 @@ El lenguaje de «librarnos de este mundo malo» tampoco autoriza a despreciar la
 - [ ] Cotejar en una edición crítica griega la relación exacta entre _apostolos_ y la explicación semítica de _shaliach_.
 - [ ] Verificar con una fuente histórica independiente la fecha de Gálatas y la afirmación de que fue la primera carta de Shaul.
 - [ ] Cotejar el texto completo de Hechos 13 y Hechos 14 antes de fijar cada ciudad como parte de una misma circunscripción administrativa de Galacia.
-- [ ] Localizar la referencia exacta del pasaje sobre «nadie puede redimir a su hermano» mencionado en la clase; la nota no reproduce el número incierto del salmo.
+- [x] Localizar el pasaje sobre el rescate del hermano: Tehilim 49:8 en OE; su numeración puede aparecer como 49:7 en otras ediciones.
 - [ ] Revisar las afirmaciones sobre los «magos» persas y sobre Bar-Jesús antes de convertirlas en conclusiones históricas.
 
 ## Conclusión
@@ -97,7 +104,7 @@ Gálatas 1 abre con una frontera de autoridad: Shaul es enviado por Yehoshua el 
 
 ## Ver también
 
-- [[galatas_1_unico_evangelio_y_fidelidad|Gálatas 1: el único evangelio y la fidelidad al Mesías]]
+- [[galatas_1_unico_evangelio_y_reconciliacion|Gálatas 1: la única buena noticia y la reconciliación]]
 - [[galatas_4_agar_sara_libertad_y_promesa|Gálatas 4: hijos de la libre por la promesa]]
 - [[galatas_5_ruaj_carne_fruto_y_torah|Gálatas 5: caminar en el Ruaj frente a la carne]]
 

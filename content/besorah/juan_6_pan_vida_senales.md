@@ -49,6 +49,7 @@ references:
   - "#bamidbar_11_8"
   - "#bamidbar_11_9"
   - "#tehilim_89_9"
+  - "#tehilim_89_10"
   - "#tehilim_105_40"
   - "#mateo_14_26"
   - "#mateo_14_27"
@@ -60,7 +61,7 @@ references:
   - "#bamidbar_11_8"
 sources:
   - "https://www.youtube.com/watch?v=j4i_FKNQ_Ms"
-  - "docs/scriptures/tth/json/yojanan.json"
+  - "docs/scriptures/tth/json/iojanan.json"
   - "docs/scriptures/delitzsch/json/john.json"
   - "docs/scriptures/oe/json/exodus/16.json"
   - "docs/scriptures/oe/json/numbers/11.json"
@@ -70,9 +71,9 @@ source_ids:
 
 # Tesis
 
-La clase presenta #juan_6_1-40 como la demostración narrativa de lo discutido en Yojanan 5: Yeshúa no solo habla de su identidad, sino que hace señales que corresponden a las obras de יהוה: alimenta al pueblo en un marco de Pésaj, camina sobre el mar, calma el temor, corrige la búsqueda interesada de la multitud y declara que él mismo es el pan que descendió de los cielos.
+La clase presenta #juan_6_1-40 como la demostración narrativa de lo discutido en Yojanan 5: Yehoshua no solo habla de su identidad, sino que hace señales que corresponden a las obras de יהוה: alimenta al pueblo en un marco de Pésaj, camina sobre el mar, calma el temor, corrige la búsqueda interesada de la multitud y declara que él mismo es el pan que descendió de los cielos.
 
-El punto central no es que la multitud recibió pan, sino que vio señales y aun así no entendió. Por eso Yeshúa pasa de la comida que perece a la comida que permanece para vida olam, y de las "obras" que la gente quiere realizar a "la obra de Elohim": afirmarse por el enviado.
+El punto central no es que la multitud recibió pan, sino que vio señales y aun así no entendió. Por eso Yehoshua pasa de la comida que perece a la comida que permanece para vida olam, y de las "obras" que la gente quiere realizar a "la obra de Elohim": afirmarse por el enviado.
 
 ## Alcance de la nota
 
@@ -80,6 +81,16 @@ El punto central no es que la multitud recibió pan, sino que vio señales y aun
 - La transcripción contiene errores de reconocimiento; esta nota conserva la línea argumental clara y marca como pendiente lo que requiere cotejo técnico.
 - El texto base de Yojanan se toma del corpus TTH local; donde conviene ver el hebreo del pacto renovado se usa Delitzsch local.
 - Para Tanaj se usa TTH y, cuando se cita hebreo, OE sin nikud.
+
+## Mapa de la enseñanza de Eric
+
+| Unidad textual | Observación de la clase | Tratamiento en esta nota |
+| --- | --- | --- |
+| #juan_6_1-15; [12:00](https://www.youtube.com/watch?v=j4i_FKNQ_Ms&t=720s) | La prueba de Filipos, los panes y el marco pascual preparan la reacción de la multitud que quiere hacer rey a Yehoshua. | Se separa la cifra textual de varones de la estimación de asistentes y la alusión posible de las canastas. |
+| #juan_6_16-27; [26:00](https://www.youtube.com/watch?v=j4i_FKNQ_Ms&t=1560s) | Eric relaciona el dominio del mar con יהוה y cuestiona usar cada «yo soy» como fórmula automática del Nombre. | La conexión con Tehilim se compara con sus dos numeraciones; la sintaxis del sellado en 6:27 sigue pendiente de cotejo griego. |
+| #juan_6_28-40; [57:00](https://www.youtube.com/watch?v=j4i_FKNQ_Ms&t=3420s) | La clase sigue el cambio de obras a obra, la petición de otra señal y el pan que comunica vida. | Se desarrolla la secuencia del texto; rocío, bedelio y las asociaciones místicas no se presentan como conclusiones verificadas. |
+
+Los minutos del mapa orientan por bloques aproximados, según la ruta de la clase.
 
 ## Ruta de la clase
 
@@ -136,7 +147,7 @@ El punto central no es que la multitud recibió pan, sino que vio señales y aun
 | #bamidbar_11_7 | והמן כזרע גד הוא ועינו כעין הבדלח | el man era como una semilla de cilantro, y su apariencia como apariencia bedelio. | Comparación con bedelio como parte del simbolismo del maná. |
 | #bamidbar_11_9 | וברדת הטל על המחנה לילה ירד המן עליו | cuando descendía el rocío... descendía el man junto a él. | Relación entre rocío y maná. |
 | #tehilim_105_40 | שאל ויבא שלו ולחם שמים ישביעם | Pidió, y Él trajo codorniz, y de pan de los cielos los sació. | Texto citado por la nota TTH de #juan_6_31. |
-| #tehilim_89_9 | אתה מושל בגאות הים בשוא גליו אתה תשבחם | Tú gobiernas sobre la altivez del mar, cuando se levantan sus olas, Tú las calmas. | El dominio del mar pertenece a יהוה (OE v. 10; etiqueta #tehilim_89_9 en la clase). |
+| #tehilim_89_10 (OE); #tehilim_89_9 (TTH) | אתה מושל בגאות הים בשוא גליו אתה תשבחם | Tú gobiernas sobre la altivez del mar, cuando se levantan sus olas, Tú las calmas. | El dominio del mar pertenece a יהוה (OE v. 10; etiqueta #tehilim_89_9 en la clase). |
 | #mateo_14_26 | והתלמידים ראו אותו מהלך עלפני הים ויבהלו ויאמרו מראהרוח הוא ויצעקו מפחד | estuvieron aterrorizados en la carne pensando que era un demonio... | El miedo de los discípulos bajo terror, no doctrina sobre fantasmas. |
 | #mateo_14_32 | הם עלו אלהאניה והרוח שככה | Y cuando subieron al bote, se calmó el viento. | El dominio sobre viento y mar acompaña la presencia de Yeshúa. |
 | #mateo_14_33 | ואנשי האניה נגשו וישתחוולו ויאמרו אבל בןאלהים אתה | ¡En verdad Tú eres el Hijo de Elohim! | La reacción del bote interpreta la señal en clave de filiación. |
@@ -157,9 +168,9 @@ La función del versículo es importante: la cercanía de Pésaj enmarca el rela
 
 ## Filipos, denarios y experiencia
 
-Yeshúa pregunta a Filipos: "¿De dónde compraremos pan para que ellos coman?" #juan_6_5. La clase insiste en que Yeshúa ya sabía lo que iba a hacer #juan_6_6. Por eso la pregunta no busca información ni expone a Filipos con mala intención, sino que lo hace pasar por una experiencia pedagógica.
+Yehoshua pregunta a Filipos: "¿De dónde compraremos pan para que ellos coman?" #juan_6_5. La clase insiste en que Yehoshua ya sabía lo que iba a hacer #juan_6_6. Por eso la pregunta no busca información ni expone a Filipos con mala intención, sino que lo hace pasar por una experiencia pedagógica.
 
-El detalle de los 200 denarios #juan_6_7 muestra que no se trata de una pequeña merienda insuficiente. La suma equivale a muchos días de trabajo para un jornalero, y aun así no bastaría para que cada uno recibiera un poco. La escala prepara la señal: el problema no se resuelve por presupuesto, sino por la intervención de Yeshúa.
+El detalle de los 200 denarios #juan_6_7 muestra que no se trata de una pequeña merienda insuficiente. La suma equivale a muchos días de trabajo para un jornalero, y aun así no bastaría para que cada uno recibiera un poco. La escala prepara la señal: el problema no se resuelve por presupuesto, sino por la intervención de Yehoshua.
 
 La clase también observa los nombres griegos y dobles nombres: Filipos, Andreas, Shimón Kefa / Petros. El punto es que el mundo judío del siglo I podía moverse entre nombres hebreos, arameos, griegos o latinos sin perder identidad. Esto encaja con el método general del expositor: leer Yojanan como texto de contenido judío expresado en un ambiente plurilingüe.
 
@@ -177,11 +188,11 @@ La nota conserva esa cautela: las doce canastas pueden sugerir plenitud para Isr
 
 ## "Este es el profeta"
 
-La multitud concluye: "Este en verdad es el profeta que había de venir al olam" #juan_6_14. La clase conecta esta frase con la promesa de Moshéh (#devarim_18_15, #devarim_18_18; véase la hoja de comparación). El reconocimiento de la multitud es correcto pero incompleto. Ven un patrón mosaico y quieren hacerlo rey #juan_6_15. Yeshúa se retira porque no acepta ser capturado por un proyecto político nacido de una lectura parcial de la señal.
+La multitud concluye: "Este en verdad es el profeta que había de venir al olam" #juan_6_14. La clase conecta esta frase con la promesa de Moshéh (#devarim_18_15, #devarim_18_18; véase la hoja de comparación). El reconocimiento de la multitud es correcto pero incompleto. Ven un patrón mosaico y quieren hacerlo rey #juan_6_15. Yehoshua se retira porque no acepta ser capturado por un proyecto político nacido de una lectura parcial de la señal.
 
 ## Sobre el mar: señal de dominio
 
-La segunda gran señal es Yeshúa caminando sobre el mar #juan_6_19. La clase la pone en relación con los relatos paralelos y con el Tanaj (#juan_6_19-20, #mateo_14_26-33, #marcos_6_49-50, #tehilim_89_9; véase la hoja de comparación). La clase rechaza usar el miedo de los discípulos como prueba de una doctrina de "fantasmas". En su lectura, los discípulos eran pescadores con temores y lenguaje de su ambiente; el hecho de que pensaran algo bajo terror no convierte esa percepción en enseñanza bíblica.
+La segunda gran señal es Yehoshua caminando sobre el mar #juan_6_19. La clase la pone en relación con los relatos paralelos y con el Tanaj (#juan_6_19-20, #mateo_14_26-33, #marcos_6_49-50, #tehilim_89_9; véase la hoja de comparación). La clase rechaza usar el miedo de los discípulos como prueba de una doctrina de "fantasmas". En su lectura, los discípulos eran pescadores con temores y lenguaje de su ambiente; el hecho de que pensaran algo bajo terror no convierte esa percepción en enseñanza bíblica.
 
 ## "Yo soy" y el Nombre
 
@@ -189,15 +200,15 @@ El expositor hace una advertencia amplia sobre #juan_6_20: no se debe concluir q
 
 También recuerda que las traducciones, incluida la Septuaginta, son traducciones. Sirven para comparar posibilidades de sentido, pero no deben recibir autoridad por encima del evangelio ni del texto hebreo sin vocales cuando se discute un pasaje del Tanaj.
 
-La línea teológica de la clase no niega la identidad elevada de Yeshúa; más bien exige demostrarla desde el conjunto de las señales, la sintaxis, el contexto y las Escrituras, no desde una fórmula aislada convertida en atajo.
+La línea teológica de la clase no niega la identidad elevada de Yehoshua; más bien exige demostrarla desde el conjunto de las señales, la sintaxis, el contexto y las Escrituras, no desde una fórmula aislada convertida en atajo.
 
 ## La denuncia: pan sin señal
 
-Cuando la multitud lo encuentra en Kefar Najum, Yeshúa no celebra el tamaño del seguimiento. Responde: "ustedes me buscan no porque vieron las señales, sino porque comieron del pan y se saciaron" #juan_6_26.
+Cuando la multitud lo encuentra en Kefar Najum, Yehoshua no celebra el tamaño del seguimiento. Responde: "ustedes me buscan no porque vieron las señales, sino porque comieron del pan y se saciaron" #juan_6_26.
 
-La clase subraya lo duro de esa respuesta. La gente atravesó el mar y buscó a Yeshúa, pero no necesariamente por la verdad de la señal. Lo buscaban porque habían comido. Es posible estar cerca del milagro, beneficiarse de él y aun así no discernir a quien el milagro revela.
+La clase subraya lo duro de esa respuesta. La gente atravesó el mar y buscó a Yehoshua, pero no necesariamente por la verdad de la señal. Lo buscaban porque habían comido. Es posible estar cerca del milagro, beneficiarse de él y aun así no discernir a quien el milagro revela.
 
-Por eso #juan_6_27 no habla solo de comida material. "Comida" representa aquello que llena, satisface o mueve al hombre. Yeshúa contrapone lo que perece con lo que permanece para vida olam.
+Por eso #juan_6_27 no habla solo de comida material. "Comida" representa aquello que llena, satisface o mueve al hombre. Yehoshua contrapone lo que perece con lo que permanece para vida olam.
 
 ## Yojanan 6:27 y la sintaxis del sellado #juan_6_27
 
@@ -205,19 +216,19 @@ El TTH local traduce #juan_6_27 así: "Trabajen, no la comida que perece, sino l
 
 La clase detiene la atención en la última parte. El expositor sostiene que muchas traducciones aclaran la frase como "el Padre, que es Dios", pero que esa forma puede imponer al castellano una explicación que no respeta suficientemente la sintaxis griega. En su lectura, la construcción permite o sugiere que Aba / el Padre designa, señala o sella al Ben Ha’Adam con título de Elohim.
 
-Esta afirmación es importante, pero queda como punto técnico a verificar con el texto griego y gramáticas. La nota conserva la idea como línea de estudio porque en la clase funciona para reforzar que Yeshúa no ofrece solo pan enviado por otro: él mismo es el portador sellado/designado para dar la comida que permanece.
+Esta afirmación es importante, pero queda como punto técnico a verificar con el texto griego y gramáticas. La nota conserva la idea como línea de estudio porque en la clase funciona para reforzar que Yehoshua no ofrece solo pan enviado por otro: él mismo es el portador sellado/designado para dar la comida que permanece.
 
 ## De obras en plural a la obra de Elohim
 
-La multitud pregunta: "¿Qué haremos para trabajar las obras de Elohim?" #juan_6_28. Yeshúa responde: "Esta es la obra de Elohim: que se afirmen por el que Él envió" #juan_6_29.
+La multitud pregunta: "¿Qué haremos para trabajar las obras de Elohim?" #juan_6_28. Yehoshua responde: "Esta es la obra de Elohim: que se afirmen por el que Él envió" #juan_6_29.
 
-La clase destaca el cambio de plural a singular. Ellos quieren saber qué obras hacer; Yeshúa habla de la obra de Elohim. La salvación no se presenta como una lista de acciones humanas que producen vida olam, sino como la obra divina que lleva a afirmarse por el enviado.
+La clase destaca el cambio de plural a singular. Ellos quieren saber qué obras hacer; Yehoshua habla de la obra de Elohim. La salvación no se presenta como una lista de acciones humanas que producen vida olam, sino como la obra divina que lleva a afirmarse por el enviado.
 
 Esta observación se refuerza con #juan_6_36: "Aunque me han visto, no se afirman." Ver no basta. Según la clase, el ser humano puede presenciar pan multiplicado y mar dominado, y aun así seguir pidiendo otra señal porque su atención está en el pan que perece.
 
 ## Maná: pan de los cielos y memoria del desierto
 
-La multitud desafía a Yeshúa con el maná: "Nuestros padres comieron el man en el desierto" #juan_6_31. Yeshúa corrige: no fue Moshéh la fuente del pan de los cielos, sino el Padre #juan_6_32. Los pasajes del desierto (#shemot_16_4-15, #bamidbar_11_7-9, #tehilim_105_40; véase la hoja de comparación) sostienen que יהוה es quien da pan del cielo. La clase insiste en que el maná del desierto fue real y maravilloso, pero no daba vida olam. Por eso Yeshúa no niega el milagro antiguo; lo reordena. El pan verdadero no es simplemente un alimento que cae del cielo, sino "Este que descendió de los cielos, y da vida al olam" #juan_6_33.
+La multitud desafía a Yehoshua con el maná: "Nuestros padres comieron el man en el desierto" #juan_6_31. Yehoshua corrige: no fue Moshéh la fuente del pan de los cielos, sino el Padre #juan_6_32. Los pasajes del desierto (#shemot_16_4-15, #bamidbar_11_7-9, #tehilim_105_40; véase la hoja de comparación) sostienen que יהוה es quien da pan del cielo. La clase insiste en que el maná del desierto fue real y maravilloso, pero no daba vida olam. Por eso Yehoshua no niega el milagro antiguo; lo reordena. El pan verdadero no es simplemente un alimento que cae del cielo, sino "Este que descendió de los cielos, y da vida al olam" #juan_6_33.
 
 ## Lo cotidiano como milagro
 
@@ -229,7 +240,7 @@ La clase usa este punto para combatir la ceguera de la multitud. El problema no 
 
 El expositor desarrolla una lectura más profunda del maná: en Shemot aparece asociado al rocío, y en Bamidbar se compara con el bedelio. En la clase se menciona una relación aramea entre "rocío" y una expresión literaria como "rocío de bedelio", presentada como nombre poético del maná.
 
-Luego conecta ese motivo con teología mística judía sobre atributos del Anciano de Días y una capacidad de la deidad de disminuirse para venir a la creación. Esta parte requiere verificación externa antes de convertirse en conclusión firme. La nota la conserva como línea de investigación porque sirve al argumento del expositor: Yeshúa, al decir que descendió de los cielos y que es el pan de vida, estaría hablando en un registro mucho más profundo que una simple metáfora alimentaria.
+Luego conecta ese motivo con teología mística judía sobre atributos del Anciano de Días y una capacidad de la deidad de disminuirse para venir a la creación. Esta parte requiere verificación externa antes de convertirse en conclusión firme. La nota la conserva como línea de investigación porque sirve al argumento del expositor: Yehoshua, al decir que descendió de los cielos y que es el pan de vida, estaría hablando en un registro mucho más profundo que una simple metáfora alimentaria.
 
 ## "Yo soy el pan de la vida"
 
@@ -243,17 +254,17 @@ La clase lo lee en continuidad con las señales anteriores:
 - Presentó la obra de Elohim como afirmarse por el enviado.
 - Se identificó como el pan que descendió de los cielos.
 
-El pan de vida no es un objeto separado que Yeshúa distribuye; es Yeshúa mismo como el que descendió, da vida al olam y resucita en el día postrero.
+El pan de vida no es un objeto separado que Yehoshua distribuye; es Yehoshua mismo como el que descendió, da vida al olam y resucita en el día postrero.
 
 ## Ver y no creer
 
-#juan_6_36 dice: "Aunque me han visto, no se afirman." La clase ve aquí una enseñanza antropológica dura: no existe una bondad escondida en el ser humano que necesariamente responda bien si se le muestra suficiente evidencia. La multitud ve, come y persigue a Yeshúa, pero sigue sin afirmarse por él.
+#juan_6_36 dice: "Aunque me han visto, no se afirman." La clase ve aquí una enseñanza antropológica dura: no existe una bondad escondida en el ser humano que necesariamente responda bien si se le muestra suficiente evidencia. La multitud ve, come y persigue a Yehoshua, pero sigue sin afirmarse por él.
 
 Por eso #juan_6_29 y #juan_6_37-40 deben leerse juntos. Afirmarse por el enviado es la obra de Elohim, y venir al Hijo depende de lo que el Padre le da. La vida olam no nace de la voluntad baja del hombre, sino del deseo/voluntad del Padre que da, preserva y levanta.
 
 ## La voluntad del Padre y la resurrección
 
-La clase enfatiza que Yeshúa no habla de una voluntad humana autosuficiente (#juan_6_37-40; véase la hoja de comparación). El mismo pasaje que dice "todo el que ve al Hijo y se afirme" acaba de decir "aunque me han visto, no se afirman." Por tanto, ver y creer son inseparables de la obra de Elohim.
+La clase enfatiza que Yehoshua no habla de una voluntad humana autosuficiente (#juan_6_37-40; véase la hoja de comparación). El mismo pasaje que dice "todo el que ve al Hijo y se afirme" acaba de decir "aunque me han visto, no se afirman." Por tanto, ver y creer son inseparables de la obra de Elohim.
 
 ## Hoja léxica
 
@@ -275,22 +286,22 @@ La clase enfatiza que Yeshúa no habla de una voluntad humana autosuficiente (#j
 - [Yojanan 5: el Hijo, juicio y vida](./juan_5_hijo_juicio_vida) prepara esta lectura: el Hijo da vida, ejecuta juicio y recibe honra como el Padre.
 - [Yojanan 5, Bet Jesda y Shabat](./juan_5_bet_jesda_shabat) ayuda a ver la continuidad entre controversia por Shabat, señales y autoridad del Hijo.
 - [Ben, Bar Enash y el Hijo de Elohim](../temas/ben_hijo_titulos_mesias) conecta con los títulos Ben Ha’Adam e Hijo de Elohim que aparecen en la clase.
-- [Yojanan 1: meymrá, vida y tabernáculo](./juan_1) da trasfondo para leer a Yeshúa como vida manifestada, no como mero mensajero.
+- [Yojanan 1: meymrá, vida y tabernáculo](./juan_1) da trasfondo para leer a Yehoshua como vida manifestada, no como mero mensajero.
 
 ## Observaciones lingüísticas
 
 - El expositor insiste en leer Yojanan desde un universo mental semítico, aunque el texto se conserve en griego.
 - Se recuerda que en el siglo I convivían hebreo, arameo, griego y latín; por eso nombres y conceptos pueden circular entre lenguas.
 - "Rabí" en #juan_6_25 se explica como título honorífico de maestro, no como traducción plana de "profesor".
-- "Amén, amén" conserva peso de declaración solemne, especialmente cuando Yeshúa diagnostica el motivo de la multitud.
+- "Amén, amén" conserva peso de declaración solemne, especialmente cuando Yehoshua diagnostica el motivo de la multitud.
 - La clase distingue entre usar traducciones como ayuda y hacer descansar una doctrina en la forma de una traducción.
 - El uso de "yo soy" debe leerse por contexto; no todo egō eimi funciona igual.
 
 ## Conclusión
 
-Yojanan 6:1-40 presenta una secuencia de señales que exige una lectura más profunda que la búsqueda de provisión. Yeshúa alimenta como יהוה alimentó en el desierto, domina el mar como יהוה gobierna las aguas, corrige a quienes reducen la señal a comida y se revela como el pan que descendió de los cielos.
+Yojanan 6:1-40 presenta una secuencia de señales que exige una lectura más profunda que la búsqueda de provisión. Yehoshua alimenta como יהוה alimentó en el desierto, domina el mar como יהוה gobierna las aguas, corrige a quienes reducen la señal a comida y se revela como el pan que descendió de los cielos.
 
-La multitud quiere pan, rey y obras; Yeshúa revela vida olam, obra de Elohim y resurrección. La señal apunta al enviado mismo. Venir a él, afirmarse por él y ser levantado en el día postrero dependen de la voluntad del Padre, no de una capacidad humana de reconocer correctamente las señales por sí sola.
+La multitud quiere pan, rey y obras; Yehoshua revela vida olam, obra de Elohim y resurrección. La señal apunta al enviado mismo. Venir a él, afirmarse por él y ser levantado en el día postrero dependen de la voluntad del Padre, no de una capacidad humana de reconocer correctamente las señales por sí sola.
 
 ## Referencias judías y fuentes externas
 

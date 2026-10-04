@@ -45,6 +45,7 @@ sources:
   - "docs/scriptures/oe/json/"
   - "docs/scriptures/tth/json/"
   - "docs/scriptures/delitzsch/json/"
+  - "https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/Rom.txt"
 translation: "[TTH, Delitzsch, OE]"
 source_ids:
   - "youtube:wR0WA_TLcCc"
@@ -86,7 +87,7 @@ La clase lleva esta distinción a #romanos_10_9. Su conclusión es que la confes
 | #bereshit_16_13                | OE: אתה אל ראי. TTH: “Tú, El de vista”.                                                                                                                                      | La clase lo pronuncia _El Roí_ y discute si la forma se entiende como apariencia o como “el que me ve”.                                        |
 | #bereshit_17_1                 | OE: אני אל שדי. TTH: “Yo soy El Shadai”.                                                                                                                                     | Otro uso nominativo de **El**.                                                                                                                 |
 | #bereshit_21_33                | OE: בשם יהוה אל עולם. TTH: “en el Nombre de יהוה, Elohim olam”.                                                                                                              | El texto OE sostiene la forma **El Olam**; la TTH local ofrece una redacción distinta.                                                         |
-| #devarim_32_15                 | OE: ויטש אלוה עשהו וינבל צור ישעתו. TTH: abandonó a Eloha que lo hizo y despreció la Roca de su salvación.                                                                   | Une **Eloha** y Roca dentro del cántico de Moshéh.                                                                                             |
+| #devarim_32_15                 | OE: ויטש אלוה עשהו וינבל צור ישעתו. TTH: Pero engordó Ieshurún²²⁵ y pateó; engordaste, engrosaste, te saciaste; y abandonó a Eloha que lo hizo, y despreció a la Roca de su salvación.                                                                   | Une **Eloha** y Roca dentro del cántico de Moshéh.                                                                                             |
 | #habakuk_3_3                   | OE: אלוה מתימן יבוא. TTH: “Eloha de Teimán vendrá”.                                                                                                                          | Confirma el uso de **Eloha** en una composición poética.                                                                                       |
 | #yeshayahu_44_8                | OE: היש אלוה מבלעדי ואין צור. TTH: “¿Hay Eloha aparte de Mí? ¡No hay otra Roca!”.                                                                                            | Refuerza la asociación textual entre Eloha y Roca.                                                                                             |
 | #shemot_20_1                   | OE: וידבר אלהים את כל הדברים האלה לאמר. TTH: “Y habló Elohim todas estas palabras”.                                                                                          | La clase lo relaciona con la Torah mediada por mensajeros; el versículo solo no identifica cuál mediación está en vista.                       |
@@ -118,7 +119,7 @@ La clase no trata las tres formas como sinónimos intercambiables. **El** concen
 
 **Eloha** aparece en el segundo bloque como forma singular y poética. #devarim_32_15, #habakuk_3_3 e #yeshayahu_44_8 respaldan la concentración del término en cánticos y poesía. Dos de esos textos lo acercan a **tzur**, Roca, y la clase usa esa cercanía para expresar la unicidad y estabilidad del Ser supremo.
 
-**Elohim** abre una pregunta distinta: ¿quién actúa y en qué capacidad? #juan_10_35 y #tehilim_82 muestran que el término puede aplicarse a quienes reciben palabra o ejercen juicio sin hacerlos inmortales. #tehilim_97_7, leído desde #hebreos_1_6, amplía el campo a seres celestiales. El aporte metodológico de la clase es válido: no se debe decidir el referente de \_Elohim* antes de leer el contexto.
+**Elohim** abre una pregunta distinta: ¿quién actúa y en qué capacidad? #juan_10_35 y #tehilim_82 muestran que el término puede aplicarse a quienes reciben palabra o ejercen juicio sin hacerlos inmortales. #tehilim_97_7, leído desde #hebreos_1_6, amplía el campo a seres celestiales. El aporte metodológico de la clase es válido: no se debe decidir el referente de _Elohim_ antes de leer el contexto.
 
 ## Encargo no significa divinización
 
@@ -140,9 +141,9 @@ Esta lectura pertenece a la argumentación de la clase y no debe cerrarse solo c
 
 La clase llega a su conclusión mesiánica mediante la redacción TTH de #romanos_10_9: “si confiesas con tu boca: ¡יהוה Yeshúa!”. La confesión se entiende como un nombre y un anuncio unidos: יהוה se dio a conocer en la tierra como salvación. Yeshúa no sería un dios menor ni una autoridad separada colocada debajo de יהוה, sino יהוה viniendo a salvar.
 
-El corpus local obliga a conservar una diferencia importante. La TTH imprime **יהוה Yeshúa**, mientras Delitzsch traduce **(שישוע הוא האדון)**, “que Yeshúa es el Adón”. Por tanto, la afirmación de la clase de que el griego funciona como vocativo, carece de verbo y forma un solo nombre debe verificarse directamente en el texto griego; no queda demostrada por Delitzsch.
+El corpus local obliga a conservar una diferencia importante. La TTH imprime **יהוה Yeshúa**, mientras Delitzsch traduce **(שישוע הוא האדון)**, “que Yeshúa es el Adón”. El griego de Romanos 10:9 tiene **(κύριον Ἰησοῦν)**, _kyrion Iēsoun_, en acusativo, dentro de la confesión; no es vocativo. Que no aparezca una cópula expresa en esa cláusula no obliga a leer un único nombre propio. La formulación confesional de TTH y la explicación de Eric se conservan como interpretación, junto al testigo distinto de Delitzsch.
 
-#filipenses_2_10-11 fortalece el alcance de la confesión: toda rodilla se dobla en el nombre de Yeshúa y toda lengua confiesa que Yeshúa el Mesías es Adón. La clase lee esto a la luz de los pasajes donde \_kyrios* representa el Nombre, pero la identificación debe demostrarse en cada cita y contexto, no por una sustitución automática.
+#filipenses_2_10-11 fortalece el alcance de la confesión: toda rodilla se dobla en el nombre de Yeshúa y toda lengua confiesa que Yeshúa el Mesías es Adón. La clase lee esto a la luz de los pasajes donde _kyrios_ representa el Nombre, pero la identificación debe demostrarse en cada cita y contexto, no por una sustitución automática.
 
 ## La resurrección y la identidad del Mesías
 
@@ -156,7 +157,7 @@ La clase añade #zejariah_12_10: יהוה anuncia que mirarán hacia él, al que
 
 - #juan_10_35 con #tehilim_82_6-7: recibir palabra explica el encargo, mientras la mortalidad limita toda pretensión de divinización humana.
 - #devarim_32_15 con #yeshayahu_44_8: Eloha y Roca expresan unicidad y estabilidad en contextos poéticos.
-- #tehilim_97_7 con #hebreos_1_6: la cita apostólica muestra que \_elohim* puede requerir una traducción contextual distinta.
+- #tehilim_97_7 con #hebreos_1_6: la cita apostólica muestra que _elohim_ puede requerir una traducción contextual distinta.
 - #romanos_10_9 con #filipenses_2_10-11: confesar a Yeshúa como Adón ocupa el centro de la respuesta a la Besorah.
 - #romanos_10_9 con #hechos_2_24 y #juan_10_18: Elohim lo levanta, la muerte no puede retenerlo y Yeshúa tiene poder para volver a tomar su nefesh.
 
@@ -168,7 +169,7 @@ La clase añade #zejariah_12_10: יהוה anuncia que mirarán hacia él, al que
 - [ ] Cotejar #shemot_20_1 con las referencias apostólicas a la Torah mediada por mensajeros antes de afirmar quién habla en ese versículo.
 - [ ] Analizar **(בני האלהים)** en #iyov_2_1 y la propuesta “herederos de ministros” frente a sus usos en el Tanaj.
 - [ ] Comparar **(להתיצב על יהוה)** en Iyov 1-2 con #tehilim_2_2 y otros ejemplos para determinar si exige el sentido “levantarse contra”.
-- [ ] Verificar en el griego de #romanos_10_9 el caso y la función de **κύριον Ἰησοῦν**; la descripción de la clase como vocativo no debe asumirse sin análisis.
+- [ ] Ampliar el análisis sintáctico y de traducción de #romanos_10_9; el acusativo κύριον Ἰησοῦν ya está cotejado y no sostiene la afirmación de vocativo.
 - [ ] Cotejar el uso de **κύριος** para יהוה en las citas apostólicas y en #filipenses_2_11 sin convertir toda aparición en equivalencia automática.
 - [ ] Revisar el excursus de la clase sobre el árbol del conocimiento como espacio de tinieblas fuera de Gan Eden; la transcripción no ofrece una fuente textual suficiente.
 

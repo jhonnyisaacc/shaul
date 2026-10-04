@@ -38,12 +38,13 @@ sources:
   - "docs/scriptures/oe/json/ikings/10.json"
   - "docs/scriptures/delitzsch/json/romans.json"
   - "docs/scriptures/delitzsch/json/ephesians.json"
-  - "docs/scriptures/tth/json/yojanan.json"
+  - "docs/scriptures/tth/json/iojanan.json"
   - "docs/scriptures/delitzsch/json/john.json"
   - "docs/scriptures/oe/json/genesis/3.json"
   - "docs/scriptures/oe/json/genesis/22.json"
   - "docs/scriptures/tth/json/sodot.json"
   - "docs/scriptures/delitzsch/json/revelation.json"
+  - "https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/1Cor.txt"
 translation: "[TTH, Delitzsch, OE]"
 source_ids:
   - "youtube:YKQCpmNS3KM"
@@ -57,7 +58,7 @@ La clase continúa el estudio de Marcos y del **Ben HaAdam** abriendo el signifi
 
 - Fuente principal: transcripción automática de una clase en video; la nota organiza el argumento sin reproducirlo palabra por palabra.
 - La clase se ubica en el estudio de Marcos 2, dentro del paréntesis sobre el Hijo del Hombre y Abba.
-- Esta nota continúa [[marcos_13_14_abba_oracion_juicio|Marcos 13-14: Abba, palabra inamovible y oración como juicio]], pero se enfoca en la equivalencia **ruaj / mente** y en la lectura de #1_corintios_2_12-16.
+- Esta nota continúa [[marcos_13_vigilancia_hijo_hombre_palabra#Abba en Marcos 14|Marcos 13-14: Abba, palabra inamovible y oración como juicio]], pero se enfoca en la equivalencia **ruaj / mente** y en la lectura de #1_corintios_2_12-16.
 - Se usó el corpus local ya presente en el repositorio; no se expone aquí el comando de preparación.
 - Las afirmaciones sobre Zohar, Targum y el uso histórico de Abba para Elohim quedan como material de clase pendiente de cotejo.
 
@@ -82,7 +83,7 @@ La clase continúa el estudio de Marcos y del **Ben HaAdam** abriendo el signifi
 | #yeshayahu_40_13      | OE: מי תכן את רוח יהוה ואיש עצתו יודיענו                                                           | Texto citado por Pablo; la clase lee **תכן** como medir, sondear o establecer medida.                  |
 | #melajim_alef_10_5   | OE: ולא היה בה עוד רוח                                                                             | La reina de Sheba no "murió"; quedó sin ánimo/mente ante la sabiduría de Shlomó.                       |
 | #romanos_11_33-34     | Delitzsch: מה־עמק עשר חכמת אלהים... כי מי־תכן את־רוח יהוה                                          | Pablo vuelve al mismo campo: profundidad insondable de sabiduría y conocimiento.                       |
-| #efesios_3_17-19      | Delitzsch: מה הרוחב והארך והעמק והגבה...                                                           | Anchura, longitud, profundidad y altura describen el amor/conocimiento que excede todo conocimiento.   |
+| #efesios_3_17-19      | Delitzsch: שישכן המשיח בלבבכם עלידי האמונה והייתם משרישים ומיסדים באהבה למען תוכלו להבין ככלהקדשים מה הרחב והארך והעמק והגבה וידעתם אתאהבת המשיח הנעלה עלכלדעת ונמלאתם אתכלמלוא האלהים                                                           | Anchura, longitud, profundidad y altura describen el amor/conocimiento que excede todo conocimiento.   |
 | #juan_12_49-50     | TTH: "no he hablado de Mí mismo... mi Padre... me mandó qué decir"; "su mandamiento es vida olam." | Yeshúa habla desde la palabra/mente de Abba; no desde iniciativa humana separada.                      |
 | #bereshit_3_21        | OE: ויעש יהוה אלהים... כתנות עור וילבשם                                                            | La clase conecta las vestiduras de piel con el Cordero preparado; queda pendiente de cotejo targúmico. |
 | #bereshit_22_13-14    | OE: Abraham ve el ayil y llama el lugar יהוה יראה                                                  | Figura del padre que entrega al hijo y de la provisión vista de antemano.                              |
@@ -93,7 +94,7 @@ La clase continúa el estudio de Marcos y del **Ben HaAdam** abriendo el signifi
 | Término      | Transliteración | Sentido en la nota                                                     | Tipo de equivalencia    | Observación                                                                                                                           |
 | ------------ | --------------- | ---------------------------------------------------------------------- | ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
 | **(רוח)**    | ruaj            | viento, ánimo, mente, poder, condición incorruptible, depósito de vida | Aproximada por contexto | La clase insiste en no fijarla siempre como "espíritu" separado de "mente".                                                           |
-| **(נους)**   | nous            | mente                                                                  | Aproximada              | En #1_corintios_2_16 traduce el campo de #yeshayahu_40_13; la nota lo usa con cautela por no haber cotejado el griego localmente. |
+| **(νοῦς)**   | nous            | mente                                                                  | Aproximada              | En #1_corintios_2_16 traduce el campo de #yeshayahu_40_13; el griego de 1 Corintios 2:16 tiene νοῦν, mente; la correspondencia con רוח de Yeshayahu es intertextual, no identidad léxica universal. |
 | **(תכן)**    | tiken / tajan   | medir, sondear, establecer medida                                      | Pendiente               | La clase prefiere "sondear" sobre "enseñar"; requiere revisión léxica formal.                                                         |
 | **(אבא)**    | abba            | padre; en la clase, profundidad de sabiduría y plenitud de la Torah    | Pedagógica / pendiente  | No reducir a "papá" ni convertir en otra persona divina sin revisar el marco semítico.                                                |
 | **(משיח)**   | Mashíaj         | Mesías, ungido                                                         | Aproximada              | En la clase, la mente de Mashíaj es el ruaj de יהוה concedido al pueblo.                                                              |
@@ -181,7 +182,7 @@ La aplicación pastoral queda así: pedir el ruaj no es reclamar acceso a secret
 
 ## Conexiones principales
 
-- [[marcos_13_14_abba_oracion_juicio|Marcos 13-14: Abba, palabra inamovible y oración como juicio]]: nota hermana sobre Abba y Getsemaní.
+- [[marcos_13_vigilancia_hijo_hombre_palabra#Abba en Marcos 14|Marcos 13-14: Abba, palabra inamovible y oración como juicio]]: nota hermana sobre Abba y Getsemaní.
 - [[marcos_ben_adam_metamorfosis_glosario|Marcos: Ben Adam, metamorfosis y glosario mesiánico]]: marco del Ben HaAdam y Daniel 7.
 - [[juan_conceptos_deidad|Conceptos de deidad en Yojanán]]: lenguaje de manifestación, plenitud y Mesías.
 - [[juan_10_abba_obras_y_morada|Yojanán 10: Abba, las obras y la morada]]: Abba y obras como testimonio.
@@ -199,7 +200,7 @@ La aplicación pastoral queda así: pedir el ruaj no es reclamar acceso a secret
 
 ## Pendiente de verificar
 
-- [ ] Cotejar el griego de #1_corintios_2_16 y su uso de **(νους)** frente a #yeshayahu_40_13.
+- [ ] Ampliar el cotejo de la cita de #yeshayahu_40_13 en la Septuaginta; el uso de νοῦν en #1_corintios_2_16 está verificado en SBLGNT.
 - [ ] Verificar en léxicos hebreos el alcance de **(תכן)** como medir, sondear o establecer medida.
 - [ ] Localizar la fuente exacta donde el Targum conecta #bereshit_22_13-14 con el Cordero preparado antes de la fundación del mundo.
 - [ ] Revisar si #bereshit_3_21 puede sostener, desde fuentes antiguas, la conexión con el Cordero o si debe quedar solo como lectura tipológica.
@@ -227,7 +228,7 @@ La clase sostiene que la frase "tenemos la mente de Mashíaj" no es psicología 
 
 ## Ver también
 
-- [[marcos_13_14_abba_oracion_juicio|Marcos 13-14: Abba, palabra inamovible y oración como juicio]]
+- [[marcos_13_vigilancia_hijo_hombre_palabra#Abba en Marcos 14|Marcos 13-14: Abba, palabra inamovible y oración como juicio]]
 - [[marcos_ben_adam_metamorfosis_glosario|Marcos: Ben Adam, metamorfosis y glosario mesiánico]]
 - [[juan_conceptos_deidad|Conceptos de deidad en Yojanán]]
 - [[juan_10_abba_obras_y_morada|Yojanán 10: Abba, las obras y la morada]]

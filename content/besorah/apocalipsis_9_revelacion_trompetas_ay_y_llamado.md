@@ -38,7 +38,7 @@ Esta nota canónica organiza la enseñanza del **hermano Eric de Jesús Rodrígu
 | --- | --- | --- |
 | #apocalipsis_9_1-6 | **והמלאך החמישי תקע בשופר וארא כוכב נפל מןהשמים לארץ ולו נתן מפתח באר התהום**; **ומןהקיטר יצא ארבה עלהארץ ושלטן נתן להם כשלטן עקרבי הארץ**; **ולא נתן להם להמיתם רק להכאיבם חמשה חדשים** | Quinto toque: apertura del abismo, langostas y tormento limitado. |
 | #apocalipsis_9_7-12 | **ומלאך התהום הוא מלך עליהם ושמו אבדון בעברית ואפוליון ביונית**; **אוי אחד חלף הלך לו ואוי שני ושלישי באים אחריו** | Descripción de las langostas, su rey y el primer ay concluido. |
-| #apocalipsis_9_13-19 | **והמלאך הששי תקע בשופר**; **והמתה שלישית בני אדם בשלש מגפות האלה באש ובקיטור ובגפרית** | Sexto toque: cuatro mensajeros soltados y muerte de un tercio. |
+| #apocalipsis_9_13-19 | **והמלאך הששי תקע בשופר**; **ותומת שלישית בני אדם בשלש מגפות האלה באש ובקיטור ובגפרית** | Sexto toque: cuatro mensajeros soltados y muerte de un tercio. |
 | #apocalipsis_9_20-21 | **ושאר בני אדם אשר לא מתו במגפות האלה בכל זאת לא שבו ממעשי ידיהם**; **ולא שבו מדרכם ויוסיפו לרצח ולכשף ולזנות ולגנב** | Resultado moral: no arrepentimiento pese al juicio. |
 
 ## El quinto toque: tormento limitado, no destrucción indiscriminada

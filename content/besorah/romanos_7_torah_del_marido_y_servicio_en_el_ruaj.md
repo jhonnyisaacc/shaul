@@ -15,6 +15,8 @@ references:
   - "#devarim_24_1-4"
   - "#yejezkel_36_26-27"
 sources:
+  - "https://github.com/morphgnt/sblgnt/blob/master/66-Ro-morphgnt.txt"
+  - "https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/Rom.txt"
   - "https://www.youtube.com/watch?v=yh_hsRK7MgE"
   - "docs/scriptures/tth/json/romanos.json"
   - "docs/scriptures/tth/json/devarim.json"
@@ -36,16 +38,20 @@ Esta nota organiza la clase 14 de la serie sobre Romanos. Las observaciones del 
 
 | Referencia | Texto local de TTH | Función en la lectura |
 | --- | --- | --- |
-| #romanos_7_1-4 | «La Torah gobierna sobre el hombre por todo el tiempo de su vida»; la mujer queda libre de la Torah del marido cuando él muere; «ustedes han muerto para la Torah por el cuerpo del Mesías, para que sean de otro: el que se levantó de los muertos». | Presenta la analogía jurídica y su aplicación al cambio de señorío, cuyo propósito es dar fruto para Elohim. |
-| #romanos_7_5-6 | «Somos libres de la Torah, habiendo muerto a aquella en la que estábamos sujetos, para que sirvamos en la novedad del Rúaj y no en la vejez de la letra». | Expone el tránsito descrito por Pablo; no autoriza a llamar pecado a la Torah. |
-| #romanos_7_7-13 | «Yo no reconocería al pecado sino por la Torah... No codiciarás»; «la Torah es santa, y el mandamiento, santo, justo y bueno». | La Torah revela y nombra el pecado, mientras el pecado aprovecha el mandamiento para producir muerte. |
-| #romanos_7_14-25 | «Sabemos que la Torah es Rúaj, pero yo soy carne, vendido bajo el pecado»; el hombre interior se deleita en la Torah, pero otra Torah combate en sus miembros; la salida se confiesa «en Yeshúa el Mesías». | Distingue la bondad de la instrucción de la incapacidad de la carne y orienta la respuesta hacia el Mesías. |
+| #romanos_7_1-4 | TTH: ¿O no saben, hermanos míos –a los conocedores de la Torah hablo– que la Torah gobierna sobre el hombre por todo el tiempo de su vida? Porque la mujer de un hombre, según el tiempo de la vida de él, ella está atada por mujer conforme a la Torah, pero si el hombre muere, entonces ella queda libre de la Torah del marido. Por eso, mientras viva el hombre, ella será llamada adúltera si es de otro hombre; pero si el hombre muere, ella quedará libre de la Torah de ser adúltera si viene a ser de otro hombre. Por eso, hermanos míos, ustedes han muerto para la Torah por el cuerpo del Mesías, para que sean de otro: el que se levantó de los muertos, para hacer fruto para Elohim. | Presenta la analogía jurídica y su aplicación al cambio de señorío, cuyo propósito es dar fruto para Elohim. |
+| #romanos_7_5-6 | TTH: Y cuando éramos en la carne, los sufrimientos de los pecados que eran por encima de la Torah estaban obrando en nuestros miembros, para hacer fruto para la muerte. Pero desde ahora, somos libres de la Torah⁶⁶, habiendo muerto a aquella en la que estábamos sujetos, para que sirvamos en la novedad del Rúaj⁶⁷ y no en la vejez de la letra. | Expone el tránsito descrito por Pablo; no autoriza a llamar pecado a la Torah. |
+| #romanos_7_7-13 | TTH: ¿Y qué diremos, que la Torah es el pecado? ¡Profanación! Sino que, yo no reconocería al pecado sino por la Torah. Porque, yo no reconocería la codicia si la Torah no dijera: No codiciarás⁶⁸. Pero el pecado halló ocasión por encima del mandamiento, para obrar en mí toda codicia. Porque sin la Torah el pecado estaba muerto. Pero yo viví sin la Torah por un tiempo, pero cuando vino el mandamiento, entonces el pecado vivió. Y yo morí y hallé en mí que el mandamiento que daba para vida, era para muerte; porque el pecado, cuando halló ocasión por encima del mandamiento me engañó, y por encima de él, me mató. Por eso, la Torah es santa, y el mandamiento, santo, justo y bueno. ¿Y lo que es bueno, fue para mí para muerte? ¡Profanación! Sino que, el pecado, para mostrarse pecado, por encima de lo bueno, obraba en mí muerte, para que fuese en exceso pecaminoso el pecado por encima del mandamiento. | La Torah revela y nombra el pecado, mientras el pecado aprovecha el mandamiento para producir muerte. |
+| #romanos_7_14-25 | TTH: Porque sabemos que la Torah es Rúaj, pero yo soy carne, vendido bajo el pecado. Porque lo que yo obro, no lo sé; porque no hago lo que quiero, sino lo que yo aborrezco. Y si hago lo que no quiero, asiento que la Torah es buena. Y desde ahora, ya no soy el que obra aquello, sino el pecado que mora en mí. Y yo sé que en mí, esto es, en mi carne, no mora el bien, porque tengo el querer hacer el bien pero no lo hallo. Porque el bien que quiero no hago, sino que hago el mal que no quiero. Y si hago lo que yo no quiero, ya no hago aquello, sino el pecado que mora en mí. Por eso, si yo quiero hacer el bien, yo hallo la Torah: que el mal se aferra en mí. Porque me deleito en la Torah de Elohim según el hombre interior, pero yo veo otra Torah en mis miembros que lucha contra la Torah de mi mente, y que me lleva cautivo a la Torah del pecado que está en mis miembros. ¡Miserable hombre soy! ¿Quién me hará escapar del cuerpo de esta muerte? Confieso yo a Elohim en Yeshúa el Mesías nuestro Adón⁶⁹. Por lo tanto, yo en mi mente sirvo a la Torah de Elohim, pero en la carne a la Torah del pecado. Andar en el Rúaj | Distingue la bondad de la instrucción de la incapacidad de la carne y orienta la respuesta hacia el Mesías. |
+| #devarim_24_1-4 | OE: כי יקח איש אשה ובעלה והיה אם לא תמצא חן בעיניו כי מצא בה ערות דבר וכתב לה ספר כריתת ונתן בידה ושלחה מביתו ויצאה מביתו והלכה והיתה לאיש אחר ושנאה האיש האחרון וכתב לה ספר כריתת ונתן בידה ושלחה מביתו או כי ימות האיש האחרון אשר לקחה לו לאשה לא יוכל בעלה הראשון אשר שלחה לשוב לקחתה להיות לו לאשה אחרי אשר הטמאה כי תועבה הוא לפני יהוה ולא תחטיא את הארץ אשר יהוה אלהיך נתן לך נחלה | Trasfondo matrimonial; no es una cita directa ni la misma situación jurídica. |
+| #shemot_20_17 | OE: לא תחמד בית רעך לא תחמד אשת רעך ועבדו ואמתו ושורו וחמרו וכל אשר לרעך | No codiciarás: mandamiento que Pablo identifica en 7:7. |
 
 ## La analogía del marido: una muerte que cambia la relación
 
 Eric comienza señalando que Pablo habla a quienes conocen la Torah y que la imagen de Romanos 7:1-3 no trata de una Torah abstracta, sino de la norma que gobierna una relación matrimonial mientras vive el marido. La clase llama a esto «la Torah del marido» o «la Torah del matrimonio», una manera pedagógica de ubicar la unidad dentro de las distintas instrucciones de la Torah. El texto local sí limita la analogía: menciona expresamente «la Torah del marido» y luego dice que la comunidad ha muerto «a la Torah» por el cuerpo del Mesías. La nota conserva la identificación propuesta por la clase como lectura de la perícopa, pero no afirma que Pablo esté clasificando formalmente toda la Torah en una taxonomía posterior.
 
 El objetivo de la muerte no es dejar a la persona sin dueño ni sin obediencia. Romanos 7:4 continúa: ahora se pertenece al que se levantó de los muertos «para hacer fruto para Elohim». La imagen cambia de vínculo y cambia también el fruto esperado. La observación de Eric sobre el nuevo marido apunta al movimiento del pasaje, aunque la metáfora no debe usarse para tratar al Mesías como una simple repetición de la figura humana. La referencia a Devarim 24:1-4 puede servir como trasfondo de las regulaciones matrimoniales, pero el paralelo exacto y su alcance deben cotejarse en una revisión posterior.
+
+El griego de 7:2 dice **τοῦ νόμου τοῦ ἀνδρός**, «la ley del marido», y el v. 4 dice **ἐθανατώθητε τῷ νόμῳ**, «fuisteis hechos morir a la ley». La analogía se aplica con un desplazamiento: muere el marido en el ejemplo y mueren los lectores respecto de la ley en la aplicación. Eric preserva correctamente que el texto no dice «la Torah murió»; limitar toda aparición de νόμος posterior exclusivamente a la norma matrimonial sigue siendo interpretación. Devarim 24:1-4 regula divorcio y uniones sucesivas, sin narrar exactamente la muerte del marido de Romanos 7.
 
 ## «Libres de la Torah»: novedad de servicio, no licencia para el pecado
 
@@ -80,7 +86,7 @@ La nota puede conservar esa explicación como una lectura atribuible, pero debe 
 
 ## Pendiente de verificar
 
-- [ ] Cotejar Romanos 7:1-4 con Devarim 24:1-4 y distinguir trasfondo matrimonial de cita explícita.
+- [x] Cotejar ambos pasajes: Devarim 24 trata divorcio y uniones sucesivas; Romanos 7 usa la muerte del marido. No es una cita explícita.
 - [ ] Revisar en griego el alcance de «libres de la Torah» y la relación entre **(νόμος)** en 7:4-6 y las distintas apariciones del término en 7:21-23.
 - [ ] Verificar con léxicos el contraste **(γράμμα)** / **(πνεῦμα)** sin convertir una explicación pedagógica en una regla universal de traducción.
 - [ ] Comparar las principales lecturas del «yo» de Romanos 7:14-25; la clase lo aplica al ser humano común, pero el texto requiere una argumentación más amplia.
@@ -94,7 +100,7 @@ Romanos 7 sostiene una cadena precisa: muerte a una relación de dominio, perten
 
 - [[romanos_8_amor_elohim_disposicion_y_victoria|Romanos 8: el amor de Elohim, la disposición y la victoria]]
 - [[romanos_8_esperanza_redencion_creacion_gemiente|Romanos 8: la esperanza de la redención y la creación que gime]]
-- [[romanos_6_hechos_siervos_justicia|Romanos 6: hechos siervos de la justicia]]
+- [[romanos_6_morir_al_pecado_y_servir_a_la_justicia|Romanos 6: hechos siervos de la justicia]]
 
 ## Créditos
 

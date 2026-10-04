@@ -15,7 +15,7 @@ references:
   - "#juan_16_22"
 sources:
   - "https://www.youtube.com/watch?v=FTH6tIAoNq0"
-  - "docs/scriptures/tth/json/yojanan.json"
+  - "docs/scriptures/tth/json/iojanan.json"
   - "docs/scriptures/delitzsch/json/john.json"
 source_ids:
   - "youtube:FTH6tIAoNq0"
@@ -24,13 +24,21 @@ translation: "[TTH, Delitzsch]"
 
 # Tesis
 
-En #juan_16_20-22, **Yehoshua** no niega el lamento que sus discípulos atravesarán: anuncia que llorarán mientras el \_olam* se alegra. Sin embargo, su palabra no termina en la tristeza. Mediante la imagen de una mujer que da a luz, promete que el dolor será transformado en gozo cuando él vuelva a verlos, un gozo que nadie podrá quitarles.
+En #juan_16_20-22, **Yehoshua** no niega el lamento que sus discípulos atravesarán: anuncia que llorarán mientras el _olam_ se alegra. Sin embargo, su palabra no termina en la tristeza. Mediante la imagen de una mujer que da a luz, promete que el dolor será transformado en gozo cuando él vuelva a verlos, un gozo que nadie podrá quitarles.
 
 ## Alcance de la nota
 
 Esta nota organiza el tramo final de la parte 61 de la serie de Eric de Jesús sobre Yojanán, centrado en #juan_16_20-22. La clase llega a estos versículos después de comentar #juan_16_12-19; aquí se conserva únicamente la secuencia de lamento, parto y gozo. La transcripción automática contiene errores de reconocimiento, especialmente en términos hebreos y griegos, por lo que se resume el argumento sin tratarla como cita literal.
 
 El expositor relaciona los dolores de parto con sufrimientos mesiánicos, con la cruz y con la entrada de muchos a la salvación. Es una lectura teológica desarrollada en la clase; el texto comparativo de estos tres versículos nombra de manera directa la tristeza de los discípulos, el parto y la alegría posterior, pero no expone allí todos esos desarrollos.
+
+## Mapa de la enseñanza de Eric
+
+| Unidad textual | Observación de la clase | Tratamiento en esta nota |
+| --- | --- | --- |
+| #juan_16_20 | Eric sigue el contraste entre la alegría del olam y el lamento de los discípulos. | Se conserva el destinatario y el anuncio de transformación del lamento, sin convertirlo en fórmula para toda tristeza. |
+| #juan_16_21 | La exposición vincula el parto con padecimientos mesiánicos y la salvación de muchos. | Primero se explica la comparación del texto; la expresión técnica y el trasfondo judío quedan pendientes de fuentes. |
+| #juan_16_22 | Eric aplica el reencuentro y el gozo no arrebatado a la esperanza de quienes sirven en oposición. | Se distingue la promesa a los discípulos de su extensión pastoral; las afirmaciones sobre memoria del parto no prueban la exégesis. |
 
 ## Hoja de comparación
 
@@ -42,7 +50,7 @@ El expositor relaciona los dolores de parto con sufrimientos mesiánicos, con la
 
 ## Un lamento que el texto no disimula
 
-La primera parte de #juan_16_20 es sobria: Yehoshua dice que sus discípulos llorarán y se lamentarán, mientras el \_olam* se alegra. El discurso no presenta la tristeza como falta de fidelidad ni ordena fingir que la pérdida no duele. La nombra antes de prometer su desenlace.
+La primera parte de #juan_16_20 es sobria: Yehoshua dice que sus discípulos llorarán y se lamentarán, mientras el _olam_ se alegra. El discurso no presenta la tristeza como falta de fidelidad ni ordena fingir que la pérdida no duele. La nombra antes de prometer su desenlace.
 
 La segunda parte del versículo introduce el giro: «su lamento se tornará en alegría». El contraste no depende de que los discípulos produzcan optimismo por sí mismos. Es una palabra de Yehoshua acerca de aquello que ocurrirá con su lamento.
 
@@ -58,13 +66,15 @@ El verso 22 retoma el presente de tristeza: «ahora se lamentan ustedes». A con
 
 El expositor aplica esta promesa a la obra redentora de Yehoshua y a una esperanza que sostiene a quienes sirven en medio de oposición. La aplicación puede animar una lectura pastoral, pero no debe borrar el primer destinatario del discurso: los discípulos reunidos ante la partida inminente de Yehoshua. Cualquier extensión a experiencias posteriores ha de mantener esa secuencia textual.
 
+El cotejo del [texto griego SBLGNT de Yojanán 16:21](https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/John.txt) distingue la imagen del parto de una palabra técnica para dolores de parto.
+
 ## Léxico clave
 
 | Forma        | Aproximación en la nota | Límite que se debe preservar                                                                                                                             |
 | ------------ | ----------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **(λύπη)**   | tristeza, pesar         | El pasaje anuncia un pesar concreto; no convierte toda aflicción humana en la situación exacta de los discípulos.                                        |
 | **(χαρά)**   | gozo, alegría           | El gozo se vincula en #juan_16_22 con que Yehoshua volverá a ver a los discípulos; no equivale simplemente a euforia pasajera.                        |
-| **(ὠδίν)**   | dolor de parto          | La imagen del versículo 21 funciona como comparación; la relación con expresiones judías posteriores sobre dolores mesiánicos requiere fuentes y cotejo. |
+| **(θλῖψις)** | aflicción, angustia          | El versículo 21 usa θλῖψις y λύπη; ὠδίν no aparece allí. La imagen del parto funciona como comparación; la relación con expresiones judías posteriores sobre dolores mesiánicos requiere fuentes y cotejo. |
 | **(κόσμος)** | olam, mundo             | El TTH traduce _olam_; el alcance de **(κόσμος)** debe observarse en el contexto de Yojanán, no reducirse automáticamente a un grupo moderno.            |
 
 ## Conexiones principales
@@ -76,7 +86,7 @@ El expositor aplica esta promesa a la obra redentora de Yehoshua y a una esperan
 
 ## Pendiente de verificar
 
-- [ ] Cotejar **(λύπη)**, **(χαρά)**, **(ὠδίν)** y los verbos de #juan_16_20-22 en el griego y en el uso del cuarto evangelio.
+- [ ] Cotejar **(λύπη)**, **(χαρά)**, **(θλῖψις)** y los verbos de #juan_16_20-22 en el griego y en el uso del cuarto evangelio.
 - [ ] Localizar fuentes judías primarias y fechas para la expresión «dolores de parto del Mesías» mencionada en la clase; no atribuirla sin más a todo el judaísmo del siglo I.
 - [ ] Examinar las conexiones propuestas por la clase entre el parto, la cruz, la resurrección, #yeshayahu_53 y la salvación de muchos antes de tratarlas como alusiones explícitas de Yojanán 16.
 - [ ] Verificar por separado las afirmaciones de la clase sobre psicología y memoria del dolor en el parto; no usarlas como base exegética del pasaje.
