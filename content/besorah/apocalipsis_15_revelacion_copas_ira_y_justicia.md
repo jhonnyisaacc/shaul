@@ -38,7 +38,7 @@ Esta nota reúne dos clases públicas del hermano Eric de Jesús Rodríguez Mend
 
 | Referencia | Texto local (Delitzsch, sin nikud) | Función en la enseñanza |
 | --- | --- | --- |
-| #apocalipsis_15_1 | **וארא אות אחר בשמים גדול ונפלא שבעה מלאכים נשאים אתשבע המכות האחרונות כי בהן כלה זעם אלהים** | Anuncia siete plagas finales y la consumación de la ira de Elohim. |
+| #apocalipsis_15_1 | **וארא אות אחר בשמים גדול ונפלא שבעה מלאכים נשאים אתשבע המכות האחרנות כי בהן כלה זעם אלהים** | Anuncia siete plagas finales y la consumación de la ira de Elohim. |
 | #apocalipsis_15_2 | **וארא כים זכוכית בלול באש ואתהמתגברים עלהחיה ועלצלמה ועלתוה ועלמספר שמה עמדים עלים הזכוכית וכנרות אלהים בידיהם** | Presenta a los vencedores frente a la bestia, su imagen, su señal y el número de su nombre. |
 | #apocalipsis_15_3-4 | **וישירו אתשירת משה עבד אלהים ושירת השה... צדק ואמת דרכיך מלך הגוים... כי כלהגוים יבאו וישתחוו לפניך** | El cántico une la memoria de Moisés, al Cordero, las obras justas y la adoración futura de las naciones. |
 | #apocalipsis_15_5-6 | **ואחרי כן ראיתי והנה נפתח היכל משכן העדות בשמים... ויצאו מןהיכל שבעה המלאכים הנשאים אתשבע המכות** | El santuario se abre y los siete portadores salen preparados para ejecutar el juicio. |

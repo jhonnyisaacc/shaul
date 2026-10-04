@@ -12,12 +12,17 @@ references:
   - "#apocalipsis_11_8"
   - "#zejariah_4_2"
   - "#zejariah_4_14"
-sources: []
+sources:
+  - "docs/notes_16_05_2026.md"
 ---
 
 # Tesis
 
 Sodot 11 se desarrolla como visión del templo, del luto profético y de los dos testigos entendidos en clave de torá y profecía, aunque también abiertos a la participación de los kedoshim.
+
+## Alcance de la nota
+
+Esta nota reorganiza el bloque «Sodot 11» de `docs/notes_16_05_2026.md`. El documento no identifica un video concreto para este bloque. Sus correspondencias simbólicas se conservan como interpretación de los apuntes; no equivalen a definiciones léxicas ni a identificaciones históricas comprobadas.
 
 ## Texto base
 
@@ -39,13 +44,14 @@ Sodot 11 se desarrolla como visión del templo, del luto profético y de los dos
 
 ## Observaciones
 
-- Hejal se entiende como lugar santo y, por extensión, como toda la casa.
+- היכל (hejal) puede designar templo o palacio; en esta visión nombra el santuario medido. No debe confundirse automáticamente con el debir o lugar santísimo.
 - La medición del templo se lee como visión y no como simple cronología contemporánea.
 - Los dos testigos profetizan de luto: representan el lamento de Elohim por el estado de su pueblo.
 - La imagen de los hijos del aceite fresco se conecta con #zejariah_4_2-14 y con la condición de portar brillo y unción reciente.
-- La bestia no mata definitivamente la torá y la profecía, pero las vence temporalmente en el mundo visible.
+- Los apuntes interpretan la muerte y el levantamiento de los testigos como derrota temporal de Torá y profecía; #apocalipsis_11_7 sí dice que la bestia los mata dentro de la visión.
 - Los tres años y medio se leen en relación con la destrucción del templo y como patrón simbólico de aparente abandono.
 
 ## Pendiente de verificar
 
-- [ ] Afinar si la nota final debe mantener como lectura principal "torá y profecía" o abrir más el lugar simbólico de los kedoshim.
+- [ ] Cotejar la identificación de los testigos con Torá y profecía frente a sus rasgos personales.
+- [ ] Distinguir los 1.260 días de profecía de los tres días y medio de cuerpos expuestos; no fundir ambas cifras con la destrucción del templo.

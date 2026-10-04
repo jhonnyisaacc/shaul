@@ -9,12 +9,17 @@ references:
   - "#apocalipsis_12_1"
   - "#yeshayahu_66_7"
   - "#yejezkel_29_3"
-sources: []
+sources:
+  - "docs/notes_16_05_2026.md"
 ---
 
 # Tesis
 
 Sodot 12 describe a Israel como mujer revestida y al reptil como poder adversario, mientras el hijo y las estrellas se leen en clave de remanente y de tiempos señalados por Elohim.
+
+## Alcance de la nota
+
+Esta nota reorganiza el bloque «Sodot 12» de `docs/notes_16_05_2026.md`. El documento no identifica un video concreto para este bloque. Sus correspondencias simbólicas se conservan como interpretación de los apuntes; no equivalen a definiciones léxicas ni a identificaciones históricas comprobadas.
 
 ## Texto base
 
@@ -28,7 +33,12 @@ Sodot 12 describe a Israel como mujer revestida y al reptil como poder adversari
 | #yeshayahu_66_7 | Antes de que se retorciera, ella dio a luz; antes de que viniera dolor a ella, dio a luz un varón.                                                    |
 | #yejezkel_29_3  | Habla, y dirás: “Así ha dicho Adonai יהוה:                                                                                                            |
 
-La mención local de #yejezkel_29_3 introduce la declaración, y la imagen del monstruo del río continúa en el versículo siguiente del mismo pasaje.
+El TTH local divide la declaración entre 29:3 y 29:4. OE sitúa la imagen del monstruo del río en 29:3; se cita ese corpus con su numeración explícita, sin alterar los archivos fuente.
+
+| Referencia | Hebreo local | Corpus y función |
+| --- | --- | --- |
+| #yejezkel_29_3 | דבר ואמרת כה אמר אדני יהוה הנני עליך פרעה מלך מצרים התנים הגדול הרבץ בתוך יאריו אשר אמר לי יארי ואני עשיתני | OE; ancla textual, distinta de la aplicación de los apuntes. |
+
 
 ## Observaciones
 
@@ -38,3 +48,9 @@ La mención local de #yejezkel_29_3 introduce la declaración, y la imagen del m
 - El hijo que nace se entiende como el remanente salvo contenido en la nación y ligado al sacrificio del Mesías.
 - La figura del dragón se relee como reptil o tanin, con apoyo en pasajes como #yejezkel_29_3.
 - Los tiempos se entienden como moedim, no como simple relojería lineal.
+
+## Pendiente de verificar
+
+- [ ] Comparar el hijo destinado a regir en #apocalipsis_12_5 con la lectura del remanente; el pasaje no identifica directamente al hijo con ese colectivo.
+- [ ] Cotejar sol, luna y estrellas sin convertir la aplicación doctrinal de los apuntes en un glosario universal.
+- [ ] Distinguir los tiempos de #apocalipsis_12_14 de fiestas específicas: esa asociación necesita fuentes y argumento.

@@ -229,3 +229,13 @@ renamed study links. Dan's portion in Ezekiel 48:1 is now quoted separately from
 the still-open question of its omission in Revelation 7. Full review: 61/81.
 Batch 8's two editorial CI runs passed; Vercel still showed six baseline
 deployments and none for the review branch.
+
+## Batch 10 — Revelation chapters 10–15
+
+Reviewed ten notes: six raw studies and four transcript studies. Documented raw
+provenance, supplied available Ephesian and Revelation anchors, distinguished
+Ezekiel's OE/TTH verse division, and clarified the witness-death, child/remnant,
+Israel-name, bestia, and duration applications. Corrected an inverted statement
+about Revelation 13:8, two Hebrew quotation errors, and renamed-note links.
+Full review: 71/81 notes. Batch 9's two editorial CI runs passed; the Vercel API
+retained six baseline deployments and none for the branch.

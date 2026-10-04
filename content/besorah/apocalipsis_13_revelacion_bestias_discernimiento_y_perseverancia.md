@@ -43,7 +43,7 @@ Esta nota organiza la exposición del hermano Eric de Jesús Rodríguez Mendoza 
 | #apocalipsis_13_10 | **המוליך שבי ילך בשבי וההרג בחרב הרג יהרג בחרב בזאת סבלנות ואמונת הקדשים** | El cierre de la primera unidad define la respuesta como paciencia y fidelidad. |
 | #apocalipsis_13_11 | **וארא חיה אחרת עלה מןהאדמה ולה שתי קרנים כקרני השה ומדברת כתנין** | La segunda bestia procede de la tierra, parece un cordero y habla como dragón. |
 | #apocalipsis_13_14 | **ומתעה אתישבי הארץ באותות אשר נתןלה לעשות בפני החיה באמרה אלישבי הארץ לעשות צלם לחיה אשרהכתה מכתחרב ותחי** | Las señales producen engaño y ordenan hacer una semejanza de la bestia herida. |
-| #apocalipsis_13_17 | **ולאיכול איש לקנות או למכר כי אםבהיות עליו תו החיה או שמה אומספר שמה** | La señal, el nombre o el número se relacionan con comprar y vender. |
+| #apocalipsis_13_17 | **ולאיוכל איש לקנות או למכר כי אםבהיות עליו תו החיה או שמה אומספר שמה** | La señal, el nombre o el número se relacionan con comprar y vender. |
 | #apocalipsis_13_18 | **בזאת חכמה מי שבינה לו יחשב מספר החיה כי מספר אדם הוא ומספרו שש מאות וששים ושש** | El texto pide sabiduría y entendimiento, no una asociación improvisada. |
 
 ## La primera bestia: autoridad, blasfemia y guerra (13:1-10) #apocalipsis_13_1-10
@@ -52,7 +52,7 @@ La secuencia comienza con Juan sobre la arena del mar y una bestia que sube de e
 
 En los versículos 3-4 la herida sanada produce asombro, y la adoración se dirige tanto a la bestia como al dragón. Eric concreta aquí su tesis histórica: la primera bestia representa la persecución de los fieles en la crisis seléucida, especialmente Antíoco IV, mientras que su autoridad reaparece como una estructura que cambia tiempos y ley. El texto sí sostiene la transferencia de autoridad, la blasfemia y la guerra contra los santos; la identificación exclusiva con Antíoco y la datación de cada símbolo requieren cotejo histórico adicional.
 
-Los versículos 5-8 intensifican la oposición: boca de blasfemia, cuarenta y dos meses, guerra contra los santos y adoración generalizada. La clase relaciona los cuarenta y dos meses con los 1.260 días de Apocalipsis 12 y con los tres años y medio de Daniel. Como observación de intertextualidad, la correspondencia numérica es clara; como cronología histórica cerrada, queda pendiente. El versículo 8 además contrapone a los adoradores de la bestia con quienes no están inscritos en el libro de la vida. No autoriza convertir cada aplicación contemporánea de la clase en una identificación textual.
+Los versículos 5-8 intensifican la oposición: boca de blasfemia, cuarenta y dos meses, guerra contra los santos y adoración generalizada. La clase relaciona los cuarenta y dos meses con los 1.260 días de Apocalipsis 12 y con los tres años y medio de Daniel. Como observación de intertextualidad, la correspondencia numérica es clara; como cronología histórica cerrada, queda pendiente. El versículo 8 además relaciona a quienes adoran a la bestia con la ausencia de inscripción en el libro de la vida. No autoriza convertir cada aplicación contemporánea de la clase en una identificación textual.
 
 El versículo 10 concluye esta unidad con una exhortación sobria: la cautividad y la espada no se vencen mediante otra violencia, sino mediante “סבלנות ואמונת הקדשים”, paciencia y fidelidad de los santos. Esta es una corrección importante para cualquier lectura que solo busque descifrar al enemigo: el capítulo orienta la conducta de la comunidad.
 
@@ -100,9 +100,9 @@ La clase propone cálculos hebreos y asociaciones de expresiones como “serás 
 
 ## Conexiones principales
 
-- [[apocalipsis_12_mujer_dragon_y_perseverancia|Apocalipsis 12: mujer, dragón y perseverancia]] — el capítulo 13 continúa el conflicto iniciado con el dragón y la simiente.
-- [[apocalipsis_17_babilonia_juicio_y_discernimiento|Apocalipsis 17: Babilonia, juicio y discernimiento]] — la propia clase anuncia que el capítulo 17 retomará las cabezas, cuernos y la figura prostituida.
-- [[daniel_7|Daniel 7]] — trasfondo de las bestias y del cuerno; la equivalencia histórica debe ser comprobada.
+- [[apocalipsis_12_revelacion_mujer_hijo_y_conflicto|Apocalipsis 12: mujer, dragón y perseverancia]] — el capítulo 13 continúa el conflicto iniciado con el dragón y la simiente.
+- [[apocalipsis_17_revelacion_babilonia_juicio_y_discernimiento|Apocalipsis 17: Babilonia, juicio y discernimiento]] — la propia clase anuncia que el capítulo 17 retomará las cabezas, cuernos y la figura prostituida.
+- #daniel_7_1-8 — trasfondo de las bestias y del cuerno; la equivalencia histórica debe ser comprobada.
 
 ## Conclusión
 
@@ -110,7 +110,7 @@ Apocalipsis 13 no presenta solo un acertijo sobre una cifra. En su secuencia, au
 
 ## Ver también
 
-- [[apocalipsis_13_revelacion_bestias_discernimiento_y_perseverancia|Esta nota en el índice de Apocalipsis]]
+- [[apocalipsis_13|Apuntes de Sodot 13]]
 
 ## Créditos
 
