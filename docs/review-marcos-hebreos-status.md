@@ -125,3 +125,26 @@ Validation: four transcript-quality and hygiene checks, local quotation
 comparison, full verse-index generation and whitespace pass. Batch 17 passed
 push/PR CI (37220368822 and 37220371183). Vercel remains at six deployments,
 none for the branch. Remaining: Marcos 13–16.
+
+## Batch 19 — Marcos 13–16
+
+Completed all 34 existing extension notes (21 Marcos, 13 Hebrews). Consolidated
+repeated repairs while retaining the chapter-13 doctrinal blocks and their
+linked Abba heading. Made the three chapter-13 caption gaps explicit and
+identified the inherited part-13 attribution as still requiring oral cotejo.
+Distinguished Daniel 9:24’s period verb from 9:26’s cut-off verb, corrected
+chapter-13 proximity vocabulary and the Hebrews 5 learned/taught comparison,
+and preserved the chapter-13 Son/prayer and chapter-14 covenant witnesses.
+Corrected chapter-15 clamor vocabulary, Psalm numbering and witness differences
+for the garment, semitic cry and 15:28. Corrected the actual chapter-16 Sabbath
+phrase, recorded its caption gap and distinguished received long-ending
+exposition from transmission evidence.
+
+Validation: four transcript-quality and hygiene checks, full verse-index
+generation, local quotation comparison and whitespace pass. The expanded
+comparison audit finds no mismatches in 321 supported cells; 66 table rows are
+unparsed and require the complementary manual review. Batch 18 passed
+push/PR CI (37220673907 and 37220676750). Vercel remains at six deployments,
+none for the branch. Remaining task: final scope-wide audit and coverage ledger.
+The eight caption gaps and exact external-source research questions remain
+explicit human-review follow-ups.
