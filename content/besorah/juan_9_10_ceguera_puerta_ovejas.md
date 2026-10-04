@@ -32,7 +32,7 @@ references:
   - "#yeshayahu_64_5"
 sources:
   - "https://www.youtube.com/watch?v=gK3V7SYBI_U"
-  - "docs/scriptures/tth/json/yojanan.json"
+  - "docs/scriptures/tth/json/iojanan.json"
   - "docs/scriptures/delitzsch/json/john.json"
   - "docs/scriptures/oe/json/psalms/34.json"
   - "docs/scriptures/oe/json/exodus/4.json"

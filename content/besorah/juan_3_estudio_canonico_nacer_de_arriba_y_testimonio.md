@@ -17,7 +17,7 @@ sources:
   - "https://www.youtube.com/watch?v=3g9O4ADy6xw"
   - "https://www.youtube.com/watch?v=-I1zqJZ8hQM"
   - "https://www.youtube.com/watch?v=yBlrSzbNmfo"
-  - "docs/scriptures/tth/json/yojanan.json"
+  - "docs/scriptures/tth/json/iojanan.json"
   - "docs/scriptures/delitzsch/json/john.json"
   - "docs/scriptures/oe/json/numbers/21.json"
 source_ids:
@@ -67,7 +67,6 @@ Eric desarrolla además una lectura simbólica: el brillo del cobre, la luz y el
 
 El capítulo continúa, no termina, en el conocido 3:16. Eric lee **(κόσμος)**, *kosmos*, «mundo / orden», en continuidad con el prólogo: no se limita automáticamente al planeta ni se agota en individuos aislados. Esta es una **traducción aproximada** de *olam* en TTH, pues **עולם**, *olam*, se refiere sobre todo a duración, era o mundo según el contexto; no es una sustitución exacta de *kosmos*. La fuerza contextual de 3:16-17 es que el amor de Elohim se dirige al *kosmos* y que el envío tiene por finalidad salvarlo, no juzgarlo.
 
-En 3:19-21 la clase subraya que la crisis se manifiesta cuando la Luz llega y las obras quedan expuestas. **(κρίσις)**, *krisis*, es «juicio, decisión, discernimiento»; TTH lo vierte «causa penal». La traducción es **aproximada**: conserva la dimensión judicial, pero el término griego también nombra el acto de discernir. Yojanán no deja la verdad en una consigna abstracta: «el que hace la verdad» viene a la Luz (#juan_3_21). Delitzsch expresa esa frase con **פעל אמת**, *poel emet*, «quien practica verdad»; es una representación hebrea del griego, útil para la lectura pero no una retroversión demostrada.
 En 3:19-21 la clase subraya que la crisis se manifiesta cuando la Luz llega y las obras quedan expuestas. **(κρίσις)**, _krisis_, es «juicio, decisión, discernimiento»; TTH lo vierte «causa penal». La traducción es **aproximada**: conserva la dimensión judicial, pero el término griego también nombra el acto de discernir. Yojanán no deja la verdad en una consigna abstracta: «el que hace la verdad» viene a la Luz (#juan_3_21). Delitzsch expresa esa frase con **פעל אמת**, _poel emet_, «quien practica verdad»; es una representación hebrea del griego, útil para la lectura pero no una retroversión demostrada.
 
 Eric no presenta 3:16 como una frase aislada de consuelo: lo enlaza con el contraste inmediato entre vida y condenación, y con la llegada de la Luz que revela las obras (3:17-21). Esa observación conserva la arquitectura del pasaje. El texto local dice que el Hijo fue enviado «para que el olam sea salvo por Él» y que quien tiene emunah no entra en condenación; después explica que la causa de la crisis es que la Luz vino y las obras eran malas. Por eso «salvar» y «juzgar» no deben separarse de la respuesta concreta a la Luz. **(σώζω)**, _sōzō_, tiene el sentido normal de salvar, rescatar o sanar; aquí su fuerza es la finalidad del envío, no una promesa de que la exposición de las obras sea innecesaria.

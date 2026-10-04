@@ -170,3 +170,17 @@ Validation exposed a filename bug: the display-name normalizer also changed
 literal corpus paths from the existing `docs/scriptures/tth/json/iojanan.json` to nonexistent
 `yojanan.json`. It now preserves `docs/scriptures/` identifiers while continuing
 to validate visible Yod transliterations. A regression test covers both behaviors.
+
+## Batch 6 — earlier chapters, Yojanan 8–9, and concept summary
+
+Reviewed eleven additional notes: `juan_1`, `juan_1_testigo_cordero`,
+`juan_2_senales_celo_y_santuario`, both canonical chapter-3/4 studies,
+both chapter-8 studies, all three chapter-9 studies, and `juan_conceptos_deidad`.
+Removed a duplicated chapter-3 paragraph, repaired corpus source paths, qualified
+monogenes and Abba applications, distinguished the concept map from a dictionary,
+attributed the chapter-1 antecedent by a working public link, added the historical
+source gap in the Ben Adam study, corrected Psalm 69 numbering, and restored three
+chapter-10 quotation cells in the chapter-9/10 bridge. Notes already sufficiently
+qualified retain their existing argument and source maps. Full review: 33/81 notes.
+All 49 transcript-classified Yojanan notes now pass quality and YouTube hygiene;
+this gate is not a claim that every note has finished substantive review.

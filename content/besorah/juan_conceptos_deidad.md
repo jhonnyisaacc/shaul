@@ -59,6 +59,8 @@ Esta nota condensa ese vocabulario en un solo mapa. No sustituye las notas de cl
 - Los términos **El Chai** y **Bar El Chai** no aparecen como lección independiente en la serie; aquí se explican desde el hilo de «vida» y «Hijo» que recorre Yojanán.
 - Cada palabra cambia de matiz según el pasaje; esta nota da el sentido dominante en la serie, no un diccionario cerrado.
 
+Las glosas del mapa y del diagrama condensan la interpretación de la serie. No establecen definiciones exhaustivas ni equivalencias de diccionario: **אבא** tiene el sentido ordinario de padre; fuente/promesa y las asociaciones de Elohim con rajamim son desarrollos contextuales que requieren cotejo independiente.
+
 ## Regla de lectura
 
 | Error frecuente                                 | Lectura que propone la serie                                           |
@@ -102,13 +104,13 @@ flowchart TB
 
 **Abba** es palabra aramea del Segundo Templo. En la serie no nombra primero a un «papá» doméstico ni a una segunda persona divina.
 
-Significa:
+En la lectura de la serie se desarrolla como:
 
 - **Fuente** y origen del amor entrañable antes de manifestarse (#tehilim_36_10; [[../temas/elohim_aba|Elohim y Aba]]).
 - **Plenitud de la promesa** que el Mesías confiesa y cumple, no un interlocutor ajeno (#juan_11_41; [[juan_oracion_dos_tronos_emunah|Dos tronos y Abba instituido]]).
 - **Voluntad escrita sobre el Mesías** — vino a hacer lo que estaba en el rollo, no a cumplir abstractamente «toda la ley» como cliché pastoral.
 
-Cuando Yeshúa dice «el que me ha visto ha visto al Padre» (#juan_14_9), la serie lee: **ver al Mesías es ver el amor de Elohim hecho visible**, no ir hacia otra persona distante.
+Cuando Yehoshua dice «el que me ha visto ha visto al Padre» (#juan_14_9), la serie lee: **ver al Mesías es ver el amor de Elohim hecho visible**, no ir hacia otra persona distante.
 
 «Abba es mayor que yo» (#juan_14_28) no niega la deidad del Mesías. Distingue la **manifestación en etapa de siervo** de la **plenitud de la fuente** aún por revelarse del todo ([[juan_10_abba_obras_y_morada|Yojanán 10: Abba, obras y morada]]).
 
@@ -209,7 +211,7 @@ La serie no dedica una clase al término **El Chai** por separado, pero el conce
 
 En esta lectura, el Mesías **no recibe vida de otro dios**. Él es la **Palabra viviente** que descendió, entregó su carne como korban (#juan_6_51) y resucita con vida indestructible ([[juan_10_17_28_vida_indestructible|Vida indestructible]]).
 
-La fórmula exacta **Ben HaElohim HaChai** no es eje explícito en las notas de Yojanán del repositorio; queda como síntesis léxica coherente con el hilo de vida + filiación.
+La fórmula exacta **Ben HaElohim HaChai** no es eje explícito en las notas de Yojanán del repositorio; se ofrece como síntesis temática, sin atribuir su formulación a una clase independiente ni fijarla como glosa léxica.
 
 ## יהוה (el Tetragrammaton)
 
@@ -225,7 +227,7 @@ En la serie de Yojanán, יהוה cumple al menos dos funciones complementarias 
 
 No son dos dioses en competencia. Son **dos tronos de la misma institucionalidad divina** ([[juan_oracion_dos_tronos_emunah|Dos tronos]]).
 
-Cuando Yeshúa se presenta «ante el cielo», la serie lee **presentación ante el trono del juicio**, no oración a un ser superior separado.
+Cuando Yehoshua se presenta «ante el cielo», la serie lee **presentación ante el trono del juicio**, no oración a un ser superior separado.
 
 ## Lectura integrada en un párrafo
 
@@ -262,7 +264,7 @@ Cuando Yeshúa se presenta «ante el cielo», la serie lee **presentación ante 
 
 ## Conclusión
 
-Leer Yojanán con estas palabras — Abba, Elohim, Ben HaAdam, Ben HaElohim, Benei Elohim, El Chai y יהוה — es leer el evangelio desde su propio mundo mental semítico. Si se aplanan al castellano, desaparece el argumento: un solo Elohim viviente que se manifestó en el Mesías, cumplió sus promesas en carne, dio vida a sus herederos y reunió en uno a los dispersos del trono de la gracia.
+Leer Yojanán con estas palabras — Abba, Elohim, Ben HaAdam, Ben HaElohim, Benei Elohim, El Chai y יהוה — es seguir la propuesta semítica de la serie; su verificación requiere texto, contexto y fuentes para cada conexión. Si se aplanan al castellano, desaparece el argumento: un solo Elohim viviente que se manifestó en el Mesías, cumplió sus promesas en carne, dio vida a sus herederos y reunió en uno a los dispersos del trono de la gracia.
 
 ## Ver también
 
