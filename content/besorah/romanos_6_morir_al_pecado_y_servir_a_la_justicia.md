@@ -16,6 +16,8 @@ references:
   - "#bereshit_4_6-7"
   - "#yejezkel_36_26-27"
 sources:
+  - "https://github.com/morphgnt/sblgnt/blob/master/66-Ro-morphgnt.txt"
+  - "https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/Rom.txt"
   - "https://www.youtube.com/watch?v=b4EPQ70FrvQ"
   - "docs/scriptures/tth/json/romanos.json"
   - "docs/scriptures/tth/json/bereshit.json"
@@ -37,11 +39,13 @@ Esta nota organiza la clase 13 de la serie sobre Romanos. La exposición retoma 
 
 | Referencia | Texto local de TTH | Función en la lectura |
 | --- | --- | --- |
-| #romanos_6_1-4 | «¿Permaneceremos en el pecado porque abundó el favor?»; quienes fueron bautizados en Yehoshua fueron bautizados en su muerte y deben andar «en renovación de vida». | El favor no autoriza a continuar en el pecado; la inmersión señala una unión con muerte y vida renovada. |
-| #romanos_6_5-11 | El viejo hombre fue crucificado «para que ... no sirvamos más al pecado»; «consideren que han muerto al pecado, pero viven para Elohim». | Expone la nueva consideración y el nuevo centro de vida del discípulo. |
-| #romanos_6_12-14 | «No reinará el pecado en el cuerpo»; presenten sus miembros como instrumentos de justicia; el pecado no gobernará porque no están bajo la Torah sino bajo el favor. | El favor cambia el dominio y produce una exhortación corporal, no pasividad. |
-| #romanos_6_15-19 | «¿Pecaremos porque no estamos debajo de la Torah, sino debajo del favor?»; quienes preparan su vida para obediencia son siervos de aquel a quien escuchan. | La pregunta se rechaza; la escucha y la entrega muestran a quién se sirve. |
-| #romanos_6_20-23 | El fruto de ser liberados del pecado es santidad y vida olam; «el salario del pecado es muerte, pero la dádiva de Elohim es vida olam». | Distingue salario merecido de dádiva recibida y cierra la unidad con dos destinos morales. |
+| #romanos_6_1-4 | TTH: ¿Y qué diremos? ¿Permaneceremos en el pecado porque abundó el favor? ¡Profanación sea a nosotros! Porque los que hemos muerto al pecado, ¿cómo estaremos todavía en él? ¿No saben que todos nosotros que hemos sido bautizados en Yeshúa el Mesías, en su muerte hemos sido bautizados? Es decir, somos sepultados con Él en el bautismo para muerte, a fin de que como se levantó el Mesías de los muertos por la gloria de su Padre, así también nosotros andemos en renovación de vida. | El favor no autoriza a continuar en el pecado; la inmersión señala una unión con muerte y vida renovada. |
+| #romanos_6_5-11 | TTH: Por eso, si fuimos plantados en la semejanza de su muerte, también lo seremos en el levantamiento⁶⁴; y esto sabemos, que nuestro viejo hombre fue crucificado con Él, para que se evapore el cuerpo de pecado y no sirvamos más al pecado. Porque el que ha muerto, ha sido justificado del pecado. Y si morimos con el Mesías, nos afirmamos en que también viviremos con Él; sabiendo que el Mesías se levantó de los muertos, ya no morirá, la muerte no gobernará sobre Él. Porque el que murió, al pecado murió una vez; y el que vive, vive para Elohim. Así también ustedes, consideren que ustedes han muerto al pecado, pero viven para Elohim en Yeshúa el Mesías nuestro Adón. | Expone la nueva consideración y el nuevo centro de vida del discípulo. |
+| #romanos_6_12-14 | TTH: Por eso, no reinará el pecado en el cuerpo de ustedes mortal, para escucharlo en los deseos de él; y no establezcan sus miembros como instrumentos de injusticia para el pecado, sino establézcanse cada hombre para Elohim como vivos de entre los muertos, y sus miembros como instrumentos de justicia para Elohim. Y el pecado no gobernará sobre ustedes, porque no están debajo de la Torah, sino debajo del favor. | El favor cambia el dominio y produce una exhortación corporal, no pasividad. |
+| #romanos_6_15-19 | TTH: ¿Y qué haremos? ¿Pecaremos porque no estamos debajo de la Torah, sino debajo del favor? ¡Profanación sea a nosotros! ¿No saben que para quien preparen sus vidas como siervos para obediencia, ustedes siervos serán de aquel a quien escuchen?; o siervos del pecado para muerte, o siervos de la escucha para justificación. Y sea confesión a Elohim porque ustedes eran siervos del pecado, pero escucharon con el corazón al tipo de enseñanza a la que han sido dados. Y porque son libres del pecado, fueron hechos siervos para justificación. Conforme al camino de hombre hablo, por causa de la debilidad de la carne de ustedes; que como para injusticia prepararon sus miembros para servir a la impureza y a la iniquidad, así desde ahora preparan sus miembros para el servicio de la justicia, para santidad. | La pregunta se rechaza; la escucha y la entrega muestran a quién se sirve. |
+| #romanos_6_20-23 | TTH: Y cuando eran siervos del pecado, libres eran de la justicia. ¿Pero qué fruto había entonces para ustedes de estas cosas de las que hoy se avergüenzan? Porque el fin de ellas es la muerte. Y ahora, que han sido liberados del pecado, han sido hechos siervos de Elohim, hay para ustedes su fruto para santidad, y su postrer, la vida olam. Porque el salario del pecado es muerte, pero la dádiva de Elohim es vida olam en nuestro Adón⁶⁵ Yeshúa el Mesías. | Distingue salario merecido de dádiva recibida y cierra la unidad con dos destinos morales. |
+| #bereshit_4_6-7 | OE: ויאמר יהוה אל קין למה חרה לך ולמה נפלו פניך הלוא אם תיטיב שאת ואם לא תיטיב לפתח חטאת רבץ ואליך תשוקתו ואתה תמשל בו | El pecado desea dominar: conexión pastoral, no cita de Romanos. |
+| #yejezkel_36_26-27 | OE: ונתתי לכם לב חדש ורוח חדשה אתן בקרבכם והסרתי את לב האבן מבשרכם ונתתי לכם לב בשר ואת רוחי אתן בקרבכם ועשיתי את אשר בחקי תלכו ומשפטי תשמרו ועשיתם | Transformación interior: promesa canónica vinculada por la clase. |
 
 ## Bautizados en la muerte para andar en una vida renovada
 
@@ -64,6 +68,8 @@ Desde 6:16 Pablo cambia la pregunta de «¿qué está permitido?» a «¿a quié
 La secuencia de 6:17-19 reconoce un cambio real: antes había esclavitud al pecado; ahora hay obediencia de corazón al tipo de enseñanza recibido, libertad del pecado y servicio para justificación. Pablo aclara que habla «conforme al camino de hombre» por causa de la debilidad de la carne. La metáfora de esclavitud no debe borrar la responsabilidad ni autorizar el dominio abusivo de una persona sobre otra. Dentro de la argumentación, describe pertenencia y orientación: los miembros que antes se preparaban para impureza deben prepararse ahora para justicia y santidad.
 
 El cierre contrasta fruto y final. El fruto del pecado trae vergüenza y muerte; el fruto de Elohim trae santidad y vida olam. La clase conecta esta esperanza con la resurrección y rechaza que la esperanza bíblica consista simplemente en abandonar la tierra para vivir en el cielo. Esa afirmación escatológica excede lo que Romanos 6:22-23 establece directamente. Lo seguro en el texto es que la vida olam es dádiva de Elohim en Yehoshua y que el pecado no tiene un final neutral.
+
+En 6:17, **εἰς ὃν παρεδόθητε τύπον διδαχῆς** dice que ustedes fueron entregados a una forma de enseñanza: **παρεδόθητε** es pasivo, con la comunidad como sujeto. No dice que la comunidad sea dueña de una enseñanza que administra a voluntad. La secuencia conserva el acento de Eric en obediencia de corazón y pertenencia nueva. En 6:23, **ὀψώνια** es el plural de «paga», mientras **χάρισμα** nombra el don; la vida permanece regalo y no salario de esa obediencia.
 
 ## Hoja léxica
 

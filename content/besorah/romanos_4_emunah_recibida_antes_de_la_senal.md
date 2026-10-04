@@ -17,6 +17,8 @@ references:
   - "#bereshit_17_10-11"
   - "#tehilim_32_1-2"
 sources:
+  - "https://github.com/morphgnt/sblgnt/blob/master/66-Ro-morphgnt.txt"
+  - "https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/Rom.txt"
   - "https://www.youtube.com/watch?v=bkcKVGZLbvg"
   - "docs/scriptures/tth/json/romanos.json"
 source_ids:
@@ -36,16 +38,20 @@ Esta nota organiza la clase pública sobre Romanos 4. La exposición se concentr
 
 | Referencia | Texto local de TTH | Función en la lectura |
 | --- | --- | --- |
-| #romanos_4_1-3 | «¿Y qué diremos sobre lo que halló Abraham nuestro padre según la carne? ... Y se afirmó Abraham por יהוה, y la consideró a él justicia». | La justicia se atribuye a la acción de יהוה, no a una jactancia de Abraham. |
-| #romanos_4_4-5 | «El que obra ... su precio no le es considerado como favor, sino como salario ... el que no obra, sino que se afirma por Aquel que justifica al condenado». | Pablo contrasta salario y favor; la justificación no es una deuda que Elohim deba pagar. |
-| #romanos_4_6-8 | «¡Felices son a los que se les soporta la transgresión, a los que se les cubre el pecado!... ¡Feliz el hombre que no le considera יהוה iniquidad!». | David confirma la felicidad de la justicia recibida sin obras. |
-| #romanos_4_9-12 | «No en la circuncisión, sino en la incircuncisión ... tomó la señal de la circuncisión, por sello de la justicia». | El orden del pasaje coloca la justicia antes de la señal y extiende el ejemplo a ambos grupos. |
+| #romanos_4_1-3 | Delitzsch: ומהנאמר אפוא עלאברהם אבינו מהזה השיג לפי הבשר כי אםנצדק אברהם מתוך המעשים לו התהילה אבל לא לפני האלהים כי מה אמר הכתוב והאמן אברהם ביהוה ויחשבה לו צדקה | La justicia se atribuye a la acción de יהוה, no a una jactancia de Abraham. |
+| #romanos_4_4-5 | TTH: Pero el que obra sus obras, su precio no le es considerado como favor, sino como salario. Pero el que no obra, sino que se afirma por Aquel que justifica al condenado, la emunah⁴⁵ de Él es considerada⁴⁶ para justicia. | Pablo contrasta salario y favor; la justificación no es una deuda que Elohim deba pagar. |
+| #romanos_4_6-8 | Delitzsch: כאשר גםדוד מאשר אתהאדם אשר האלהים יחשבלו צדקה בלא מעשים באמרו אשרי נשויפשע כסוי חטאה אשרי אדם לאיחשב יהוה לו עון | David confirma la felicidad de la justicia recibida sin obras. |
+| #romanos_4_9-12 | TTH: ¿Y esta felicidad es sobre la circuncisión o también sobre la incircuncisión?, pues decimos nosotros que fue considerada a Abraham la emunah de Él para justicia. ¿Y cómo fue considerada? ¿Acaso estando en la circuncisión o en la incircuncisión? No en la circuncisión, sino en la incircuncisión. Y él tomó la señal de la circuncisión, por sello de la justicia y la emunah que tenía en la incircuncisión; para ser padre de todos los que se afirman en la incircuncisión, para considerarles también para justicia; y padre de la circuncisión para estos que no solamente son de la circuncisión, sino también para estos que se ponen de pie en las huellas de la emunah de nuestro padre Abraham que hubo para él en la incircuncisión. | El orden del pasaje coloca la justicia antes de la señal y extiende el ejemplo a ambos grupos. |
+| #bereshit_15_6 | OE: והאמן ביהוה ויחשבה לו צדקה | El sujeto responde a יהוה antes de la circuncisión. |
+| #tehilim_32_1-2 | OE: לדוד משכיל אשרי נשוי פשע כסוי חטאה אשרי אדם לא יחשב יהוה לו עון ואין ברוחו רמיה | Perdón y no imputación; no fabricación de iniquidad. |
 
 ## Abraham: no un salario, sino una justicia recibida
 
 Pablo comienza preguntando qué halló Abraham “según la carne”. La clase usa esta expresión para distinguir la descendencia corporal de la obra de Elohim que sostiene la promesa. El punto explícito de 4:2 es que, si Abraham hubiera sido justificado por obras, tendría motivo de jactancia; pero no delante de Elohim. La comparación del salario en 4:4 hace visible la lógica: cuando alguien trabaja, el pago se trata como deuda, no como favor. La justificación no funciona así.
 
 En 4:5, el texto habla del que se afirma por Aquel que justifica al condenado. La exposición recalca que no se debe leer la emunah como un mérito autónomo de la persona. Esa es una aplicación doctrinal coherente con la insistencia de Pablo en excluir la jactancia, aunque la formulación “la emunah de Él” debe ser examinada en su sintaxis original. La seguridad textual es que la justicia se considera en un contraste explícito con el salario.
+
+SBLGNT usa **Ἐπίστευσεν** en 4:3, aoristo activo: Abraham creyó a Elohim. Bereshit 15:6 en OE tiene **והאמן ביהוה**, igualmente una respuesta de Abraham. En 4:5, **πιστεύοντι** es participio activo referido al que cree, y **ἡ πίστις αὐτοῦ** corresponde a su confianza, la del creyente descrito; el pasivo de «ser contada» no hace pasivo el acto de creer. La iniciativa y fidelidad de Elohim, que Eric enfatiza, se conservan como fundamento teológico; no reemplazan la respuesta que las dos lenguas expresan. **λογίζομαι**, «contar/considerar», tampoco significa aquí fabricar iniquidad: Tehilim 32:2 describe no imputarla.
 
 ## David confirma el mismo orden
 
@@ -79,7 +85,7 @@ El versículo 12 conserva la doble pertenencia: Abraham es padre de la circuncis
 
 ## Pendiente de verificar
 
-- [ ] Cotejar la sintaxis griega de Romanos 4:3-8 y el referente exacto de “la emunah de Él” en 4:5.
+- [x] Cotejar 4:3-8: Abraham cree activamente; el referente de πίστις αὐτοῦ en 4:5 es el creyente descrito. La iniciativa divina no vuelve pasivo ese verbo.
 - [ ] Verificar las propuestas de la clase sobre _hashav_ y sus sentidos de calcular, diseñar o planificar en los pasajes relacionados.
 - [ ] Revisar el texto de Tehilim 32:1-2 en el corpus local y distinguir traducción, comentario y aplicación doctrinal.
 - [ ] Comprobar si las afirmaciones de la clase sobre variantes hebreas de Romanos 1:17 y Habacuc 2:4 pertenecen a esta unidad o deben tratarse en una nota separada.

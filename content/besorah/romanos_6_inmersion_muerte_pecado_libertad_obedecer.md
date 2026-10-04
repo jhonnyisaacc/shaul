@@ -18,6 +18,8 @@ references:
   - "#yeshayahu_61_1-2"
   - "#bereshit_4_7"
 sources:
+  - "https://github.com/morphgnt/sblgnt/blob/master/66-Ro-morphgnt.txt"
+  - "https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/Rom.txt"
   - "https://www.youtube.com/watch?v=kid1ZnvZp0Y"
   - "docs/scriptures/tth/json/romanos.json"
 source_ids:
@@ -37,13 +39,13 @@ Esta nota organiza la sesión pública sobre Romanos 6:1-23. Se sigue el capítu
 
 | Unidad | Texto local de TTH | Función en la lectura |
 | --- | --- | --- |
-| #romanos_6_1-5 | «¿Permaneceremos en el pecado porque abundó el favor?»; quienes fueron bautizados en Yehoshua fueron bautizados en su muerte y deben andar en renovación de vida. | El favor no es permiso para continuar en el pecado; la inmersión expresa unión con muerte y levantamiento. |
-| #romanos_6_6-11 | El viejo hombre fue crucificado para que no sirvamos más al pecado; «han muerto al pecado, pero viven para Elohim». | La muerte al pecado es un cambio de pertenencia y orientación, no la muerte física ni la ausencia de toda lucha. |
-| #romanos_6_12-14 | «No reinará el pecado en el cuerpo»; los miembros deben ser instrumentos de justicia; el pecado no gobernará porque no están debajo de la Torah sino debajo del favor. | El favor cambia el dominio y produce una exhortación corporal a obedecer. |
-| #romanos_6_15-19 | «¿Pecaremos porque no estamos debajo de la Torah, sino debajo del favor?»; son siervos de aquel a quien escuchan y preparan sus miembros para justicia y santidad. | Pablo rechaza de nuevo la licencia y convierte la doctrina en una pregunta por el señorío práctico. |
-| #romanos_6_20-23 | El fruto anterior termina en muerte; el fruto de ser siervos de Elohim es santidad y vida olam. «El salario del pecado es muerte, pero la dádiva de Elohim es vida olam». | Distingue lo que se cosecha del servicio y lo que Elohim da gratuitamente en el Mesías. |
-| #vayikra_25_10 | «Proclamarán libertad en la tierra para todos sus habitantes. Será de jubileo para ustedes, y cada uno volverá a su posesión y cada uno volverá a su familia». | La clase usa el jubileo para ilustrar retorno, caída de deudas y liberación; es trasfondo temático, no una cita de Romanos 6. |
-| #yeshayahu_61_1-2 | La lectura local anuncia la Besorah, vendar a los quebrantados y «proclamar a los cautivos libertad». | Conecta la libertad mesiánica con el lenguaje jubilar; la identificación de cada cautivo con una categoría espiritual debe permanecer cualificada. |
+| #romanos_6_1-5 | TTH: ¿Y qué diremos? ¿Permaneceremos en el pecado porque abundó el favor? ¡Profanación sea a nosotros! Porque los que hemos muerto al pecado, ¿cómo estaremos todavía en él? ¿No saben que todos nosotros que hemos sido bautizados en Yeshúa el Mesías, en su muerte hemos sido bautizados? Es decir, somos sepultados con Él en el bautismo para muerte, a fin de que como se levantó el Mesías de los muertos por la gloria de su Padre, así también nosotros andemos en renovación de vida. Por eso, si fuimos plantados en la semejanza de su muerte, también lo seremos en el levantamiento⁶⁴; | El favor no es permiso para continuar en el pecado; la inmersión expresa unión con muerte y levantamiento. |
+| #romanos_6_6-11 | TTH: y esto sabemos, que nuestro viejo hombre fue crucificado con Él, para que se evapore el cuerpo de pecado y no sirvamos más al pecado. Porque el que ha muerto, ha sido justificado del pecado. Y si morimos con el Mesías, nos afirmamos en que también viviremos con Él; sabiendo que el Mesías se levantó de los muertos, ya no morirá, la muerte no gobernará sobre Él. Porque el que murió, al pecado murió una vez; y el que vive, vive para Elohim. Así también ustedes, consideren que ustedes han muerto al pecado, pero viven para Elohim en Yeshúa el Mesías nuestro Adón. | La muerte al pecado es un cambio de pertenencia y orientación, no la muerte física ni la ausencia de toda lucha. |
+| #romanos_6_12-14 | TTH: Por eso, no reinará el pecado en el cuerpo de ustedes mortal, para escucharlo en los deseos de él; y no establezcan sus miembros como instrumentos de injusticia para el pecado, sino establézcanse cada hombre para Elohim como vivos de entre los muertos, y sus miembros como instrumentos de justicia para Elohim. Y el pecado no gobernará sobre ustedes, porque no están debajo de la Torah, sino debajo del favor. | El favor cambia el dominio y produce una exhortación corporal a obedecer. |
+| #romanos_6_15-19 | TTH: ¿Y qué haremos? ¿Pecaremos porque no estamos debajo de la Torah, sino debajo del favor? ¡Profanación sea a nosotros! ¿No saben que para quien preparen sus vidas como siervos para obediencia, ustedes siervos serán de aquel a quien escuchen?; o siervos del pecado para muerte, o siervos de la escucha para justificación. Y sea confesión a Elohim porque ustedes eran siervos del pecado, pero escucharon con el corazón al tipo de enseñanza a la que han sido dados. Y porque son libres del pecado, fueron hechos siervos para justificación. Conforme al camino de hombre hablo, por causa de la debilidad de la carne de ustedes; que como para injusticia prepararon sus miembros para servir a la impureza y a la iniquidad, así desde ahora preparan sus miembros para el servicio de la justicia, para santidad. | Pablo rechaza de nuevo la licencia y convierte la doctrina en una pregunta por el señorío práctico. |
+| #romanos_6_20-23 | TTH: Y cuando eran siervos del pecado, libres eran de la justicia. ¿Pero qué fruto había entonces para ustedes de estas cosas de las que hoy se avergüenzan? Porque el fin de ellas es la muerte. Y ahora, que han sido liberados del pecado, han sido hechos siervos de Elohim, hay para ustedes su fruto para santidad, y su postrer, la vida olam. Porque el salario del pecado es muerte, pero la dádiva de Elohim es vida olam en nuestro Adón⁶⁵ Yeshúa el Mesías. | Distingue lo que se cosecha del servicio y lo que Elohim da gratuitamente en el Mesías. |
+| #vayikra_25_10 | TTH: Y consagrarán el año, el año cincuenta, y proclamarán libertad por la tierra, a todos sus habitantes. Será Iobel²⁸² para ustedes, y volverá cada hombre a sus propiedades, y cada hombre a su familia volverá. | La clase usa el jubileo para ilustrar retorno, caída de deudas y liberación; es trasfondo temático, no una cita de Romanos 6. |
+| #yeshayahu_61_1-2 | TTH: El Rúaj³¹² de Adonai יהוה está sobre mí, porque me ha ungido יהוהpara dar buenas noticias a los afligidos; me ha enviado para vendar a los rotos de corazón, para proclamar a los cautivos libertad, y a los atados, apertura³¹³; para proclamar el año de favor³¹⁴ de יהוה, y el día de venganza de nuestro Elohim; para restaurar a todos los que se lamentan, | Conecta la libertad mesiánica con el lenguaje jubilar; la identificación de cada cautivo con una categoría espiritual debe permanecer cualificada. |
 
 ## Morir al pecado no es usar el favor como permiso
 
@@ -60,6 +62,8 @@ Romanos 6:3-5 mueve la imagen desde la pregunta doctrinal hacia una participaci�
 El «viejo hombre» crucificado en 6:6 nombra la antigua forma de pertenencia. La clase lo relaciona con costumbres, deseos y una vida que servía al pecado. El texto dice que el cuerpo de pecado se evapore y que no sirvamos más al pecado. La traducción «servir» puede suavizar la imagen; **(δουλεύω)**, _douleuō_, y **(δοῦλος)**, _doulos_, pertenecen al campo de servir como esclavo y de esclavo. Esta distinción léxica es relevante porque Pablo no describe un cambio superficial de hábitos religiosos: describe una nueva obediencia a un nuevo señor.
 
 La clase propone leer Romanos 6:9-10 de manera que «el que murió al pecado» se refiera a los creyentes, no a Yehoshua como si Él hubiera pecado. El TTH puede producir una impresión ambigua al mantener la cercanía de las frases sobre el Mesías y el pecado. La observación doctrinal de la exposición tiene un núcleo válido: el pasaje no enseña que Yehoshua fuera pecador. Aun así, la solución exacta requiere cotejar la sintaxis griega y las traducciones; por eso no se presenta aquí una retraducción cerrada como si estuviera demostrada solo por el contexto español.
+
+La sintaxis de 6:9-10 mantiene al Mesías como sujeto: **Χριστὸς ἐγερθεὶς** en 6:9 y **ἀπέθανεν**, «murió», y **ζῇ**, «vive», en tercera persona singular en 6:10. El giro a los lectores llega en 6:11, **οὕτως καὶ ὑμεῖς**, «así también vosotros». Morir «al pecado» no afirma que el Mesías hubiera pecado; el texto habla de su muerte de una vez y de su vida para Elohim. La preocupación doctrinal de Eric se conserva, pero trasladar 6:10 a los creyentes no sigue ese cambio explícito de persona. El «cuerpo de pecado se evapore» del TTH en 6:6 interpreta **καταργηθῇ**, «sea anulado/hecho ineficaz»; la imagen no significa que el cuerpo creado desaparezca.
 
 ## La libertad del jubileo como marco pedagógico
 
@@ -83,7 +87,7 @@ Desde 6:16 Pablo cambia el centro de la discusión: ¿a quién se escucha? La pe
 
 Pablo reconoce la debilidad de la carne y por eso habla «conforme al camino de hombre». La exhortación no niega que existan luchas, pero tampoco permite llamar «lucha» a una decisión de permanecer sin arrepentimiento en el pecado. La diferencia entre una caída que se combate y una vida que se ofrece al pecado necesita discernimiento pastoral; no debe usarse para emitir juicios temerarios sobre personas concretas.
 
-El cierre ofrece la medida del fruto. El servicio al pecado termina en vergüenza y muerte; el servicio a Elohim produce santidad y vida olam. **(ἁγιασμός)**, _hagiasmos_, puede traducirse santidad o santificación y comunica un fruto que se desarrolla, no una etiqueta instantánea. **(ὀψώνιον)**, _opsōnion_, es salario o paga; **(χάρισμα)**, _charisma_, es dádiva o don. La contraposición protege dos verdades: el pecado tiene un resultado mortal y la vida no se compra por rendimiento. La obediencia es fruto de una libertad recibida, no el precio de la vida que Elohim regala en Yehoshua.
+El cierre ofrece la medida del fruto. El servicio al pecado termina en vergüenza y muerte; el servicio a Elohim produce santidad y vida olam. **(ἁγιασμός)**, _hagiasmos_, puede traducirse santidad o santificación y comunica un fruto que se desarrolla, no una etiqueta instantánea. **(ὀψώνια)**, _opsōnia_, es la forma plural de ὀψώνιον en 6:23, «salarios/paga»; **(χάρισμα)**, _charisma_, es dádiva o don. La contraposición protege dos verdades: el pecado tiene un resultado mortal y la vida no se compra por rendimiento. La obediencia es fruto de una libertad recibida, no el precio de la vida que Elohim regala en Yehoshua.
 
 ## Hoja léxica
 
@@ -94,21 +98,21 @@ El cierre ofrece la medida del fruto. El servicio al pecado termina en vergüenz
 | **(ἁμαρτία)** | _hamartia_ | pecado | Poder personificado que busca reinar y usar los miembros | Personificación retórica, no ser independiente. |
 | **(δικαιοσύνη)** | _dikaiosynē_ | justicia, rectitud | Orientación para la que se presentan los miembros | El sentido se fija por el contraste con injusticia y pecado. |
 | **(ἁγιασμός)** | _hagiasmos_ | santidad, santificación | Fruto y proceso del servicio a Elohim | «Santidad» es traducción útil; conserva dinamismo. |
-| **(ὀψώνιον)** / **(χάρισμα)** | _opsōnion_ / _charisma_ | salario / dádiva, don | Muerte como paga; vida olam como regalo | Contraste explícito del versículo 23. |
+| **(ὀψώνια)** / **(χάρισμα)** | _opsōnia_ / _charisma_ | salario / dádiva, don | Muerte como paga; vida olam como regalo | Contraste explícito del versículo 23. |
 
 ## Mapa de la enseñanza de Eric
 
 | Perícopa | Observación concreta de la clase | Tratamiento frente a Romanos |
 | --- | --- | --- |
 | Romanos 6:1-5; `youtube:kid1ZnvZp0Y` | La tevilá es inmersión en la muerte del Mesías; el favor transforma y no permite permanecer pecando. | Apoyo directo para muerte, sepultura y renovación; la explicación histórica de tevilá queda cualificada. |
-| Romanos 6:6-11; `youtube:kid1ZnvZp0Y` | El viejo hombre muere, el cuerpo de pecado deja de gobernar y los creyentes viven para Elohim; «murió al pecado» no hace pecador a Yehoshua. | Apoyo textual y doctrinal; la solución exacta de la ambigüedad de 6:10 queda pendiente de cotejo gramatical. |
+| Romanos 6:6-11; `youtube:kid1ZnvZp0Y` | El viejo hombre muere, el cuerpo de pecado deja de gobernar y los creyentes viven para Elohim; «murió al pecado» no hace pecador a Yehoshua. | Se conserva la preocupación doctrinal; el griego mantiene al Mesías como sujeto en 6:10 y cambia a los lectores en 6:11. |
 | Vaikra 25:10; Isaías 61:1-2; `youtube:kid1ZnvZp0Y` | Tevilá, yovel y libertad se relacionan con retorno a la heredad, caída de deudas y salida de esclavitud. | Trasfondo temático útil; no se afirma una etimología común ni que Romanos 6 cite directamente el jubileo. |
 | Romanos 6:12-15; `youtube:kid1ZnvZp0Y` | No estar debajo de la Torah significa no estar bajo la condena, no caminar sin Torah; el favor es techo y la Torah es piso. | Apoyo directo para rechazar «pecaremos»; la imagen de piso/techo es paráfrasis pedagógica. |
 | Romanos 6:16-23; `youtube:kid1ZnvZp0Y` | Cada persona sirve a quien escucha; el fruto de Elohim es santidad y la vida futura es dádiva, no salario. | Apoyo directo para señorío, fruto y contraste entre salario y don. |
 
 ## Pendiente de verificar
 
-- [ ] Cotejar Romanos 6:9-10 en el texto griego crítico para precisar el sujeto de «murió al pecado» y revisar las traducciones del TTH.
+- [x] Cotejar 6:9-11: 6:10 mantiene al Mesías en tercera persona singular; 6:11 pasa a «vosotros». La propuesta de la clase sobre el sujeto se conserva con ese límite gramatical.
 - [ ] Verificar en fuentes del período del Segundo Templo y del primer siglo el uso de inmersiones, mikvaot y conversión; la clase no basta para afirmar una historia completa de la práctica.
 - [ ] Revisar con léxicos hebreos si existe relación etimológica entre _tevilá_, _yovel_, _mabul_ y los demás términos presentados en la exposición; por ahora solo se conserva la conexión pedagógica.
 - [ ] Cotejar Isaías 61 con Vaikra 25 y el uso de «cautivos» antes de identificar todas las deudas espirituales de Romanos 6 con categorías jubilares.

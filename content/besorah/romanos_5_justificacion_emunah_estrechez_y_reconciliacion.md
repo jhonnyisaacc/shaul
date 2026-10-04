@@ -17,6 +17,8 @@ references:
   - "#tehilim_139_23-24"
   - "#tehilim_4_8"
 sources:
+  - "https://github.com/morphgnt/sblgnt/blob/master/66-Ro-morphgnt.txt"
+  - "https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/Rom.txt"
   - "https://www.youtube.com/watch?v=RO5uLeDXq20"
   - "docs/scriptures/tth/json/romanos.json"
 source_ids:
@@ -36,9 +38,11 @@ Esta nota organiza la enseñanza pública sobre Romanos 5:1-11 y sigue la secuen
 
 | Referencia | Texto local de TTH | Función en la lectura |
 | --- | --- | --- |
-| #romanos_5_1-2 | «Y porque fuimos justificados por la emunah, hay para nosotros shalom con Elohim en nuestro Adón Yeshúa el Mesías, en el cual también nos acercamos por la emunah a este favor en el cual estamos firmes». | La justificación abre acceso y posición en el favor; “firmes” no se reduce a una emoción momentánea. |
-| #romanos_5_3-5 | «Nos gloriamos en las estrecheces, sabiendo que la estrechez obra esperanza, y la esperanza, examinación; y la examinación, confianza». | La esperanza es activa: atraviesa estrechez, refinamiento y confianza sin negar el sufrimiento. |
-| #romanos_5_6-11 | «Cuando éramos aún pecadores, el Mesías murió por nosotros... fuimos reconciliados con Elohim por la muerte de su Hijo». | El fundamento de la confianza no es el mérito del creyente, sino la obra del Mesías por débiles, pecadores y enemigos. |
+| #romanos_5_1-2 | TTH: Y porque fuimos justificados por la emunah⁵⁶, hay para nosotros shalom⁵⁷ con Elohim en nuestro Adón Yeshúa el Mesías, en el cual también nos acercamos por la emunah a este favor en el cual estamos firmes, y nos gloriamos en la esperanza de la gloria de Elohim. | La justificación abre acceso y posición en el favor; “firmes” no se reduce a una emoción momentánea. |
+| #romanos_5_3-5 | TTH: Y no solo esto, sino que también nos gloriamos en las estrecheces, sabiendo que la estrechez obra esperanza⁵⁸, y la esperanza, examinación⁵⁹; y la examinación, confianza⁶⁰. La confianza no avergüenza, porque el amor de Elohim fue derramado en nuestros corazones por el Rúaj Ha’Kódesh⁶¹ dado a nosotros. | La esperanza es activa: atraviesa estrechez, refinamiento y confianza sin negar el sufrimiento. |
+| #romanos_5_6-11 | TTH: Y si el Mesías, cuando nosotros éramos débiles, conforme a su tiempo murió por los condenados, pues, por presión moriría un hombre por un justo, y quizá también por un bueno un hombre llenaría su corazón para morir, pero Elohim establece su amor hacia nosotros, porque cuando éramos aún pecadores, el Mesías murió por nosotros. ¡Y cuánto más ahora que estamos justificados por su sangre, por Él seremos salvos del calor de la nariz de יהוה! Y si cuando éramos sus enemigos, fuimos reconciliados con Elohim por la muerte de su Hijo⁶², ¡cuánto más, estando reconciliados, seremos salvos por su vida! Y no solo esto, sino que también nos gloriamos en Elohim por nuestro Adón Yeshúa el Mesías, en el cual ahora hemos recibido reconciliación. | El fundamento de la confianza no es el mérito del creyente, sino la obra del Mesías por débiles, pecadores y enemigos. |
+| #yehoshua_2_21 | OE: ותאמר כדבריכם כן הוא ותשלחם וילכו ותקשר את תקות השני בחלון | El cordón escarlata se conserva como imagen pedagógica. |
+| #yejezkel_36_26-27 | OE: ונתתי לכם לב חדש ורוח חדשה אתן בקרבכם והסרתי את לב האבן מבשרכם ונתתי לכם לב בשר ואת רוחי אתן בקרבכם ועשיתי את אשר בחקי תלכו ומשפטי תשמרו ועשיתם | Corazón y espíritu nuevos: conexión canónica sobre transformación. |
 
 ## La emunah recibida conduce a una vida firme
 
@@ -51,6 +55,8 @@ La exposición relaciona shalom con restauración, libertad de deuda y heredad, 
 Romanos no dice que la persona justificada queda exenta de presión. La clase lee la cadena de 5:3-4 como un proceso: la estrechez produce esperanza, la esperanza examinación y la examinación confianza. La palabra “esperanza” puede describir espera, pero aquí el argumento la presenta como una orientación perseverante hacia la gloria prometida. La ilustración de la cuerda roja de Rahab hace visible esa espera activa; es una conexión pedagógica con Yehoshúa 2:21, no una definición lexicográfica de la palabra de Romanos.
 
 La distinción entre **(δοκιμή)** _dokimē_ y los términos hebreos propuestos por la clase también requiere cuidado. “Examinación”, “refinamiento” y “carácter probado” son aproximaciones contextuales; no se debe presentar una transliteración incierta como prueba del significado. El texto, sin embargo, sí vincula sufrimiento, perseverancia y confianza. La confianza no avergüenza porque el amor de Elohim ha sido derramado por el Rúaj Ha’Kódesh; la vida obediente es fruto de esa obra, no un salario que la compra.
+
+SBLGNT conserva la cadena **θλῖψις → ὑπομονή → δοκιμή → ἐλπίς**: aflicción produce perseverancia, perseverancia carácter probado, y carácter probado esperanza. TTH usa «esperanza» para el segundo eslabón y «confianza» para el último; la nota reproduce ese testigo sin confundir **ὑπομονή** con **ἐλπίς**. En Yehoshua 2:21, **תקות חוט השני**, «cordón de hilo escarlata», sirve a la imagen de Rahab. La semejanza con **תקוה**, esperanza, ilustra la espera en la clase, pero no demuestra una etimología de los términos griegos.
 
 ## Reconciliación fundada en la muerte y la vida del Mesías
 
@@ -78,7 +84,7 @@ La “salvación por su vida” no debe aislarse de la muerte del Hijo: Romanos 
 
 ## Pendiente de verificar
 
-- [ ] Cotejar la sintaxis griega de Romanos 5:1-5 y el alcance preciso de _dokimē_.
+- [x] Cotejar 5:1-5 en SBLGNT: distinguir ὑπομονή (perseverancia), δοκιμή (carácter probado) y ἐλπίς (esperanza). Las etimologías hebreas y las variantes externas requieren estudio adicional.
 - [ ] Verificar las formas hebreas propuestas en la clase para “esperanza”, “cordón” y “examinación” antes de publicarlas como etimologías.
 - [ ] Revisar la relación exacta entre Romanos 5:5, Yehezekel 36:26-27 y la obra del Rúaj; aquí se conserva sólo como conexión canónica.
 - [ ] Cotejar la referencia exacta del Salmo 4 y su traducción TTH antes de afirmar que “acostarse y dormir” es necesariamente una imagen de muerte y resurrección.
@@ -89,7 +95,7 @@ Romanos 5:1-11 no ofrece una salvación reducida a una declaración mental. La j
 
 ## Ver también
 
-- [Romanos 5: la justicia de uno para salvación](./romanos_5_justicia_de_uno_para_salvacion.md)
+- [Romanos 5: la justicia de uno para salvación](./romanos_5_adam_mesias_torah_favor.md)
 - [Romanos 6: morir al pecado y servir a la justicia](./romanos_6_morir_al_pecado_y_servir_a_la_justicia.md)
 - [Romanos 8: esperanza, redención y creación gimiente](./romanos_8_esperanza_redencion_creacion_gemiente.md)
 
