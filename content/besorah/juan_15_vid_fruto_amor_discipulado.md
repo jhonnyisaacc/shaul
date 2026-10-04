@@ -30,7 +30,7 @@ references:
   - "#tehilim_25_14"
 sources:
   - "https://www.youtube.com/watch?v=XB7AjfErsCI"
-  - "docs/scriptures/tth/json/yojanan.json"
+  - "docs/scriptures/tth/json/iojanan.json"
   - "docs/scriptures/delitzsch/json/john.json"
   - "docs/scriptures/oe/json/zechariah/8.json"
   - "docs/scriptures/oe/json/psalms/25.json"
@@ -49,6 +49,14 @@ Yojanán 15:5-17 presenta a **Yehoshua** como la vid de la cual sus discípulos 
 Esta nota organiza una transcripción automática de la parte 58 de la serie de Eric de Jesús sobre Yojanán. El audio presenta errores de reconocimiento; por eso se conserva la línea de la clase en síntesis, no como cita literal. El tramo retoma #juan_15_5 y recorre hasta #juan_15_17.
 
 La clase propone enlaces semíticos y aplicaciones sobre autoridad, comunidad y discipulado. Esas propuestas se atribuyen al expositor y no se convierten en el significado único del pasaje sin cotejo lingüístico, histórico y contextual.
+
+## Mapa de la enseñanza de Eric
+
+| Unidad textual | Observación de la clase | Tratamiento en esta nota |
+| --- | --- | --- |
+| #juan_15_5-8; #zejariah_8_3; #zejariah_8_12 | Eric conecta la vid, el fruto y la ciudad de la verdad; limita la petición a la palabra que permanece. | Se conserva la secuencia de permanencia y fruto; Zacarías es una conexión propuesta, no una cita explícita del evangelio. |
+| #juan_15_9-13; #romanos_5_8 | La clase explica el amor como entrega con propósito, siguiendo el modelo del Mesías. | La entrega y el mandamiento se apoyan en el texto; la definición pastoral no sustituye el campo semántico de agape. |
+| #juan_15_14-17; #tehilim_25_14 | Eric une amistad, conocimiento comunicado y servicio que produce fruto duradero. | Se distingue la revelación explícita de la conexión con sod y de las afirmaciones históricas sobre discipulado, pendientes de fuentes. |
 
 ## Hoja de comparación
 

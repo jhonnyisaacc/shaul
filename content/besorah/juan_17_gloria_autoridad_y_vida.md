@@ -15,13 +15,15 @@ references:
   - "#juan_17_9"
   - "#juan_17_11"
   - "#juan_17_12"
+  - "#juan_17_20"
 sources:
   - "https://www.youtube.com/watch?v=D6aGd1j3ykk"
   - "https://www.youtube.com/watch?v=Ex-emGJGcPc"
   - "https://www.youtube.com/watch?v=o6rOivQHyU4"
   - "https://www.youtube.com/watch?v=lSvhJYfcr7I"
   - "https://www.youtube.com/watch?v=nDaOsVpkAyU"
-  - "docs/scriptures/tth/json/yojanan.json"
+  - "https://www.youtube.com/watch?v=gDMPVz0G6K0"
+  - "docs/scriptures/tth/json/iojanan.json"
   - "docs/scriptures/delitzsch/json/john.json"
 source_ids:
   - "youtube:D6aGd1j3ykk"
@@ -35,13 +37,22 @@ translation: "[TTH, Delitzsch]"
 
 # Tesis
 
-En #juan_17_1-2, después de terminar su enseñanza a los discípulos, **Yehoshua** alza sus ojos y habla de la hora, de la gloria y de la autoridad recibida sobre toda carne. El fin expresado de esa autoridad es dar vida \_olam* a quienes le fueron dados. El pasaje establece estos elementos antes de desarrollar el resto del capítulo.
+En #juan_17_1-2, después de terminar su enseñanza a los discípulos, **Yehoshua** alza sus ojos y habla de la hora, de la gloria y de la autoridad recibida sobre toda carne. El fin expresado de esa autoridad es dar vida _olam_ a quienes le fueron dados. El pasaje establece estos elementos antes de desarrollar el resto del capítulo.
 
 ## Alcance de la nota
 
 Esta nota recoge el primer incremento de la parte 63 de la serie de Eric de Jesús sobre Yojanán, centrado en #juan_17_1-2. La clase también vuelve a #juan_16_32-33 para enlazar el final del discurso con el capítulo 17; esa retrospectiva permanece en la nota del capítulo 16.
 
 La transcripción automática presenta errores de reconocimiento, en particular en términos hebreos y griegos. Por ello se resume el hilo de la exposición y no se la trata como una cita literal. El expositor interpreta la escena como una disposición soberana y conecta el pasaje con Salmo 91, el sacrificio y afirmaciones sobre la identidad de Yehoshua. Son propuestas teológicas de la clase; no sustituyen la sintaxis ni el alcance inmediato de #juan_17_1-2.
+
+## Mapa de la enseñanza de Eric
+
+| Unidad textual | Observación de la clase | Tratamiento en esta nota |
+| --- | --- | --- |
+| #juan_17_1-2; parte 63 | Eric interpreta la hora como manifestación y la autoridad como ordenada a dar vida. | Se conserva la finalidad explícita y se califican las ampliaciones sobre hora, peso e incorruptibilidad. |
+| #juan_17_6-12; partes 64–66 | La clase relaciona Nombre, palabra, intercesión y preservación de los dados. | Se cotejan los vínculos narrativos; fama y enseñanza prudente no se fijan como significados únicos de los vocablos. |
+| #juan_17_20; [02:09](https://www.youtube.com/watch?v=gDMPVz0G6K0&t=129s) | La parte 67 incluye a quienes se afirmarán mediante la palabra de los discípulos y explica creer como fidelidad. | Se incorpora este tramo de la fuente ya registrada; el crecimiento como semilla es aplicación de Eric, no una definición del verbo. |
+| #tehilim_91; conexión de la parte 63 | La exposición lee protección y glorificación con varios interlocutores en el salmo. | Se conserva como propuesta canónica pendiente; Yojanan 17:1-2 no cita expresamente el salmo. |
 
 ## Hoja de comparación
 
@@ -52,6 +63,7 @@ La transcripción automática presenta errores de reconocimiento, en particular 
 | #juan_17_6  | Delitzsch: «הוֹדַעְתִּי אֶת־שִׁמְךָ לַאֲנָשִׁים אֲשֶׁר אֹתָם נָתַתָּה־לִּי מִן־הָעוֹלָם… וְהֵם אִמְרָתְךָ יִנְצֹרוּ׃»                                                                                               | El versículo enlaza hacer manifiesto el nombre con guardar la palabra.                                    |
 | #juan_17_9  | Delitzsch: «וַאֲנִי בַּעֲדָם מַפְגִּיעַ… כִּי אִם־בְּעַד אֵלֶּה אֲשֶׁר נָתַתָּה לִּי»                                                                                                                               | La intercesión se formula respecto de los que le fueron dados.                                            |
 | #juan_17_12 | Delitzsch: «שָׁמַרְתִּי אֹתָם בִּשְׁמֶךָ… וְלֹא־אָבַד אֶחָד מֵהֶם»                                                                                                                                                  | La preservación de los discípulos forma parte del lenguaje del pasaje.                                    |
+| #juan_17_20 | TTH: «No pido acerca de ellos solamente, sino también acerca de los que se afirmarán en Mí por la palabra de ellos.»<br>Delitzsch: «אולם לא בעדאלה לבדם אני מעתיר לך כי אםגםבעד אלה אשר יאמינו בי עלפי דברם» | La petición incluye a quienes se afirmarán por la palabra de los discípulos. |
 
 ## La hora y la gloria
 
@@ -61,7 +73,7 @@ La petición une la gloria del Hijo y la gloria del Padre. El orden importa: el 
 
 ## Autoridad para dar vida
 
-#juan_17_2 continúa con la autoridad sobre «toda carne» y precisa su finalidad: dar vida \_olam* a todos los que le fueron dados. La relación entre autoridad y vida pertenece al texto; no es necesario completar la frase con una teoría posterior para reconocerla.
+#juan_17_2 continúa con la autoridad sobre «toda carne» y precisa su finalidad: dar vida _olam_ a todos los que le fueron dados. La relación entre autoridad y vida pertenece al texto; no es necesario completar la frase con una teoría posterior para reconocerla.
 
 La clase vincula esta vida con la incorruptibilidad y con la obra redentora de Yehoshua. Tales conexiones pueden compararse con otros pasajes, pero en este incremento la formulación segura es la de #juan_17_2: la vida se da a un grupo descrito como quienes le fueron dados. La nota evita convertir esa frase en una explicación exhaustiva de la elección, de la muerte o de la resurrección.
 
@@ -72,6 +84,10 @@ Las partes 64 a 66 de la serie recorren #juan_17_6, #juan_17_9, #juan_17_11 y #j
 El expositor propone que «nombre» debe entenderse principalmente como la manifestación, fama o contenido de lo que יהוה ha dado a conocer, y no como una instrucción sobre pronunciar el Tetragrámaton. La propuesta ayuda a no reducir el contexto a una discusión fonética, pero debe mantenerse como interpretación: el alcance de **(ὄνομα)** en Yojanán 17 requiere cotejo textual y léxico.
 
 Asimismo, la clase relaciona «guardar» en #juan_17_12 con preservar a los discípulos mediante una enseñanza fiel y prudente. El versículo sí usa el lenguaje de guardar y de que ninguno se perdió; las explicaciones históricas y semánticas adicionales necesitan fuentes independientes antes de afirmarse como conclusiones del pasaje.
+
+## La palabra de los discípulos alcanza a otros
+
+La parte 67 retoma #juan_17_20: la petición abarca también a quienes se afirmarán mediante la palabra de los discípulos. Eric subraya que creer no se reduce a aprobación mental y lo desarrolla como fidelidad que crece. El texto sí nombra la mediación de la palabra; la imagen de germinación y su aplicación a la vida del creyente pertenecen a la explicación de la clase. Se incorpora este tramo de la fuente que ya figuraba en `source_ids`, sin afirmar que aquí se agota toda la exposición de esa clase.
 
 ## Salmo 91 y los límites de una conexión
 
@@ -107,7 +123,7 @@ Conviene, por tanto, distinguir entre la comparación canónica propuesta y una 
 
 ## Conclusión
 
-La apertura de Yojanán 17 no abandona la conversación anterior: la encamina hacia la hora y hacia la gloria. #juan_17_1-2 presenta a Yehoshua alzando los ojos, hablando de glorificación y describiendo una autoridad cuyo propósito es dar vida \_olam*. La lectura de la clase abre preguntas sobre Salmo 91, sacrificio y vida incorruptible, pero esas conexiones deben conservarse como líneas de investigación y no reemplazar lo que el pasaje declara.
+La apertura de Yojanán 17 no abandona la conversación anterior: la encamina hacia la hora y hacia la gloria. #juan_17_1-2 presenta a Yehoshua alzando los ojos, hablando de glorificación y describiendo una autoridad cuyo propósito es dar vida _olam_. La lectura de la clase abre preguntas sobre Salmo 91, sacrificio y vida incorruptible, pero esas conexiones deben conservarse como líneas de investigación y no reemplazar lo que el pasaje declara.
 
 ## Ver también
 
@@ -124,3 +140,5 @@ Esta nota organiza y contrasta transcripciones automáticas; no las trata como c
 - **hermano Eric de Jesús Rodríguez Mendoza** — «El Evangelio Según Yojanan /Juan (Parte 64) Cap 17» — <https://www.youtube.com/watch?v=o6rOivQHyU4> — `source_id`: `youtube:o6rOivQHyU4`.
 - **hermano Eric de Jesús Rodríguez Mendoza** — «El Evangelio Según Yojanán /Juan (Parte 65) Cap 17» — <https://www.youtube.com/watch?v=lSvhJYfcr7I> — `source_id`: `youtube:lSvhJYfcr7I`.
 - **hermano Eric de Jesús Rodríguez Mendoza** — «El Evangelio Según Yojanán/Juan (Parte 66) Cap 17» — <https://www.youtube.com/watch?v=nDaOsVpkAyU> — `source_id`: `youtube:nDaOsVpkAyU`.
+
+- **hermano Eric de Jesús Rodríguez Mendoza** — «The Gospel According to John (Part 67)» — <https://www.youtube.com/watch?v=gDMPVz0G6K0> — `source_id`: `youtube:gDMPVz0G6K0`.

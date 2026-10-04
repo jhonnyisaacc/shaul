@@ -25,6 +25,8 @@ jobs:
       - name: Check frontmatter and verse conventions
         run: |
           bun run content:check-frontmatter
+          python3 scripts/test_normalize_verse_tags.py
+          python3 scripts/test_check_verse_tag_conventions.py
           python3 scripts/check_verse_tag_conventions.py
           python3 scripts/check_youtube_notes.py
       - name: Validate transcript notes changed by this batch

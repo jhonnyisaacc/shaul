@@ -151,3 +151,22 @@ quality and metadata checks. Full substantive review: 16/81 notes; six maps rema
 
 Batch 3's push and PR editorial checks both passed. The Vercel API still shows
 six baseline deployments and none for this branch.
+
+
+## Batch 5 — Yojanan 15–17 and the prayer study
+
+Reviewed six notes, completing the remaining six Eric maps. Corrected the Greek
+verb assigned to John 17:9/15/20 (erotao, not entynchano) and the word assigned to
+John 16:21 (thlipsis/lype, not odin) against the publisher's SBLGNT text. Preserved
+Eric's proposed tribunal interpretation as an attributed reconstruction rather
+than a lexical definition. Restored 13 local comparison cells, corrected Psalm
+8's OE/TTH numbering, supplied both existing prayer-source credits, and included
+the John 17:20 portion of the already registered part-67 source. Full substantive
+review: 22/81 notes; all 22 missing maps repaired. Six notes pass quality and
+YouTube hygiene. Other notes still require substantive review.
+
+
+Validation exposed a filename bug: the display-name normalizer also changed
+literal corpus paths from the existing `docs/scriptures/tth/json/iojanan.json` to nonexistent
+`yojanan.json`. It now preserves `docs/scriptures/` identifiers while continuing
+to validate visible Yod transliterations. A regression test covers both behaviors.
