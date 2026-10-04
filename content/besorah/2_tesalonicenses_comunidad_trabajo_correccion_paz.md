@@ -11,26 +11,35 @@ tags:
   - paz
   - perseverancia
 references:
-  - "#2_tesalonicenses_3_1"
+  - "#1_tesalonicenses_5_14"
+  - "#2_tesalonicenses_2_2"
+  - "#2_tesalonicenses_3_1-13"
+  - "#2_tesalonicenses_3_1-2"
+  - "#2_tesalonicenses_3_1-5"
+  - "#2_tesalonicenses_3_10"
+  - "#2_tesalonicenses_3_10-13"
+  - "#2_tesalonicenses_3_11"
+  - "#2_tesalonicenses_3_11-13"
+  - "#2_tesalonicenses_3_12"
+  - "#2_tesalonicenses_3_12-18"
+  - "#2_tesalonicenses_3_13"
+  - "#2_tesalonicenses_3_14"
+  - "#2_tesalonicenses_3_14-15"
+  - "#2_tesalonicenses_3_15"
+  - "#2_tesalonicenses_3_16"
+  - "#2_tesalonicenses_3_16-18"
   - "#2_tesalonicenses_3_2"
   - "#2_tesalonicenses_3_3"
   - "#2_tesalonicenses_3_4"
   - "#2_tesalonicenses_3_5"
   - "#2_tesalonicenses_3_6"
-  - "#2_tesalonicenses_3_7"
-  - "#2_tesalonicenses_3_8"
-  - "#2_tesalonicenses_3_9"
-  - "#2_tesalonicenses_3_10"
-  - "#2_tesalonicenses_3_11"
-  - "#2_tesalonicenses_3_12"
-  - "#2_tesalonicenses_3_13"
-  - "#2_tesalonicenses_3_14"
-  - "#2_tesalonicenses_3_15"
-  - "#2_tesalonicenses_3_16"
-  - "#2_tesalonicenses_3_17"
-  - "#2_tesalonicenses_3_18"
-  - "#1_tesalonicenses_5_14"
+  - "#2_tesalonicenses_3_6-10"
+  - "#2_tesalonicenses_3_6-9"
+  - "#2_tesalonicenses_3_7-9"
 sources:
+  - "docs/scriptures/delitzsch/json/thessalonians1.json"
+  - "https://github.com/morphgnt/sblgnt/blob/master/74-2Th-morphgnt.txt"
+  - "https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/2Thess.txt"
   - "https://www.youtube.com/watch?v=dzO6pl2v_Wc"
   - "https://www.youtube.com/watch?v=oLkAGU5jFxs"
   - "docs/scriptures/delitzsch/json/thessalonians2.json"
@@ -52,25 +61,27 @@ El corpus local ofrece Delitzsch para esta carta y no ofrece TTH. Las transliter
 
 ## Hoja de comparación
 
-| Referencia              | Texto local (Delitzsch, sin nikud)                                                                                      | Función en el argumento                                                                                         |
-| ----------------------- | ----------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
-| #2_tesalonicenses_3_1     | **ועוד אחי התפללו בעדנו אשר ירוץ דבר יהוה ויכבד כהכבדו בקרבכם**                                                         | La petición apostólica busca que la palabra corra y sea honrada como ya lo fue entre los tesalonicenses.        |
-| #2_tesalonicenses_3_3     | **אבל נאמן הוא האדון אשר יחזק אתכם וישמרכם מןהרע**                                                                      | La fidelidad del Señor sostiene y guarda a la comunidad.                                                        |
-| #2_tesalonicenses_3_5     | **והאדון הוא יישר אתלבבכם לאהבת האלהים ולסבלנות המשיח**                                                                 | El Señor dirige los corazones al amor de Elohim y a la perseverancia del Mesías.                                |
-| #2_tesalonicenses_3_6     | **והננו מצוים אתכם אחים בשם אדנינו ישוע המשיח אשר תבדלו מכלאח מעקש דרכיו ואיננו מתהלך עלפי הקבלה אשר קבל מאתנו**        | La instrucción trata una conducta apartada de la enseñanza recibida.                                            |
-| #2_tesalonicenses_3_8-9   | **גם לאאכלנו לחם איש חנם כי בעמל ותלאה לילה ויומם יגענו לבלתי היות לאיש מכם למשא**                                      | Pablo presenta su trabajo como ejemplo para no resultar carga, aunque tenía derecho a recibir apoyo.            |
-| #2_tesalonicenses_3_10    | **כי גםבהיותנו אצלכם צוינו אתכם לאמר אשר לא ירצה לעשות גםלא יאכל**                                                      | El texto dice «no quiere hacer», por lo que no debe transformarse en condena de quien no puede trabajar.        |
-| #2_tesalonicenses_3_12-13 | **ואנשים כאלה נצוה אותם ונזהירם באדנינו ישוע המשיח לעבד בנחת למען יאכלו אתלחמם משלהם**; **ואתם אחי אלתתרפו בעשות הטוב** | La exhortación al trabajo tranquilo se acompaña de un llamado a que los hermanos no se cansen de hacer el bien. |
-| #2_tesalonicenses_3_14-15 | **ואם לאישמע איש אלדברנו באגרת הזאת אתו תרשמו לכם ואלתתערבו עמו למען יבוש**; **אך לאכאיב תחשבהו כי אםתוכיחהו כאח**      | Se marca la desobediencia para que produzca vergüenza, sin tratar a la persona como enemiga.                    |
-| #2_tesalonicenses_3_16-18 | **ואדון השלום הוא יתן לכם השלום תמיד ובכלפנים**; **יהי האדון עםכלכם**                                                   | La despedida pide paz y presencia del Señor para todos.                                                         |
+| Referencia | Texto local | Función en el argumento |
+| --- | --- | --- |
+| #2_tesalonicenses_3_1-5 | Delitzsch: ועוד אחי התפללו בעדנו אשר ירוץ דבר יהוה ויכבד כהכבדו בקרבכם ואשר ננצל מןהאנשים התעים והרעים כי לא לכלאדם האמונה אבל נאמן הוא האדון אשר יחזק אתכם וישמרכם מןהרע ואנחנו בטוחים עליכם באדנינו שעשים אתם כמצותנו וגםתוסיפו לעשות והאדון הוא יישר אתלבבכם לאהבת האלהים ולסבלנות המשיח | Palabra, oposición, fidelidad y dirección de corazones. |
+| #2_tesalonicenses_3_6-9 | Delitzsch: והננו מצוים אתכם אחים בשם אדנינו ישוע המשיח אשר תבדלו מכלאח מעקש דרכיו ואיננו מתהלך עלפי הקבלה אשר קבל מאתנו הלא אתם ידעתם שצריכים אתם להתהלך כמנו כי לאהעוינו אתדרכנו בתוככם גם לאאכלנו לחם איש חנם כי בעמל ותלאה לילה ויומם יגענו לבלתי היות לאיש מכם למשא לא מפני שאיןלנו הרשות הזאת כי אםלתת אתנו לכם למופת ללכת בעקבותינו | Tradición y ejemplo de trabajo. |
+| #2_tesalonicenses_3_10-13 | Delitzsch: כי גםבהיותנו אצלכם צוינו אתכם לאמר אשר לא ירצה לעשות גםלא יאכל כי שמענו שיש בכם מעקשים ארחתם ואינם עשים דבר ומבלים ימיהם בהבלים ואנשים כאלה נצוה אותם ונזהירם באדנינו ישוע המשיח לעבד בנחת למען יאכלו אתלחמם משלהם ואתם אחי אלתתרפו בעשות הטוב | Querer trabajar, entrometerse y no cansarse del bien. |
+| #2_tesalonicenses_3_14-15 | Delitzsch: ואם לאישמע איש אלדברנו באגרת הזאת אתו תרשמו לכם ואלתתערבו עמו למען יבוש אך לאכאיב תחשבהו כי אםתוכיחהו כאח | Corrección sin tratar como enemigo. |
+| #2_tesalonicenses_3_16-18 | Delitzsch: ואדון השלום הוא יתן לכם השלום תמיד ובכלפנים יהי האדון עםכלכם שאל לשלומכם בכתב ידי אני פולוס והיא האות בכלהאגרות כן אנכי כתב | Paz, saludo autógrafo y gracia. |
+| #1_tesalonicenses_5_14 | Delitzsch: והננו מזהירים אתכם אחי הוכיחו אתהמעקשים דרכיהם אמצו אתרכי הלבב תמכו אתהחלשים והאריכו רוח אלכלאדם | Respuestas diferenciadas al desorden, desaliento y debilidad. |
+| #2_tesalonicenses_2_2 | Delitzsch: אשר לאתטרף דעתכם פתאם ואשר לא תבהלו לא ברוח ולא בדבור ולא באגרת כאלו שלוחה מאתנו לאמר הגיע יום יהוה | Carta supuestamente apostólica: contexto de la propuesta sobre falsificaciones. |
 
 ## La palabra que corre y el Señor fiel
 
 #2_tesalonicenses_3_1-2 pide oración por Pablo y sus colaboradores: que la palabra del Señor corra, sea honrada y sean librados de personas perversas y malas. El pasaje no reduce la oración a una técnica ni promete ausencia de oposición; la orienta al avance de la palabra y a la liberación en medio de un conflicto real.
 
-La clase relaciona la petición con varios verbos hebreos para «orar» y lee la súplica como petición de remoción de obstáculos. También propone vínculos entre **(ἄτοπος)**, **(ἀνόμια)** y **(און)**. Son desarrollos pedagógicos del expositor, no equivalencias que el texto de 2 Tesalonicenses declare. Lo explícito es que la fidelidad no pertenece a todos (#2_tesalonicenses_3_2), mientras que el Señor sí es fiel para fortalecer y guardar a los suyos del mal (#2_tesalonicenses_3_3).
+La clase relaciona la petición con varios verbos hebreos para «orar» y lee la súplica como petición de remoción de obstáculos. También propone vínculos entre **(ἄτοπος)**, **(ἀνομία)** y **(און)**. Son desarrollos pedagógicos del expositor, no equivalencias que el texto de 2 Tesalonicenses declare. Lo explícito es que la fidelidad no pertenece a todos (#2_tesalonicenses_3_2), mientras que el Señor sí es fiel para fortalecer y guardar a los suyos del mal (#2_tesalonicenses_3_3).
 
 La confianza de Pablo en la obediencia de los hermanos (#2_tesalonicenses_3_4) y la oración por corazones dirigidos al amor de Elohim y a la perseverancia del Mesías (#2_tesalonicenses_3_5) impiden leer la preservación como pasividad. El capítulo une cuidado divino, recepción de la instrucción y perseverancia concreta.
+
+En la parte 6 (aproximadamente 00:07:13–00:17:30), Eric diferencia oración como asociación, consulta y pedido de retirar obstáculos mediante verbos hebreos. El griego de 3:1 usa **προσεύχεσθε**, orad, y 3:2 **ῥυσθῶμεν**, aoristo pasivo subjuntivo, «seamos librados». La remoción de obstáculos explica su aplicación; no se reemplaza el segundo verbo por desarraigar a personas.
+
+En 3:2 aparecen **ἀτόπων** y **πονηρῶν**, adjetivos de hombres perversos/malos. Eric aproxima ἄτοπος a aven y a anomía (00:20:31–00:22:32); **ἀνομία** no es una palabra de este versículo y la propuesta de sinonimia perfecta requiere estudio de usos. La división a/topos, fuera de lugar, no agota el valor ético contextual. El final distingue que la fe no pertenece a todos de la afirmación de 3:3: el Señor es fiel. **τοῦ πονηροῦ** puede referirse al mal/maligno según la interpretación; no identifica aquí una persona histórica precisa.
 
 ## Orden recibido, ejemplo apostólico y trabajo
 
@@ -80,11 +91,15 @@ En #2_tesalonicenses_3_6 Pablo ordena apartarse del hermano que camina desordena
 
 El dicho de #2_tesalonicenses_3_10 es preciso: «si alguno no quiere trabajar, tampoco coma». El énfasis en el querer protege la lectura de usar el versículo contra quien está impedido de trabajar. La clase propone además que «trabajar» y «comer» incluyen sacrificio, participación y comunión, no solo empleo o alimento físico. Esa ampliación debe mantenerse como interpretación pastoral: el sentido inmediato del pasaje habla de trabajo, pan y no ser carga dentro de la comunidad.
 
+La parte 6 (aproximadamente 01:01:23–01:03:30) explica trabajar como renunciar a un derecho y sacrificarse, y comer como aprender/participar en comunión. El ejemplo apostólico sí incluye renunciar a ser carga aun teniendo derecho de apoyo (3:8–9). La instrucción conserva también **ἄρτον**, pan, y **ἐργάζεσθαι**, trabajar: la ampliación pastoral no borra la actividad y el alimento concretos. **οὐ θέλει** en 3:10 dice no quiere; no dice no puede. Así se guarda tanto la responsabilidad que Eric demanda como la diferencia entre negativa y necesidad.
+
 ## Ocio que desordena y bien que no se abandona
 
 Pablo ha oído que algunos caminan desordenadamente, sin trabajar, sino ocupándose en lo ajeno (#2_tesalonicenses_3_11). Manda a tales personas que trabajen tranquilamente y coman su propio pan (#2_tesalonicenses_3_12). A los demás no les dice que dejen de hacer el bien por causa de quienes actúan así; les manda no cansarse de hacerlo (#2_tesalonicenses_3_13).
 
 La clase explica **(ἀτάκτως)** mediante el lenguaje de orden o disposición y lee **(περιεργαζομένους)** como una sobreactuación que encubre la negativa a aportar. Estas observaciones ayudan a reconocer que el problema afecta la convivencia y no es una máxima aislada sobre productividad; no obstante, tanto las etimologías como la descripción de una «victimización» específica requieren cotejo léxico y contextual antes de fijarlas como el significado técnico del capítulo.
+
+3:6 y 3:11 usan **ἀτάκτως**, adverbio, desordenadamente; **ἄτακτος** es el adjetivo relacionado, no la forma escrita allí. En 3:11, **ἐργαζομένους** y **περιεργαζομένους** son participios presentes deponentes con forma media: el contraste es no trabajar y entrometerse. Eric lo aplica a sobreactuar o exhibir sacrificio para evitar aportar (aproximadamente 01:04:47–01:07:25). Se conserva el ejemplo atribuido; victimización no es la traducción léxica del segundo participio. El mandato de no cansarse del bien sigue dirigido a los demás, para que el problema no destruya el cuidado comunitario.
 
 ## Corrección que no fabrica enemigos
 
@@ -92,53 +107,45 @@ La clase explica **(ἀτάκτως)** mediante el lenguaje de orden o disposici
 
 La segunda clase distingue entre fraternidad y toda forma de comunión o asociación. Esa distinción es una aplicación de la clase y necesita prudencia: el pasaje trata la respuesta a la desobediencia descrita en esta carta, no entrega por sí solo una lista exhaustiva de criterios doctrinales, denominacionales o disciplinarios. #1_tesalonicenses_5_14 ofrece un paralelo importante: amonestar a los desordenados, alentar a los de poco ánimo, sostener a los débiles y tener paciencia con todos.
 
+La parte 7 distingue condición de hermano de asociación/comunión, y lleva el texto a criterios doctrinales y a prácticas de reunión. Su aplicación es más amplia que esta instrucción sobre la conducta y la carta. **σημειοῦσθε** manda señalar/tomar nota; **συναναμίγνυσθαι**, no asociarse en esa medida, y **νουθετεῖτε** conservar la amonestación. La finalidad **ἵνα ἐντραπῇ**, que se avergüence, está escrita: se reconoce sin convertirla en permiso para humillación arbitraria, pues la frase siguiente mantiene al otro como hermano. La comparación con 1 Tesalonicenses 5:14 recuerda que desaliento y debilidad requieren otras respuestas.
+
 ## La paz al cerrar la carta
 
-La oración final no deja la corrección como la última palabra. #2_tesalonicenses_3_16 pide que el Señor de paz dé paz siempre y en toda circunstancia, seguido por la presencia del Señor con todos (#2_tesalonicenses_3_17). La clase asocia **(שלום)** con integridad y restauración de deudas; ese desarrollo semántico debe verificarse, pero la dirección del texto es clara: la comunidad llamada a corregir sigue necesitando la paz que solo el Señor puede dar.
+La oración final no deja la corrección como la última palabra. #2_tesalonicenses_3_16 pide que el Señor de paz dé paz siempre y en toda circunstancia, seguido en el mismo versículo por la presencia del Señor con todos (#2_tesalonicenses_3_16). La clase asocia **(שלום)** con integridad y restauración de deudas; ese desarrollo semántico debe verificarse, pero la dirección del texto es clara: la comunidad llamada a corregir sigue necesitando la paz que solo el Señor puede dar.
+
+La parte 7 (aproximadamente 00:53:16–00:54:28) explica shalom como pago de deudas y paz de conciencia hacia los demás. SBLGNT usa **εἰρήνη**, paz, y Delitzsch **שלום**; el sustantivo no significa automáticamente una transacción de pago. Se conserva la aplicación de integridad y reconciliación. En 3:16, **δῴη** es optativo, «dé», y la presencia del Señor con todos pertenece al mismo verso.
+
+En 3:17, el saludo de propia mano es llamado **σημεῖον**, señal, en toda carta; 3:18 contiene la gracia final. Eric pregunta si esa confesión de gracia puede funcionar como firma (aproximadamente 01:00:37–01:01:48) y reconoce que aún no termina de resolverlo. El texto señala la mano y la manera de escribir: no se sustituyen por una fórmula doctrinal exclusiva. La advertencia de 2:2 sobre carta supuestamente apostólica ofrece contexto, pero no documenta quién falsificó una carta ni prueba que el problema estuviera descrito en la primera carta, como se comenta oralmente.
 
 ## Mapa de la enseñanza de Eric
 
-| Unidad textual          | Observación concreta de la clase                                                                                                                                   | Tratamiento en esta nota                                                                                                                                                                                                |
-| ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| #2_tesalonicenses_3_1-5   | Eric presenta la oración para que la palabra corra junto con la fidelidad del Señor que fortalece y guarda, y relaciona la petición con la remoción de obstáculos. | **Apoyo textual cualificado**: se conservan el avance de la palabra, la oposición, la fidelidad y la dirección del corazón; las correspondencias hebreo-griegas propuestas quedan como desarrollo pedagógico pendiente. |
-| #2_tesalonicenses_3_6-10  | La clase conecta la tradición recibida y el ejemplo de trabajo apostólico con la instrucción «si alguno no quiere trabajar, tampoco coma».                         | **Apoyo textual y precisión contextual**: se distingue la enseñanza recibida de cualquier tradición humana y se conserva el «no quiere», para no usar el versículo contra quien no puede trabajar.                      |
-| #2_tesalonicenses_3_11-13 | Eric lee el ocio que se entromete en lo ajeno como desorden comunitario y subraya que los demás no deben cansarse de hacer el bien.                                | **Apoyo textual con calificación léxica**: se siguen «trabajar tranquilamente», «comer su propio pan» y «no cansarse»; la explicación de sobreactuación o victimización no se presenta como definición establecida.     |
-| #2_tesalonicenses_3_14-18 | La corrección debe producir vergüenza sin fabricar un enemigo, y la carta termina pidiendo paz y presencia del Señor para todos.                                   | **Apoyo textual directo**: se mantiene la diferencia entre apartarse, amonestar como hermano y tratar a alguien como enemigo; la amplitud semántica de **(שלום)** queda pendiente.                                      |
+| Unidad y fuente | Observación concreta | Tratamiento |
+| --- | --- | --- |
+| #2_tesalonicenses_3_1-5; `youtube:dzO6pl2v_Wc` | Oración, retiro de obstáculos, atopos/aven y fidelidad del Señor. | Orar y ser librados cotejados; anomía no aparece en 3:2, sinonimia pendiente. |
+| #2_tesalonicenses_3_6-10; `youtube:dzO6pl2v_Wc` | Tradición, renunciar al derecho y trabajar/comer como sacrificio/comunión. | Pan y trabajo concretos preservados; no quiere distinguido de no puede. |
+| #2_tesalonicenses_3_11-13; `youtube:dzO6pl2v_Wc` | Sobreactuar evita aportar; los demás no deben cansarse del bien. | Adverbio y participios corregidos; victimización es aplicación de Eric. |
+| #2_tesalonicenses_3_14-15; `youtube:oLkAGU5jFxs` | Fraternidad y asociación se diferencian en la corrección. | Finalidad de vergüenza y límite de hermano explícitos; criterios posteriores no se atribuyen a la carta. |
+| #2_tesalonicenses_3_16-18; `youtube:oLkAGU5jFxs` | Paz como deuda resuelta y confesión de gracia como posible firma. | Verso de presencia corregido; saludo de propia mano y reserva del expositor conservados. |
 
 ## Hoja léxica
 
 | Forma                  | Uso en la nota                 | Tipo de relación                                                                    | Cautela                                                                                                                                  |
 | ---------------------- | ------------------------------ | ----------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
 | **(παράδοσις)**        | tradición / enseñanza recibida | Término griego citado por la clase para #2_tesalonicenses_3_6                         | No identificar automáticamente toda tradición con el evangelio ni toda tradición con invención humana; estudiar el contexto de cada uso. |
-| **(ἄτακτος)**          | desordenado                    | Término griego discutido por la clase en #2_tesalonicenses_3_6 y #2_tesalonicenses_3_11 | La relación propuesta con orden militar es una explicación etimológica que requiere cotejo.                                              |
+| **(ἀτάκτως / ἄτακτος)**          | desordenado                    | Término griego discutido por la clase en #2_tesalonicenses_3_6 y #2_tesalonicenses_3_11 | La relación propuesta con orden militar es una explicación etimológica que requiere cotejo.                                              |
 | **(περιεργαζομένους)** | ocupados en lo ajeno           | Término griego de #2_tesalonicenses_3_11                                              | La lectura de «sobreactuar» o victimizarse pertenece a la clase y no debe presentarse como traducción establecida.                       |
 | **(שלום)**             | paz                            | Aproximación hebrea usada para iluminar #2_tesalonicenses_3_16                        | Su relación con los términos griegos del pasaje debe comprobarse; no es equivalencia automática.                                         |
 
 ## Pendiente de verificar
 
-- [ ] Cotejar los argumentos de la clase sobre los verbos hebreos de oración y las correspondencias propuestas con el griego de #2_tesalonicenses_3_1-2.
-- [ ] Verificar con léxicos y comentarios el alcance de **(ἄτοπος)**, **(ἀτάκτως)**, **(περιεργαζομένους)** y **(παράδοσις)** en el contexto de la carta.
-- [ ] Revisar la atribución histórica de los oponentes de Pablo y la identificación de «personas perversas y malas» con grupos concretos; el capítulo no los nombra.
-- [ ] Cotejar las conexiones de la clase entre corrección comunitaria, tumá, Hechos 15 y criterios contemporáneos de fraternidad; no son argumentos explícitos de #2_tesalonicenses_3_14-15.
-- [ ] Examinar las afirmaciones sobre la firma autógrafa de Pablo y las posibles cartas falsificadas antes de afirmarlas históricamente.
+- [ ] Cotejar los verbos hebreos de oración y los usos antiguos de ἄτοπος, און y ἀνομία antes de afirmar equivalencia o sinonimia perfecta.
+- [ ] Documentar la identidad histórica de los oponentes sin deducirla de perversos/malos.
+- [ ] Cotejar las conexiones de fraternidad, tumá, Hechos 15 y criterios actuales de comunión; el capítulo no presenta una lista doctrinal exhaustiva.
+- [ ] Verificar la interpretación de paz como pago y la reconstrucción de cartas falsificadas. La clase deja abierta su propuesta sobre la firma; conservar esa reserva.
 
 ## Conclusión
 
 2 Tesalonicenses 3 no contrapone esperanza futura y responsabilidad presente. La comunidad ora para que la palabra avance, depende del Señor fiel, recibe la enseñanza apostólica, trabaja sin cargar a otros y persevera en el bien. Cuando debe corregir, lo hace sin negar que el otro es hermano; y al final pide la paz del Señor para todos.
-
-## Estudio desarrollado: trabajo responsable y corrección restauradora
-
-Las dos fuentes públicas de esta nota se leen como una progresión. `youtube:dzO6pl2v_Wc` recorre la oración por el avance de la palabra, la fidelidad del Señor y el ejemplo apostólico; `youtube:oLkAGU5jFxs` lleva ese marco hasta el trabajo, la corrección y la paz final. La atribución conserva los focos visibles de Eric de Jesús Rodríguez Mendoza como paráfrasis, no como cita literal. 2 Tesalonicenses 3 evalúa la enseñanza en orden: dependencia del Señor, responsabilidad comunitaria y restauración sin enemistad.
-
-En #2_tesalonicenses_3_1-5, **(τρέχω)**, _trechō_, significa correr, avanzar o moverse con rapidez; su fuerza contextual describe el deseo de que la palabra del Señor se extienda y sea honrada. **(δοξάζω)**, _doxazō_, significa glorificar, honrar o reconocer la gloria; aquí expresa la recepción pública de la palabra, no el prestigio personal de sus mensajeros. Las glosas son **directas** en el campo ordinario; convertir «correr» en una promesa de éxito visible sería **inferencial**. **(στηρίζω)**, _stērizō_, significa fortalecer, afirmar o establecer, y **(τηρέω)**, _tēreō_, guardar, custodiar o preservar. Su fuerza conjunta presenta al Señor como quien sostiene a la comunidad frente al mal, sin volver pasiva su obediencia.
-
-En #2_tesalonicenses_3_6-10, **(ἀτάκτως)**, _ataktōs_, significa desordenadamente, sin disciplina o fuera del orden; su fuerza contextual califica una conducta que no sigue la enseñanza recibida. «Desordenado» es una glosa **directa y contextual**, mientras explicar el problema mediante una categoría social moderna sería **inferencial**. **(παράδοσις)**, _paradosis_, significa tradición, transmisión o enseñanza entregada; en 3:6 se refiere a lo recibido de los apóstoles, no a toda tradición humana por definición. **(κοπιάω)**, _kopiaō_, significa trabajar hasta fatigarse o esforzarse intensamente; en 3:8 describe el trabajo nocturno y diurno de Pablo y sus colaboradores. **(βαρύνω)**, _barynō_, significa cargar, hacer pesado o gravar; su fuerza contextual explica que el ejemplo apostólico buscaba no convertirse en carga, aunque Pablo reconoce que tenía derecho a recibir apoyo.
-
-La frase de 3:10 requiere precisión pastoral. **(θέλω)**, _thelō_, significa querer, desear o estar dispuesto; **(ἐργάζομαι)**, _ergazomai_, trabajar, producir o realizar una tarea; y **(ἐσθίω)**, _esthiō_, comer o alimentarse. «El que no quiere trabajar, tampoco coma» distingue una negativa voluntaria de la incapacidad, enfermedad o falta de oportunidad. Las glosas son **directas**, pero la aplicación que usa el versículo para negar ayuda a quien no puede trabajar sería **ilegítima** frente al sujeto explícito del verbo y al llamado general a hacer el bien.
-
-En #2_tesalonicenses_3_11-15, **(περιεργάζομαι)**, _periergazomai_, significa ocuparse indebidamente, entrometerse o trabajar en lo ajeno; su fuerza contextual retrata a quienes abandonan la responsabilidad propia mientras interfieren en la vida comunitaria. **(ἡσυχία)**, _hēsychia_, significa quietud, tranquilidad o ausencia de agitación; en 3:12 acompaña el mandato de trabajar y comer el propio pan, no una orden de indiferencia ante la necesidad. **(νουθετέω)**, _noutheteō_, significa amonestar, advertir o poner en mente; en 3:15 define la corrección como trato fraternal. **(σημειόω)**, _sēmeioō_, marcar o señalar, y **(ἐντρέπω)**, _entrepō_, hacer sentir vergüenza o llevar a respetar, describen una medida seria cuya finalidad no autoriza humillación pública.
-
-El cierre conserva el límite de toda disciplina. **(ἐχθρός)**, _echthros_, significa enemigo, adversario u hostil; en 3:15 Pablo niega que el hermano corregido deba ser tratado como enemigo. **(νουθετέω)** vuelve a fijar el propósito: advertir dentro de una relación que busca recuperar responsabilidad. Finalmente, **(εἰρήνη)**, _eirēnē_, significa paz, bienestar o reconciliación, y **(συμπαρέχω)**, _symparechō_, proporcionar, conceder o estar presente junto a. La paz del Señor es una petición **textual y directa**, mientras describirla como garantía de ausencia de conflicto sería **aproximado**. La observación de Eric recibe **apoyo textual cualificado**: la comunidad puede apartarse de una conducta desordenada, pero debe distinguir voluntad de incapacidad, corregir como a hermano y permanecer bajo la paz del Señor.
 
 ## Ver también
 

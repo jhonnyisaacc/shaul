@@ -13,7 +13,7 @@ Columns below count unique registered videos, videos represented in at least one
 | Book or series | Videos | With notes | Notes | Reviewed |
 | --- | ---: | ---: | ---: | ---: |
 | [1 Tesalonicenses completo](https://www.youtube.com/playlist?list=PLUaH57jVX98PI9j1CM1aoePyL1MnlssdN) | 14 | 14 | 5 | 5 |
-| [2 Tesalonicenses completo](https://www.youtube.com/playlist?list=PLUaH57jVX98OKtKOEWanAOReUfDDoXkwW) | 7 | 7 | 3 | 0 |
+| [2 Tesalonicenses completo](https://www.youtube.com/playlist?list=PLUaH57jVX98OKtKOEWanAOReUfDDoXkwW) | 7 | 7 | 3 | 3 |
 | [613 Mitzvot](https://www.youtube.com/playlist?list=PLUaH57jVX98NdZ6Z1lUdd-owtWcDNURh3) | 63 | 63 | 2 | 0 |
 | [Apocalipsis](https://www.youtube.com/playlist?list=PLUaH57jVX98MAlvwaxGJeQXSTES1xjycK) | 30 | 30 | 17 | 17 |
 | [Colosenses](https://www.youtube.com/playlist?list=PLUaH57jVX98OJBkyrLjrclWPXIBrH8bGe) | 18 | 18 | 4 | 4 |
@@ -108,7 +108,7 @@ This view lists **primary filename groups** among channel-associated notes. It i
 | Hebreos | 13 | 13 |
 | Revelación / Apocalipsis | 17 | 17 |
 | 1 Tesalonicenses | 5 | 5 |
-| 2 Tesalonicenses | 3 | 0 |
+| 2 Tesalonicenses | 3 | 3 |
 
 ## Ordered review queue
 
@@ -118,7 +118,7 @@ This view lists **primary filename groups** among channel-associated notes. It i
 | 2 | Efesios — both channels | 15/15 reviewed; [per-note coverage](review-efesios-coverage.md) |
 | 3 | Romanos — both channels plus the older raw Romanos 12 note | 43/43 reviewed; [per-note coverage](review-romanos-coverage.md) |
 | 4 | Colosenses — Eric | 4/4 reviewed; [per-note coverage](review-colosenses-coverage.md) |
-| 5 | 1 and then 2 Tesalonicenses — both channels | 5/5 and 0/3 reviewed; each book is a separate group. Somos registered uploads have no existing notes. |
+| 5 | 1 and then 2 Tesalonicenses — both channels | 5/5 and 3/3 reviewed; each book is a separate group. Somos registered uploads have no existing notes. |
 | 6 | Tehilim, then Shir Hashirim, then Qohélet — Eric | Pending; each series is a separate group |
 | 7 | Mishlei, then Yeshayahu — both channels where represented | Pending; each book is a separate group |
 | 8 | Parashot; Haftarot in Bereshit, Shemot, Vayikra, Bamidbar, Devarim order | Pending; each registered cycle is a separate group; skip files already reviewed |
@@ -128,11 +128,13 @@ This view lists **primary filename groups** among channel-associated notes. It i
 | 12 | Hablemos acerca de… seasons 1, 2, 3; Mentiras de la Religión | Pending; each season/series is a separate group |
 | 13 | Independent lessons and unresolved classifications | Inspect topic and speaker before grouping; music/personal uploads are not automatically teaching notes |
 
+Thessalonians coverage: [1 Tesalonicenses](review-1-tesalonicenses-coverage.md) and [2 Tesalonicenses](review-2-tesalonicenses-coverage.md).
+
 Already complete: [Yojanan/Revelation — 81 notes](review-notes-coverage.md) and [Marcos/Hebrews — 34 notes](review-marcos-hebreos-coverage.md). These reviews include raw and linked notes that do not have their own channel IDs, so their totals differ from the source-matched rows.
 
 ## Source and coverage gaps
 
-- 1392 unique registered videos across the two channels; 678 distinct existing notes match at least one registered ID. Completed source-matched notes: 180; still awaiting editorial review: 498.
+- 1392 unique registered videos across the two channels; 678 distinct existing notes match at least one registered ID. Completed source-matched notes: 183; still awaiting editorial review: 495.
 - 1113 registered videos are represented in existing notes; 279 lack notes. The latter are an ingestion backlog, not completed editorial work.
 - 24 represented registered videos lack locally archived captions. Availability alone does not establish that a transcript has been reviewed. Each editorial batch must attempt retrieval for its own missing captions and record the result.
 - These inventory snapshots have five source IDs used by notes but absent from both channel catalogs. Do not silently assign them to a channel:
