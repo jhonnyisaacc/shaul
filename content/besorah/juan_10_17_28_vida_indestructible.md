@@ -40,7 +40,7 @@ translation: "[TTH, Delitzsch]"
 
 # Tesis
 
-La clase continúa la lectura de [[juan_10_puerta_pastor_abba|Yojanán 10]] desde #juan_10_17-18. La idea central es que la muerte del Mesías no fue una derrota impuesta por poderes humanos, sino una entrega voluntaria: Yeshúa pone su vida y la vuelve a tomar porque posee dominio sobre ella.
+La clase continúa la lectura de [[juan_10_puerta_pastor_abba|Yojanán 10]] desde #juan_10_17-18. La idea central es que la muerte del Mesías no fue una derrota impuesta por poderes humanos, sino una entrega voluntaria: Yehoshua pone su vida y la vuelve a tomar porque posee dominio sobre ella.
 
 El video insiste en que "este mandamiento recibí de mi Padre" no debe leerse como una orden de una persona divina separada a otra inferior. En la lectura de la clase, mitzvá se entiende como competencia o capacidad recibida desde Abba: la fuente de la promesa, del amor entrañable y del compromiso divino. Por eso el Mesías tiene competencia para entregar su vida, guardar silencio, dejar que se cumpla lo escrito y resucitar.
 
@@ -50,6 +50,14 @@ El video insiste en que "este mandamiento recibí de mi Padre" no debe leerse co
 - Pasaje base: #juan_10_17-28, con énfasis en #juan_10_17-18.
 - Los textos de Yojanán e Yeshayahu se citan desde TTH local. Los textos de Maasei Hashlijim, Ivrim, Timoteo Alef y Tito se toman desde Delitzsch local, porque no aparecen en el TTH disponible.
 - Las referencias a literatura jasídica/Jabad, bittul b'metziut, las "32 sendas de la sabiduría" y las "32 reglas de interpretación" quedan como pendientes de verificación.
+
+## Mapa de la enseñanza de Eric
+
+| Unidad textual | Observación de la clase | Tratamiento en esta nota |
+| --- | --- | --- |
+| #juan_10_17-18; [06:14](https://www.youtube.com/watch?v=LCt5Wt86POA&t=374s) | Eric explica el mandamiento como competencia para entregar y retomar la vida. | La entrega voluntaria se comprueba en el pasaje; «competencia» es interpretación de la clase, pendiente de cotejo léxico, no sustituto automático de mandamiento. |
+| #juan_10_19-21; #yeshayahu_53_7 | La exposición relaciona el silencio voluntario y la sanidad del ciego con la división entre los oyentes. | Se conserva el orden del capítulo y se distingue la conexión temática con el Siervo de una cita explícita en Yojanan. |
+| #juan_10_24-28; #hechos_2_24; #hebreos_7_16 | La vida dada a las ovejas se vincula con la resurrección y la vida indestructible. | Los apoyos se comparan con el corpus local; «vida indestructible inactiva» expresa el modelo teológico de Eric, no una descripción literal del mecanismo de la resurrección. |
 
 ## Hoja de comparación
 
@@ -81,7 +89,7 @@ El video insiste en que "este mandamiento recibí de mi Padre" no debe leerse co
 
 | Término | Transliteración | Sentido en la nota | Raíz o base | Observación |
 | --- | --- | --- | --- | --- |
-| **(מצוה)** | mitzvah | competencia, capacidad recibida desde Abba | צוה | En #juan_10_18 no es mera "orden" castellana. |
+| **(מצוה)** | mitzvah | mandamiento; la clase lo explica como competencia | צוה | «Competencia/capacidad» es aplicación interpretativa de Eric; el alcance léxico queda pendiente de cotejo. |
 | **(נפש)** | nefesh | vida que se pone y se retoma | נפש | Vida biológica entregada; vida indestructible que vuelve a actuar. |
 | **(אבא)** | Abba | fuente de promesa, amor entrañable | אבא | Ver [[../temas/elohim_aba|Elohim y Aba]]. |
 | **(חי)** | chai | vida sin interrupción | חיה | #hebreos_7_16: כח חיים שאין להם הפסק. |
@@ -102,7 +110,7 @@ El video insiste en que "este mandamiento recibí de mi Padre" no debe leerse co
 
 La clase retoma la palabra mitzvá para desplazarla del sentido castellano de "orden" hacia el sentido de competencia: capacidad, idoneidad o preparación para hacer lo que la Escritura establece. En esa línea, los mandamientos no son simples órdenes externas; forman al siervo para actuar según la voluntad ya revelada.
 
-Aplicado a Yeshúa, "este mandamiento recibí de mi Padre" significa que el Mesías posee la competencia establecida desde la promesa: puede poner su vida y puede volverla a tomar. No actúa por improvisación ni por presión humana. Cumple lo que ya estaba escrito y prometido.
+Aplicado a Yehoshua, "este mandamiento recibí de mi Padre" significa que el Mesías posee la competencia establecida desde la promesa: puede poner su vida y puede volverla a tomar. No actúa por improvisación ni por presión humana. Cumple lo que ya estaba escrito y prometido.
 
 La aplicación para los discípulos es que una mitzvá ejercita otra. Quien se ejercita en una competencia dada por Elohim queda preparado para otras obediencias. La competencia no nace de la genialidad humana, sino del Elohim que habló primero.
 
@@ -110,7 +118,7 @@ La aplicación para los discípulos es que una mitzvá ejercita otra. Quien se e
 
 La clase subraya que #juan_10_18 impide leer la muerte del Mesías como si una autoridad humana hubiera tenido poder final sobre él. Los líderes, Roma, los acusadores y los adversarios ejecutan su maldad, pero no poseen dominio sobre su vida.
 
-Yeshúa "pone" su vida en el sentido de dejarla inactiva respecto de su defensa. No usa su poder para evitar el madero. No llama legiones de mensajeros, no responde con fuerza, no abre su boca para librarse, porque el punto no era demostrar superioridad, sino permitir que cayera sobre él todo el peso del pecado y de la maldad para derrotarlo por resurrección.
+Yehoshua "pone" su vida en el sentido de dejarla inactiva respecto de su defensa. No usa su poder para evitar el madero. No llama legiones de mensajeros, no responde con fuerza, no abre su boca para librarse, porque el punto no era demostrar superioridad, sino permitir que cayera sobre él todo el peso del pecado y de la maldad para derrotarlo por resurrección.
 
 Por eso el silencio del Siervo en #yeshayahu_53_7 no es debilidad. Es decisión. La sabiduría de lo alto guarda silencio cuando debe cumplirse lo escrito.
 
@@ -134,7 +142,7 @@ La referencia a literatura jasídica/Jabad se usa para mostrar que la idea de an
 
 Después de #juan_10_18, la reacción en #juan_10_19-21 es división. Unos dicen que tiene Ha'satán; otros responden que esas palabras no son de endemoniado, porque un demonio no abre ojos de ciegos. La clase observa que la sanidad del ciego funciona como prueba concreta contra una acusación espiritual apresurada.
 
-En #juan_10_24-26, la pregunta "si tú eres el Mesías, dínoslo" revela un conflicto de expectativas. Según la clase, muchos esperaban un rey que respondiera a la aspiración política inmediata. Yeshúa, en cambio, afirma que sus obras en nombre de Abba ya testifican, pero ellos no muestran fidelidad porque no son de sus ovejas.
+En #juan_10_24-26, la pregunta "si tú eres el Mesías, dínoslo" revela un conflicto de expectativas. Según la clase, muchos esperaban un rey que respondiera a la aspiración política inmediata. Yehoshua, en cambio, afirma que sus obras en nombre de Abba ya testifican, pero ellos no muestran fidelidad porque no son de sus ovejas.
 
 La enseñanza aplica esto contra los "anteojos" de tradición. Tradiciones judías o cristianas pueden impedir oír la voz que ya clama desde Moshé, los profetas y la Besorah. El criterio no es si una tradición resulta familiar, sino si permite escuchar lo escrito.
 
@@ -164,7 +172,7 @@ En el flujo del argumento, esa promesa depende de la misma vida indestructible q
 
 ## Conclusión
 
-#juan_10_17-18 presenta la muerte del Mesías como entrega soberana recibida desde Abba, no como derrota ante poderes humanos. La vida indestructible queda inactiva mientras se cumple el sacrificio, y vuelve a actuar en la resurrección. Por eso #juan_10_28 puede prometer vida olam: el pastor da la vida que la muerte no puede retener.
+#juan_10_17-18 presenta la muerte del Mesías como entrega soberana recibida desde Abba, no como derrota ante poderes humanos. En el modelo teológico de la clase, la vida indestructible queda inactiva mientras se cumple el sacrificio y vuelve a actuar en la resurrección; el pasaje no describe literalmente ese mecanismo. Por eso #juan_10_28 puede prometer vida olam: el pastor da la vida que la muerte no puede retener.
 
 ## Ver también
 

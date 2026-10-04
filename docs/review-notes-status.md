@@ -139,3 +139,15 @@ The local TTH Luke JSON contains repeated chapter numbers (1–21). For this rev
 lookups use the first chapter occurrence, as the repository's lookup helper does;
 do not overwrite an earlier passage in an in-memory index. No licensed corpus
 file was changed. Corpus integrity is a separate source limitation.
+
+## Batch 4 — detailed Yojanan 10 studies
+
+Reviewed the six detailed chapter-10 studies. Added six maps that distinguish
+Eric's concrete readings from the verse text, qualified the competence gloss of
+mitzvah and the proposed life mechanism, normalized prose names while retaining
+quoted wording, supplied the available OE text of 1 Samuel 17:35, and separated
+OE Psalm 40:7/9 from TTH Psalm 40:6/8. All eight chapter-10 studies pass the
+quality and metadata checks. Full substantive review: 16/81 notes; six maps remain.
+
+Batch 3's push and PR editorial checks both passed. The Vercel API still shows
+six baseline deployments and none for this branch.

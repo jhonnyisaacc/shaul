@@ -50,9 +50,9 @@ translation: "[TTH, Delitzsch]"
 
 # Tesis
 
-La clase lee #juan_10_22-30 desde el escenario de [[../temas/janukah|Janukah]] en Yerushaláim. La pregunta "si tú eres el Mesías, dínoslo con confianza" no se responde con una declaración aislada, sino con las obras: Yeshúa ya había mostrado señales suficientes para quien hubiese sido formado por la Torah y los profetas.
+La clase lee #juan_10_22-30 desde el escenario de [[../temas/janukah|Janukah]] en Yerushaláim. La pregunta "si tú eres el Mesías, dínoslo con confianza" no se responde con una declaración aislada, sino con las obras: Yehoshua ya había mostrado señales suficientes para quien hubiese sido formado por la Torah y los profetas.
 
-El hilo central es que la Escritura no presentaba al Mesías solamente como un rey invencible que transforma el mundo de inmediato. También lo anunciaba como simiente, cordero, retoño, brote, siervo y cargador de la culpa del pueblo. Si se borra esa primera venida humilde y sufriente, las obras de Yeshúa parecen insuficientes; si se conserva toda la línea profética, esas obras testifican que él es el Mesías.
+El hilo central es que la Escritura no presentaba al Mesías solamente como un rey invencible que transforma el mundo de inmediato. También lo anunciaba como simiente, cordero, retoño, brote, siervo y cargador de la culpa del pueblo. Si se borra esa primera venida humilde y sufriente, las obras de Yehoshua parecen insuficientes; si se conserva toda la línea profética, esas obras testifican que él es el Mesías.
 
 ## Alcance de la nota
 
@@ -60,6 +60,14 @@ El hilo central es que la Escritura no presentaba al Mesías solamente como un r
 - Modo de trabajo: nota nueva dentro de la serie de Yojanán 10, enlazada con las notas previas sobre la puerta, el pastor, Abba y las obras.
 - La clase cubre principalmente #juan_10_22-30 y luego hace un repaso de señales mesiánicas en Torah y profetas.
 - Las afirmaciones sobre "nubes del cielo" como expresión idiomática, la historia del recinto del templo y algunas lecturas léxicas quedan útiles como línea de estudio, pero pendientes de verificación técnica.
+
+## Mapa de la enseñanza de Eric
+
+| Unidad textual | Observación de la clase | Tratamiento en esta nota |
+| --- | --- | --- |
+| #juan_10_22-25 | Eric sitúa la pregunta mesiánica en Janukah y en el pórtico de Shelomóh. | La escena está en el texto; las descripciones de arquitectura y expectativas del período quedan pendientes de fuentes históricas. |
+| #juan_10_25-30; #yeshayahu_11_1; #yeshayahu_53_5 | La clase reúne imágenes del Tanaj para mostrar que las obras no se deben medir solo por victoria política inmediata. | Se conserva el recorrido de simiente, cordero, brote y siervo; las conexiones mesiánicas se presentan como interpretación de la clase. |
+| #zejariah_9_9; #daniel_7_13; #hoshea_6_3 | Eric organiza humildad y consumación como dos venidas del mismo Mesías. | Se distingue esa síntesis de cada pasaje: la lectura de nubes como rapidez y de lluvias como dos venidas permanece pendiente. |
 
 ## Hoja de comparación
 
@@ -122,11 +130,11 @@ El hilo central es que la Escritura no presentaba al Mesías solamente como un r
 
 La escena ocurre en Janukah, en invierno, en el pórtico de Shelomóh. La clase recuerda que Janukah conmemora una victoria histórica sin la cual el pueblo judío habría sido absorbido por el dominio seléucida. Ese contexto importa porque el capítulo no está hablando en abstracto: la pregunta por el Mesías aparece en una memoria de liberación nacional.
 
-La clase también distingue niveles dentro del espacio sagrado: el monte como recinto amplio, el área donde algunos gentiles podían circular, el límite del santuario y la casa interior. Esta precisión busca evitar una lectura plana de "templo". Yeshúa está en el pórtico de Shelomóh, un lugar público del complejo, donde su presencia y sus obras quedan expuestas ante el pueblo.
+La clase también distingue niveles dentro del espacio sagrado: el monte como recinto amplio, el área donde algunos gentiles podían circular, el límite del santuario y la casa interior. Esta precisión busca evitar una lectura plana de "templo". Yehoshua está en el pórtico de Shelomóh, un lugar público del complejo, donde su presencia y sus obras quedan expuestas ante el pueblo.
 
 ## El problema no era falta de información
 
-Cuando los yehudim lo rodean y preguntan si él es el Mesías, Yeshúa responde que ya se los había dicho y que las obras testifican. La clase interpreta "creer" o "afirmarse" como el resultado de un proceso educativo: no basta recibir una frase; hay que haber sido formado para reconocer lo que יהוה ya había anunciado.
+Cuando los yehudim lo rodean y preguntan si él es el Mesías, Yehoshua responde que ya se los había dicho y que las obras testifican. La clase interpreta "creer" o "afirmarse" como el resultado de un proceso educativo: no basta recibir una frase; hay que haber sido formado para reconocer lo que יהוה ya había anunciado.
 
 La acusación de fondo es que muchos esperaban un Mesías construido desde una idea parcial. Si la expectativa dominante exige un rey político que derrote a Roma de inmediato, entonces el cordero, el siervo y el sufriente parecen un fracaso. Pero si se lee toda la Escritura, la sanidad, los panes, la resurrección de muertos, la autoridad sobre el mar y la entrega de la vida son obras que hablan con claridad.
 
@@ -146,9 +154,9 @@ El punto no es acumular títulos, sino corregir la imaginación. Si "príncipe" 
 
 ## Justicia nuestra
 
-La clase conecta #yirmeyahu_33_15-16 con #romanos_3_21-22. La justicia de Elohim se revela aparte de la Torah como sistema de mérito, pero está testificada por la Torah y los profetas. Por eso la justicia no nace de nuestra capacidad de cumplir, sino de la fidelidad de Yeshúa el Mesías.
+La clase conecta #yirmeyahu_33_15-16 con #romanos_3_21-22. La justicia de Elohim se revela aparte de la Torah como sistema de mérito, pero está testificada por la Torah y los profetas. Por eso la justicia no nace de nuestra capacidad de cumplir, sino de la fidelidad de Yehoshua el Mesías.
 
-Esta conexión preserva el nombre "יהוה Justicia nuestra" como línea mesiánica. La obra de Yeshúa no contradice la Torah; manifiesta lo que Torah y profetas anunciaron. La pregunta decisiva, entonces, no es si el Mesías encaja con una expectativa tardía, sino si sus obras encajan con lo escrito.
+Esta conexión preserva el nombre "יהוה Justicia nuestra" como línea mesiánica. La obra de Yehoshua no contradice la Torah; manifiesta lo que Torah y profetas anunciaron. La pregunta decisiva, entonces, no es si el Mesías encaja con una expectativa tardía, sino si sus obras encajan con lo escrito.
 
 ## Dos venidas, no dos Mesías
 
@@ -170,7 +178,7 @@ La clase reconoce que varias expectativas judías sobre el Mesías contienen ele
 
 Primero viene la obra de rescate; después la consumación. Primero se vence a las potestades y principados; después se manifiesta la restauración visible. Primero se inicia la obra en los llamados; después el Mesías la perfecciona al transformar los cuerpos mortales y hacer que el mundo participe de la obediencia plena.
 
-La clase también rechaza como expectativa no demostrada que el Mesías deba edificar un tercer templo físico. En su lectura, el templo que Yeshúa levanta es su propio cuerpo y, por extensión, la casa espiritual formada por piedras vivas. Esta afirmación debe cotejarse con las fuentes judías citadas indirectamente, pero el argumento del video queda claro: no se debe añadir una prueba mesiánica que Torah y profetas no establecen explícitamente.
+La clase también rechaza como expectativa no demostrada que el Mesías deba edificar un tercer templo físico. En su lectura, el templo que Yehoshua levanta es su propio cuerpo y, por extensión, la casa espiritual formada por piedras vivas. Esta afirmación debe cotejarse con las fuentes judías citadas indirectamente, pero el argumento del video queda claro: no se debe añadir una prueba mesiánica que Torah y profetas no establecen explícitamente.
 
 ## Esperanza final
 
@@ -200,7 +208,7 @@ Por eso la advertencia pastoral es práctica: no seguir anuncios de falsos mesí
 
 ## Conclusión
 
-Yeshúa no responde la pregunta mesiánica con propaganda, sino con las obras. El problema de sus oyentes no era que faltaran señales, sino que una expectativa incompleta podía volver extrañas las grandezas de la Torah. La Escritura anunciaba al Mesías como rey, pero también como simiente enterrada, cordero sacrificado, retoño de un tronco cortado, siervo despreciado y cargador de la culpa.
+Yehoshua no responde la pregunta mesiánica con propaganda, sino con las obras. El problema de sus oyentes no era que faltaran señales, sino que una expectativa incompleta podía volver extrañas las grandezas de la Torah. La Escritura anunciaba al Mesías como rey, pero también como simiente enterrada, cordero sacrificado, retoño de un tronco cortado, siervo despreciado y cargador de la culpa.
 
 Por eso la clase sostiene que la primera venida no falla por no haber transformado todavía el mundo entero; cumple la obra de rescate que hace legítima la consumación futura. El mismo Mesías que vino humilde vendrá en gloria, y entonces la esperanza de Israel se verá en resurrección, transformación, justicia y reinado de יהוה sobre la creación.
 
