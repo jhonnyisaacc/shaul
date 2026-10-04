@@ -42,13 +42,21 @@ source_ids:
 
 # Tesis
 
-Yojanan 5 presenta una sanidad en un entorno ambiguo: un estanque junto a Yerushaláim, enfermos esperando el movimiento del agua, una variante textual posterior que atribuye ese movimiento a un ángel, y una controversia de Shabat que no nace de la torá misma sino de una aplicación rabínica ampliada sobre la "carga".
+Yojanan 5 presenta una sanidad junto a un estanque de Yerushaláim y una controversia por cargar el lecho en Shabat. La clase interpreta la explicación del ángel como una variante posterior y la prohibición de cargar como una aplicación ampliada del mandamiento. La nota conserva esas propuestas, pero distingue el relato explícito de las conclusiones textuales e históricas que requieren cotejo adicional.
 
 ## Alcance de la nota
 
 - Esta nota organiza el transcript del video en un solo hilo.
 - Las afirmaciones sobre arqueología, Asclepio y variantes del nombre del estanque se conservan como tesis del transcript y quedan pendientes de cotejo técnico.
-- La discusión central no es si Yeshúa quebranta la torá, sino si sus opositores están tomando como torá una regulación que el texto bíblico no formula con ese alcance.
+- La discusión central no es si Yehoshua quebranta la torá, sino si sus opositores están tomando como torá una regulación que el texto bíblico no formula con ese alcance.
+
+## Mapa de la enseñanza de Eric
+
+| Unidad textual | Observación de la clase | Tratamiento en esta nota |
+| --- | --- | --- |
+| #juan_5_1-7 | Eric distingue la espera del agua de la explicación angélica y propone investigar el entorno del estanque. | La espera se comprueba en el relato; la antigüedad de la variante y el vínculo con Asclepio quedan pendientes de aparato crítico y arqueología. |
+| #juan_5_8-14; #yirmeyahu_17_21-24 | La clase relaciona la controversia por la camilla con el alcance de «carga» en el Shabat. | Se conserva la lectura contextual de Eric; no se atribuye al evangelista un catálogo de reglas rabínicas ni se identifica el pecado del enfermo. |
+| #juan_5_17-20; #eijah_3_22-23 | La obra continua del Padre se conecta con la sanidad y la respuesta del Hijo. | Se compara el discurso con la hoja local; las conclusiones sobre Padre e Hijo se mantienen como interpretación de la clase. |
 
 ## Hoja de comparación
 
@@ -84,19 +92,19 @@ Yojanan 5 presenta una sanidad en un entorno ambiguo: un estanque junto a Yerush
 
 - Como en notas anteriores sobre Yojanan, el transcript insiste en que **Yehudim** no debe leerse automáticamente como todo Israel sin matiz.
 - En #juan_5_1 la "fiesta de los yehudim" se toma como una fiesta localizada o caracterizada por el ámbito de Judea, no como una identificación segura con una fiesta bíblica.
-- La nota conserva esta línea junto a [Yojanan: yehudim, procedencia y logos](./juan_yehudim_y_logos).
+- La nota conserva esta línea junto a [Yojanan: yehudim, procedencia y logos](./juan_iehudim_y_logos).
 
 ## La carga en Shabat
 
-La exposición sostiene que la norma bíblica contra la carga en Shabat (#yirmeyahu_17_21-24; véase la hoja de comparación) apunta al comercio y al tráfico de cargas como actividad ordinaria de lucro. El problema aparece cuando esa palabra se extrae de su contexto y se extiende a cualquier objeto: camilla, pluma, aguja o utensilio necesario. Desde esa lectura, Yeshúa no invalida el Shabat; corrige una ampliación que estaba asfixiando el mandamiento.
+La exposición sostiene que la norma bíblica contra la carga en Shabat (#yirmeyahu_17_21-24; véase la hoja de comparación) apunta al comercio y al tráfico de cargas como actividad ordinaria de lucro. El problema aparece cuando esa palabra se extrae de su contexto y se extiende a cualquier objeto: camilla, pluma, aguja o utensilio necesario. Desde esa lectura, Yehoshua no invalida el Shabat; corrige una ampliación que estaba asfixiando el mandamiento.
 
 ## "No peques más"
 
-#juan_5_14 dice que Yeshúa encontró al hombre en el Hejal y le advirtió: "no peques más, para que no te acontezca alguna cosa peor que eso." El transcript propone, como inferencia contextual, que el pecado pudo tener relación con buscar sanidad en un espacio contaminado por prácticas paganas. La nota no lo afirma como dato explícito del texto, porque Yojanan no identifica el pecado; solo registra que la advertencia aparece después de la sanidad y antes de la denuncia pública a los yehudim.
+#juan_5_14 dice que Yehoshua encontró al hombre en el Hejal y le advirtió: "no peques más, para que no te acontezca alguna cosa peor que eso." El transcript propone, como inferencia contextual, que el pecado pudo tener relación con buscar sanidad en un espacio contaminado por prácticas paganas. La nota no lo afirma como dato explícito del texto, porque Yojanan no identifica el pecado; solo registra que la advertencia aparece después de la sanidad y antes de la denuncia pública a los yehudim.
 
 ## "Mi Padre hasta ahora obra"
 
-El expositor entiende "Mi Padre" (#juan_5_17; #eijah_3_22-23; #mateo_5_45) no como una figura separada que contradice al Hijo, sino como la plenitud de las promesas y la voluntad de Elohim a la que el Mesías se sujeta. Por eso #juan_5_19 funciona como respuesta directa: el Hijo no hace una obra propia contra la torá, sino lo que ve hacer al Padre. Si Yeshúa manda tomar la camilla, esa acción no contradice la torá; contradice una regulación humana puesta sobre ella.
+El expositor entiende "Mi Padre" (#juan_5_17; #eijah_3_22-23; #mateo_5_45) no como una figura separada que contradice al Hijo, sino como la plenitud de las promesas y la voluntad de Elohim a la que el Mesías se sujeta. Por eso #juan_5_19 funciona como respuesta directa: el Hijo no hace una obra propia contra la torá, sino lo que ve hacer al Padre. Si Yehoshua manda tomar la camilla, esa acción no contradice la torá; contradice una regulación humana puesta sobre ella.
 
 ## Hoja léxica
 
@@ -112,7 +120,7 @@ El expositor entiende "Mi Padre" (#juan_5_17; #eijah_3_22-23; #mateo_5_45) no co
 
 ## Conclusión
 
-El video lee Yojanan 5 como una confrontación en dos frentes: primero, Yeshúa libera al hombre de un sistema de sanidad dudoso y de una espera impotente; segundo, expone una lectura de Shabat que había convertido el reposo en una carga. La autoridad del Mesías no aparece contra la torá, sino contra interpretaciones que añadían peso donde יהוה no lo había puesto.
+El video lee Yojanan 5 como una confrontación en dos frentes: primero, Yehoshua libera al hombre de un sistema de sanidad dudoso y de una espera impotente; segundo, expone una lectura de Shabat que había convertido el reposo en una carga. La autoridad del Mesías no aparece contra la torá, sino contra interpretaciones que añadían peso donde יהוה no lo había puesto.
 
 ## Referencias judías y fuentes externas
 
@@ -135,7 +143,7 @@ El video lee Yojanan 5 como una confrontación en dos frentes: primero, Yeshúa 
 
 - [Yojanan 5: el Hijo, juicio y vida](./juan_5_hijo_juicio_vida.md)
 - [Yojanan 6: señales, maná y pan de vida](./juan_6_pan_vida_senales.md)
-- [Yojanan: yehudim, procedencia y logos](./juan_yehudim_y_logos.md)
+- [Yojanan: yehudim, procedencia y logos](./juan_iehudim_y_logos.md)
 - [Ben, Bar Enash y el Hijo de Elohim](../temas/ben_hijo_titulos_mesias.md)
 
 ## Créditos

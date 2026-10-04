@@ -110,3 +110,16 @@ The initial prevention commit's push and draft-PR CI runs both passed. Repeated
 Vercel API checks after branch creation, the prevention commit, and PR creation
 showed the same six baseline deployments and zero for this branch. GitHub has
 no deployment record or Vercel commit status for the prevention commit.
+
+## Batch 2 — Yojanan 5
+
+Reviewed all three Yojanan 5 notes. Added passage-specific Eric maps, retained
+source IDs and credits, repaired two links to the renamed yehudim/logos note,
+corrected a TTH transcription typo, and qualified the raw study's opening claims
+about the angel variant and Shabat practice. Spanish prose now uses Yehoshua
+while source quotations retain their wording. All three pass transcript quality
+and YouTube hygiene. Full substantive review: 6/81 notes; 16 maps remain.
+
+Batch 1: both GitHub editorial CI runs passed; the Vercel API still returned the
+six baseline deployments and none for the branch. No Vercel commit status was
+created for `f07be9ab`.

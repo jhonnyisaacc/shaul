@@ -54,6 +54,14 @@ Yojanan 5 presenta al Mesías como el Hijo que obra lo mismo que el Padre: da vi
 - La transcripción tiene errores de reconocimiento; por eso las formulaciones se normalizan como síntesis y no como cita literal del expositor.
 - Las afirmaciones lingüísticas sobre retrotraducción, arameo, griego y pronunciación del Nombre quedan conservadas como líneas de estudio, con algunos puntos pendientes de verificación.
 
+## Mapa de la enseñanza de Eric
+
+| Unidad textual | Observación de la clase | Tratamiento en esta nota |
+| --- | --- | --- |
+| #juan_5_17-23 | Eric sigue la obra del Padre y del Hijo hasta la vida, el juicio y la honra. | Se conserva el orden del discurso; «portador» es la explicación de la clase y no una definición exhaustiva de ben/bar. |
+| #juan_5_24-30; #yeshayahu_35_4-6 | La exposición relaciona la vida y las obras de restauración con las promesas del Tanaj. | Se cotejan los textos locales; la conexión con Yeshayahu es temática y no una cita formal de ese pasaje en Yojanan 5. |
+| #juan_5_31-47 | Las obras, las Escrituras y Moshéh convergen como testigos acerca del Mesías. | La nota desarrolla ese cierre textual; la lectura de Moshéh como Torah y el juego de letras siguen distinguidos de una afirmación literal del evangelio. |
+
 ## Hoja de comparación
 
 | Referencia | Hebreo (OE/Delitzsch) | TTH (ES) | Función en la clase |
@@ -67,7 +75,7 @@ Yojanan 5 presenta al Mesías como el Hijo que obra lo mismo que el Padre: da vi
 | #juan_5_24 | אמן אמן אני אמר לכם המקשיב לדברי ומאמין בשלחי ישלו חיי עולם ולא יבא להשפט כיעבר ממות לחיים | Amén, amén, Yo les digo: Porque todo el que escucha mi palabra, y se afirma por el que me envió, habrá para él vida olam, y en juicio no entrará, sino que ascenderá de muerte a vida. | La vida olam queda unida a oír al Mesías y afirmarse por quien lo envió. |
 | #juan_3_19 | וזה הוא המשפט כי האור בא אלהעולם ובני האדם אהבו אתהחשך מןהאור כי רעים מעשיהם | Y esta es la causa penal: que la Luz vino al olam, pero los hombres amaron más a la oscuridad que a la Luz, porque malas fueron sus obras. | La condenación se presenta como rechazo presente de la luz que vino al olam. |
 | #juan_3_36 | מי אשר יאמין בבן ישלו חיי עולם ומי אשר לא יאמין בבן לא יראה חיים כי אםחרון אף אלהים עליו יחול | El que se afirma por el Hijo, habrá para él vida olam; pero el que no se afirma, no verá la vida, sino que el calor de la ira de יהוה se posará sobre él. | Tener al Hijo es tener vida; rechazarlo deja al hombre en muerte. |
-| #juan_5_39 | אתם דרשים מעלכתבי הקדש כי בהם אתם אמרים חיי עולם לכם והם המה המעידים עלי | Examenen las Escrituras, porque consideran que en ellas hay para ustedes vida olam, y ellas son las que testifican acerca de Mí, | Las Escrituras no son reemplazadas; ellas testifican del Mesías. |
+| #juan_5_39 | אתם דרשים מעלכתבי הקדש כי בהם אתם אמרים חיי עולם לכם והם המה המעידים עלי | Examinen las Escrituras, porque consideran que en ellas hay para ustedes vida olam, y ellas son las que testifican acerca de Mí, | Las Escrituras no son reemplazadas; ellas testifican del Mesías. |
 | #juan_5_40 | ולא אביתם לבא אלי להיות לכם חיים | pero no quieren venir a Mí para que tengan vida. | Buscar vida en las Escrituras sin venir al Mesías deja incompleto el propósito del testimonio. |
 | #juan_5_45 | אלתחשבו כי אני אביא שטנה עליכם לפני האב יש אחד מביא שטנה עליכם משה אשר בטחתם בו | No piensen que Yo los declararé culpables delante de mi Padre; hay uno que los declara culpables, Moshéh, en quien ustedes confían. | Moshéh funciona literariamente como la Torah que acusa al que rechaza al Mesías. |
 | #juan_5_46 | כי לו האמנתם במשה האמנתם גםבי כי עלי הוא כתב | Y si ustedes se afirmaran por Moshéh, se afirmarían también por Mí, porque acerca de Mí él escribió. | La clase usa este cierre para unir la Torah con el testimonio mesiánico. |
@@ -101,7 +109,7 @@ También por eso #juan_3_36 queda como resumen: "El que se afirma por el Hijo, h
 
 ## Yeshayahu 35 y las obras del Mesías
 
-La clase conecta las obras de Yeshúa con la promesa de #yeshayahu_35_4-6 (véase la hoja de comparación). El argumento es que cuando Yeshúa responde con obras de sanidad y restauración, no está dando señales sueltas. Está mostrando que el mismo Elohim prometido por Yeshayahu vino a salvar. Las obras testifican porque coinciden con lo que la Escritura ya había anunciado.
+La clase conecta las obras de Yehoshua con la promesa de #yeshayahu_35_4-6 (véase la hoja de comparación). El argumento es que cuando Yehoshua responde con obras de sanidad y restauración, no está dando señales sueltas. Está mostrando que el mismo Elohim prometido por Yeshayahu vino a salvar. Las obras testifican porque coinciden con lo que la Escritura ya había anunciado.
 
 ## Yojanán, Eliyáhu y el espíritu de poder
 

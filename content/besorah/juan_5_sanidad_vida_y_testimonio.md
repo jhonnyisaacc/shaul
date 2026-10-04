@@ -39,6 +39,14 @@ Yojanán 5 sigue una secuencia deliberada: Yehoshua sana a un hombre que esperab
 
 Esta nota organiza las partes 14 y 15 de la exposición sobre Yojanán 5. Eric propone que algunas lecturas sobre el estanque, el movimiento del agua y la prohibición de cargar han de someterse a crítica textual y a su contexto bíblico. También lee el lenguaje de Padre e Hijo como continuidad de la promesa revelada y relaciona las obras de Yehoshua con la vida prometida. La transcripción automática conserva bien el recorrido general, pero no basta para probar variantes, arqueología, reconstrucciones arameas ni conclusiones doctrinales amplias; tales propuestas quedan señaladas para cotejo.
 
+## Mapa de la enseñanza de Eric
+
+| Unidad textual | Observación de la clase | Tratamiento en esta nota |
+| --- | --- | --- |
+| #juan_5_1-14; `youtube:piMtrd0ksmQ` | Eric examina el nombre del estanque, la variante del ángel y la orden de cargar el lecho. | Se sigue la sanidad en orden; variantes, etimologías y arqueología permanecen pendientes de fuentes propias. |
+| #juan_5_17-30; `youtube:t4d1TJBqE9g` | La segunda clase une obra del Padre, obra del Hijo, vida y juicio mediante una lectura semítica. | El discurso se compara con la hoja local; abba/bar se explican como retrolecturas pedagógicas, sin sustituir la gramática griega. |
+| #juan_5_31-47; `youtube:t4d1TJBqE9g` | La exposición reúne el testimonio de Yojanán, las obras, el Padre, las Escrituras y Moshéh. | La nota conserva la cadena textual y distingue el análisis debatido de «examinan/examinen» de la invitación a venir para tener vida. |
+
 ## Hoja de comparación
 
 | Referencia | Texto local | Función en la lectura |
