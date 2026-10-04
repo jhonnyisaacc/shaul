@@ -19,6 +19,9 @@ references:
   - "#bereshit_1_28"
   - "#bereshit_12_3"
 sources:
+  - "https://github.com/morphgnt/sblgnt/blob/master/70-Eph-morphgnt.txt"
+  - "https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/Eph.txt"
+  - "https://www.sefaria.org/Mishnah_Kilayim.7.1?lang=bi"
   - "https://www.youtube.com/watch?v=mt2_nLYsm6Y"
   - "docs/scriptures/delitzsch/json/ephesians.json"
 source_ids:
@@ -38,17 +41,20 @@ Esta nota organiza la clase pública «CARTA A LOS EFESIOS | INJERTADOS en el AM
 
 | Referencia | Texto local de Delitzsch (sin nikud) | Función en el estudio |
 | --- | --- | --- |
-| #efesios_1_1 | **פולוס שליח ישוע המשיח ברצון אלהים אל־הקדשים הנמצאים (באפסוס) ומאמינים במשיח ישוע** | Pablo se identifica como enviado y se dirige a santos que confían en el Mesías. |
-| #efesios_1_2 | **חסד לכם ושלום מאת האלהים אבינו ואדנינו ישוע המשיח** | El saludo reúne favor y paz en relación con Elohim y Yehoshua. |
-| #efesios_1_3 | **ברוך האלהים ואבי אדנינו ישוע המשיח אשר ברכנו בכל־ברכת רוח במרומים במשיח** | La bendición espiritual está localizada «en el Mesías» y en los lugares celestiales. |
-| #efesios_1_4 | **כאשר בחר אתנו בו לפני מוסדות תבל להיות קדשים ותמימים לפניו באהבה** | La elección tiene como resultado ser santos e íntegros delante de Elohim en amor. |
-| #efesios_1_5 | **יעדנו לו לבנים על־ידי ישוע המשיח כרצון חפצו** | La adopción como hijos se realiza por medio de Yehoshua y conforme a su propósito. |
+| #efesios_1_1 | Delitzsch: פולוס שליח ישוע המשיח ברצון אלהים אלהקדשים הנמצאים (באפסוס) ומאמינים במשיח ישוע | Pablo se identifica como enviado y se dirige a santos que confían en el Mesías. |
+| #efesios_1_2 | Delitzsch: חסד לכם ושלום מאת האלהים אבינו ואדנינו ישוע המשיח | El saludo reúne favor y paz en relación con Elohim y Yehoshua. |
+| #efesios_1_3 | Delitzsch: ברוך האלהים ואבי אדנינו ישוע המשיח אשר ברכנו בכלברכת רוח במרומים במשיח | La bendición espiritual está localizada «en el Mesías» y en los lugares celestiales. |
+| #efesios_1_4 | Delitzsch: כאשר בחר אתנו בו לפני מוסדות תבל להיות קדשים ותמימים לפניו באהבה | La elección tiene como resultado ser santos e íntegros delante de Elohim en amor. |
+| #efesios_1_5 | Delitzsch: יעדנו לו לבנים עלידי ישוע המשיח כרצון חפצו | La adopción como hijos se realiza por medio de Yehoshua y conforme a su propósito. |
+| #bereshit_1_28 | OE: ויברך אתם אלהים ויאמר להם אלהים פרו ורבו ומלאו את הארץ וכבשה ורדו בדגת הים ובעוף השמים ובכל חיה הרמשת על הארץ | Bendición y mandato de fructificar: conexión temática de la clase. |
 
 ## Santos y creyentes: una identidad que se practica (1:1) #efesios_1_1
 
 La apertura nombra a Pablo como **ἀπόστολος**, _apostolos_, enviado, y a los destinatarios como santos y creyentes en Yehoshua. La clase explica _maaminim_ desde la raíz hebrea **אמן**, _aman_, vinculada con firmeza, confianza y fidelidad. La comparación entre **πίστις**, _pistis_, y **אמונה**, _emunah_, es útil para no reducir «creer» a una emoción momentánea, pero es aproximada: el griego y el hebreo tienen historias léxicas y contextos propios. En este versículo, lo decisivo es que la confianza tiene un objeto explícito: el Mesías Yehoshua.
 
 La exposición habla de creyentes como personas educadas en fidelidad. Puede conservarse como una aplicación formativa, no como el único significado de _pistis_. Efesios comienza con una comunidad reconocible por su relación con el Mesías; la nota no debe convertir la etiqueta «santos» en una afirmación de perfección independiente de la obediencia.
+
+La forma de 1:1 es **πιστοῖς**, adjetivo «fieles/creyentes», no el sustantivo **πίστις**. El Delitzsch usa **מאמינים**, participio que describe a quienes creen; la aplicación de Eric sobre educación en fidelidad no transforma esta forma activa en una pasiva.
 
 ## Favor y paz: no son una fórmula vacía (1:2) #efesios_1_2
 
@@ -60,7 +66,9 @@ La exposición habla de creyentes como personas educadas en fidelidad. Puede con
 
 La palabra **εὐλογέω**, _eulogeō_, significa bendecir o hablar bien. Efesios 1:3 afirma que Elohim nos bendijo con toda bendición espiritual en los lugares celestiales en el Mesías. La clase desarrolla la raíz hebrea **ברך**, _baraj_, y presenta la bendición como una acción de doblar o conducir una rama al suelo para que eche raíz. Desde allí propone leer bendición como injerto, adopción y multiplicación del pueblo.
 
-La imagen agrícola ilumina la idea de incorporación, especialmente cuando se compara con otros pasajes sobre ramas y pueblo. Sin embargo, **ברך** no debe reemplazar el verbo griego de Efesios ni convertirse en una traducción literal de «bendecir» en todos los textos. La comparación con Génesis 1:28, donde la bendición se relaciona con fecundidad y multiplicación, es temática. La referencia a _Mishná Kilayim_ mencionada en la clase queda pendiente de cotejo exacto; no se presenta aquí como autoridad ya verificada.
+La imagen agrícola ilumina la idea de incorporación, especialmente cuando se compara con otros pasajes sobre ramas y pueblo. Sin embargo, **ברך** no debe reemplazar el verbo griego de Efesios ni convertirse en una traducción literal de «bendecir» en todos los textos. La comparación con Génesis 1:28, donde la bendición se relaciona con fecundidad y multiplicación, es temática. El ejemplo de la clase (aproximadamente 00:40:12–00:41:18) corresponde a m. Kilayim 7:1, cotejada como fuente agrícola.
+
+La referencia agrícola se localiza en **m. Kilayim 7:1**: **המבריך** y **הבריכה** describen doblar y conducir una vid bajo tierra; la norma trata la siembra sobre ella y la medida desde su segunda raíz. Es acodo, el enraizamiento de una rama todavía unida a la planta, y debe distinguirse del injerto entre dos plantas. La coincidencia de las consonantes con **ברך** ayuda a entender la imagen de Eric, pero no convierte **εὐλογέω** en «injertar» ni demuestra que cada bendición bíblica signifique acodo. La Mishná confirma el ejemplo agrícola, no una traducción de Efesios.
 
 ## Elección, amor y adopción (1:4-5) #efesios_1_4-5
 
@@ -90,7 +98,7 @@ En 1:5, **υἱοθεσία**, _huiothesia_, nombra la adopción o colocación c
 
 ## Pendiente de verificar
 
-- [ ] Verificar la referencia exacta a _Mishná Kilayim_ citada en la clase sobre doblar una vid y formar una nueva raíz.
+- [x] Localizar y cotejar m. Kilayim 7:1; la norma describe acodo y siembra, no una traducción de «bendecir» en Efesios.
 - [ ] Cotejar **ברך**, **ברכה** y sus usos agrícolas antes de presentar «injertar» como sentido léxico principal.
 - [ ] Revisar la evidencia manuscrita mencionada sobre el destinatario de Efesios y el papiro 46; no se fija aquí una conclusión histórica.
 - [ ] Comparar **χάρις**, **חסד** y **חן** en sus contextos bíblicos sin convertir sus campos semánticos en equivalencias perfectas.

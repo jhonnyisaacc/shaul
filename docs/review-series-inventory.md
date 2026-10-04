@@ -17,7 +17,7 @@ Columns below count unique registered videos, videos represented in at least one
 | [613 Mitzvot](https://www.youtube.com/playlist?list=PLUaH57jVX98NdZ6Z1lUdd-owtWcDNURh3) | 63 | 63 | 2 | 0 |
 | [Apocalipsis](https://www.youtube.com/playlist?list=PLUaH57jVX98MAlvwaxGJeQXSTES1xjycK) | 30 | 30 | 17 | 17 |
 | [Colosenses](https://www.youtube.com/playlist?list=PLUaH57jVX98OJBkyrLjrclWPXIBrH8bGe) | 18 | 18 | 4 | 0 |
-| [Efesios completo](https://www.youtube.com/playlist?list=PLUaH57jVX98OZKn_up-LkgVmpDs6p5nEi) | 35 | 35 | 6 | 0 |
+| [Efesios completo](https://www.youtube.com/playlist?list=PLUaH57jVX98OZKn_up-LkgVmpDs6p5nEi) | 35 | 35 | 6 | 1 |
 | [Fiestas](https://www.youtube.com/playlist?list=PLUaH57jVX98PRILytS5Qfdj2OdGXx9eS-) | 53 | 52 | 18 | 0 |
 | [Gálatas](https://www.youtube.com/playlist?list=PLUaH57jVX98O6OfT613LeFilXeQmyFOY2) | 13 | 13 | 6 | 6 |
 | [Haftarot de bemidbar/Números](https://www.youtube.com/playlist?list=PLUaH57jVX98PZVYOTXBia51pnRX9ipyQ4) | 9 | 9 | 9 | 0 |
@@ -51,7 +51,7 @@ Columns below count unique registered videos, videos represented in at least one
 
 | Book or series | Videos | With notes | Notes | Reviewed |
 | --- | ---: | ---: | ---: | ---: |
-| [CARTA A LOS EFESIOS](https://www.youtube.com/playlist?list=PL8hWSx6FFBKO2GKV1vVjlvQZ4VjUXccKp) | 9 | 9 | 9 | 0 |
+| [CARTA A LOS EFESIOS](https://www.youtube.com/playlist?list=PL8hWSx6FFBKO2GKV1vVjlvQZ4VjUXccKp) | 9 | 9 | 9 | 5 |
 | [CARTA A LOS GÁLATAS](https://www.youtube.com/playlist?list=PL8hWSx6FFBKPtT-5QYhTkypKHblYH87qL) | 11 | 11 | 11 | 11 |
 | [CARTA A LOS ROMANOS](https://www.youtube.com/playlist?list=PL8hWSx6FFBKNOOXzi7D9iXNnQxYkOAx19) | 29 | 29 | 28 | 0 |
 | [DOCTRINAS DE HA'SATÁN](https://www.youtube.com/playlist?list=PL8hWSx6FFBKPeoF46MCdd5TOrZOYCtURl) | 4 | 4 | 3 | 0 |
@@ -103,7 +103,7 @@ This view lists **primary filename groups** among channel-associated notes. It i
 | Marcos | 20 | 20 |
 | Romanos | 42 | 0 |
 | Gálatas | 17 | 17 |
-| Efesios | 15 | 0 |
+| Efesios | 15 | 6 |
 | Colosenses | 4 | 0 |
 | Hebreos | 13 | 13 |
 | Revelación / Apocalipsis | 17 | 17 |
@@ -115,7 +115,7 @@ This view lists **primary filename groups** among channel-associated notes. It i
 | Order | Group | Current state |
 | ---: | --- | --- |
 | 1 | Gálatas — both channels, all six chapters | 17/17 notes reviewed; [per-note coverage](review-galatas-coverage.md) |
-| 2 | Efesios — both channels | Pending |
+| 2 | Efesios — both channels | 6/15 reviewed; [per-note coverage](review-efesios-coverage.md) |
 | 3 | Romanos — both channels | Pending |
 | 4 | Colosenses — Eric | Pending |
 | 5 | 1 and then 2 Tesalonicenses — both channels | Pending; each book is a separate group |
@@ -132,7 +132,7 @@ Already complete: [Yojanan/Revelation — 81 notes](review-notes-coverage.md) an
 
 ## Source and coverage gaps
 
-- 1392 unique registered videos across the two channels; 678 distinct existing notes match at least one registered ID. Completed source-matched notes: 114; still awaiting editorial review: 564.
+- 1392 unique registered videos across the two channels; 678 distinct existing notes match at least one registered ID. Completed source-matched notes: 120; still awaiting editorial review: 558.
 - 1113 registered videos are represented in existing notes; 279 lack notes. The latter are an ingestion backlog, not completed editorial work.
 - 24 represented registered videos lack locally archived captions. Availability alone does not establish that a transcript has been reviewed. Each editorial batch must attempt retrieval for its own missing captions and record the result.
 - These inventory snapshots have five source IDs used by notes but absent from both channel catalogs. Do not silently assign them to a channel:
@@ -141,7 +141,7 @@ Already complete: [Yojanan/Revelation — 81 notes](review-notes-coverage.md) an
   - [mateo_introduccion_2](../content/besorah/mateo_introduccion_2.md): [`youtube:ERNipOyGcr0`](https://www.youtube.com/watch?v=ERNipOyGcr0)
   - [yeshayahu_65](../content/tanaj/yeshayahu_65.md): [`youtube:5UIvzv_sQXI`](https://www.youtube.com/watch?v=5UIvzv_sQXI)
   - [bat_kol](../content/temas/bat_kol.md): [`youtube:jHd1MqzfcNo`](https://www.youtube.com/watch?v=jHd1MqzfcNo)
-- Additional note-linked books/series outside the registered catalogs include **Mateo (introduction, lesson 2)** and **2 Pedro (lesson 5, routed through the Bat Kol study)**. Their public links are listed above, but channel/speaker and full-series completeness remain unverified; keep them in the independent-source queue.
+- Additional Mateo and 2 Pedro thematic series have note provenance outside the registered book-playlist view; confirm channel and lesson coverage before grouping them.
 - Some registered videos have blank titles; classify them from a public title or source content before creating new notes.
 - The older authoring-lane coverage measures ingestion, not editorial completion; Somos lane routing covers only six playlists and is not used as the complete channel catalog.
 - Historical, rabbinic, manuscript and broad lexical claims remain explicit research follow-ups even after editorial review.

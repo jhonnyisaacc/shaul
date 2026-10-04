@@ -15,6 +15,8 @@ references:
   - "#efesios_1_13"
   - "#efesios_1_14"
 sources:
+  - "https://github.com/morphgnt/sblgnt/blob/master/70-Eph-morphgnt.txt"
+  - "https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/Eph.txt"
   - "https://www.youtube.com/watch?v=SyzQPifs_Ms"
   - "docs/scriptures/delitzsch/json/ephesians.json"
 source_ids:
@@ -34,10 +36,11 @@ Esta nota organiza la clase pública «LETTER TO THE EPHESIANS | The GUARANTEE i
 
 | Referencia | Texto local de Delitzsch (sin nikud) | Función en el estudio |
 | --- | --- | --- |
-| #efesios_1_11 | **ובו לקחנו נחלתנו אנחנו המיעדים לה מלפנים במחשבת פעל הכל כעצת חפצו** | La herencia se recibe «en él» y queda dentro del propósito de Elohim. |
-| #efesios_1_12 | **להיות לתהלת כבודו אנחנו אשר יחלנו אל־המשיח מאז** | La finalidad es la alabanza de su gloria en quienes esperan en el Mesías. |
-| #efesios_1_13 | **ואשר גם־אתם שתולים בו אחרי שמעכם דבר האמת את־בשורת ישועתכם ואשר בו כשהאמנתם גם־נחתמתם ברוח ההבטחה רוח הקדש** | Oír el mensaje de la verdad y confiar en el Mesías antecede al sello del Rúaj de la promesa. |
-| #efesios_1_14 | **כי זה ערבון נחלתנו לפדות־לו עם סגלה לתהלת כבודו** | El Rúaj es garantía de la herencia, orientada a redimir un pueblo para su gloria. |
+| #efesios_1_11 | Delitzsch: ובו לקחנו נחלתנו אנחנו המיעדים לה מלפנים במחשבת פעל הכל כעצת חפצו | La herencia se recibe «en él» y queda dentro del propósito de Elohim. |
+| #efesios_1_12 | Delitzsch: להיות לתהלת כבודו אנחנו אשר יחלנו אלהמשיח מאז | La finalidad es la alabanza de su gloria en quienes esperan en el Mesías. |
+| #efesios_1_13 | Delitzsch: ואשר גםאתם שתולים בו אחרי שמעכם דבר האמת אתבשורת ישועתכם ואשר בו כשהאמנתם גםנחתמתם ברוח ההבטחה רוח הקדש | Oír el mensaje de la verdad y confiar en el Mesías antecede al sello del Rúaj de la promesa. |
+| #efesios_1_14 | Delitzsch: כי זה ערבון נחלתנו לפדותלו עם סגלה לתהלת כבודו | El Rúaj es garantía de la herencia, orientada a redimir un pueblo para su gloria. |
+| #shemot_19_5 | OE: ועתה אם שמוע תשמעו בקלי ושמרתם את בריתי והייתם לי סגלה מכל העמים כי לי כל הארץ | Pueblo reservado en el contexto de escuchar y guardar el pacto. |
 
 ## La herencia se recibe en el Mesías (1:11-12) #efesios_1_11-12
 
@@ -55,7 +58,7 @@ La clase relaciona la emuná con ser afirmado o criado en la verdad y con una ob
 
 **ἀρραβών**, _arrabōn_, significa arras, anticipo o garantía. La clase explica la garantía como una porción presente que apunta a la consumación de la herencia. El texto sostiene esa dirección: el Rúaj es «garantía de nuestra herencia» con miras a la redención del pueblo adquirido. «Anticipo» es una glosa aproximada que conserva la relación entre presente y cumplimiento, no una afirmación sobre cuánto falta ni sobre el modo exacto de la consumación.
 
-Eric conecta «pueblo adquirido» con el lenguaje de **סגלה**, _segulá_, en Éxodo 19:5. La conexión es temática y debe cotejarse con la forma griega y con el contexto de Éxodo; no se debe afirmar que Efesios 1:14 sea una traducción literal de ese pasaje. Lo que el versículo sí afirma es una comunidad redimida y orientada hacia la gloria de Elohim. La garantía no convierte al pueblo en el centro de la gloria: lo prepara para alabarla y manifestarla.
+Eric conecta «pueblo adquirido» con el lenguaje de **סגלה**, _segulá_, en Éxodo 19:5. El cotejo OE de #shemot_19_5 encuentra **סגלה** en el pacto condicionado por oír y guardar. SBLGNT 1:14 usa **περιποίησις**, adquisición/posesión, y Delitzsch expresa **עם סגלה**, pueblo reservado. Esta decisión del traductor hace visible la conexión temática de Eric; no demuestra que Efesios cite literalmente Éxodo ni elimina el contexto del Sinaí. Lo que el versículo sí afirma es una comunidad redimida y orientada hacia la gloria de Elohim. La garantía no convierte al pueblo en el centro de la gloria: lo prepara para alabarla y manifestarla.
 
 ## Hoja léxica
 
@@ -65,7 +68,7 @@ Eric conecta «pueblo adquirido» con el lenguaje de **סגלה**, _segulá_, en
 | **(σφραγίζω)** | _sphragizō_ | sellar, marcar, autenticar | Confirmación del Rúaj prometido | Directa en el contexto |
 | **(ἀρραβών)** | _arrabōn_ | arras, anticipo, garantía | Señal presente de la herencia futura | Directa; «anticipo» es glosa |
 | **(πίστις)** / **(אמונה)** | _pistis_ / _emunah_ | fe, confianza; firmeza, fidelidad | Respuesta al mensaje de la verdad | Aproximada, no identidad total |
-| **(περιποίησις)** / **(סגלה)** | _peripoiēsis_ / _segulá_ | adquisición, posesión reservada | Pueblo redimido para la gloria | Relación temática pendiente de cotejo |
+| **(περιποίησις)** / **(סגלה)** | _peripoiēsis_ / _segulá_ | adquisición, posesión reservada | Pueblo redimido para la gloria | Relación temática cotejada; no identidad de textos |
 
 ## Mapa de la enseñanza de Eric
 
@@ -73,11 +76,11 @@ Eric conecta «pueblo adquirido» con el lenguaje de **סגלה**, _segulá_, en
 | --- | --- | --- |
 | #efesios_1_11-12 | La herencia se recibe en Yehoshua y tiene como fin la gloria de Elohim, no la exaltación humana. | Apoyo textual; la idea de formación se marca como inferencia coherente. |
 | #efesios_1_13 | La emuná no se presenta como propiedad autónoma: el mensaje se oye, se recibe y el Rúaj sella. | Apoyo textual con aclaración léxica; equivalencia entre _pistis_ y _emunah_ cualificada. |
-| #efesios_1_14 | El sello es garantía de la herencia y conduce a la redención de un pueblo adquirido. | Apoyo textual; conexión con **segulá** queda como relación temática pendiente. |
+| #efesios_1_14 | El sello es garantía de la herencia y conduce a la redención de un pueblo adquirido. | Apoyo textual; conexión con **segulá** queda como relación temática cotejada, sin afirmar una cita literal. |
 
 ## Pendiente de verificar
 
-- [ ] Cotejar **περιποίησις** y su relación exacta con **סגלה** en Éxodo 19:5 y otros textos.
+- [x] Cotejar **περιποίησις** en SBLGNT 1:14 y **סגלה** en OE #shemot_19_5; registrar la formulación ampliada de Delitzsch, sin convertirla en cita literal del Sinaí.
 - [ ] Revisar los usos de **ἀρραβών** antes de convertir «anticipo» en una descripción exhaustiva de la escatología.
 - [ ] Estudiar la relación contextual entre **πίστις** y **אמונה** sin resolverla por una sola traducción.
 - [ ] Verificar las conexiones de la clase con Romanos y con la traducción de «herencia» en otros pasajes.
