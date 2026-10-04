@@ -24,12 +24,14 @@ references:
   - "#juan_15_14"
   - "#juan_3_16"
 sources:
+  - "https://github.com/morphgnt/sblgnt/blob/master/66-Ro-morphgnt.txt"
+  - "https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/Rom.txt"
   - "https://www.youtube.com/watch?v=_5x1rBaSoNk"
   - "docs/scriptures/tth/json/romanos.json"
   - "docs/scriptures/oe/json/leviticus/19.json"
 source_ids:
   - "youtube:_5x1rBaSoNk"
-translation: "[TTH, OE]"
+translation: "[TTH, Delitzsch, OE]"
 ---
 
 # Tesis
@@ -44,11 +46,13 @@ Esta nota organiza la clase pública **El AMOR al COMPAÑERO**, capítulo 13, #2
 
 | Referencia | Texto local | Función en la enseñanza |
 | --- | --- | --- |
-| #romanos_13_8-10 | **No deban nada a nadie, sino el amar un hombre a su compañero; porque el que ama a su compañero ha hecho plena la Torá... El amor no hace mal al compañero; por eso el amor es la plenitud de la Torá.** (TTH) | La deuda permanente de amor se vuelve cumplimiento concreto de los mandamientos relacionados con el otro. |
-| #romanos_13_11-12 | **Y esto, conociendo el tiempo, que ya es hora de despertarnos del sueño... la noche avanzó y el día se acercó; por eso quitémonos las obras de la oscuridad y vistámonos las armas de la luz.** (TTH) | La urgencia escatológica llama a abandonar prácticas de oscuridad, no a aplazar la obediencia. |
-| #romanos_13_13-14 | **Andemos con decencia, como en el día; no en borracheras y embriagueces, no en camas y libertinaje, no en discordia y celos; sino vístanse de Yehoshua el Mesías y no hagan provisión para los deseos de la carne.** (TTH) | El amor al compañero se inserta en una vida vigilante, sobria y revestida del Mesías. |
-| #vayikra_19_17-18 | **No aborrecerás a tu hermano en tu corazón... no te vengarás... sino amarás a tu compañero como a ti mismo. Yo soy יהוה.** (OE, extracto) | El amor incluye corrección responsable y renuncia a la venganza. |
-| #lucas_10_25-37 | La parábola del samaritano responde a «¿quién es mi compañero?» con la acción misericordiosa del que se acerca. | La clase usa el relato para enseñar que el amor se reconoce en la obra, no solo en una categoría de pertenencia. |
+| #romanos_13_8-10 | TTH: No deban nada a nadie, sino el amar un hombre a su compañero; porque el que ama a su compañero, ha hecho plena la Torah. Porque: No adulterarás, no asesinarás, no robarás, no responderás falso testimonio, no codiciarás¹⁵⁸, y si hay otro mandamiento, en esta palabra se completa sumariamente: Y amarás por estar siendo tú el compañero, como tú¹⁵⁹. El amor, al compañero no hace mal; por eso, la plenitud de la Torah es el amor. | La deuda permanente de amor se vuelve cumplimiento concreto de los mandamientos relacionados con el otro. |
+| #romanos_13_11-12 | TTH: Y acerca de esto, conocerán el tiempo, porque ahora es la hora de despertarnos del sueño, porque ahora está más cercana para nosotros la salvación que cuando nos afirmamos¹⁶⁰. La noche ha pasado y el día se ha acercado, y echemos de nosotros las obras de la oscuridad y vistámonos de las armas de luz. | La urgencia escatológica llama a abandonar prácticas de oscuridad, no a aplazar la obediencia. |
+| #romanos_13_13-14 | TTH: Como en el día, dignamente, andemos; no en glotonerías y borracheras, no en camas y lascivias, no en contienda y envidia. Sino vístanse del Adón¹⁶¹ Yeshúa el Mesías, y preocúpense de la carne, no haciendo los deseos. | El amor al compañero se inserta en una vida vigilante, sobria y revestida del Mesías. |
+| #vayikra_19_17-18 | OE: לא תשנא את אחיך בלבבך הוכח תוכיח את עמיתך ולא תשא עליו חטא לא תקם ולא תטר את בני עמך ואהבת לרעך כמוך אני יהוה | El amor incluye corrección responsable y renuncia a la venganza. |
+| #lucas_10_25-37 | TTH: Y he aquí, un rabino de la Torah se levantó probándolo, diciendo: Maestro, ¿qué haré para heredar la vida olam¹⁷⁵? Y Él le dijo: ¿Qué está escrito en la Torah? ¿Cómo lees? Y respondió, y dijo: Y amarás a יהוה tu Elohim con todo tu corazón, con todo tu ser y con todo lo mucho tuyo¹⁷⁶, y a tu compañero como a ti mismo¹⁷⁷. Y Él le dijo: Bien has respondido, haz esto y vivirás. Pero él quería justificarse a sí mismo, y dijo a Yeshúa: ¿Y quién es mi compañero? Y respondió Yeshúa, y dijo: Un hombre descendía de Ierushaláim¹⁷⁸ a Ierijó¹⁷⁹, y cayó en manos de bandidos, y lo despojaron, lo golpearon y se fueron, y lo dejaron como muerto. Y aconteció que un sacerdote descendió por el camino, y lo vio, pero pasó. También así entró un leví¹⁸⁰ a aquel lugar, y lo vio, pero pasó. Y un shomroní¹⁸¹ que iba por su camino fue hacia él, y cuando lo vio, se estremecieron sus entrañas; y se acercó y vendó sus heridas, echando en ellas vino y aceite, y lo montó sobre su asno y lo llevó a un albergue y cuidó de él¹⁸². Y en el día segundo, cuando salía, sacó dos denarios y los dio al dueño del albergue, y le dijo: “Cuida de él, y todo lo que se gaste de más, cuando regrese te lo devolveré”. ¿Y quién de estos tres te parece que fue compañero del que cayó en manos de los bandidos? Y él dijo: Este que hizo bondad con él. Y Yeshúa le dijo: Ve, y haz también así. | La clase usa el relato para enseñar que el amor se reconoce en la obra, no solo en una categoría de pertenencia. |
+| #juan_15_14 | Delitzsch: ואתם ידידי הנכם רק אםתעשו את אשראנכי מצוה אתכם | Amistad y hacer lo mandado. |
+| #juan_3_16 | Delitzsch: כיכן אהב אלהים אתהעולם עדאשר נתן בעדו אתבנו אתיחידו וכלהמאמין בו לאיאבד כי בו ימצא חיי עולם | La amplitud del amor se contrasta con la propuesta sobre pertenencia. |
 
 ## 13:8-10: la deuda que no se cancela #romanos_13_8-10
 
@@ -58,13 +62,17 @@ Pablo enumera mandamientos que protegen al compañero: no adulterar, no asesinar
 
 La clase presta atención a **רע**, _rea_, que propone traducir como compañero o amigo en lugar de un «prójimo» entendido de manera vaga. Esa preferencia puede hacer visible la relación, pero la equivalencia castellana es aproximada y no debe depender de una etimología pastoral. El punto sólido es que el mandamiento obliga al creyente a actuar respecto del otro y no solo a cultivar una intención privada.
 
+TTH en 13:9 incluye «no responderás falso testimonio»; SBLGNT enumera adulterio, asesinato, robo y codicia, sin esa cláusula. Se conserva cada testigo sin atribuirle la misma lista exacta. En ambos, el cierre vincula el amor con los demás mandamientos y con no hacer mal.
+
 ## 13:8-10 y Lucas 10: ser quien se hace compañero #romanos_13_8-10
 
 Eric relaciona Levítico 19:18 con la pregunta del intérprete de la Torá en Lucas 10. La clase destaca la diferencia entre preguntar «¿quién es mi prójimo?» y responder «¿quién se hizo compañero del herido?». El samaritano se acerca, venda, transporta, paga y promete cuidar; Yehoshua termina ordenando: «Ve y haz tú lo mismo». Esa aplicación ilumina la forma activa del amor, aunque la explicación exacta de las preposiciones hebreas en Levítico requiere cotejo gramatical.
 
 La exposición también insiste en que Levítico 19:17 vincula amor y corrección: no aborrecer al hermano en el corazón incluye reprenderlo con evidencia. La nota conserva esto como una lectura atribuible y cualificada. Romanos 13 no desarrolla un procedimiento disciplinario; sí afirma que el amor no hace mal. La corrección solo puede llamarse amorosa si busca el bien del compañero, evita la venganza y no convierte la propia interpretación en tribunal.
 
-De esta manera, «como a ti mismo» no debe transformarse en una psicología de autoafecto que pone el yo primero. La clase lo traduce pedagógicamente como una medida o comparación de acción, mientras el centro ético permanece en hacerse responsable del bien del otro. El vínculo con Yehoshua 15:14 —la amistad expresada en hacer lo mandado— puede enriquecer la lectura canónica, pero no prueba por sí solo cada detalle de la exégesis hebrea.
+De esta manera, «como a ti mismo» no debe transformarse en una psicología de autoafecto que pone el yo primero. La clase lo traduce pedagógicamente como una medida o comparación de acción, mientras el centro ético permanece en hacerse responsable del bien del otro. El vínculo con Yojanán 15:14 —la amistad expresada en hacer lo mandado— puede enriquecer la lectura canónica, pero no prueba por sí solo cada detalle de la exégesis hebrea.
+
+OE en Vayikra 19:18 tiene **ואהבת לרעך כמוך**: **לרעך**, _lereakha_, contiene la preposición ל y «tu compañero». La construcción dirige el amor hacia el otro; no contiene literalmente «por estar siendo tú el compañero». Esa formulación TTH y la lectura de Eric se conservan como explicación pedagógica. Lucas 10:36 sí pregunta quién llegó a ser compañero del herido; la aplicación de ese giro a Vayikra no transforma su sintaxis.
 
 ## 13:11-14: despertar, despojarse y revestirse #romanos_13_11-14
 
@@ -82,7 +90,7 @@ Pablo concreta esa vigilancia: no borracheras, embriagueces, camas ilícitas, li
 | **(ἀγαπάω)** | _agapaō_ | amar, valorar y actuar en favor | «Amor» es directo en el contexto; reducirlo a emoción o ampliarlo a toda relación moderna sería insuficiente. |
 | **(πληρόω)** | _plēroō_ | llenar, completar, llevar a plenitud | «Hacer plena» conserva la imagen de llenar; no significa cancelar los mandamientos que Pablo enumera. |
 | **(רע)** | _rea_ | compañero, amigo, asociado | La clase prefiere «compañero»; es una opción pedagógica útil, no una equivalencia que resuelva todos los usos del término. |
-| **(γρηγορέω)** | _grēgoreō_ | velar, estar despierto | La imagen de despertar en 13:11 comunica urgencia y vigilancia, no una fecha calculable. |
+| **(ἐγερθῆναι)** | _egerthēnai_ | despertar, levantarse; infinitivo pasivo de ἐγείρω | La imagen de despertar en 13:11 comunica urgencia y vigilancia, no una fecha calculable. |
 | **(ἐνδύω)** | _endyō_ | vestir, ponerse | En 13:14 describe revestirse del Mesías; es una imagen ética y comunitaria, no una fórmula ritual. |
 | **(πρόνοια)** | _pronoia_ | previsión, provisión, cuidado anticipado | «No hacer provisión para la carne» prohíbe preparar el camino a los deseos; no elimina toda planificación responsable. |
 
@@ -96,7 +104,7 @@ Pablo concreta esa vigilancia: no borracheras, embriagueces, camas ilícitas, li
 
 ## Pendiente de verificar
 
-- [ ] Cotejar la sintaxis hebrea de Levítico 19:18 y la función de **ל** antes de presentar la lectura «por estar siendo tú el compañero» como traducción.
+- [x] Cotejar OE Vayikra 19:18: לרעך dirige el amor hacia «tu compañero»; «por estar siendo tú» es interpretación TTH, no traducción literal de la preposición.
 - [ ] Verificar los campos semánticos de **רע**, **אהב** y **תוכחה** en sus contextos bíblicos; la tabla conserva aproximaciones pedagógicas.
 - [ ] Cotejar la relación entre Romanos 13:9, Levítico 19:18 y Lucas 10 en las fuentes textuales correspondientes.
 - [ ] Revisar la afirmación de la clase de que el amor de Elohim está reservado exclusivamente a quienes ya pertenecen al pueblo; Romanos 13:8-14 no resuelve por sí solo toda esa doctrina.

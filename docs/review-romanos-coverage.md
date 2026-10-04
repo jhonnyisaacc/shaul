@@ -12,13 +12,13 @@ Scope: **43 existing notes**: 14 Eric chapter studies, 28 Somos pericope studies
 | [Romanos 12: profecía y llamado a la teshuvah](../content/besorah/romanos_12.md) | Raw notes; video unassigned | None assigned | Reviewed | None |
 | [Romanos 12: culto vivo, dones y amor práctico](../content/besorah/romanos_12_culto_vivo_dones_amor_practico.md) | Eric | [`8z-3MkpomOo`](https://www.youtube.com/watch?v=8z-3MkpomOo) | Reviewed | None |
 | [Romanos 12: la medida de la emunah en un cuerpo que sirve](../content/besorah/romanos_12_medida_emunah_cuerpo_dones_amor.md) | Somos | [`8X6RZ978QNo`](https://www.youtube.com/watch?v=8X6RZ978QNo) | Reviewed | None |
-| [Romanos 13: el amor al compañero llena la Torá](../content/besorah/romanos_13_amor_al_companero_tora_y_vida_comun.md) | Somos | [`_5x1rBaSoNk`](https://www.youtube.com/watch?v=_5x1rBaSoNk) | Pending | None |
-| [Romanos 13: autoridad, discernimiento y un testimonio íntegro](../content/besorah/romanos_13_autoridad_discernimiento_y_testimonio.md) | Somos | [`47wv6TT5NVg`](https://www.youtube.com/watch?v=47wv6TT5NVg) | Pending | None |
-| [Romanos 13: autoridades, amor y vigilancia](../content/besorah/romanos_13_autoridades_amor_vigilancia.md) | Eric | [`Wvj5LCGsSLw`](https://www.youtube.com/watch?v=Wvj5LCGsSLw) | Pending | None |
-| [Romanos 14: acogida mutua, conciencia y edificación](../content/besorah/romanos_14_acogida_mutua_conciencia_edificacion.md) | Eric | [`FXNL9LiBWFk`](https://www.youtube.com/watch?v=FXNL9LiBWFk); [`IU50N7zdeww`](https://www.youtube.com/watch?v=IU50N7zdeww); [`UpiptaA32B4`](https://www.youtube.com/watch?v=UpiptaA32B4) | Pending | None |
-| [Romanos 14: el débil de la emunah y una mesa sin tropiezo](../content/besorah/romanos_14_debil_emunah_y_mesa_comun.md) | Somos | [`PCWtwSVbOxI`](https://www.youtube.com/watch?v=PCWtwSVbOxI); [`tsyPWt0oNyA`](https://www.youtube.com/watch?v=tsyPWt0oNyA) | Pending | None |
-| [Romanos 15: acogida, promesas y misión entre las naciones](../content/besorah/romanos_15_paciencia_acogida_mision_alabanza.md) | Somos | [`cnpWPNR8xyg`](https://www.youtube.com/watch?v=cnpWPNR8xyg) | Pending | None |
-| [Romanos 16: servicio, discernimiento y saludos finales](../content/besorah/romanos_16_comunidad_servicio_despedida_apostolica.md) | Somos | [`YuANrfa9CsQ`](https://www.youtube.com/watch?v=YuANrfa9CsQ) | Pending | None |
+| [Romanos 13: el amor al compañero llena la Torá](../content/besorah/romanos_13_amor_al_companero_tora_y_vida_comun.md) | Somos | [`_5x1rBaSoNk`](https://www.youtube.com/watch?v=_5x1rBaSoNk) | Reviewed | None |
+| [Romanos 13: autoridad, discernimiento y un testimonio íntegro](../content/besorah/romanos_13_autoridad_discernimiento_y_testimonio.md) | Somos | [`47wv6TT5NVg`](https://www.youtube.com/watch?v=47wv6TT5NVg) | Reviewed | None |
+| [Romanos 13: autoridades, amor y vigilancia](../content/besorah/romanos_13_autoridades_amor_vigilancia.md) | Eric | [`Wvj5LCGsSLw`](https://www.youtube.com/watch?v=Wvj5LCGsSLw) | Reviewed | None |
+| [Romanos 14: acogida mutua, conciencia y edificación](../content/besorah/romanos_14_acogida_mutua_conciencia_edificacion.md) | Eric | [`FXNL9LiBWFk`](https://www.youtube.com/watch?v=FXNL9LiBWFk); [`IU50N7zdeww`](https://www.youtube.com/watch?v=IU50N7zdeww); [`UpiptaA32B4`](https://www.youtube.com/watch?v=UpiptaA32B4) | Reviewed | None |
+| [Romanos 14: el débil de la emunah y una mesa sin tropiezo](../content/besorah/romanos_14_debil_emunah_y_mesa_comun.md) | Somos | [`PCWtwSVbOxI`](https://www.youtube.com/watch?v=PCWtwSVbOxI); [`tsyPWt0oNyA`](https://www.youtube.com/watch?v=tsyPWt0oNyA) | Reviewed | None |
+| [Romanos 15: acogida, promesas y misión entre las naciones](../content/besorah/romanos_15_paciencia_acogida_mision_alabanza.md) | Somos | [`cnpWPNR8xyg`](https://www.youtube.com/watch?v=cnpWPNR8xyg) | Reviewed | None |
+| [Romanos 16: servicio, discernimiento y saludos finales](../content/besorah/romanos_16_comunidad_servicio_despedida_apostolica.md) | Somos | [`YuANrfa9CsQ`](https://www.youtube.com/watch?v=YuANrfa9CsQ) | Reviewed | None |
 | [Romanos 1: verdad retenida, deseo desordenado y juicio](../content/besorah/romanos_1_desenfreno_verdad_retenida_y_juicio.md) | Somos | [`-xgUSMnGvW8`](https://www.youtube.com/watch?v=-xgUSMnGvW8) | Reviewed | None |
 | [Romanos 1: evangelio, justicia y responsabilidad humana](../content/besorah/romanos_1_evangelio_justicia_responsabilidad_humana.md) | Eric | [`5yDcBBBWTkY`](https://www.youtube.com/watch?v=5yDcBBBWTkY); [`VwtpBX1Q444`](https://www.youtube.com/watch?v=VwtpBX1Q444); [`XpT2I9DGotI`](https://www.youtube.com/watch?v=XpT2I9DGotI) | Reviewed | None |
 | [Romanos 1: la potencia de la Besorah, justificación e ira](../content/besorah/romanos_1_potencia_besorah_justificacion_ira.md) | Somos | [`irpXnhj4cMI`](https://www.youtube.com/watch?v=irpXnhj4cMI) | Reviewed | None |
@@ -51,6 +51,7 @@ Scope: **43 existing notes**: 14 Eric chapter studies, 28 Somos pericope studies
 ## Source limits
 
 - `6D7Yj0bDSfU` (Eric part 6A, Romanos 2) and `u0NtR-y-T2Y` (Eric part 7, Romanos 3) remain unavailable after fresh attempts with `scripts/fetch_transcript.py` and its yt-dlp fallback. Their maps distinguish public-title scope from editorial passage evaluation. Do not infer that these videos were deleted or that their oral teaching has been verified.
+- Local TTH has no separate Romanos 9:28 entry; the affected full verse unit uses Delitzsch and says so explicitly.
 - The raw Romanos 12 note has no verified lesson assignment; preserve its ideas and record its provenance without inventing a video credit.
 - Exact historical, manuscript, rabbinic and broad lexical claims remain explicit follow-ups. Locating Mishnah Sanhedrin 10:1 verifies the allusion and its exceptions, not historical dependence by Paul.
 
@@ -85,3 +86,13 @@ Batch 28 passed push/PR editorial CI (37235311361, 37235314899); Vercel remained
 **36/43 notes reviewed.** Distinguished active belief forms from the passive TTH interpretation, located Yoel 3:5 and Tehilim 19:5 in OE numbering, and separated Isaiah’s Hebrew wording from the direction and agency of Paul’s quotation. Corrected the false Romanos 12 caption gap, the renewal noun and the thinking wordplay; retained concrete class examples and consolidated repetition. The raw chapter-12 apunte remains unassigned to a video and distinguishes proportion in 12:6 from measure in 12:3.
 
 Local validation: seven transcript-quality checks, zero failures, plus manual raw-note provenance review; 55 supported comparison cells, zero mismatch candidates; 18 unparsed map/lexical rows have complementary review. All source IDs preserved, all destinations resolve. YouTube hygiene, verse conventions, Bun frontmatter, full index generation and whitespace checks pass.
+
+Batch 29 passed push/PR editorial CI (37236394330, 37236397404); Vercel remained at six baseline deployments, with zero branch, review-SHA or new deployments.
+
+## Batch 30 — Romanos 13–16 and completed group audit
+
+**43/43 existing notes reviewed.** Corrected awakening versus watching, distinct service nouns, the dativo of faith in 14:1, the considering participle and the middle/passive form in 14:23. Preserved teacher arguments while distinguishing the Greek authority syntax, the longer TTH commandment list, the tribunal witness difference, and the active-neighbor application from the literal Hebrew construction. Located Avodah Zarah 2:6–7 without treating later formulation as proof of the Roman setting. Restored complete chapter units and Tanaj references, including Daniel 6:11 and Tehilim 18:50 in OE numbering.
+
+Final group validation: **42 transcript-quality checks, zero failures**, plus manual review of the raw study; **292 supported comparison cells, zero mismatch candidates**. The 139 unparsed lexical/map/mixed rows are complemented by passage review and are not automatically certified. All 62 original video-ID assignments are preserved and all note destinations resolve. Repository YouTube hygiene: 684 notes, zero failures. Verse conventions: 802 authored files, 20,030 canonical tags, zero failures. Bun frontmatter, local corpus readiness, all 17 regression tests, full index generation (9,016 verses; three chapter entries) and whitespace checks pass.
+
+Remaining research is recorded in the notes: two unavailable captions, precise historical/manuscript/lexical claims, and the raw study’s video assignment. The existing-note editorial group is complete; this does not certify missing oral evidence. Colosenses is the next group in the inventory.

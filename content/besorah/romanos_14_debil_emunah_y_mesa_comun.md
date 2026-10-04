@@ -30,6 +30,12 @@ references:
   - "#hechos_10_28"
   - "#hechos_15_19"
 sources:
+  - "docs/scriptures/oe/json/leviticus/10.json"
+  - "docs/scriptures/oe/json/isaiah/45.json"
+  - "https://github.com/morphgnt/sblgnt/blob/master/66-Ro-morphgnt.txt"
+  - "https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/Rom.txt"
+  - "https://www.sefaria.org/Mishnah_Avodah_Zarah.2.7?lang=bi"
+  - "https://www.sefaria.org/Mishnah_Avodah_Zarah.2.6?lang=bi"
   - "https://www.youtube.com/watch?v=PCWtwSVbOxI"
   - "https://www.youtube.com/watch?v=tsyPWt0oNyA"
   - "docs/scriptures/tth/json/romanos.json"
@@ -38,7 +44,7 @@ sources:
 source_ids:
   - "youtube:PCWtwSVbOxI"
   - "youtube:tsyPWt0oNyA"
-translation: "[TTH, Delitzsch]"
+translation: "[TTH, Delitzsch, OE]"
 ---
 
 # Tesis
@@ -53,11 +59,14 @@ Esta nota reúne las clases públicas **El DÉBIL de la EMUNAH**, capítulo 14, 
 
 | Referencia | Texto local | Función en el argumento |
 | --- | --- | --- |
-| #romanos_14_1-3 | **Y al débil de la emunah tomen, no para hacer divisiones de los pensamientos. Porque uno se afirma para comer todo, pero el débil come vegetales. El que come no desprecie al que no come, y el que no come no juzgue al que come, porque Elohim lo ha tomado.** (TTH) | Recibir y no convertir la diferencia de mesa en desprecio o juicio. |
-| #romanos_14_5-7 | **Y uno distingue entre día y día, otro distingue todo día como cada uno. Cada uno esté pleno en su mente... Porque ninguno de nosotros vive para sí, y ninguno muere para sí.** (TTH) | La convicción personal queda delante de Elohim, no como tribunal sobre el compañero. |
-| #romanos_14_10-15 | **¿Por qué juzgas a tu hermano?... todos estaremos parados ante el trono del juicio del Mesías... que no pongan obstáculo al hermano, o tropiezo... no eches a perder por tu comida al quien por el cual murió el Mesías.** (TTH) | El juicio final y el amor limitan la manera de ejercer libertad. |
-| #romanos_14_17-23 | **El reino de Elohim no es comida ni bebida, sino justicia, shalom y gozo en el Rúaj Ha’Kódesh... persigamos los caminos de shalom y a la edificación... todo lo que no es dentro de la emunah, es pecado.** (TTH) | Paz, edificación y convicción ordenan la práctica comunitaria. |
-| #romanos_15_1-7 | **Debemos nosotros, los fuertes, sobrellevar las debilidades de los débiles... porque todas las palabras que desde antes se escribieron... para que... haya para nosotros confianza... tómense un hombre a su compañero, como también el Mesías los tomó.** (TTH) | El cierre de la sesión enlaza Romanos 14 con paciencia, Escrituras y acogida según el Mesías. |
+| #romanos_14_1-7 | TTH: Y al débil¹⁶² de la emunah¹⁶³ tomen, no para hacer divisiones de los pensamientos. Porque uno se afirma para comer todo, pero el débil come vegetales. El que come no desprecie al que no come, y el que no come no juzgue al que come, porque Elohim lo ha tomado. ¿Y quién eres tú, que juzgas a otro siervo? Para su amo está en pie o cae; pero estará en pie, porque poderoso es יהוה para hacerlo estar en pie. Y uno distingue entre día y día, otro distingue todo día como cada uno. Cada uno esté pleno en su mente. El que entiende el día, para יהוה lo entiende, y el que no lo entiende, para יהוה no lo entiende; el que come, para יהוה come, y agradece a יהוה, y el que no come, para יהוה no come, y agradece a יהוה. Porque ninguno de ustedes vive para sí, y ninguno muere para sí. | Recepción, mesa, días y vida para el Señor. |
+| #romanos_14_8-13 | TTH: Porque si vivimos, para יהוה vivimos, y si morimos, para יהוה morimos. Por lo tanto, si vivimos o morimos, para יהוה somos. Porque por esto murió y se levantó el Mesías, para que gobierne tanto sobre los muertos como sobre los vivos. Pero tú, ¿por qué juzgas a tu hermano? O, tú también, ¿por qué desprecias a tu hermano? Porque todos estaremos parados ante el trono del juicio del Mesías¹⁶⁴. Porque está escrito: Vivo Yo –declaración de יהוה– Que a Mí se inclinará toda rodilla y jurará toda lengua¹⁶⁵. Y por eso, todo hombre de nosotros, acerca de sí mismo devolverá palabra¹⁶⁶ a Elohim. Por lo tanto, no juzguemos más un hombre a su compañero, sino esto juzguen más: que no pongan obstáculo al hermano, o tropiezo. | Pertenencia, juicio y no tropiezo. |
+| #romanos_14_14-18 | TTH: Yo sé y confío en nuestro Adón¹⁶⁷ Yeshúa que no hay nada profano¹⁶⁸ en sí mismo, sino que el que considera que algo es profano, para él será profano. Y si por causa de la comida se aflige tu hermano, ya no andas conforme al amor; no eches a perder por tu comida al quien por el cual murió el Mesías. Por eso, no sea injuriado el bien de ustedes. Porque el reino de Elohim no es comida ni bebida, sino justicia, shalom¹⁶⁹ y gozo en el Rúaj Ha’Kódesh¹⁷⁰. Porque el que en estas cosas sirve al Mesías, acepto es a Elohim, y aprobado a los hombres. | Consideración, amor y reino. |
+| #romanos_14_19-23 | TTH: Por lo tanto, persigamos los caminos de shalom y a la edificación entre nosotros. No derribes la obra de Elohim por causa de la comida. Porque todas las cosas son puras, pero malo es para el hombre que coma para tropiezo. Bueno es no comer carne, ni beber vino, ni lo que haga golpear, tropezar o debilitar a tu hermano. Tú, ¿hay para ti emunah¹⁷¹? Haya para ti delante de Elohim. ¡Feliz el hombre que no se juzgue a sí mismo en lo que aprueba! Pero el que hace diferencias cuando come, es sentenciado, porque no es dentro de la emunah; porque todo lo que no es dentro de la emunah, es pecado. | Edificación, convicción y responsabilidad. |
+| #romanos_15_1-7 | TTH: Y debemos nosotros, los fuertes, sobrellevar las debilidades de los débiles, y no agradarnos a nosotros mismos. Pues, cada uno de nosotros agrade a su compañero para bien, para edificación. Porque tampoco el Mesías se agradó a sí mismo, sino como está escrito: Los insultos de los que te insultan cayeron sobre Mí¹⁷². Porque todas las palabras que desde antes se escribieron, para nuestro aprendizaje se escribieron, para que por la esperanza y por la consolación¹⁷³ de las Escrituras, haya para nosotros confianza. Y el Elohim de la esperanza y la consolación dé a ustedes que sean de un solo corazón según Yeshúa el Mesías, para que, en una misma mente y en una misma boca, glorifiquen al Elohim y Padre en nuestro Adón¹⁷⁴ Yeshúa el Mesías. La Besorah a los gentiles Por lo tanto, tómense un hombre a su compañero, como también el Mesías los tomó para gloria de Elohim. | El cierre de la segunda clase carga al débil y acoge según el Mesías. |
+| #yeshayahu_45_23 | OE: בי נשבעתי יצא מפי צדקה דבר ולא ישוב כי לי תכרע כל ברך תשבע כל לשון | Rodillas, lenguas y juramento; cita de 14:11. |
+| #vayikra_10_10 | OE: ולהבדיל בין הקדש ובין החל ובין הטמא ובין הטהור | Dos distinciones: santo/común e impuro/puro. |
+| #hechos_10_28 | Delitzsch: ויאמר אליהם אתם ידעתם כיאסור הוא לאיש יהודי להלות ולקרב אלנכרי ואתי הורה אלהים לבלתי אמר חל אוטמא עלכלאדם | Común e impuro en la relación con personas. |
 
 ## Léxico clave: enfermedad, profanidad y fidelidad
 
@@ -66,7 +75,7 @@ Esta nota reúne las clases públicas **El DÉBIL de la EMUNAH**, capítulo 14, 
 | **(חול)** | _chol_ | Común o profano, aplicado por Eric a algo que podía ser apto para comer pero no para ofrecer en el santuario. | Distinción pedagógica de la clase; no debe convertirse automáticamente en la definición de cada uso griego de Romanos 14. |
 | **(טמא)** | _tame_ | Impuro o no apto para consumo y santidad. | La diferencia con _chol_ es útil como hipótesis explicativa, pero la correspondencia con **(κοινός)** y **(ἀκάθαρτος)** es aproximada y queda por cotejar. |
 | **(κοινός)** | _koinos_ | Común o profano en la lectura que la clase aplica a Romanos 14:14. | Glosa aproximada; el texto local TTH traduce «profano», mientras Delitzsch conserva **טמא**. No se afirma equivalencia perfecta. |
-| **(ἐμοὶ... λογίζομαι)** | _emoi... logizomai_ | La consideración personal de que algo es profano no debe transformarse en condena del hermano. | La aplicación sigue el sentido del verso; la sintaxis griega exacta requiere verificación independiente. |
+| **(τῷ λογιζομένῳ)** | _tō logizomenō_ | La consideración personal de que algo es profano no debe transformarse en condena del hermano. | Participio dativo: para quien lo considera; ἐμοί pertenece a 14:11, no a esta frase. |
 | **(πίστις)** | _pistis_ / emunah | Eric relaciona «fe» con **אמונה**, afirmación o fidelidad, y corrige la lectura de «duda» en 14:23 hacia hacer diferencias. | Relación pedagógica y aproximada, no equivalencia automática. |
 
 ## 14:1-7: recibir al débil sin convertir la conciencia en etiqueta #romanos_14_1-7
@@ -75,11 +84,17 @@ Eric propone que la expresión «débil de la emunah» describe una enfermedad o
 
 El texto sí establece el orden de la recepción: al débil se le toma, pero no para disputar sus pensamientos (#romanos_14_1). El que come no debe despreciar al que no come y el que no come no debe juzgar al que come (#romanos_14_2-3). Eric aplica el contraste a una comunidad donde judíos podían conservar restricciones de preparación de alimentos, mientras gentiles creyentes no las reconocían como mandamientos de la Torá. El pasaje respalda la prohibición de desprecio y juicio; no enumera la regla rabínica concreta ni demuestra que todo «débil» fuera judío. La identificación histórica debe permanecer cualificada.
 
+En 14:1, SBLGNT tiene **ἀσθενοῦντα τῇ πίστει**, _asthenounta tē pistei_, «al débil en cuanto a la fe»: **τῇ πίστει** es dativo con artículo, no genitivo πίστεως. La retroversión hebrea y «débil de la emunah» se conservan como lenguaje de Eric, sin atribuir otra construcción al griego. En 14:3 y 14:10 aparece **κρίνω**, juzgar; **κατακρίνω**, condenar, aparece en 14:23. No se confunden los verbos.
+
+La alusión se localiza en [m. Avodah Zarah 2:6](https://www.sefaria.org/Mishnah_Avodah_Zarah.2.6?lang=bi) y [2:7](https://www.sefaria.org/Mishnah_Avodah_Zarah.2.7?lang=bi). El pasaje distingue alimentos de gentiles prohibidos y permitidos; incluye leche observada o no, aceite, y encurtidos con o sin vino y vinagre. Coincide con el ejemplo de mesa de Eric, pero localizar la norma no demuestra que fuera exactamente la práctica de los destinatarios de Romanos ni que la lista estuviera ya fijada en su época. La cronología y la identificación del «débil» siguen abiertas.
+
 ## 14:8-13: vivir para el Señor y abandonar el tribunal entre hermanos #romanos_14_8-13
 
 Eric lee «vivimos o morimos para Adonay» como una declaración de pertenencia que impide someter a la comunidad a una ideología, religión o costumbre humana. Esa aplicación recibe apoyo textual: el argumento devuelve a todos al Señor y pregunta por qué alguien juzga o desprecia a su hermano, puesto que todos comparecerán ante el tribunal (#romanos_14_8-12). La exposición relaciona el trono del Mesías con Yeshayahu 45:23 y acentúa la unidad entre Elohim y el Mesías. El vínculo canónico que la clase señala debe estudiarse con el texto local; no se usa aquí para declarar resuelta toda cuestión doctrinal desde una sola cita.
 
 La consecuencia de ese juicio futuro no es abandonar la corrección, sino dejar de usar la preferencia propia como condena. Pablo manda decidir que nadie ponga obstáculo ni tropiezo delante del hermano (#romanos_14_13). Eric llama a esto **mishpat**, poner las cosas en orden, diferenciándolo del señalamiento basado en razonamientos personales. La distinción es una aplicación útil, pero la nota mantiene el límite del pasaje: Romanos 14 prohíbe el juicio que desprecia y el tropiezo producido por la práctica; no desarrolla por sí solo un manual completo de disciplina congregacional.
+
+SBLGNT en 14:10 dice **τῷ βήματι τοῦ θεοῦ**, «ante el tribunal de Elohim», mientras TTH nombra al Mesías. Se mantienen separados los testigos; la cita de Yeshayahu 45:23 y la rendición de cuentas no resuelven por sí solas todas las identificaciones teológicas.
 
 ## 14:14-18: «profano» no equivale automáticamente a «impuro» #romanos_14_14-18
 
@@ -87,11 +102,15 @@ El centro lexical de las dos clases es la diferencia entre **חול**, _chol_, y
 
 La aplicación concreta de Eric es que una comida preparada por un gentil creyente no debía convertirse en acusación por reglas rabínicas. En Romanos 14:15, sin embargo, el límite textual está expresado con fuerza independiente de la reconstrucción histórica: si la comida aflige al hermano, ya no se camina según el amor; no se debe destruir por comida a aquel por quien murió el Mesías. El reino se resume en justicia, shalom y gozo en el Rúaj (#romanos_14_17). La comunidad no mide su madurez por ganar una discusión sobre la mesa, sino por preservar al hermano y edificarlo.
 
+En 14:14, **πέπεισμαι**, _pepeismai_, expresa «estoy convencido», de πείθω; **τῷ λογιζομένῳ**, _tō logizomenō_, «para quien lo considera», es participio dativo de λογίζομαι. El **ἐμοί** de la cita de 14:11 no pertenece a esa frase. La consideración individual se expresa sin inventar una secuencia griega. **κοινός** aparece en 14:14, mientras 14:20 usa **καθαρά**, «puras»; **ἀκάθαρτος** no aparece en este capítulo. La comparación con Hechos 10:28 y Vayikra 10:10 mantiene sus propios términos. Vayikra distingue sagrado/común e impuro/puro, sin definir todo חול únicamente como animal puro defectuoso.
+
 ## 14:19-23: paz, edificación y una convicción que no se impone #romanos_14_19-23
 
 Eric explica que «carne y vino» en 14:21 representan los asuntos concretos de discordia tratados en su lectura, no un mandato universal de vegetarianismo o abstinencia. La forma condicional del versículo permite afirmar al menos esto: es bueno renunciar a una práctica cuando hace tropezar, golpear o debilitar al hermano. La aplicación a vestimenta, adornos y otras costumbres contemporáneas pertenece al nivel pedagógico, no al contenido literal de Romanos.
 
-La exposición también objeta la traducción de 14:23 como «el que duda», proponiendo el sentido de quien hace diferencias al comer. El TTH local dice «el que hace diferencias cuando come»; esa lectura debe ser visible, pero la sintaxis griega exacta queda pendiente. La conexión entre **πίστις** y **אמונה** ayuda a conservar el campo de confianza y fidelidad, aunque no permite resolver por sí sola la forma gramatical. El resultado es sobrio: una persona no debe actuar contra su conciencia convencida, y otra no debe usar su conciencia para fabricar un tribunal universal.
+La exposición también objeta la traducción de 14:23 como «el que duda», proponiendo el sentido de quien hace diferencias al comer. El TTH local dice «el que hace diferencias cuando come»; esa lectura debe ser visible, pero el cotejo siguiente distingue la forma media/pasiva y su lectura contextual de la propuesta de clase. La conexión entre **πίστις** y **אמונה** ayuda a conservar el campo de confianza y fidelidad, aunque no permite resolver por sí sola la forma gramatical. El resultado es sobrio: una persona no debe actuar contra su conciencia convencida, y otra no debe usar su conciencia para fabricar un tribunal universal.
+
+En 14:23, **διακρινόμενος**, _diakrinomenos_, es participio presente medio/pasivo de διακρίνω. La glosa «el que vacila/duda» se ajusta a la acción sin convicción que el contexto reprueba; no es una forma activa que por sí sola obligue a «hacer diferencias». TTH y Eric eligen esa última expresión, que permanece como lectura atribuida y cualificada. El versículo contrasta comer sin fe/convicción y actuar desde ella; no condena todo examen de una diferencia.
 
 ## Romanos 15:1-7: el cierre de la clase convierte libertad en carga amorosa #romanos_15_1-7
 
@@ -109,9 +128,9 @@ La segunda sesión termina retomando Romanos 15: los fuertes deben sobrellevar l
 
 ## Pendiente de verificar
 
-- [ ] Localizar la referencia exacta de la mención de la clase a una «Mishná Avodah Zarah 2» sobre alimentos preparados por gentiles; no fijar tratado, capítulo ni formulación sin cotejo.
+- [x] Localizar m. Avodah Zarah 2:6–7 y su distinción de alimentos; su aplicación histórica a Romanos permanece pendiente.
 - [ ] Verificar la forma hebrea que Eric retrotraduce como «enfermo de la emunah» y su relación con **חלה**; no presentarla como el texto original de Romanos.
-- [ ] Cotejar la sintaxis griega de Romanos 14:1, 14:14 y 14:23, especialmente la lectura de «diferencias» frente a «duda».
+- [x] Cotejar SBLGNT 14:1,14,23: dativo de fe, participio de considerar y forma media/pasiva de διακρίνω; las retroversiones y la reconstrucción histórica siguen cualificadas.
 - [ ] Comparar de manera trazable **חול**, **טמא**, **κοινός** y **ἀκάθαρτος** en sus contextos; la tabla de esta nota marca la relación como aproximada.
 - [ ] Verificar la conexión textual completa entre Romanos 14:10-11 y Yeshayahu 45:23.
 - [ ] Comprobar históricamente las afirmaciones sobre clases de Shabbat, preparación de alimentos y prácticas judías del siglo I antes de usarlas como reconstrucción cerrada.
