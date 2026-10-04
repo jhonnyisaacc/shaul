@@ -21,8 +21,8 @@ references:
 sources:
   - "docs/scriptures/tth/json/sodot.json"
   - "docs/scriptures/delitzsch/json/revelation.json"
-  - "docs/scriptures/tth/json/yeshayahu.json"
-  - "docs/scriptures/tth/json/yejezkel.json"
+  - "docs/scriptures/tth/json/ieshaiahu.json"
+  - "docs/scriptures/tth/json/iejezkel.json"
   - "docs/scriptures/tth/json/zejariah.json"
 translation: "[TTH, Delitzsch]"
 ---

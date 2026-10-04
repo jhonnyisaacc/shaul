@@ -19,7 +19,7 @@ references:
   - "#juan_18_33-40"
 sources:
   - "https://www.youtube.com/watch?v=X5X1OIekPS4"
-  - "docs/scriptures/tth/json/yojanan.json"
+  - "docs/scriptures/tth/json/iojanan.json"
   - "docs/scriptures/delitzsch/json/john.json"
 source_ids:
   - "youtube:X5X1OIekPS4"

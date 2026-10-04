@@ -22,9 +22,9 @@ references:
   - "#yeshayahu_58_13"
 sources:
   - "https://www.youtube.com/watch?v=x9B0el73UYI"
-  - "docs/scriptures/tth/json/yojanan.json"
+  - "docs/scriptures/tth/json/iojanan.json"
   - "docs/scriptures/tth/json/markos.json"
-  - "docs/scriptures/tth/json/yeshayahu.json"
+  - "docs/scriptures/tth/json/ieshaiahu.json"
   - "docs/scriptures/delitzsch/json/john.json"
 source_ids:
   - "youtube:x9B0el73UYI"

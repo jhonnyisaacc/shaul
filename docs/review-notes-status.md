@@ -46,7 +46,7 @@ does not count as successful prevention.
 
 ## Coverage and validation baseline
 
-- Scope inventory: 50 Yojanan notes and 31 Revelation notes.
+- Scope inventory: 49 Yojanan notes and 32 Revelation notes.
 - YouTube metadata/hygiene: 66 studies checked, zero failures.
 - Transcript quality: 66 studies checked, 23 failures across 22 Yojanan notes;
   all 22 lack the Eric traceability map, and one also has only 288 substantive
@@ -184,3 +184,24 @@ chapter-10 quotation cells in the chapter-9/10 bridge. Notes already sufficientl
 qualified retain their existing argument and source maps. Full review: 33/81 notes.
 All 49 transcript-classified Yojanan notes now pass quality and YouTube hygiene;
 this gate is not a claim that every note has finished substantive review.
+
+
+## Batch 7 — Yojanan 10–11, 13–14, and the prayer continuation
+
+Reviewed twelve additional notes: the Abba and canonical-pastor chapter-10 studies,
+Eleazar, the two-thrones prayer continuation, all four chapter-13 notes, and all
+four chapter-14 notes. Corrected the Greek love-verb references, the chapter-17
+verb repeated in the continuation, the children/gather grammar, and the proposed
+replacement of kill with preserve life. Attributed unsupported historical
+claims, distinguished the Greek mind vocabulary from Delitzsch's ruaj, repaired
+duplicate table headers, supplied available Malachi/Colossians/Hebrews text, and
+labeled Deuteronomy 13 and Genesis 32 numbering by corpus. Restored remaining
+John comparison candidates, including three bridge cells whose alignment spaces
+had prevented the batch-6 replacement. Full substantive review: 45/81 notes.
+
+A complete source-path audit also repaired literal corpus filenames throughout
+the two books and removed inherited private attachment paths from public
+metadata. Public lesson IDs and credits remain intact. The inventory's earlier
+book counts were misstated: the exact 81-file list contains 49 Yojanan and 32
+Revelation notes. Batches 5 and 6 passed both CI runs; Vercel still shows only the
+six baseline deployments and zero for this branch.

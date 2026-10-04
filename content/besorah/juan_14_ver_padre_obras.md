@@ -20,7 +20,7 @@ references:
   - "#colosenses_2_9"
 sources:
   - "https://www.youtube.com/watch?v=bn1Ez0RR56g"
-  - "docs/scriptures/tth/json/yojanan.json"
+  - "docs/scriptures/tth/json/iojanan.json"
   - "docs/scriptures/delitzsch/json/john.json"
   - "docs/scriptures/delitzsch/json/colossians.json"
 source_ids:
@@ -71,7 +71,7 @@ La clase conecta esas obras con la resurrección, la reconciliación, el sacrifi
 
 | Forma         | Uso en la nota                              | Límite de la afirmación                                                                                                                           |
 | ------------- | ------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **(אבא)**     | Abba / Padre en el Delitzsch de Yojanán 14. | La clase lo amplía como fuente y plenitud; ese desarrollo requiere cotejo arameo y contextual.                                                    |
+| **(אב)** | av / padre en Delitzsch; Abba es la aproximación aramea de la clase. | La clase lo amplía como fuente y plenitud; ese desarrollo requiere cotejo arameo y contextual.                                                    |
 | **(μένω)**    | permanecer, morar.                          | El transcript lo vincula con #juan_14_10; verificar la forma griega exacta, su sintaxis y su relación con el Delitzsch **(השכן)**.             |
 | **(πιστεύω)** | afirmarse, exhibir fidelidad.               | TTH traduce «afírmense» en #juan_14_10-11; no equiparar automáticamente el término con una raíz hebrea sin verificación.                       |
 | **(מעשה)**    | obra, acción hecha.                         | Las obras son el criterio explícito del discurso; la identificación de cada obra con una profecía concreta es una tarea interpretativa adicional. |

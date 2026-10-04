@@ -53,8 +53,8 @@ references:
   - "#juan_6_55"
 sources:
   - "https://www.youtube.com/watch?v=3mikRgwy-xw"
-  - "docs/scriptures/tth/json/yojanan.json"
-  - "docs/scriptures/tth/json/yeshayahu.json"
+  - "docs/scriptures/tth/json/iojanan.json"
+  - "docs/scriptures/tth/json/ieshaiahu.json"
   - "docs/scriptures/oe/json/isaiah/54.json"
   - "docs/scriptures/oe/json/genesis/3.json"
   - "docs/scriptures/tth/json/romanos.json"

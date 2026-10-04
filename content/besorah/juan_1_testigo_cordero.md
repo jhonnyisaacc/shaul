@@ -27,7 +27,7 @@ sources:
   - "https://www.youtube.com/watch?v=1MoxwBR4bg4"
   - "https://www.youtube.com/watch?v=2C6YJnz5fKs"
   - "https://www.youtube.com/watch?v=ppIWbKD97T0"
-  - "docs/scriptures/tth/json/yojanan.json"
+  - "docs/scriptures/tth/json/iojanan.json"
   - "docs/scriptures/delitzsch/json/john.json"
   - "docs/scriptures/oe/json/isaiah/40.json"
   - "docs/scriptures/oe/json/deuteronomy/18.json"

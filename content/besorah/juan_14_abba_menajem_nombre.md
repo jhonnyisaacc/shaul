@@ -27,14 +27,16 @@ references:
   - "#juan_14_26"
   - "#juan_15_26"
   - "#tehilim_94_19"
+  - "#bereshit_32_9"
   - "#bereshit_32_10"
+  - "#bereshit_32_11"
   - "#bereshit_32_12"
   - "#yeshayahu_40_13"
   - "#1_corintios_2_16"
   - "#tito_2_13"
 sources:
   - "https://www.youtube.com/watch?v=2oGHEpfFPlM"
-  - "docs/scriptures/tth/json/yojanan.json"
+  - "docs/scriptures/tth/json/iojanan.json"
   - "docs/scriptures/delitzsch/json/john.json"
   - "docs/scriptures/oe/json/psalms/94.json"
   - "docs/scriptures/oe/json/isaiah/40.json"
@@ -78,8 +80,8 @@ La clase de Eric lee "Yo soy el camino, la verdad y la vida" como una sola reali
 | Referencia | Hebreo (sin nikud) | TTH (ES) | Observación |
 | --- | --- | --- | --- |
 | #tehilim_94_19 | ברב שרעפי בקרבי תנחומיך ישעשעו נפשי | En la multitud de mis pensamientos... tus restauraciones acarician mi ser. | Base de Menajem como consolación/restauración. |
-| #bereshit_32_10 | ויאמר יעקב אלהי אבי אברהם ואלהי אבי יצחק יהוה האמר אלי שוב לארצך ולמולדתך ואיטיבה עמך | (oración de Yaakov apelando a promesa) | Pedir conforme a lo que Elohim prometió. |
-| #bereshit_32_12 | הצילני נא מיד אחי מיד עשו כי ירא אנכי אתו... | Hazme escapar... de la mano de Esav... | Súplica desde la promesa, no declaración autónoma. |
+| #bereshit_32_10 (OE); #bereshit_32_9 (TTH) | ויאמר יעקב אלהי אבי אברהם ואלהי אבי יצחק יהוה האמר אלי שוב לארצך ולמולדתך ואיטיבה עמך | Y dijo Yaakov: Elohim de mi padre Abraham y Elohim de mi padre Yitzjak, יהוה, dijiste a mí: “Vuelve a tu tierra, y a tu tierra natal, y haré bien contigo”, | Pedir conforme a lo que Elohim prometió. |
+| #bereshit_32_12 (OE); #bereshit_32_11 (TTH) | הצילני נא מיד אחי מיד עשו כי ירא אנכי אתו... | Sálvame, te ruego, de la mano de mi hermano Esav, porque temo yo a él, no sea que venga y me golpee y a la madre con su hijo. | Súplica desde la promesa, no declaración autónoma. |
 | #yeshayahu_40_13 | מי תכן את רוח יהוה ואיש עצתו יודיענו | ¿Quién midió al Rúaj de יהוה...? | Rúaj como mente/consejo de יהוה. |
 | #1_corintios_2_16 | כי מיתכן אתרוח יהוה ומי יודיענו ואנחנו הנה ישלנו רוח המשיח (Delitzsch) | Pendiente en TTH local | Rúaj de יהוה y Rúaj del Mesías convergen. |
 | #tito_2_13 | ונחכה לתקוה המאשרת ולהופעת כבוד אלהינו הגדול ומושיענו ישוע המשיח (Delitzsch) | Pendiente en TTH local | Yeshúa el Mesías como gran Elohim y Salvador. |
@@ -88,11 +90,11 @@ La clase de Eric lee "Yo soy el camino, la verdad y la vida" como una sola reali
 
 | Término | Transliteración | Sentido en la nota | Raíz o base | Observación |
 | --- | --- | --- | --- | --- |
-| **(אבא)** | Abba | fuente, promesa, amor entrañable | אבא | No figura separada en competencia; ver [[../temas/elohim_aba|Elohim y Aba]]. |
+| **(אבא)** | Abba | padre; fuente y promesa como aplicación de clase | אבא | No figura separada en competencia; ver [[../temas/elohim_aba|Elohim y Aba]]. |
 | **(מנחם)** | Menajem | consolador, restaurador, defensor | נחם | Delitzsch: מליץ; base en #tehilim_94_19 (תנחומיך). |
 | **(παράκλητος)** | parakletos | abogado, consolador, intercesor | παρακαλ- | Traducido Menajem en TTH de la nota. |
-| **(ἄλλος)** | allos | otro del mismo tipo, adicional | — | En #juan_14_16: no necesariamente "otro distinto" (`heteros`). |
-| **(ἕτερος)** | heteros | otro de clase distinta | — | Contraste lingüístico citado en la clase; pendiente de cotejo en Yojanán. |
+| **(ἄλλος)** | allos | otro; la clase propone adicional | — | En #juan_14_16: no necesariamente "otro distinto" (`heteros`). |
+| **(ἕτερος)** | heteros | otro; la distinción de clase requiere cotejo | — | Contraste lingüístico citado en la clase; pendiente de cotejo en Yojanán. |
 | **(ἀγαπάω)** | agapao | amar (en #juan_14_15) | ἀγαπ- | Amar al Mesías implica guardar mandamientos. |
 | **(שם)** | shem | nombre, fama, revelación, trayectoria | שם | Pedir "en mi Nombre" = desde la obra revelada de Yeshúa. |
 | **(כבוד)** | kabod | honra, peso, gloria del Padre en el Hijo | כבד | #juan_14_13: יגדל כבוד האב בבנו. |
@@ -113,13 +115,13 @@ La clase de Eric lee "Yo soy el camino, la verdad y la vida" como una sola reali
 
 La clase no toma #juan_14_6 como tres lemas aislados. "Camino" apunta a la forma de proceder; "verdad", a la razón por la cual se procede así; y "vida", a la fuente que sostiene esa verdad. En esta lectura, la Torah preserva vida porque comunica el orden del Elohim vivo, y los profetas llaman al pueblo a volver a esa Torah con otras palabras.
 
-Por eso la vida manifestada en el Mesías no sustituye la Torah como si la anulara. Más bien revela su fuente. Yeshúa no solo enseña el camino: él mismo es la vida que hace verdadero el camino.
+Por eso la vida manifestada en el Mesías no sustituye la Torah como si la anulara. Más bien revela su fuente. Yehoshua no solo enseña el camino: él mismo es la vida que hace verdadero el camino.
 
 ## "Nadie viene al Padre sino por mí"
 
-El expositor se detiene en la dirección del verbo: "nadie viene al Padre", no "nadie va". La observación busca impedir una lectura en la que Abba queda lejos y Yeshúa funciona solo como intermediario menor. Si Yeshúa dice que quien lo conoce ya conoce y ha visto a Abba, entonces el lenguaje obliga a leer Abba desde la manifestación presente del Mesías.
+El expositor se detiene en la dirección del verbo: "nadie viene al Padre", no "nadie va". La observación busca impedir una lectura en la que Abba queda lejos y Yehoshua funciona solo como intermediario menor. Si Yehoshua dice que quien lo conoce ya conoce y ha visto a Abba, entonces el lenguaje obliga a leer Abba desde la manifestación presente del Mesías.
 
-La petición de Filipos confirma el problema: "danos a conocer al Padre". Yeshúa responde con una reprensión: tanto tiempo con ellos y todavía no lo han conocido. En la lógica de la clase, el error de Filipos no es pedir más revelación, sino esperar una revelación de Abba separada de Yeshúa.
+La petición de Filipos confirma el problema: "danos a conocer al Padre". Yehoshua responde con una reprensión: tanto tiempo con ellos y todavía no lo han conocido. En la lógica de la clase, el error de Filipos no es pedir más revelación, sino esperar una revelación de Abba separada de Yehoshua.
 
 ## Las obras como testimonio
 
@@ -135,15 +137,15 @@ La resurrección abre una segunda promesa ligada al Rúaj: cambiar el corazón d
 
 ## Pedir en el Nombre
 
-El video distingue entre oración conforme a promesa y deseo humano vestido de lenguaje religioso. Pedir "en mi Nombre" no es usar una fórmula para forzar a Elohim; es pedir desde el Nombre revelado, reconociendo la obra, sufrimiento, resurrección y autoridad de Yeshúa.
+El video distingue entre oración conforme a promesa y deseo humano vestido de lenguaje religioso. Pedir "en mi Nombre" no es usar una fórmula para forzar a Elohim; es pedir desde el Nombre revelado, reconociendo la obra, sufrimiento, resurrección y autoridad de Yehoshua.
 
 Por eso el expositor critica la idea de que "la palabra humana tiene poder" como si la declaración del hombre obligara a Elohim. La palabra que permanece es la palabra de יהוה. La oración bíblica se parece más a la súplica de Yaakov en #bereshit_32_10-12: "tú dijiste"; el siervo recuerda humildemente la promesa que Elohim mismo decidió asumir.
 
 La clase también advierte que Elohim no se obligó a cumplir caprichos de riqueza, fama o poder. La pregunta correcta es: ¿qué prometió יהוה?, ¿sobre qué juró?, ¿qué quiso cumplir por amor de su Nombre?
 
-## El Nombre de Yeshúa
+## El Nombre de Yehoshua
 
-El expositor trata el Nombre como fama, revelación y trayectoria, no solo como pronunciación. En ese sentido, el Nombre de Yeshúa no es inferior a una pronunciación reconstruida del Tetragrammaton. Es el Nombre en el que el único Elohim se reveló para salvar, morir, resucitar y vencer la muerte.
+El expositor trata el Nombre como fama, revelación y trayectoria, no solo como pronunciación. En ese sentido, el Nombre de Yehoshua no es inferior a una pronunciación reconstruida del Tetragrammaton. Es el Nombre en el que el único Elohim se reveló para salvar, morir, resucitar y vencer la muerte.
 
 La clase permite el uso castellano "Jesús" como asunto lingüístico, pero insiste en no despreciar el Nombre revelado. La fuerza doctrinal no descansa en una polémica de pronunciación, sino en reconocer que no hay otro Nombre dado para salvación que el Nombre del Mesías.
 
@@ -153,13 +155,15 @@ La clase permite el uso castellano "Jesús" como asunto lingüístico, pero insi
 
 El video rechaza la idea de que el Mesías vino a abolir Torah. Lo conecta con la enseñanza de llenar, engrandecer y hacer poderosa la Torah. La diferencia no está en cambiar el cauce, sino en recibir el Rúaj que hace fluir la obediencia de manera viva.
 
-## El Menajem enviado por Abba y por Yeshúa
+## El Menajem enviado por Abba y por Yehoshua
 
-El centro final del video está en la relación entre #juan_14_16, #juan_14_26 y #juan_15_26. En un lugar se dice que Abba dará o enviará el Menajem; en otro, Yeshúa dice que él lo enviará desde Abba. La clase no resuelve esto separando dos emisores, sino afirmando la unidad entre Abba y el Mesías.
+El centro final del video está en la relación entre #juan_14_16, #juan_14_26 y #juan_15_26. En un lugar se dice que Abba dará o enviará el Menajem; en otro, Yehoshua dice que él lo enviará desde Abba. La clase no resuelve esto separando dos emisores, sino afirmando la unidad entre Abba y el Mesías.
 
-También se conserva la observación lingüística: en #juan_14_16, "otro" se entiende como adicional, no necesariamente como "otro distinto". El Menajem no es presentado como un competidor de Yeshúa, sino como la presencia que consuela, enseña, recuerda y guarda al pueblo en la fidelidad del Mesías.
+También se conserva la observación lingüística: en #juan_14_16, "otro" se entiende como adicional, no necesariamente como "otro distinto". El Menajem no es presentado como un competidor de Yehoshua, sino como la presencia que consuela, enseña, recuerda y guarda al pueblo en la fidelidad del Mesías.
 
 La conexión con #tehilim_94_19 ayuda a entender "consolación" como restauración real en medio de los pensamientos y aflicciones. No se trata de una emoción religiosa vaga, sino de la presencia prometida que orienta de nuevo al camino.
+
+La comparación con 1 Corintios 2:16 debe distinguir las versiones: Delitzsch emplea רוח, mientras el [texto griego SBLGNT](https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/1Cor.txt) sobre la mente del Mesías usa νοῦς. La glosa «Rúaj del Mesías» conserva la elección de la traducción hebrea y no identifica automáticamente ambos vocablos griegos.
 
 ## Rúaj de Elohim y Rúaj del Mesías
 
@@ -177,11 +181,11 @@ La nota conserva el punto doctrinal sin simplificarlo: hay un solo Mesías. El q
 
 Eric comienza en #juan_14_6 con la pregunta de Tomás y observa que «camino, verdad y vida» son un solo tema visto desde tres ángulos: conducta, razón y fuente de vida. El texto local presenta las tres expresiones juntas y las enlaza inmediatamente con venir al Padre; la explicación de la clase sobre la Torah como preservación de la vida es una conexión teológica atribuida, no una definición adicional del versículo.
 
-En #juan_14_7-11, Eric insiste en la dirección «nadie viene al Padre», no «nadie va», y usa la respuesta a Filipos —«el que me ve a Mí ha visto al Padre»— para negar una revelación de Abba separada de Yeshúa. El texto sostiene «conocer», «ver», «Yo en el Padre» y «el Padre en Mí» en la misma unidad; la conclusión sobre la identidad divina del Mesías es la lectura doctrinal de Eric y se conserva como tal.
+En #juan_14_7-11, Eric insiste en la dirección «nadie viene al Padre», no «nadie va», y usa la respuesta a Filipos —«el que me ve a Mí ha visto al Padre»— para negar una revelación de Abba separada de Yehoshua. El texto sostiene «conocer», «ver», «Yo en el Padre» y «el Padre en Mí» en la misma unidad; la conclusión sobre la identidad divina del Mesías es la lectura doctrinal de Eric y se conserva como tal.
 
 En #juan_14_12-15, Eric interpreta «voy al Padre» como el paso que completa las promesas mediante muerte, resurrección y entronización, y lee pedir «en mi Nombre» como pedir desde la obra y la promesa reveladas, no usar una fórmula para imponer deseos. El texto local promete obras mayores, vincula la petición con el Nombre y une amor con guardar mandamientos; la ampliación a la oración de Yaakov en #bereshit_32_10-12 es una analogía canónica, no una cita de Yojanán.
 
-En #juan_14_16-26 y #juan_15_26, Eric explica que Abba da o envía el Menajem y que Yehoshua también lo envía desde Abba sin convertirlos en dos centros rivales. La clase relaciona **ἄλλος**, \_allos*, «otro adicional», con el hebreo **אחר**, _acher_; esa es una relación aproximada y pedagógica, no una licencia para borrar el contexto griego. El texto local sí presenta al Menajem como quien permanece, enseña, recuerda y da testimonio.
+En #juan_14_16-26 y #juan_15_26, Eric explica que Abba da o envía el Menajem y que Yehoshua también lo envía desde Abba sin convertirlos en dos centros rivales. La clase relaciona **ἄλλος**, _allos_, «otro adicional», con el hebreo **אחר**, _acher_; esa es una relación aproximada y pedagógica, no una licencia para borrar el contexto griego. El texto local sí presenta al Menajem como quien permanece, enseña, recuerda y da testimonio.
 
 Finalmente, Eric conecta #yeshayahu_40_13 con #1_corintios_2_11-16 para hablar del Rúaj como mente o consejo de Elohim y del Rúaj del Mesías, y advierte contra separar un Mesías sufriente de otro davídico. Yeshayahu y Qorintiyim sostienen la pregunta por el Rúaj y su función reveladora; la identificación completa y la crítica a categorías de dos mesías pertenecen a la síntesis doctrinal de la clase y quedan marcadas como interpretación.
 
@@ -198,9 +202,9 @@ Finalmente, Eric conecta #yeshayahu_40_13 con #1_corintios_2_11-16 para hablar d
 - #juan_14_6 con Torah y vida: el camino, la verdad y la vida forman una sola línea de conducta, razón y fuente.
 - #juan_14_13-14 con #bereshit_32_10-12: pedir correctamente es apelar a lo que Elohim prometió, no declarar deseos humanos.
 - #juan_14_15 con la Torah: amar al Mesías implica guardar mandamientos, no reemplazarlos por una ley desconectada.
-- #juan_14_16 y #juan_15_26: el Menajem enviado por Abba y enviado por Yeshúa sostiene la unidad de Abba y el Mesías.
+- #juan_14_16 y #juan_15_26: el Menajem enviado por Abba y enviado por Yehoshua sostiene la unidad de Abba y el Mesías.
 - #yeshayahu_40_13 con #1_corintios_2_16: el Rúaj/consejo de יהוה se conecta con el Rúaj del Mesías.
-- #tito_2_13 como confesión final: la esperanza mira la manifestación gloriosa de nuestro gran Elohim y Salvador, Yeshúa el Mesías.
+- #tito_2_13 como confesión final: la esperanza mira la manifestación gloriosa de nuestro gran Elohim y Salvador, Yehoshua el Mesías.
 
 ## Pendiente de verificar
 
@@ -208,7 +212,7 @@ Finalmente, Eric conecta #yeshayahu_40_13 con #1_corintios_2_11-16 para hablar d
 - [ ] Verificar la explicación sobre los "setenta nombres" en Ibn Ezra y el pasaje de los setenta ancianos.
 - [ ] Revisar la referencia exacta y formulación talmúdica sobre pedir "en nombre de" y redención para el mundo.
 - [ ] Cotejar la lectura de "Rúaj" como mente/consejo en #1_corintios_2_16 con el texto griego y con #yeshayahu_40_13.
-- [ ] Desarrollar en nota temática separada la relación entre el Nombre de Yeshúa, el Tetragrammaton y el uso castellano "Jesús".
+- [ ] Desarrollar en nota temática separada la relación entre el Nombre de Yehoshua, el Tetragrammaton y el uso castellano "Jesús".
 
 ## Ver también
 

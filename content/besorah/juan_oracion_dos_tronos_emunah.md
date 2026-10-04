@@ -61,27 +61,27 @@ translation: "[TTH, Delitzsch, OE]"
 
 Esta clase continúa la pregunta «¿a quién oraba Yeshúa si él era el mismo Elohim?» y la responde con la institucionalidad divina de los dos tronos: el trono de la gracia (Elohim, amor entrañable) y el trono del juicio (יהוה, tribunal de justicia).
 
-Yeshúa no se presenta ante el cielo como quien habla con otro ser superior, sino como quien entra en juicio, confiesa la palabra prometida y gestiona las promesas hechas a Abraham. En #juan_11_42 la pregunta decisiva no es «¿a quién le hablas?», sino «¿quién eres tú?»: la palabra que Elohim envía es su propia palabra instituida.
+Yehoshua no se presenta ante el cielo como quien habla con otro ser superior, sino como quien entra en juicio, confiesa la palabra prometida y gestiona las promesas hechas a Abraham. En #juan_11_42 la pregunta decisiva no es «¿a quién le hablas?», sino «¿quién eres tú?»: la palabra que Elohim envía es su propia palabra instituida.
 
 Desde ahí la clase enlaza emunah (#hebreos_11_1) como entrega de Elohim, corrige el cliché «cumplió perfectamente la ley», distingue justificación por emunah de santificación como fruto, y cierra Yojanán 11 leyendo a Caifás como profecía sobre la reunión de los herederos del trono de la gracia.
 
 ## Alcance de la nota
 
 - Fuente: transcripción automática del video «El evangelio según Yojanán (parte 40)»; la nota sintetiza la clase sin reproducirla palabra por palabra.
-- Continúa directamente [[juan_oracion_tribunal_celestial|¿A quién oraba Yeshúa? Tribunal celestial y cuatro verbos]] y retoma #juan_11_42 como punto de partida.
+- Continúa directamente [[juan_oracion_tribunal_celestial|¿A quién oraba Yehoshua? Tribunal celestial y cuatro verbos]] y retoma #juan_11_42 como punto de partida.
 - Cubre: dos tronos en Ivrim, recapitulación de verbos, Abba instituido, #hebreos_5_7 frente a #juan_10_18, pacto de Abraham (#bereshit_15), emunah, Torah y propósito del Mesías, #juan_11_45-57.
 - El bloque sobre olivo natural, tribus dispersas y «hijos de Elohim» como herederos queda resumido; el desarrollo histórico completo de la clase excede el alcance de esta nota.
 
 ## Dos tronos: gracia y juicio
 
-La institucionalidad divina se manifiesta en casi toda la Escritura bajo dos tronos:
+La clase organiza su lectura mediante dos tronos:
 
 | Trono              | Función en la clase                                      | Asociación |
 | ------------------ | -------------------------------------------------------- | ---------- |
 | Trono de la gracia | Misericordia, amor entrañable, acceso al lugar santísimo | Elohim     |
 | Trono del juicio   | Tribunal de justicia, presentación de causa              | יהוה       |
 
-Para el lector hebreo de Ivrim esto era «sobreentendido»: no hace falta un tratado aparte porque una sola línea basta para evocar el marco entero.
+Eric sostiene que para el lector hebreo de Ivrim esto era «sobreentendido»: no hace falta un tratado aparte porque una sola línea basta para evocar el marco entero.
 
 ### Hoja de comparación: Ivrim y los dos tronos
 
@@ -97,7 +97,7 @@ TTH no está disponible localmente para estos pasajes de Ivrim; Delitzsch cubre 
 
 La clase insiste en dejar de leer las escenas celestiales como diálogo entre dos personas divinas.
 
-Cuando Yeshúa «ora» o se dirige al cielo:
+Cuando Yehoshua «ora» o se dirige al cielo:
 
 1. **Entra en juicio** — no por debilidades propias (sin pecado, sin tentación que produzca pecado).
 2. **Se presenta por nosotros** — presenta la causa del pueblo ante el trono del juicio.
@@ -113,13 +113,13 @@ La clase retoma el inventario de los cuatro evangelios (34 palabras en total en 
 | -------------------------------------------- | ---------------------------------------------------------------------- | ------------------------ |
 | **(εὐλογέω)** / confesar adopción            | Al comer se confiesa que יהוה es padre de muchos (**varuj**, injertos) | Confesión hacia el cielo |
 | **(εὐχαριστέω)** / **(הִתְאַנֶּה)** hit'aneh | Suplicar gracia, no «dar gracias» en sentido moderno                   | #juan_11_41           |
-| **(ἐντυγχάνω)**                              | Gestionar, procurar promesas (cap. 17)                                 | Misma línea argumental   |
+| **(ἐρωτάω)**                              | Pedir; gestionar promesas es la interpretación de la clase (cap. 17)                                 | Misma línea argumental   |
 
 ### Hoja de comparación: #juan_11_41-42
 
 | Referencia     | Hebreo (Delitzsch, sin nikud)                                                               | TTH (ES)                                                                                                                                         | Observación                                                                           |
 | -------------- | ------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------- |
-| #juan_11_41 | וישוע נשא את עיניו למרום ויאמר אודך אבי כי עניתני                                           | Y alzó sus ojos arriba, diciendo: Padre mío, te confieso, porque me has escuchado.                                                               | **Abba** aquí no abre diálogo con otro ser, sino confesión ante el cielo              |
+| #juan_11_41 | וישוע נשא את עיניו למרום ויאמר אודך אבי כי עניתני                                           | Y quitaron la piedra donde el muerto había sido puesto; y Yeshúa alzó sus ojos arriba, diciendo: Padre mío, te confieso, porque me has escuchado. | **Abba** aquí no abre diálogo con otro ser, sino confesión ante el cielo              |
 | #juan_11_42 | ואני ידעתי כי מדי אדבר אתה תענה אפס בעבור העם העמד עלי דברתי כן לבעבור יאמינו כי אתה שלחתני | Yo sabía que en todo tiempo me has escuchado, pero por causa de la gente que está alrededor lo dije, para que se afirmen, que Tú me has enviado. | La pregunta clave: **¿quién eres tú?** — la palabra que envía es la palabra de Elohim |
 
 ## Abba como palabra instituida
@@ -140,7 +140,7 @@ El último sello de las promesas es el sacrificio de Elohim en carne.
 
 ## #hebreos_5_7 y #juan_10_18: aparente contradicción
 
-En #hebreos_5_7 Yeshúa «ofrece ruegos y súplicas con gran clamor y lágrimas al que podía librarlo de la muerte». En #juan_10_18 él mismo dice que nadie le quita la vida y que él la pone y la retoma.
+En #hebreos_5_7 Yehoshua «ofrece ruegos y súplicas con gran clamor y lágrimas al que podía librarlo de la muerte». En #juan_10_18 él mismo dice que nadie le quita la vida y que él la pone y la retoma.
 
 La clase resuelve la tensión así:
 
@@ -180,7 +180,7 @@ La clase cita también #efesios_2_8-9 y #filipenses_1_29 en la misma línea: la 
 
 ## «Cumplió la ley»: por qué el cliché falla
 
-Tanto en cristianismo como en cierto mesianismo se repite que Yeshúa «cumplió perfectamente la ley». La clase lo marca como **no rigurosamente correcto**:
+Tanto en cristianismo como en cierto mesianismo se repite que Yehoshua «cumplió perfectamente la ley». La clase lo marca como **no rigurosamente correcto**:
 
 - La Torah es amplia: matrimonio, hijos, tierra, diezmos, shemitá, culto, sacerdocio, templo.
 - Decir «cumplió todo» abre objeciones concretas (¿diezmos? ¿esposa e hijos? ¿shemitá?).
@@ -204,7 +204,7 @@ En #romanos_10 la clase distingue:
 | Justicia de la Torah          | #romanos_10_5 — אשר יעשה אתם האדם וחי בהם | Vive dentro del procedimiento correcto, pero no alcanza vida eterna por sí sola |
 | Justicia de Elohim por emunah | #romanos_10_3 — לא ידעו את צדקת אלהים     | Inalcanzable por esfuerzo humano; es don                                        |
 
-Israel antiguo ya sabía que la Torah, aunque guardada, no bastaba para salvación eterna. En el siglo I los fariseos complicaron el mapa con meritocracia, limpieza de culpas, seno de Abraham y obras póstumas en nombre de los muertos.
+Eric propone ese contraste al hablar de Torah y salvación. Sus generalizaciones sobre Israel antiguo, fariseos, mérito y obras por los muertos requieren fuentes históricas y no describen sin más a todos los grupos del siglo I.
 
 ### Santificación como fruto, no carrera
 
@@ -238,14 +238,14 @@ Tras la resurrección de Eleazar, el evangelio pasa del milagro a la consecuenci
 | Referencia     | Hebreo (Delitzsch)                                             | TTH (ES)                                                                       | Observación                                           |
 | -------------- | -------------------------------------------------------------- | ------------------------------------------------------------------------------ | ----------------------------------------------------- |
 | #juan_11_45 | ורבים מן היהודים… ויאמינו בו                                   | Muchos… se afirmaron en Él                                                     | Emunah concedida, no obra                             |
-| #juan_11_47 | ויקהילו… את הסנהדרין                                           | Se reunieron… con la asamblea                                                  | **Synagōgē** = reunión; aquí el sanedrín              |
+| #juan_11_47 | ויקהילו… את הסנהדרין                                           | Se reunieron… con la asamblea                                                  | **Synago** = reunir; el texto nombra el concilio              |
 | #juan_11_50 | כי טוב לכם אשר ימות איש אחד בעד העם                            | Un hombre muera por el pueblo                                                  | Caifás: conveniencia política                         |
-| #juan_11_51 | נבא בפיו כי ישוע ימות בעד העם                                  | Profetizó que Yeshúa moriría por el pueblo                                     | Por cargo de gran sacerdote, no por santidad personal |
-| #juan_11_52 | ולא לבד בעד העם כי אם גם לקבץ את בני האלהים הנפצים והיו לאחדים | No solo por el pueblo, sino para reunir en uno a los hijos de Elohim dispersos | Corrección de Yojanán al marco estrecho de Caifás     |
+| #juan_11_51 | נבא בפיו כי ישוע ימות בעד העם                                  | Y esto no lo dijo de sí mismo, sino que, siendo el gran sacerdote en aquel año, por eso profetizó que Yeshúa iba pronto a morir por el pueblo. | Por cargo de gran sacerdote, no por santidad personal |
+| #juan_11_52 | ולא לבד בעד העם כי אם גם לקבץ את בני האלהים הנפצים והיו לאחדים | Y no por el pueblo solamente, sino para reunir en uno a los hijos de Elohim que están dispersados. | Corrección de Yojanán al marco estrecho de Caifás     |
 
 ### Hijos de Elohim = herederos del trono de la gracia
 
-La clase lee #juan_11_52 con la gramática del texto griego (**huiōn**, genitivo): no «hijos de Elohim» en sentido devocional moderno, sino **herederos de los hijos del trono de la gracia y la misericordia** — los dispersos congregados **en uno**.
+La clase explica #juan_11_52 como reunión de herederos del trono de la gracia. El [texto griego SBLGNT](https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/John.txt) dice **τέκνα τοῦ θεοῦ**, hijos de Elohim: no contiene el supuesto genitivo *huion*. Por tanto, «herederos del trono de la gracia» es la conexión doctrinal de Eric con Ivrim, no una traducción exigida por esa gramática. El mismo cotejo confirma **ἐρωτάω** en Yojanán 17 y **συνάγω** como verbo de reunir en 11:47; no debe confundirse con el sustantivo **συναγωγή**.
 
 Eso conecta con:
 
@@ -270,7 +270,7 @@ La observancia no se presenta como condición para ser reunido, sino como forma 
 
 | Referencia        | Lectura en la clase                                                                                                              |
 | ----------------- | -------------------------------------------------------------------------------------------------------------------------------- |
-| #juan_11_53    | «Matarle» — mejor: no **preservarle** la vida (mismo verbo que en #2_corintios_3_6: la letra no da vida eterna, solo se acerca) |
+| #juan_11_53    | El griego dice matar. «No preservar la vida» es el desarrollo interpretativo de Eric; no sustituye el significado de ἀποκτείνω. |
 | #juan_11_54    | Yeshúa se retira a Efráim, cerca del desierto; ya no anda abiertamente entre los yehudim                                         |
 | #juan_11_55    | **Pésaj de los yehudim** — no la pascua samaritana ni calendarios esenios; suben para **purificarse** / rehabilitarse            |
 | #juan_11_56-57 | Búsqueda en el Hejal; orden de delatarlo para capturarlo                                                                         |
@@ -285,7 +285,7 @@ La observancia no se presenta como condición para ser reunido, sino como forma 
 | **(הִתְאַנֶּה)**           | hit'aneh        | someterse a gracia                  | Enlazado con εὐχαριστέω en #juan_11_41              |
 | **(אֱמוּנָה)**             | emunah          | entrega/confianza de Elohim         | #hebreos_11_1; don, no obra humana                       |
 | **(בְּנֵי אֱלֹהִים)**      | benei Elohim    | hijos/herederos de Elohim           | En #juan_11_52: dispersos reunidos en uno           |
-| **(συναγωγή)**             | synagōgē        | reunión, asamblea                   | #juan_11_47: sanedrín, no «sinagoga» como edificio  |
+| **(συνάγω)** | synago | reunir | #juan_11_47 usa un verbo: convocaron un concilio. No es el sustantivo synagoge. |
 | **(חֻקֵּי עוֹלָם)**        | jukkei olam     | estatutos de tiempo oculto          | Sacrificios y culto «hasta reformar las cosas»         |
 
 ## Referencias judías y fuentes externas
@@ -293,9 +293,9 @@ La observancia no se presenta como condición para ser reunido, sino como forma 
 | Fuente                                       | Uso en la clase                                                                                     | Estado                                   |
 | -------------------------------------------- | --------------------------------------------------------------------------------------------------- | ---------------------------------------- |
 | b. Sanhedrin (mundo venidero de todo Israel) | Los fariseos presuponen salvación por descendencia de Abraham                                       | Pendiente de verificar referencia exacta |
-| Talmud (vestidor / comedor)                  | Esta vida prepara para el mundo venidero; limpieza antes de entrar                                  | Ilustración rabínica citada oralmente    |
-| **lifnim mi-shurat ha-din**                  | Más allá de la línea estricta del juicio: el bien no tiene techo si no contradice el mínimo escrito | Principio citado en la clase             |
-| Costumbre de obras por los muertos           | Escuelas, hospitales con nombre del difunto para sumar méritos                                      | Contexto histórico farisaico             |
+| Talmud (vestidor / comedor)                  | Esta vida prepara para el mundo venidero; limpieza antes de entrar                                  | Ilustración oral; referencia pendiente    |
+| **lifnim mi-shurat ha-din**                  | Más allá de la línea estricta del juicio: el bien no tiene techo si no contradice el mínimo escrito | Principio citado; referencia y datación pendientes             |
+| Costumbre de obras por los muertos           | Escuelas, hospitales con nombre del difunto para sumar méritos                                      | Afirmación de clase pendiente de fuentes históricas             |
 
 ## Conexiones principales
 
@@ -309,6 +309,8 @@ La observancia no se presenta como condición para ser reunido, sino como forma 
 - #romanos_6_22 con #romanos_10_3-5 — fruto de santificación y dos justicias.
 
 ## Pendiente de verificar
+
+- [ ] Documentar las asociaciones de los dos tronos y las generalizaciones históricas sobre fariseos, méritos y obras por los muertos; no deducirlas de las glosas de la clase.
 
 - [ ] Confirmar en Hatch-Redpath la equivalencia de εὐχαριστέω con hit'aneh en contextos de Yojanán.
 - [ ] Localizar el salmo citado detrás de #hebreos_5_7 y su lectura en la LXX.
@@ -335,7 +337,7 @@ Desde Ivrim y Romanos, la misma sesión corrige dos distorsiones pastorales: «c
 
 ## Ver también
 
-- [[juan_oracion_tribunal_celestial|¿A quién oraba Yeshúa? Tribunal celestial y cuatro verbos]]
+- [[juan_oracion_tribunal_celestial|¿A quién oraba Yehoshua? Tribunal celestial y cuatro verbos]]
 - [[juan_11_eleazar_resurreccion_vida|Yojanán 11: Eleazar, resurrección y vida]]
 - [[juan_10_puerta_pastor_abba|Yojanán 10: la puerta, el buen pastor y Abba]]
 - [[juan_introduccion|Introducción al evangelio de Yojanán]]

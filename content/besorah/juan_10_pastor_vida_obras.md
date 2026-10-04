@@ -69,7 +69,7 @@ sources:
   - "https://www.youtube.com/live/FV3WHeOQbzg?si=p6KP3k6gZ2eIM3p0"
   - "https://www.youtube.com/live/csFssLdcLsE?si=wDyEHuy-z-Ux9npN"
   - "https://www.youtube.com/live/LCt5Wt86POA?si=rMD1SDqGgVCsH5kI"
-  - "docs/scriptures/tth/json/yojanan.json"
+  - "docs/scriptures/tth/json/iojanan.json"
   - "docs/scriptures/delitzsch/json/john.json"
   - "docs/scriptures/oe/json/psalms/16.json"
   - "docs/scriptures/oe/json/psalms/82.json"
@@ -92,7 +92,7 @@ Yojanán 10 presenta a **Yehoshua** como la puerta de las ovejas, el buen pastor
 
 ## Alcance de la nota
 
-Este es el punto de entrada canónico para el capítulo. Integra la secuencia de siete clases de Eric de Jesús y conserva sus URL y `source_ids`. Las notas de bloque se retienen porque son estudios complementarios, con comparación textual, desarrollo léxico y advertencias propias; esta nota ordena su hilo común sin convertir en afirmación del texto bíblico las interpretaciones particulares de las clases.
+Este es el punto de entrada canónico para el capítulo. Integra la secuencia de seis clases principales y enlaza el estudio complementario de Abba de Eric de Jesús y conserva sus URL y `source_ids`. Las notas de bloque se retienen porque son estudios complementarios, con comparación textual, desarrollo léxico y advertencias propias; esta nota ordena su hilo común sin convertir en afirmación del texto bíblico las interpretaciones particulares de las clases.
 
 ## Hoja de comparación
 
@@ -113,7 +113,7 @@ Este es el punto de entrada canónico para el capítulo. Integra la secuencia de
 
 Las clases leen #juan_10_7-11 junto a #tehilim_118_20 y #tehilim_23_1: la puerta es el acceso dispuesto por יהוה y el pastor es quien da alimento y no abandona al rebaño. #juan_10_9 incluye salvación, entrar, salir y hallar pasto; la aplicación contra el control sectario pertenece a la enseñanza pastoral de las clases, no a una definición exhaustiva de la imagen.
 
-El contraste con el asalariado (#juan_10_12-13) ordena una advertencia práctica: la legitimidad de un liderazgo no se mide por fama o multitud, sino por su cuidado real del rebaño. La propuesta de relacionar \_nomē* («pasto») con _nomos_ («ley/Torah») es pedagógica y requiere verificación léxica antes de tratarla como juego intencional del texto.
+El contraste con el asalariado (#juan_10_12-13) ordena una advertencia práctica: la legitimidad de un liderazgo no se mide por fama o multitud, sino por su cuidado real del rebaño. La propuesta de relacionar _nomē_ («pasto») con _nomos_ («ley/Torah») es pedagógica y requiere verificación léxica antes de tratarla como juego intencional del texto.
 
 ## La vida puesta y retomada
 
@@ -129,13 +129,13 @@ Las notas hermanas enlazan esas obras con una cadena de figuras: simiente, corde
 
 ## Ovejas, obras y emunah
 
-La secuencia #juan_10_25-30 une las obras, las ovejas que oyen, la vida olam y la mano que guarda. Las clases relacionan este hilo con #romanos_10_17, #juan_3_3 y #juan_6_44, y presentan la \_emunah* como fidelidad formada por la instrucción de יהוה. Esa conexión evita reducir la respuesta a optimismo mental, pero la relación técnica entre **(אמן)** y **(πιστεύω)** debe describirse como aproximada hasta ser cotejada.
+La secuencia #juan_10_25-30 une las obras, las ovejas que oyen, la vida olam y la mano que guarda. Las clases relacionan este hilo con #romanos_10_17, #juan_3_3 y #juan_6_44, y presentan la _emunah_ como fidelidad formada por la instrucción de יהוה. Esa conexión evita reducir la respuesta a optimismo mental, pero la relación técnica entre **(אמן)** y **(πιστεύω)** debe describirse como aproximada hasta ser cotejada.
 
 La declaración «Yo y mi Padre uno somos» (#juan_10_30) recibe desarrollos teológicos distintos en las clases sobre Abba, promesa y morada. Esta nota conserva el dato textual y dirige al lector a esos estudios, sin sustituir su debate por una fórmula no examinada.
 
 ## Elohim, el Hijo y el testimonio
 
-En #juan_10_33-38, Yehoshua responde a una acusación de blasfemia citando #tehilim_82_6. #tehilim_82_1 y #tehilim_82_7 muestran que el uso de **(אלהים)** exige contexto: el salmo puede hablar de jueces y, al mismo tiempo, insistir en su mortalidad. Por eso la clase que expande el rango de \_elohim* —jueces, mensajeros, usos polémicos o el único Elohim— debe leerse como propuesta contextual y no como una glosa uniforme.
+En #juan_10_33-38, Yehoshua responde a una acusación de blasfemia citando #tehilim_82_6. #tehilim_82_1 y #tehilim_82_7 muestran que el uso de **(אלהים)** exige contexto: el salmo puede hablar de jueces y, al mismo tiempo, insistir en su mortalidad. Por eso la clase que expande el rango de _elohim_ —jueces, mensajeros, usos polémicos o el único Elohim— debe leerse como propuesta contextual y no como una glosa uniforme.
 
 El criterio que el mismo pasaje entrega es claro: si Yehoshua no hace las obras del Padre, no se le debe afirmar; si las hace, las obras deben ser consideradas (#juan_10_37-38). El cierre añade el testimonio de Yojanán y la afirmación de muchos (#juan_10_41-42). Las asociaciones con #colosenses_2_9, #hebreos_6_13, #hebreos_7_16 e #hebreos_10_5-20 se conservan en las notas especializadas como desarrollos apostólicos de la clase.
 

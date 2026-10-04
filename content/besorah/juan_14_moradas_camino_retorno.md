@@ -23,7 +23,7 @@ references:
   - "#hechos_1_11"
 sources:
   - "https://www.youtube.com/watch?v=c8YqHIe-IhM"
-  - "docs/scriptures/tth/json/yojanan.json"
+  - "docs/scriptures/tth/json/iojanan.json"
   - "docs/scriptures/delitzsch/json/john.json"
   - "docs/scriptures/oe/json/genesis/12.json"
   - "docs/scriptures/oe/json/exodus/1.json"

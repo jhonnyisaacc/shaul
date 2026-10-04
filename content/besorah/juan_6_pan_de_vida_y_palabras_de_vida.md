@@ -17,7 +17,7 @@ sources:
   - "https://www.youtube.com/watch?v=j4i_FKNQ_Ms"
   - "https://www.youtube.com/watch?v=3mikRgwy-xw"
   - "https://www.youtube.com/watch?v=LS6rFiW377M"
-  - "docs/scriptures/tth/json/yojanan.json"
+  - "docs/scriptures/tth/json/iojanan.json"
   - "docs/scriptures/delitzsch/json/john.json"
 source_ids:
   - "youtube:j4i_FKNQ_Ms"

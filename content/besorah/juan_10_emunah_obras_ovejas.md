@@ -32,7 +32,7 @@ references:
   - "#juan_6_44"
 sources:
   - "https://www.youtube.com/live/csFssLdcLsE?si=wDyEHuy-z-Ux9npN"
-  - "docs/scriptures/tth/json/yojanan.json"
+  - "docs/scriptures/tth/json/iojanan.json"
   - "docs/scriptures/delitzsch/json/john.json"
   - "docs/scriptures/tth/json/romanos.json"
   - "docs/scriptures/oe/json/psalms/82.json"

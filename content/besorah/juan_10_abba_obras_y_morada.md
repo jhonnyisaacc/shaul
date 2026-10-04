@@ -36,7 +36,7 @@ references:
   - "#tehilim_17_15"
 sources:
   - "https://www.youtube.com/watch?v=-5nbvwGrEDY"
-  - "docs/scriptures/tth/json/yojanan.json"
+  - "docs/scriptures/tth/json/iojanan.json"
   - "docs/scriptures/delitzsch/json/john.json"
   - "docs/scriptures/delitzsch/json/hebrews.json"
   - "docs/scriptures/oe/json/psalms/17.json"
@@ -50,7 +50,7 @@ translation: "[TTH, Delitzsch, OE]"
 
 La clase continúa la lectura de [[juan_10_puerta_pastor_abba|Yojanán 10]] desde el punto donde el buen pastor conoce a sus ovejas y ellas lo conocen. El argumento central es que ese "conocer" no es información religiosa, sino experiencia íntima, reconocimiento de voz y participación en las obras que Abba prometió desde la antigüedad.
 
-En esta lectura, Abba no se reduce a "el Padre" como una persona separada e inferior/superior frente al Mesías. Abba nombra la fuente, el conjunto y la plenitud de las obras prometidas por el único Elohim. Yeshúa, al entregar su vida por las ovejas, no ejecuta una misión de un tercero menor: es יהוה cumpliendo personalmente lo que juró y preparando la morada de Elohim en su pueblo.
+En esta lectura, Abba no se reduce a "el Padre" como una persona separada e inferior/superior frente al Mesías. Abba nombra la fuente, el conjunto y la plenitud de las obras prometidas por el único Elohim. Yehoshua, al entregar su vida por las ovejas, no ejecuta una misión de un tercero menor: es יהוה cumpliendo personalmente lo que juró y preparando la morada de Elohim en su pueblo.
 
 ## Alcance de la nota
 
@@ -87,7 +87,7 @@ En esta lectura, Abba no se reduce a "el Padre" como una persona separada e infe
 
 | Término       | Transliteración | Sentido en la nota                 | Raíz o base | Observación                                                                               |
 | ------------- | --------------- | ---------------------------------- | ----------- | ----------------------------------------------------------------------------------------- |
-| **(אבא)**     | abba            | fuente, plenitud de promesas       | אב          | No reducir a "Padre" separado del Mesías; nombra origen de las obras (#juan_10_25-38). |
+| **(אבא)**     | abba            | padre; la clase desarrolla fuente y plenitud de promesas       | אב          | No reducir a "Padre" separado del Mesías; nombra origen de las obras (#juan_10_25-38). |
 | **(ידע)**     | yada'           | conocer, reconocer por experiencia | ידע         | #juan_10_14-15: conocer al pastor se prueba en la entrega de la vida.                  |
 | **(מעשה)**    | ma'aseh         | obra, acción cumplida              | עשה         | Las obras prometidas testifican quién es Yeshúa; no son señales arbitrarias.              |
 | **(שכן)**     | shakhan         | morar, habitar                     | שכן         | #juan_14_23: שכנו אתו — morada de Elohim en el pueblo por el Rúaj.                     |
@@ -116,7 +116,7 @@ Por eso "Abba me conoce y yo conozco a Abba" no queda en una fórmula metafísic
 
 ## Abba y las obras
 
-El hilo de #juan_10_25, #juan_10_32, #juan_10_37 y #juan_10_38 es que Yeshúa remite a las obras. Si no hace las obras de Abba, no hay que creerle; si las hace, las obras mismas obligan a reconocer que Abba está en él y él en Abba.
+El hilo de #juan_10_25, #juan_10_32, #juan_10_37 y #juan_10_38 es que Yehoshua remite a las obras. Si no hace las obras de Abba, no hay que creerle; si las hace, las obras mismas obligan a reconocer que Abba está en él y él en Abba.
 
 La clase entiende "en nombre de Abba" como actuar dentro del marco de todo lo que Abba había prometido. Sanar, dar vista, levantar, alimentar, gobernar el mar y entregar la vida no son señales aisladas; son obras que יהוה había anunciado por los profetas. La obra mayor dentro de ese recorrido es la entrega en el madero, porque sostiene las promesas anteriores y abre las venideras.
 
@@ -124,11 +124,11 @@ La clase entiende "en nombre de Abba" como actuar dentro del marco de todo lo qu
 
 #hebreos_6_13 ocupa un lugar decisivo: Elohim juró por sí mismo porque no había mayor por quien jurar. La clase usa este punto contra la idea de un Mesías meramente inferior, delegado como ángel o ayudante. Si יהוה juró por sí mismo, no tendría sentido que descargara el cumplimiento último de la promesa en alguien menor.
 
-La conclusión de la clase es fuerte: el que vino en Yeshúa no es un tercero entre Elohim y la creación, sino el mismo Elohim despojado de gloria para ejecutar una obra prometida desde el principio. Esa obra no niega la humillación real del Mesías; la explica como la forma en que יהוה cumple lo que juró.
+La conclusión de la clase es fuerte: el que vino en Yehoshua no es un tercero entre Elohim y la creación, sino el mismo Elohim despojado de gloria para ejecutar una obra prometida desde el principio. Esa obra no niega la humillación real del Mesías; la explica como la forma en que יהוה cumple lo que juró.
 
 ## "Abba es mayor"
 
-La clase lee "mi Padre es más grande que Yo" (#juan_14_28) junto con "mi Padre que me las dio, sobre todos grande es" (#juan_10_29). La grandeza de Abba no se presenta como si Yeshúa fuera una criatura menor, sino como la plenitud del amor entrañable todavía no manifestado.
+La clase lee "mi Padre es más grande que Yo" (#juan_14_28) junto con "mi Padre que me las dio, sobre todos grande es" (#juan_10_29). La grandeza de Abba no se presenta como si Yehoshua fuera una criatura menor, sino como la plenitud del amor entrañable todavía no manifestado.
 
 El expositor usa la lógica de Dayenu: si יהוה hubiera hecho una sola obra, habría bastado, pero siguió añadiendo manifestaciones de su amor. Así también, la muerte del Mesías, el perdón, el derramamiento del Rúaj, la vida eterna, la morada interior y la presencia final de Elohim son obras encadenadas. En ese sentido, Abba es mayor porque el conjunto de lo prometido es mayor que una manifestación puntual ya vista.
 
@@ -136,7 +136,7 @@ El expositor usa la lógica de Dayenu: si יהוה hubiera hecho una sola obra, 
 
 El video vuelve a la imagen de la piedra del ángulo. Un lado del arco representa las obras de la antigüedad; el otro, las obras del mundo venidero. La piedra central es la obra del Mesías: su muerte y resurrección sostienen ambos lados.
 
-Sin esa piedra, las promesas anteriores quedarían incompletas. ¿De qué serviría que Abraham e Yitzjak recibieran promesas si no hay resurrección? ¿Con qué mérito habría vida eterna si la muerte no fue vencida? Por eso #2_timoteo_1_9-10 se vuelve importante: la vida y la inmortalidad salen a luz por la aparición de Yeshúa el Mesías.
+Sin esa piedra, las promesas anteriores quedarían incompletas. ¿De qué serviría que Abraham e Yitzjak recibieran promesas si no hay resurrección? ¿Con qué mérito habría vida eterna si la muerte no fue vencida? Por eso #2_timoteo_1_9-10 se vuelve importante: la vida y la inmortalidad salen a luz por la aparición de Yehoshua el Mesías.
 
 ## Mapa de la enseñanza de Eric
 
@@ -164,7 +164,7 @@ La promesa va en aumento: no solo perdón, no solo vida eterna, no solo Rúaj, s
 ## Conexiones principales
 
 - #juan_10_14-15: conocer al pastor se prueba en la entrega de la vida.
-- #juan_10_25 y #juan_10_32: las obras hechas en nombre de Abba testifican quién es Yeshúa.
+- #juan_10_25 y #juan_10_32: las obras hechas en nombre de Abba testifican quién es Yehoshua.
 - #juan_10_37-38: si las obras están presentes, hay que discernir que Abba está en el Mesías.
 - #hebreos_6_13: יהוה juró por sí mismo; por eso cumple personalmente y no por medio de un inferior.
 - #juan_14_20-23: la morada preparada es la presencia de Elohim en los suyos.
@@ -182,7 +182,7 @@ La promesa va en aumento: no solo perdón, no solo vida eterna, no solo Rúaj, s
 
 ## Conclusión
 
-La clase presenta Abba como la fuente y plenitud de las obras de יהוה, no como una figura separada que delega la salvación en un inferior. Yeshúa conoce a Abba porque ejecuta la obra de Abba: pone su vida por las ovejas, vence la muerte, derrama el Rúaj y prepara la morada de Elohim en su pueblo. La promesa no termina en ser perdonados desde lejos, sino en que יהוה habite con los suyos y ellos vean su rostro.
+La clase presenta Abba como la fuente y plenitud de las obras de יהוה, no como una figura separada que delega la salvación en un inferior. Yehoshua conoce a Abba porque ejecuta la obra de Abba: pone su vida por las ovejas, vence la muerte, derrama el Rúaj y prepara la morada de Elohim en su pueblo. La promesa no termina en ser perdonados desde lejos, sino en que יהוה habite con los suyos y ellos vean su rostro.
 
 ## Créditos
 

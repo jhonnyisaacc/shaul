@@ -32,7 +32,6 @@ references:
   - "#tehilim_103_13"
 sources:
   - "https://www.youtube.com/live/LCt5Wt86POA?si=rMD1SDqGgVCsH5kI"
-  - "/Users/jhonny/.codex/attachments/d026d3ee-b074-498d-a30f-cba93475285e/pasted-text.txt"
 source_ids:
   - "youtube:LCt5Wt86POA"
 translation: "[TTH, Delitzsch]"

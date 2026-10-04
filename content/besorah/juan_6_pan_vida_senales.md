@@ -61,7 +61,7 @@ references:
   - "#bamidbar_11_8"
 sources:
   - "https://www.youtube.com/watch?v=j4i_FKNQ_Ms"
-  - "docs/scriptures/tth/json/yojanan.json"
+  - "docs/scriptures/tth/json/iojanan.json"
   - "docs/scriptures/delitzsch/json/john.json"
   - "docs/scriptures/oe/json/exodus/16.json"
   - "docs/scriptures/oe/json/numbers/11.json"

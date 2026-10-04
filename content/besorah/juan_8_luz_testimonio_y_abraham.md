@@ -22,7 +22,7 @@ sources:
   - "https://www.youtube.com/watch?v=O5DvvGPLxoI"
   - "https://www.youtube.com/watch?v=VceL8X2SBBc"
   - "https://www.youtube.com/watch?v=EilK_3N8Q7w"
-  - "docs/scriptures/tth/json/yojanan.json"
+  - "docs/scriptures/tth/json/iojanan.json"
   - "docs/scriptures/delitzsch/json/john.json"
 source_ids:
   - "youtube:qzoXQFhF4tA"

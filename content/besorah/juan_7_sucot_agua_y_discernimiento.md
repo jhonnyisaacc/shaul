@@ -21,7 +21,7 @@ references:
 sources:
   - "https://www.youtube.com/watch?v=PKCkYj1jp2s"
   - "https://www.youtube.com/watch?v=PtD_Z0BuH34"
-  - "docs/scriptures/tth/json/yojanan.json"
+  - "docs/scriptures/tth/json/iojanan.json"
   - "docs/scriptures/delitzsch/json/john.json"
 source_ids:
   - "youtube:PKCkYj1jp2s"

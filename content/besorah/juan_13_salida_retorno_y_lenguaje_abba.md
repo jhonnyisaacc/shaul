@@ -20,7 +20,7 @@ references:
   - "#hebreos_2_5"
 sources:
   - "https://www.youtube.com/watch?v=9Xqwsg0WF14"
-  - "docs/scriptures/tth/json/yojanan.json"
+  - "docs/scriptures/tth/json/iojanan.json"
   - "docs/scriptures/delitzsch/json/john.json"
   - "docs/scriptures/tth/json/mishlei.json"
   - "docs/scriptures/oe/json/proverbs/3.json"
@@ -47,6 +47,9 @@ La nota distingue el dato explícito de Yojanán de esas elaboraciones. No verif
 | #mishlei_3_19   | OE: «יהוה בחכמה יסד ארץ כונן שמים בתבונה»<br>TTH: «יהוה en sabiduría fundó la tierra, estableció los cielos en entendimiento.»                                                                                                                                                                                                                                                                                                                                                    | La clase lo invoca para su lenguaje de sabiduría; el proverbio no menciona por sí mismo a Yehoshua.                    |
 | #bereshit_1_3   | OE: «ויאמר אלהים יהי אור ויהי אור»<br>TTH: «Y dijo Elohim: Haya Luz, y hubo Luz.»                                                                                                                                                                                                                                                                                                                                                                                                 | La clase propone una lectura tipológica de la luz; el vínculo con el Mesías es interpretativo.                         |
 | #juan_1_51   | Delitzsch: «ויאמר אליו אמן אמן אני אמר לכם כי תראו אתהשמים פתוחים ומלאכי אלהים עלים וירדים על בןהאדם»<br>TTH: «Desde ahora verán los cielos abiertos, y los ángeles de Elohim subiendo y bajando sobre el Ben Ha’Adam.»                                                                                                                                                                                                                                                           | La clase usa el texto al explicar **(מלאך)**; el versículo conserva la imagen sin definirla como una categoría única.  |
+| #malaji_3_1 | OE: «הנני שלח מלאכי ופנה דרך לפני ופתאם יבוא אל היכלו האדון אשר אתם מבקשים ומלאך הברית אשר אתם חפצים הנה בא אמר יהוה צבאות» | Conexión de la clase: leer el pasaje en su contexto antes de completar la tesis de Yojanán 13. |
+| #colosenses_2_9 | Delitzsch: «כי בו בגופו שכן כלמלא האלהות ובו אתם נמלאים» | Conexión de la clase: leer el pasaje en su contexto antes de completar la tesis de Yojanán 13. |
+| #hebreos_2_5 | Delitzsch: «כי לא תחת ידהמלאכים שת אתהעולם הבא אשר אנחנו מדברים בו» | Conexión de la clase: leer el pasaje en su contexto antes de completar la tesis de Yojanán 13. |
 
 ## El dato de Yojanán antes del signo
 
@@ -70,8 +73,6 @@ La clase también vincula ese marco con #colosenses_2_9 e #hebreos_2_5. Tales as
 
 | Forma        | Uso en la nota                          | Límite de la afirmación                                                                                                                                                                            |
 | ------------ | --------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Forma fuente | Transliteración y sentido normal        | Fuerza contextual y relación con la clase                                                                                                                                                          |
-| ------------ | --------------------------------        | ------------------------------------------                                                                                                                                                         |
 | **אבא**      | _abba_; «padre», forma familiar aramea. | En la exposición funciona como imagen de fuente y sabiduría «de arriba». Esa ampliación es pedagógica y aproximada; no es una traducción exacta de #juan_13_3, que dice «Padre» en su contexto. |
 | **בר**       | _bar_; «hijo» en arameo.                | Eric lo aproxima a sabiduría revelada «abajo». La relación con Yehoshua es una propuesta pedagógica, no el sentido léxico completo de cada aparición.                                              |
 | **מלאך**     | _malaj_; «mensajero» o «enviado».       | En #juan_1_51 designa mensajeros en la escena; «agente» es una aproximación contextual. La observación de Eric es útil contra una reducción moderna, pero no establece una regla uniforme.      |
@@ -83,7 +84,7 @@ La clase también vincula ese marco con #colosenses_2_9 e #hebreos_2_5. Tales as
 - [ ] Verificar en arameo las formas y el alcance de **(אבא)**, **(בר)**, **(ברתא)** y **(רוחא דקודשא)** usados por la clase.
 - [ ] Cotejar la amplitud semántica de **(מלאך)** en Tanaj, en #juan_1_51 y en las fuentes judías mencionadas, sin imponer una equivalencia única con «ángel» o «agente».
 - [ ] Revisar la lectura de #malaji_3_1, #colosenses_2_9 e #hebreos_2_5 en sus lenguas y contextos antes de usarlos para una conclusión sobre la identidad del Mesías.
-- [ ] Confirmar que el corpus local contiene una extracción utilizable de #malaji_3_1; esta consulta no la devolvió desde los formatos locales disponibles.
+- [ ] Cotejar la identificación del mensajero de #malaji_3_1; el texto OE sí está disponible localmente y se incorpora arriba.
 
 ## Mapa de la enseñanza de Eric
 

@@ -23,7 +23,7 @@ references:
 sources:
   - "https://www.youtube.com/watch?v=piMtrd0ksmQ"
   - "https://www.youtube.com/watch?v=t4d1TJBqE9g"
-  - "docs/scriptures/tth/json/yojanan.json"
+  - "docs/scriptures/tth/json/iojanan.json"
   - "docs/scriptures/delitzsch/json/john.json"
 source_ids:
   - "youtube:piMtrd0ksmQ"
