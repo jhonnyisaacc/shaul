@@ -148,3 +148,27 @@ push/PR CI (37220673907 and 37220676750). Vercel remains at six deployments,
 none for the branch. Remaining task: final scope-wide audit and coverage ledger.
 The eight caption gaps and exact external-source research questions remain
 explicit human-review follow-ups.
+
+## Final extension audit
+
+All 34 notes are recorded in [the per-note coverage ledger](review-marcos-hebreos-coverage.md),
+including public video IDs, all eight caption gaps and completed editorial
+treatment. All original source-ID assignments are preserved; there are 63
+distinct videos, 55 archived captions, 33 directly registered transcript notes
+and one glossary routed to its canonical chapter-9 study. Research questions
+remain explicit without blocking completed editorial review.
+
+The full local validation passes: 17 regressions, frontmatter, all 33 scoped
+quality/hygiene checks, repository YouTube hygiene (684 studies), all verse
+conventions (797 authored files, 20,530 canonical tags), Scripture readiness
+and index generation (9,017 verses, three chapters). The comparison audit finds
+zero candidates in 321 supported cells; 66 unparsed rows receive complementary
+manual review. Multi-verse inline Hebrew quotes and eight critical Spanish
+inline excerpts were also checked. All internal note destinations resolve;
+four incoming links retain the Abba heading. Whitespace passes. No private
+source, licensed corpus or generated index output is staged.
+
+Batch 19 passed both editorial CI runs (37220973389 and 37220976998), and the
+Vercel baseline remains six deployments, none for the branch. The final
+coverage/prose audit is the last batch; its push/PR results are recorded in
+the draft PR description after completion. No merge or deployment is performed.
