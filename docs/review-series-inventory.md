@@ -16,7 +16,7 @@ Columns below count unique registered videos, videos represented in at least one
 | [2 Tesalonicenses completo](https://www.youtube.com/playlist?list=PLUaH57jVX98OKtKOEWanAOReUfDDoXkwW) | 7 | 7 | 3 | 0 |
 | [613 Mitzvot](https://www.youtube.com/playlist?list=PLUaH57jVX98NdZ6Z1lUdd-owtWcDNURh3) | 63 | 63 | 2 | 0 |
 | [Apocalipsis](https://www.youtube.com/playlist?list=PLUaH57jVX98MAlvwaxGJeQXSTES1xjycK) | 30 | 30 | 17 | 17 |
-| [Colosenses](https://www.youtube.com/playlist?list=PLUaH57jVX98OJBkyrLjrclWPXIBrH8bGe) | 18 | 18 | 4 | 0 |
+| [Colosenses](https://www.youtube.com/playlist?list=PLUaH57jVX98OJBkyrLjrclWPXIBrH8bGe) | 18 | 18 | 4 | 4 |
 | [Efesios completo](https://www.youtube.com/playlist?list=PLUaH57jVX98OZKn_up-LkgVmpDs6p5nEi) | 35 | 35 | 6 | 6 |
 | [Fiestas](https://www.youtube.com/playlist?list=PLUaH57jVX98PRILytS5Qfdj2OdGXx9eS-) | 53 | 52 | 18 | 0 |
 | [Gálatas](https://www.youtube.com/playlist?list=PLUaH57jVX98O6OfT613LeFilXeQmyFOY2) | 13 | 13 | 6 | 6 |
@@ -104,7 +104,7 @@ This view lists **primary filename groups** among channel-associated notes. It i
 | Romanos | 42 | 42 |
 | Gálatas | 17 | 17 |
 | Efesios | 15 | 15 |
-| Colosenses | 4 | 0 |
+| Colosenses | 4 | 4 |
 | Hebreos | 13 | 13 |
 | Revelación / Apocalipsis | 17 | 17 |
 | 1 Tesalonicenses | 5 | 0 |
@@ -117,8 +117,8 @@ This view lists **primary filename groups** among channel-associated notes. It i
 | 1 | Gálatas — both channels, all six chapters | 17/17 notes reviewed; [per-note coverage](review-galatas-coverage.md) |
 | 2 | Efesios — both channels | 15/15 reviewed; [per-note coverage](review-efesios-coverage.md) |
 | 3 | Romanos — both channels plus the older raw Romanos 12 note | 43/43 reviewed; [per-note coverage](review-romanos-coverage.md) |
-| 4 | Colosenses — Eric | Pending |
-| 5 | 1 and then 2 Tesalonicenses — both channels | Pending; each book is a separate group |
+| 4 | Colosenses — Eric | 4/4 reviewed; [per-note coverage](review-colosenses-coverage.md) |
+| 5 | 1 and then 2 Tesalonicenses — both channels | 0/5 and 0/3 reviewed; each book is a separate group. Somos registered uploads have no existing notes. |
 | 6 | Tehilim, then Shir Hashirim, then Qohélet — Eric | Pending; each series is a separate group |
 | 7 | Mishlei, then Yeshayahu — both channels where represented | Pending; each book is a separate group |
 | 8 | Parashot; Haftarot in Bereshit, Shemot, Vayikra, Bamidbar, Devarim order | Pending; each registered cycle is a separate group; skip files already reviewed |
@@ -132,7 +132,7 @@ Already complete: [Yojanan/Revelation — 81 notes](review-notes-coverage.md) an
 
 ## Source and coverage gaps
 
-- 1392 unique registered videos across the two channels; 678 distinct existing notes match at least one registered ID. Completed source-matched notes: 171; still awaiting editorial review: 507.
+- 1392 unique registered videos across the two channels; 678 distinct existing notes match at least one registered ID. Completed source-matched notes: 175; still awaiting editorial review: 503.
 - 1113 registered videos are represented in existing notes; 279 lack notes. The latter are an ingestion backlog, not completed editorial work.
 - 24 represented registered videos lack locally archived captions. Availability alone does not establish that a transcript has been reviewed. Each editorial batch must attempt retrieval for its own missing captions and record the result.
 - These inventory snapshots have five source IDs used by notes but absent from both channel catalogs. Do not silently assign them to a channel:
