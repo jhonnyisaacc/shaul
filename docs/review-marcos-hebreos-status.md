@@ -92,3 +92,19 @@ Validation: four transcript quality and hygiene checks, full verse conventions,
 local quotation comparisons, full verse-index generation and whitespace pass.
 The previous frontmatter correction passed both remote editorial CI runs.
 Remaining: Marcos 5–16. Vercel remains at six deployments, none for the branch.
+
+## Batch 17 — Marcos 5–8
+
+Completed 26/34 notes. Consolidated repeated controls and restored comparison
+excerpts, including key intermediate verses. Marked the chapter-5 class as
+title-only evidence after unsuccessful caption recovery, distinguished its
+TTH plural from the singular Greek/Delitzsch witness, and preserved the Talitha
+forms separately. Clarified the chapter-6 Hebrew occupation forms and chapter-7
+geographic opening and Greek transcription of the Aramaic command. Added the
+chapter-8 witness distinctions for the village command and Peter’s confession;
+retained Eric’s seed and Messiah arguments with their historical source limits.
+
+Validation: four transcript quality and hygiene checks, Bun frontmatter, local
+quotation comparison, full verse-index generation and whitespace pass. Batch 16
+passed push and PR CI (runs 37219860770 and 37219863581). Vercel still has six
+deployments and none for this branch. Remaining: Marcos 9–16.
