@@ -52,3 +52,5 @@ Completed the final four chapter studies. Consolidated repeated repairs while pr
 Full-group validation: 15 transcript-quality checks; repository YouTube hygiene (684 notes); Bun frontmatter; verse conventions; Scripture readiness; 17 existing regression tests; full index generation (9,017 verses and three chapter entries); whitespace. The comparison audit found 105 supported cells and zero mismatch candidates. Its 30 unparsed lexical/map/mixed rows are not automatically certified; manual passage and grammar review complements it. All note destinations resolve, all 44 original IDs remain assigned, all corpus paths exist and no private transcript, corpus modification or generated index is staged.
 
 The next group is Romanos across both channels. All 15 Efesios notes are editorially reviewed; manuscript, historical, broad lexical and Aramaic research follow-ups remain visible in the notes.
+
+Batch 25 passed push/PR editorial CI (37233314478, 37233317975); Vercel remained at six baseline deployments, with no branch, review-SHA or new deployment.

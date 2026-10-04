@@ -39,6 +39,7 @@ references:
   - "#zejariah_9_11"
   - "#zejariah_9_12"
 sources:
+  - "https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/1Cor.txt"
   - "https://github.com/morphgnt/sblgnt/blob/master/70-Eph-morphgnt.txt"
   - "https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/Eph.txt"
   - "https://www.youtube.com/watch?v=bG4SqOvNolQ"

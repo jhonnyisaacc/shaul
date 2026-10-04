@@ -28,6 +28,8 @@ references:
   - "#yeshayahu_61_1"
   - "#habakuk_2_4"
 sources:
+  - "https://github.com/morphgnt/sblgnt/blob/master/66-Ro-morphgnt.txt"
+  - "https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/Rom.txt"
   - "https://www.youtube.com/watch?v=irpXnhj4cMI"
   - "docs/scriptures/tth/json/romanos.json"
   - "docs/scriptures/delitzsch/json/romans.json"
@@ -48,16 +50,18 @@ Esta nota organiza la segunda clase de la serie de Romanos del hermano Eric de J
 
 | Referencia | Texto local (TTH) | Función en la clase |
 | --- | --- | --- |
-| #romanos_1_8-10 | **Y primeramente, confieso a Elohim en Yeshúa el Mesías acerca de ustedes, porque la emunah de ustedes es proclamada y escuchada en todo el mundo... continuamente en mis tefilot pido favor cuándo pueda yo hacer que mi camino tenga éxito, por la voluntad de Elohim, para ir a ustedes.** | La oración apostólica reconoce una emunah recibida y deja el viaje bajo la voluntad de Elohim. |
-| #romanos_1_11-12 | **Porque deseo verlos, para repartirles alguno de los dones del Rúaj para fortalecerlos, y esto es, para hacer confortación en ustedes... con la emunah de ustedes y con mi emunah.** | La misión no es espectáculo: busca fortalecimiento y consuelo mutuo. |
-| #romanos_1_13-15 | **...para tener yo entre ustedes algún fruto... A ievanim y a extranjeros, a sabios y a ingenuos, deudor soy... para anunciarles la Besorah.** | Pablo entiende su encargo como deuda ante Elohim hacia personas de toda condición. |
-| #romanos_1_16-17 | **Porque no me avergüenzo de la Besorah del Mesías, porque es la potencia de Elohim para salvación a todo el que se afirme... Porque la justificación de Elohim en Él se revela, desde la emunah hasta la emunah...** | La Besorah es poder salvador y revela la justicia; la clase enfatiza afirmar y vivir, no solo asentir. |
-| #romanos_1_18-20 | **Porque revelada es la ira de יהוה desde los cielos sobre todo objeto de condenación y sobre toda injusticia de los hombres, que retienen la verdad por su injusticia... sus cosas escondidas... por sus obras son entendibles visiblemente.** | La creación da testimonio, pero la verdad puede ser retenida y convertida en acusación. |
-| #romanos_1_21-23 | **Al haber ellos conocido a Elohim, no honraron ni bendijeron a Elohim, sino que se hicieron vacuos en sus pensamientos... y cambiaron a la gloria de Elohim... por un modelo de imagen de mutabilidad.** | Conocer no equivale a obedecer; la idolatría es presentada como intercambio de gloria por vacío. |
+| #romanos_1_8-10 | TTH: Y primeramente, confieso a Elohim en Yeshúa el Mesías acerca de ustedes, porque la emunah de ustedes es proclamada y escuchada en todo el mundo. Porque mi testigo es Elohim, el cual sirvo en mi rúaj⁹ en la Besorah de su Hijo, que sin relajarme yo recuerdo el nombre de ustedes, continuamente en mis tefilot¹⁰ pido favor cuándo pueda yo hacer que mi camino tenga éxito, por la voluntad de Elohim, para ir a ustedes. | La oración apostólica reconoce una emunah recibida y deja el viaje bajo la voluntad de Elohim. |
+| #romanos_1_11-12 | TTH: Porque deseo verlos, para repartirles alguno de los dones del Rúaj para fortalecerlos, y esto es, para hacer confortación en ustedes, o sea, en los que están entre nosotros, con la emunah de ustedes y con mi emunah. | La misión no es espectáculo: busca fortalecimiento y consuelo mutuo. |
+| #romanos_1_13-15 | TTH: Y no les ocultaré, hermanos míos, que muchas veces he puesto en mi corazón el ir a ustedes, pero hasta ahora he sido retenido, para tener yo entre ustedes algún fruto, como también entre los otros gentiles. A ievanim¹¹ y a extranjeros, a sabios y a ingenuos, deudor soy. Asimismo, todo en lo que a mí respecta¹², voluntariedades son también a ustedes, los que están en Roma, para anunciarles la Besorah. La Besorah | Pablo entiende su encargo como deuda ante Elohim hacia personas de toda condición. |
+| #romanos_1_16-17 | TTH: Porque no me avergüenzo de la Besorah del Mesías, porque es la potencia de Elohim para salvación a todo el que se afirme, tanto al iehudí primeramente, como al ievaní¹³. Porque la justificación de Elohim en Él se revela, desde la emunah hasta la emunah, como está escrito: Pero el justificado por mi emunah vivirá¹⁴. | La Besorah es poder salvador y revela la justicia; la clase enfatiza afirmar y vivir, no solo asentir. |
+| #romanos_1_18-20 | Delitzsch: כי נגלה חרון אלהים מןהשמים על כלרשעת בני אדם ועולתם אשר יעצרו אתהאמת בעולה יען אשר דעת האלהים גלויה בקרבם כי האלהים גלה להם כי מהותו הנעלמה היא כחו תודע במעשיו ותראה בהם גבורתו הנצחית ואלהותו מעת נברא העולם עדאשר אין להם פתחון פה להתנצל | La creación da testimonio, pero la verdad puede ser retenida y convertida en acusación. |
+| #romanos_1_21-23 | TTH: Por eso, al haber ellos conocido a Elohim, no honraron ni bendijeron a Elohim, sino que se hicieron vacuos en sus pensamientos, y fue oscurecido el corazón de su tontería. Y aparentando ser sabios, fueron indisciplinados. Y cambiaron a la gloria de Elohim, que es inmutable, por un modelo de imagen de mutabilidad de hombre, ave de los cielos, buey que come hierba y reptil. | Conocer no equivale a obedecer; la idolatría es presentada como intercambio de gloria por vacío. |
+| #habakuk_2_4 | OE: הנה עפלה לא ישרה נפשו בו וצדיק באמונתו יחיה | Se distingue el sufijo hebreo de la cita griega sin posesivo. |
+| #yeshayahu_61_1 | OE: רוח אדני יהוה עלי יען משח יהוה אתי לבשר ענוים שלחני לחבש לנשברי לב לקרא לשבוים דרור ולאסורים פקח קוח | La buena noticia a los humildes es conexión temática de la misión. |
 
 ## Una emunah que se proclama y se comparte
 
-Eric lee «confieso» en Romanos 1:8 como una expresión pública de reconocimiento y agradecimiento delante de Elohim, no como una cortesía vacía. La observación pastoral es útil: la oración de Pablo comienza nombrando a Elohim y reconoce que la emunah de Roma se oye. El verbo exacto y la relación entre confesión y gratitud necesitan cotejo gramatical, pero el flujo del pasaje sí muestra que Pablo mira a la comunidad con acción de gracias antes de corregir el mundo pagano del capítulo.
+Eric lee «confieso» en Romanos 1:8 como una expresión pública de reconocimiento y agradecimiento delante de Elohim, no como una cortesía vacía. La observación pastoral es útil: la oración de Pablo comienza nombrando a Elohim y reconoce que la emunah de Roma se oye. SBLGNT usa **εὐχαριστῶ**, _eucharistō_, «doy gracias», del verbo **εὐχαριστέω**; no usa **ἐξομολογέω**. «Confieso» pertenece al TTH y a la explicación de Eric, pero el flujo del pasaje sí muestra que Pablo mira a la comunidad con acción de gracias antes de corregir el mundo pagano del capítulo.
 
 Pablo sirve «en mi rúaj» en la Besorah y recuerda a los romanos continuamente en sus tefilot. El TTH anota _rúaj_ como espíritu, mente o ánimo, y _tefilot_ como oración y participación en juicio. Eric desarrolla la imagen del rúaj como motor, dirección y poder que orienta el servicio; la nota la conserva como paráfrasis pedagógica. No debe convertirse en una definición técnica de la antropología bíblica sin cotejar todos los usos de _ruaj_, _pneuma_ y _nefesh_.
 
@@ -75,6 +79,8 @@ La referencia a Yeshayahu 61 ayuda a ubicar «anunciar la Besorah» dentro del v
 
 En 1:17 el TTH lee «la justificación de Elohim en Él» y «desde la emunah hasta la emunah». Eric contrapone esta forma a «por fe y para fe», y enlaza la revelación actual con la emunah de Abraham y de los justos anteriores. La continuidad canónica está apoyada por la cita de Habacuc 2:4; no obstante, la reconstrucción de variantes hebreas en Habacuc y la afirmación de que el texto masorético contiene un error deben quedar pendientes. La frase segura para esta nota es que la justicia de Elohim se revela en relación con la emunah y que Pablo la apoya en un profeta.
 
+El cotejo de #habakuk_2_4 en OE encuentra **באמונתו**, «por su fidelidad», con sufijo de tercera persona singular. Romanos 1:17 en SBLGNT cita **ὁ δὲ δίκαιος ἐκ πίστεως ζήσεται**, sin pronombre posesivo. Eric propone entender «por mi fidelidad», referida a Elohim; esa lectura conserva su argumento sobre la iniciativa divina, pero no es la forma de ninguno de estos dos testigos. Afirmar un error masorético o elegir otro testigo necesita identificarlo y compararlo; no basta cambiar el pronombre durante la explicación.
+
 ## Ver, conocer y retener la verdad
 
 Desde 1:18, Pablo pasa de la salvación a la ira contra la injusticia que retiene la verdad. Eric distingue conocer a Elohim de honrarlo y bendecirlo: alguien puede contemplar obras, recibir conocimiento o experimentar una manifestación y aun así no obedecer. Esa distinción sí sigue la secuencia del texto: conocer, no honrar, volverse vano y oscurecer el corazón. La afirmación de que el pasaje apunta específicamente a apóstatas o a una sentencia ya fijada para cada individuo requiere más contexto y no se presenta aquí como conclusión cerrada.
@@ -87,12 +93,12 @@ El desenlace inicial es idolátrico: quienes conocen no glorifican, se hacen vac
 
 | Forma | Transliteración | Sentido normal | Fuerza contextual |
 | --- | --- | --- | --- |
-| **(ἐξομολογέω)** | _exomologeō_ | confesar, reconocer, agradecer | La clase prefiere «confieso» en 1:8; «doy gracias» es una traducción contextual posible. |
+| **(εὐχαριστῶ)** | _eucharistō_ | doy gracias, agradezco | Forma de εὐχαριστέω en 1:8; «confieso» se conserva como lectura TTH, sin atribuirle otro verbo griego. |
 | **(πνεῦμα) / (רוח)** | _pneuma / rúaj_ | espíritu, aliento, ánimo, poder según contexto | «Motor» es una analogía pedagógica de la dirección interior; no una equivalencia lexicográfica exacta. |
 | **(ὀφειλέτης)** | _opheiletēs_ | deudor, obligado | En 1:14 expresa obligación misionera; la aplicación a castigo personal queda cualificada. |
 | **(δύναμις)** | _dynamis_ | poder, potencia, capacidad eficaz | En 1:16 describe la acción salvadora de Elohim, no una plataforma de prestigio humano. |
 | **(δικαιοσύνη)** | _dikaiosynē_ | justicia, rectitud, justificación según contexto | El TTH «justificación» sigue la lectura de la clase; el campo griego permite más de un matiz. |
-| **(ἐν πίστει / אמונה)** | _en pistei / emunah_ | en fe, confianza o fidelidad | «Desde la emunah hasta la emunah» preserva el énfasis de la clase, pero la relación entre griego, hebreo y Habacuc es aproximada. |
+| **(ἐκ πίστεως εἰς πίστιν)** / **(אמונה)** | _ek pisteōs eis pistin / emunah_ | desde fe hacia fe; confianza o fidelidad | «Desde la emunah hasta la emunah» preserva el énfasis de la clase, pero la relación entre griego, hebreo y Habacuc es aproximada. |
 | **(ἀδικία)** | _adikia_ | injusticia, maldad | En 1:18 es el medio por el que se retiene la verdad, no solo una opinión equivocada. |
 
 ## Mapa de la enseñanza de Eric
@@ -119,7 +125,7 @@ Romanos 1:8-32 desplaza la mirada desde una comunidad agradecida hacia la respon
 ## Ver también
 
 - [[romanos_1_siervo_enviado_y_besorah_prometida|Romanos 1: siervo enviado y Besorah prometida]]
-- [[romanos_10_emunah_por_el_oir|Romanos 10: la emunah es por el oír]]
+- [[romanos_10_justicia_anuncio_la_palabra_cercana|Romanos 10: justicia, anuncio y la palabra cercana]]
 - [[romanos_10_dos_justicias_palabra_cercana|Romanos 10: dos justicias y la palabra cercana]]
 
 ## Créditos

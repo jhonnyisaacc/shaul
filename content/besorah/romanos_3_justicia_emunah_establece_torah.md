@@ -18,6 +18,8 @@ references:
   - "#yeshayahu_59_7-8"
   - "#vayikra_16_14-16"
 sources:
+  - "https://github.com/morphgnt/sblgnt/blob/master/66-Ro-morphgnt.txt"
+  - "https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/Rom.txt"
   - "https://www.youtube.com/watch?v=5ajwbaDj5bI"
   - "docs/scriptures/tth/json/romanos.json"
 source_ids:
@@ -37,10 +39,12 @@ Esta nota organiza la clase pública dedicada a la conclusión de Romanos 3. Sig
 
 | Referencia | Texto local de TTH | Función en la lectura |
 | --- | --- | --- |
-| #romanos_3_19-20 | «Todo lo que habla esta Torah ... a fin de que toda boca se cierre y todo el olam se someta a Elohim»; «por obras de Torah no será justificada ninguna carne». | La Torah denuncia y hace reconocible el pecado; no es salario de justicia. |
-| #romanos_3_21-26 | «Aparte de Torah, se ha revelado la justicia de Elohim, testificada por la Torah y por los profetas»; «siendo justificados gratuitamente por su favor». | La manifestación mesiánica es distinta de las obras como base, pero no está contra el testimonio bíblico. |
-| #romanos_3_27-28 | «¿Dónde está la jactancia? Es vapor»; «por la emunah es justificado el hombre, aparte de las obras de la Torah». | La jactancia queda excluida porque la justicia se recibe, no se compra. |
-| #romanos_3_29-31 | «יהוה es uno ... justifica por la emunah a la circuncisión y ... a la incircuncisión»; «establecemos a la Torah». | Un solo Elohim justifica a ambos grupos y la emunah confirma la Torah. |
+| #romanos_3_19-20 | TTH: Y sabemos que todo lo que habla esta Torah³⁹, habla a estos que están en esta Torah, a fin de que toda boca se cierre y todo el olam se someta a Elohim. Por eso, por obras de Torah no será justificada ninguna carne delante de Él, porque por esta Torah es el conocimiento del pecado. | La Torah denuncia y hace reconocible el pecado; no es salario de justicia. |
+| #romanos_3_21-26 | TTH: Y ahora, aparte de Torah, se ha revelado la justicia de Elohim, testificada por la Torah y por los profetas; que es la justicia de Elohim por la emunah de Yeshúa el Mesías, en todos y para todos los que se afirmaron en Él, porque no hay diferencia. Porque todos pecaron y están carentes de la gloria de Elohim. Siendo justificados gratuitamente por su favor, por la redención⁴⁰ que es en Yeshúa el Mesías. Al cual puso Elohim como Propiciatorio⁴¹ por la emunah en su sangre para manifestación de su justicia, habiendo cargado⁴² los pecados primeros, en el silencio de Elohim, para manifestar su justicia en nuestros tiempos, para ser Él justo y el que justifica al que es de la emunah de Yeshúa. | La manifestación mesiánica es distinta de las obras como base, pero no está contra el testimonio bíblico. |
+| #romanos_3_27-28 | TTH: ¿Y dónde está la jactancia? Es vapor. ¿Por cuál Torah? ¿Por la Torah de las obras? No, sino por la Torah de la emunah. Por eso, nosotros consideramos que por la emunah es justificado el hombre, aparte de las obras de la Torah. | La jactancia queda excluida porque la justicia se recibe, no se compra. |
+| #romanos_3_29-31 | Delitzsch: או הרק אלהי היהודים האלהים הלא גם אלהי הגוים אכן גםאלהי הגוים הוא כי אחד האלהים המצדיק אתהמולים מתוך האמונה ואתהערלים עלידי האמונה המבטלים אפוא אנחנו אתהתורה עלידי האמונה חלילה אך מקימים אנחנו אתהתורה | Un solo Elohim justifica a ambos grupos y la emunah confirma la Torah. |
+| #shemot_25_17-22 | OE: ועשית כפרת זהב טהור אמתים וחצי ארכה ואמה וחצי רחבה ועשית שנים כרבים זהב מקשה תעשה אתם משני קצות הכפרת ועשה כרוב אחד מקצה מזה וכרוב אחד מקצה מזה מן הכפרת תעשו את הכרבים על שני קצותיו והיו הכרבים פרשי כנפים למעלה סככים בכנפיהם על הכפרת ופניהם איש אל אחיו אל הכפרת יהיו פני הכרבים ונתת את הכפרת על הארן מלמעלה ואל הארן תתן את העדת אשר אתן אליך ונועדתי לך שם ודברתי אתך מעל הכפרת מבין שני הכרבים אשר על ארן העדת את כל אשר אצוה אותך אל בני ישראל | Caporet y aspersión: base textual para evaluar la imagen de la clase. |
+| #vayikra_16_14-15 | OE: ולקח מדם הפר והזה באצבעו על פני הכפרת קדמה ולפני הכפרת יזה שבע פעמים מן הדם באצבעו ושחט את שעיר החטאת אשר לעם והביא את דמו אל מבית לפרכת ועשה את דמו כאשר עשה לדם הפר והזה אתו על הכפרת ולפני הכפרת | Caporet y aspersión: base textual para evaluar la imagen de la clase. |
 
 ## La Torah cierra toda boca
 
@@ -56,6 +60,8 @@ El TTH afirma que la justicia es por la emunah de Yeshúa el Mesías, para todos
 
 El versículo 25 llama a Yehoshua “Propiciatorio”. La exposición conecta esta palabra con la _caporet_, la cubierta del arca donde se realizaba el rito de Yom HaKipurim. Esa conexión tipológica es una lectura teológica del contexto de la clase y encuentra un anclaje temático en Vaikra 16, pero el término griego puede discutirse como lugar o medio de expiación. Por eso la nota conserva la conexión sin presentarla como la única traducción posible. El punto firme de Romanos 3:25-26 es que Elohim manifiesta su justicia y justifica al que es de la emunah de Yehoshua.
 
+En 3:22, **πιστεύοντας**, _pisteuontas_, es un participio activo, «los que creen/se afirman». La aplicación de emunah como educación no lo convierte en una forma pasiva. En la sesión (aproximadamente 00:59:06), Eric visualiza la _caporet_ como un cuenco sobre el arca para explicar la expiación. Shemot 25:17-22 describe una cubierta de oro, sus medidas y querubines, sin nombrar un cuenco; Vaikra 16:14-15 menciona la aspersión sobre y delante de ella. La comparación ayuda a conservar su propuesta tipológica, pero la forma dibujada no procede de esas instrucciones.
+
 ## Emunah sin jactancia
 
 Pablo pregunta dónde queda la jactancia y responde que es vapor. La clase lo explica como la desaparición de cualquier base para decir “yo me justifiqué” por mi propia observancia. Romanos 3:28 coloca la justificación por emunah aparte de las obras de Torah, pero el “aparte” no debe convertirse en “contra”: el argumento ya ha dicho que la justicia está testificada por Torah y profetas.
@@ -63,6 +69,8 @@ Pablo pregunta dónde queda la jactancia y responde que es vapor. La clase lo ex
 La universalidad continúa en 3:29-30. יהוה es uno y justifica por la emunah tanto a la circuncisión como a la incircuncisión. La exposición observa que las traducciones pueden presentar de forma desigual la preposición en los dos grupos, aunque el texto defiende una misma vía. La conclusión segura es que el único Elohim no divide la base de la justificación en dos sistemas de mérito.
 
 Finalmente, 3:31 anticipa la objeción: ¿excluimos la Torah por la emunah? La respuesta es enfática: “¡Profanación sea a nosotros!, sino que establecemos a la Torah”. Establecer no significa convertir la Torah en causa de salvación. Significa que la emunah la coloca en su lugar correcto: la instrucción no es anulada, mientras la justificación permanece en la obra gratuita de Elohim en Yehoshua. La clase resume esta relación diciendo que la emunah viva educa y conduce a obediencia; esa aplicación armoniza con el cierre, pero debe desarrollarse también con el resto de Romanos y no atribuirse toda a estos tres versículos.
+
+En 3:27, **ἐξεκλείσθη**, _exekleisthē_, significa «fue excluida». «Es vapor» pertenece al TTH y a la imagen de la clase; no es el sentido literal del verbo. En 3:30, SBLGNT distingue **ἐκ πίστεως**, «desde/por fe», para circuncisión, y **διὰ τῆς πίστεως**, «mediante la fe», para incircuncisión. La conclusión de un solo Elohim que justifica a ambos es explícita; afirmar que las dos preposiciones son idénticas no describe el texto.
 
 ## Hoja léxica
 
@@ -88,7 +96,7 @@ Finalmente, 3:31 anticipa la objeción: ¿excluimos la Torah por la emunah? La r
 - [ ] Cotejar el texto griego y las variantes relevantes de Romanos 3:19-31, especialmente la expresión “obras de Torah”.
 - [ ] Revisar _pistis_ en las construcciones de 3:22, 25, 27 y 30 y distinguir fidelidad del Mesías y respuesta de la comunidad.
 - [ ] Verificar el campo semántico de _hilastērion_ y su relación exacta con la _caporet_ de Vaikra 16.
-- [ ] Cotejar la afirmación de la clase sobre traducciones desiguales de la preposición en 3:30.
+- [x] Cotejar 3:30: ἐκ πίστεως y διὰ τῆς πίστεως son construcciones distintas; la unidad de Elohim y el alcance a ambos grupos son explícitos.
 - [ ] Separar la aplicación doctrinal sobre la emunah como proceso de reeducación de las afirmaciones directamente contenidas en Romanos 3.
 
 ## Conclusión
